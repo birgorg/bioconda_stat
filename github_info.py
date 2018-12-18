@@ -1,4 +1,5 @@
 import requests
+import argparse
 from github import Github
 
 def getFiletreeForRepo(user, repo, token):
@@ -15,7 +16,19 @@ def getFiletreeForRepo(user, repo, token):
             print(path)
 
 def main():
-    getFiletreeForRepo('tk-it', 'web', '84765bc3ad070e51c023308783ef0d07aab14c67')
+    parser = argparse.ArgumentParser(description="Script for counting files in github repo")
+    parser.add_argument('file_path', help="path to file containing repo urls, one url for each line")
+    args = parser.parse_args()
+
+    repo_to_visit = []
+    with open(args.file_path, 'r') as f:
+        for line in f:
+            url = line.split('/')
+            user, repo = url[3:5]
+            repo_to_visit.append((user, repo))
+
+    for r in repo_to_visit:
+        getFiletreeForRepo(r[0], r[1], '84765bc3ad070e51c023308783ef0d07aab14c67')
 
 if __name__=='__main__':
     main()

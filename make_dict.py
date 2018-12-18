@@ -32,7 +32,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     numGithub = 0 
-    numDir = 0
+    numDir = 0 
+    gitUrls = []
     dir_path = args.bioconda_path
     for subdir, dirs, files in os.walk(dir_path):
         for i in dirs:
@@ -51,8 +52,12 @@ if __name__ == "__main__":
                         url = meta_yaml_dict['source']['url']
                     print(url)
                     if 'github' in url:
+                        gitUrls.append(url)
                         numGithub += 1
 
             print('total: '+str(numGithub)+' of '+str(numDir))
     print('total: '+str(numGithub)+' of '+str(numDir))
     print('Number of Jinja exceptions: '+str(numExc))
+    with open('githubUrls.txt', 'w') as f:
+        for u in gitUrls:
+            f.write(u+'\n')
