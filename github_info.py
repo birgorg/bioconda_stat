@@ -1,32 +1,21 @@
 import requests
+from github import Github
 
-def print_filetree(user, repo, sha, path='/'):
-    r = requests.get('https://api.github.com/repos/{}/{}/git/trees/{}'.format(user,repo,sha))
-    for f in r.json().get('tree'):
-        if f.get('type')=='tree':
-            print_filetree(user, repo, f.get('sha'), path+f.get('path')+'/')
+def getFiletreeForRepo(user, repo, token):
+    filetree = {}
+    g = Github(token)
+    repo = g.get_repo('{}/{}'.format(user, repo))
+    contents = repo.get_contents('')
+    while len(contents) > 1:
+        file_content = contents.pop(0)
+        if file_content.type == 'dir':
+            contents.extend(repo.get_contents(file_content.path))
         else:
-            print(path+f.get('path'))
-
-def getFiletreeOfLastCommit(url):
-    user = url.split('/')[-2]
-    repo = url.split('/')[-1]
-    print(user)
-    print(repo)
-    r = requests.get('https://api.github.com/repos/{}/{}/commits'.format(user,repo))
-    print(r.status_code)
-    print(len(r.json()))
-
-    last_commit  = r.json()[0].get('sha')
-
-    r = requests.get('https://api.github.com/repos/{}/{}/commits/{}'.format(user,repo,last_commit))
-    root = r.json().get('commit').get('tree').get('sha')
-
-    print_filetree(user, repo, root)
-    
+            path = file_content.path
+            print(path)
 
 def main():
-    getFiletreeOfLastCommit('https://github.com/tk-it/web')
+    getFiletreeForRepo('tk-it', 'web', '84765bc3ad070e51c023308783ef0d07aab14c67')
 
 if __name__=='__main__':
     main()
