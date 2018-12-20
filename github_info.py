@@ -24,13 +24,13 @@ def getFiletreeForRepo(user, repo, g):
                 print(path)
     except github.GithubException as exc:
         print(exc)
-        if isinstance(exc, github.GithubException.RateLimitExceededException):
+        if isinstance(exc, github.RateLimitExceededException):
             wait_for_rate_limit(user, repo, g)
 
 def main():
     parser = argparse.ArgumentParser(description="Script for counting files in github repo")
     parser.add_argument('file_path', help="path to file containing repo urls, one url for each line")
-    parser.add_argument('--token', help='Github token for getting a better rate limit', default=None)
+    parser.add_argument('-t', '--token', help='Github token for getting a better rate limit', default=None)
     args = parser.parse_args()
     
     repo_to_visit = []
