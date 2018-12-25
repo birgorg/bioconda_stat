@@ -2,7 +2,7 @@ from pathlib import Path
 import yaml
 import argparse
 import os
-
+import toyamel
 
 numExc = 0
 
@@ -19,6 +19,7 @@ def walklevel(some_dir, level=0):
 def make_dict(path):
     try:
         document = open(path, 'r').read()
+        document = toyamel.dynamic_jinja_to_static_yaml(path)
         return yaml.load(document)
     except yaml.YAMLError as exc:
         print(exc)
@@ -46,6 +47,7 @@ if __name__ == "__main__":
             if meta_yaml_dict != None:
                 if 'source' in meta_yaml_dict:
                     numDir += 1
+                    url = ""
                     if isinstance(meta_yaml_dict['source'], list) and 'url' in meta_yaml_dict['source'][0]:
                         url = meta_yaml_dict['source'][0]['url']
                     elif 'url' in meta_yaml_dict['source']:
