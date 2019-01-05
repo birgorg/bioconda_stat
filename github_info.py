@@ -9,7 +9,7 @@ def wait_for_rate_limit(user, repo, g):
         time.sleep(60)
     getFiletreeForRepo(user, repo, g)
 
-def getFiletreeForRepo(user, repo, g):
+def getFiletreeForRepo(user, repo, g, f):
     filetree = {}
     try:
         repo = g.get_repo('{}/{}'.format(user, repo))
@@ -21,33 +21,39 @@ def getFiletreeForRepo(user, repo, g):
                 contents.extend(repo.get_contents(file_content.path))
             else:
                 path = file_content.path
-                print(path)
+                f.write(path+'\n')
     except github.GithubException as exc:
         print(exc)
-        if isinstance(exc, github.RateLimitExceededException):
-            wait_for_rate_limit(user, repo, g)
+        raise
 
 def main():
     parser = argparse.ArgumentParser(description="Script for counting files in github repo")
     parser.add_argument('file_path', help="path to file containing repo urls, one url for each line")
     parser.add_argument('-t', '--token', help='Github token for getting a better rate limit', default=None)
     args = parser.parse_args()
-    
-    repo_to_visit = []
-    with open(args.file_path, 'r') as f:
-        for line in f:
-            url = line.split('/')
-            user, repo = url[3:5]
-            repo_to_visit.append((user, repo))
 
+    f = open(args.file_path, 'r')
+    lines = f.readlines()
+    f.close()
+    
     if args.token != None:
         g = Github(args.token)
     else:
         g = Github()
 
-    for r in repo_to_visit:
-        print('#repo:%s/%s' % (r[0],r[1]))
-        getFiletreeForRepo(r[0], r[1], g)
+    visited_lines = 0
+    with open('github_info.results', 'w') as f:
+        try:
+            for line in lines:
+                url = line.split('/')
+                user, repo = url[3:5]
+                f.write('#repo:%s/%s \n' % (user, repo))
+                getFiletreeForRepo(user, repo, g, f)
+                visited_lines += 1
+        except github.GithubException as exc:
+            f = open(args.file_path, 'w')
+            for line in lines[visited_lines:]:
+                f.write(line)
 
 if __name__=='__main__':
     main()
