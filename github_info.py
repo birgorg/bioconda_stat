@@ -4,7 +4,7 @@ from github import Github
 import github
 import time
 
-def waite_for_rate_limit(user, repo, g):
+def wait_for_rate_limit(user, repo, g):
     while g.rate_limiting[0] < 100:
         time.sleep(60)
     getFiletreeForRepo(user, repo, g)
@@ -46,6 +46,7 @@ def main():
         g = Github()
 
     for r in repo_to_visit:
+        print('#repo:%s/%s' % (r[0],r[1]))
         getFiletreeForRepo(r[0], r[1], g)
 
 if __name__=='__main__':
