@@ -1,0 +1,13 @@
+#repo:jordanlab/stringMLST 
+.gitignore
+.gitmodules
+LICENSE
+LICENSE.txt
+PATENTS
+README.md
+README.rst
+datasets
+download_example_reads.sh
+setup.cfg
+setup.py
+stringMLST.py

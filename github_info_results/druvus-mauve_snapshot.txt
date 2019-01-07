@@ -1,0 +1,7 @@
+#repo:druvus/mauve_snapshot 
+mauve-code-4736-libGenome-trunk.zip
+mauve-code-4736-libMems-trunk.zip
+mauve-code-4736-mauveAligner-trunk.zip
+mauve-code-4736-muscle-trunk.zip
+mauve-code-4736-sgEvolver-trunk.zip
+mauvealigner-code-4736-snapshot.tar.gz

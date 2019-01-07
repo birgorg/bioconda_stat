@@ -1,0 +1,12 @@
+#repo:rizkg/KmerInShort 
+.gitignore
+.gitmodules
+.travis.yml
+CMakeLists.txt
+LICENSE
+README.md
+gatb-core
+data/example.fasta
+data/refresu
+src/kmerinshort.cpp
+src/kmerinshort.hpp

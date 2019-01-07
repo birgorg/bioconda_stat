@@ -1,0 +1,9 @@
+#repo:shahab-sarmashghi/Skmer 
+LICENSE
+README.md
+setup.py
+data/qry.fastq
+skmer/__init__.py
+skmer/__main__.py
+data/ref_dir/ref_1.fastq
+data/ref_dir/ref_2.fastq

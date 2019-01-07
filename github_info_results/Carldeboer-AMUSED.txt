@@ -1,0 +1,10 @@
+#repo:Carldeboer/AMUSED 
+AMUSED
+AMUSED-KS
+LICENSE
+NMERTREE.rb
+README.md
+alignKMers
+runTests.bat
+shuffleCodons.rb
+shuffleCodonsAddMotifs.rb

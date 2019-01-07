@@ -1,0 +1,13 @@
+#repo:dkoboldt/varscan 
+README.md
+VarScan.v2.4.0.description.txt
+VarScan.v2.4.0.jar
+VarScan.v2.4.0.source.jar
+VarScan.v2.4.1.description.txt
+VarScan.v2.4.1.jar
+VarScan.v2.4.1.source.jar
+VarScan.v2.4.2.description.txt
+VarScan.v2.4.2.jar
+VarScan.v2.4.2.source.jar
+VarScan.v2.4.3.description.txt
+VarScan.v2.4.3.jar

@@ -1,0 +1,4 @@
+#repo:BioTools-Tek/packages 
+allegro2/allegro2-2017-10-11.tar.gz
+simwalk2/SimWalk2-2.91-lin.tar.gz
+simwalk2/SimWalk2-2.91-osx.tar.gz

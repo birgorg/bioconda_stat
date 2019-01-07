@@ -1,0 +1,15 @@
+#repo:mojaveazure/loomR 
+.Rbuildignore
+.gitignore
+DESCRIPTION
+NAMESPACE
+README.md
+loomR.Rproj
+R/internal.R
+R/loom.R
+R/package.R
+man/combine.Rd
+man/connect.Rd
+man/create.Rd
+man/loom.Rd
+man/loomR-package.Rd

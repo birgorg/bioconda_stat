@@ -1,0 +1,14 @@
+#repo:ebi-gene-expression-group/bioconductor-scater-scripts 
+.travis.yml
+README.md
+VERSION
+bioconductor-scater-scripts-post-install-tests.bats
+bioconductor-scater-scripts-post-install-tests.sh
+scater-calculate-cpm.R
+scater-calculate-qc-metrics.R
+scater-extract-qc-metric.R
+scater-filter.R
+scater-is-outlier.R
+scater-normalize.R
+scater-plot-reduced-dim.R
+scater-run-pca.R

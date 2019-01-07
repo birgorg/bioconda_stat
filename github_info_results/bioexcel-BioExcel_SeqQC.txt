@@ -1,0 +1,12 @@
+#repo:bioexcel/BioExcel_SeqQC 
+.gitignore
+BioExcel_SeqQC.png
+LICENSE
+README.md
+setup.py
+bin/bxcl_seqqc
+bioexcel_seqqc/__init__.py
+bioexcel_seqqc/checkfastqc.py
+bioexcel_seqqc/runfastqc.py
+bioexcel_seqqc/runtrim.py
+bioexcel_seqqc/seqqcutils.py

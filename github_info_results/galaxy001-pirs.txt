@@ -1,0 +1,12 @@
+#repo:galaxy001/pirs 
+.gitignore
+.travis.yml
+AUTHORS
+COPYING
+INSTALL
+MIRROR
+Makefile
+NEWS
+Profiles
+README
+getprofile.sh.example

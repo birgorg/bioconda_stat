@@ -1,0 +1,7 @@
+#repo:egonozer/Spine 
+.gitignore
+LICENSE.txt
+README.md
+README.txt
+spine.pl
+scripts/nucmer_backbone.pl

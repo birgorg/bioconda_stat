@@ -1,0 +1,5 @@
+#repo:spectra-cluster/spectra-cluster-cli 
+.gitignore
+.travis.yml
+README.md
+pom.xml

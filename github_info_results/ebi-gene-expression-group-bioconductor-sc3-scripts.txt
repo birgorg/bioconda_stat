@@ -1,0 +1,12 @@
+#repo:ebi-gene-expression-group/bioconductor-sc3-scripts 
+.travis.yml
+README.md
+VERSION
+bioconductor-sc3-scripts-post-install-tests.bats
+bioconductor-sc3-scripts-post-install-tests.sh
+sc3-sc3-calc-biology.R
+sc3-sc3-calc-consens.R
+sc3-sc3-calc-dists.R
+sc3-sc3-calc-transfs.R
+sc3-sc3-estimate-k.R
+sc3-sc3-kmeans.R

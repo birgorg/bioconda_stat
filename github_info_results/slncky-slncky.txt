@@ -1,0 +1,7 @@
+#repo:slncky/slncky 
+README.md
+alignTranscripts1.0
+annotations.config
+license.txt
+makeWebsite
+slncky.v1.0

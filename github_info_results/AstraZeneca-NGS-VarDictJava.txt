@@ -1,0 +1,246 @@
+#repo:AstraZeneca-NGS/VarDictJava 
+.gitignore
+.gitmodules
+.java-version
+.travis.yml
+Readme.md
+VarDict
+build.gradle
+changelog.txt
+gradlew
+gradlew.bat
+settings.gradle
+dist/VarDict-1.2.2.zip
+dist/VarDict-1.2.4.zip
+dist/VarDict-1.3.zip
+dist/VarDict-1.4.1.zip
+dist/VarDict-1.4.2.zip
+dist/VarDict-1.4.3.zip
+dist/VarDict-1.4.4.zip
+dist/VarDict-1.4.5.zip
+dist/VarDict-1.4.6.zip
+dist/VarDict-1.4.7.zip
+dist/VarDict-1.4.8.zip
+dist/VarDict-1.4.zip
+dist/VarDict-1.5.5.tar
+dist/VarDict-1.5.5.zip
+git/commit
+git/release
+git/update
+git/update_force
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+testdata/fastas/GRCh37.fa.csv
+testdata/fastas/hg19.fa.csv
+testdata/fastas/hg1k.fa.csv
+testdata/fastas/hg38.fa.csv
+testdata/fastas/hs37d5.fa.csv
+testdata/fastas/hs38DH.fa.csv
+testdata/integrationtestcases/Amplicon;hg19.fa;Colo829-18_S3-sort.bam;chr1;933866-934466;933866-934466;-a 100.95 -D;.txt
+testdata/integrationtestcases/Simple;GRCh37.fa;HCC2218_C_position_bug.bam;chr2;179260451-179260596;-f 0.001.txt
+testdata/integrationtestcases/Simple;GRCh37.fa;N13532.TwoDels1InsStringBoundError.bam;chr11;1280138-1280341;-f0.0025-F0x700-Q10.txt
+testdata/integrationtestcases/Simple;GRCh37.fa;NA24385_cnt0.bam;chr11;3379106-3382196;-f 0.001.txt
+testdata/integrationtestcases/Simple;GRCh37.fa;NA24385_tcov_empty.bam;chr8;122660146-122660347;-f 0.001.txt
+testdata/integrationtestcases/Simple;GRCh37.fa;NPE_insertion_adjust_ref.bam;chr3;145521599-145521750;-f 0.1--nosv--deldupvar-Q10-F0x700.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829-18_S3-sort.bam;chr1;9922-10122;--chimeric -p;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829-18_S3-sort.bam;chr1;9922-10122;-p;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829-18_S3-sort_chrY.bam;chrY;59016100-59016124;--chimeric -f 0.001.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829-18_S3-sort_chrY.bam;chrY;59016100-59016124;-f 0.001.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr10.CandDel5.bam;chr10;134535815-134569759;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr10.DELDiscReverse.bam;chr10;89712340-89713976;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr10.LGDEL3.bam;chr10;127187158-127201055;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr10.LGINS30.bam;chr10;127800917-127802207;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.CandDel5SV.bam;chr20;506503-507295;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.DEL.bam;chr20;2802740-2803167;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.DELSV3Happy.bam;chr20;5023101-5026046;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.DELSV3Unhappy.bam;chr20;54440610-54441423;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.DELSV5Happy.bam;chr20;3097973-3098634;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.DUPDiscSV.bam;chr20;47124929-47131802;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.INVSV.bam;chr20;46841555-46845755;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.MarkingDUPSV.bam;chr20;47131954-47132045;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.OverlapSV.bam;chr20;31260388-31262431;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.SVBP.bam;chr20;3251475-3252255;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;Colo829.chr20.SVBPReverse.bam;chr20;318511-318527;-f 0.001;.txt
+testdata/integrationtestcases/Simple;hg19.fa;L861Q.bam;chr7;55259400-55259600;-UN.txt
+testdata/integrationtestcases/Simple;hg19.fa;L861Q.bam;chr7;55259400-55259600;-u.txt
+testdata/integrationtestcases/Simple;hg19.fa;L861Q.bam;chr7;55259400-55259600;.txt
+testdata/integrationtestcases/Simple;hg38.fa;2-364738.chr21.Negative.bam;chr21;28366637-28367427;-f0.01-Q10-F0x700.txt
+testdata/integrationtestcases/Simple;hg38.fa;2-420233.chr7.Negative.bam;chr7;157482463-157483329;-f0.01-Q10-F0x700.txt
+testdata/integrationtestcases/Simple;hg38.fa;DelOutOfBound.bam;chr1;150578117-150578617;-f0.001--deldupvar.txt
+testdata/integrationtestcases/Simple;hg38.fa;DelOutOfBound.bam;chr1;150578117-150578617;-f0.001.txt
+testdata/integrationtestcases/Simple;hg38.fa;DelOutOfBound.chr1_150578117_150578617.bam;chr1:150578117-150578617;-f0.001--deldupvar.txt
+testdata/integrationtestcases/Simple;hg38.fa;DelOutOfBound.chr1_150578117_150578617.bam;chr1:150578117-150578617;-f0.001.txt
+testdata/integrationtestcases/Simple;hg38.fa;ExtraSVInRealignment.bam;chr1;11144571-11144831;-f0.001-U.txt
+testdata/integrationtestcases/Simple;hg38.fa;ExtraSVInRealignment.bam;chr1;11144571-11144831;-f0.001.txt
+testdata/integrationtestcases/Simple;hg38.fa;NA12878.bam;chr6;137219200-137219700;-f0.001-Q10-F0x700.txt
+testdata/integrationtestcases/Simple;hg38.fa;NAP1L1.NegativeRRC.bam;chr12;76036587-76085033;-f 0.001.txt
+testdata/integrationtestcases/Simple;hg38.fa;Tcov_zero_SV_DEL_candidate3.bam;chr8;90534611;90620070;-f 0.1.txt
+testdata/integrationtestcases/Simple;hs37d5.fa;NA21144.chrom11.Duplicates.bam;11;402283-410793;-F 0;.txt
+testdata/integrationtestcases/Simple;hs37d5.fa;NA21144.chrom11.Duplicates.bam;11;402283-410793;.txt
+testdata/integrationtestcases/Simple;hs38DH.fa;Count-Depth-With-Ns.bam;chr1;391310-391333;-K -p -r 1 -q 2 -f 0.0;.txt
+testdata/integrationtestcases/Simple;hs38DH.fa;Count-Depth-With-Ns.bam;chr1;391310-391333;-p -r 1 -q 2 -f 0.0;.txt
+testdata/integrationtestcases/Simple;hs38DH.fa;NA12878.chrom20.DELSV.bam;chr20;62596000-62598000;-f 0.001.txt
+testdata/integrationtestcases/Simple;hs38DH.fa;NA12878.chrom20.INVFullSV.bam;chr20;5927052-5927179;-f 0.001.txt
+testdata/integrationtestcases/Simple;hs38DH.fa;NA12878.chrom20.INVSimpleSV.bam;chr20;1961100-1961400;-f 0.001.txt
+testdata/integrationtestcases/Simple;hs38DH.fa;NA12878.chrom20.Unmapped.reads.bam;chr20;62597650-62597750;-q 20.txt
+testdata/integrationtestcases/Simple;hs38DH.fa;NA12878.chrom5.DUPSV.bam;chr5;140594296-140594495;-f0.001.txt
+testdata/integrationtestcases/Simple;hs38DH.fa;NA21144.chrom11.DUPDiscF.bam;chr11;77614410-77614671;-f 0.001.txt
+testdata/integrationtestcases/Simple;hs38DH.fa;NA21144.chrom11.INV3Disc.bam;chr11;57982617-57982816;-f 0.001.txt
+testdata/integrationtestcases/Simple;hs38DH.fa;NA21144.chrom11.INV5Disc.bam;chr11;57970876-57971275;-f 0.001.txt
+testdata/integrationtestcases/Somatic;GRCh37.fa;NPE_NM_JOIN_Tumor.bam-NPE_NM_JOIN_Normal.bam;chr5;19375000-19376500;-f0.1--nosv--deldupvar-Q10-F0x700;.txt
+testdata/integrationtestcases/Somatic;GRCh37.fa;NPE_NM_JOIN_Tumor.bam-NPE_NM_JOIN_Normal.bam;chr5;19375000-19376500;-f0.1-Q10-F0x700;.txt
+testdata/integrationtestcases/Somatic;GRCh37.fa;NPE_NM_Tumor.bam-NPE_NM_Normal.bam;chr5;19375000-19376500;-f0.1--nosv--deldupvar-Q10-F0x700;.txt
+testdata/integrationtestcases/Somatic;GRCh37.fa;NPE_NM_Tumor.bam-NPE_NM_Normal.bam;chr5;19375000-19376500;-f0.1-Q10-F0x700;.txt
+testdata/integrationtestcases/Somatic;hg19.fa;ArgumentNA_Tumor.bam-ArgumentNA_Normal.bam;chr7;140453010-140453158;-q25-F0x100-f0.001-k1-M20-p;.txt
+testdata/integrationtestcases/Somatic;hg19.fa;Colo829-18_S3-sort.bam-Colo829-19_S4-sort.bam;chr10;1368753-1369353;.txt
+testdata/integrationtestcases/Somatic;hg19.fa;Colo829-18_S3-sort.bam-Colo829-19_S4-sort.bam;chr10;684892-685492;.txt
+testdata/integrationtestcases/Somatic;hg19.fa;Colo829-18_S3-sort.bam-Colo829-19_S4-sort.bam;chr1;755917-756517;.txt
+testdata/integrationtestcases/Somatic;hg1k.fa;TumorA.StrongLOH.bam-NormalA.StrongLOH.bam;chr21;10996701-11186054;-Q10-f0.01-r2-V0.05;.txt
+testdata/integrationtestcases/Somatic;hs38DH.fa;172T_S8.final.chr1.bam-172N_S7.final.chr1.bam;chr1;11182030-11182188;;.txt
+testdata/integrationtestcases/Somatic;hs38DH.fa;NA12889.StrSomSamSpec.bam-NA12878.StrSomSamSpec.bam;chr20;43246926-43280248;-f0.001.txt
+tests/integration/config.sh
+tests/integration/confirmed_differences.txt
+tests/integration/test_non_deterministic_behavior.out
+tests/integration/test_non_deterministic_behavior.sh
+tests/integration/tests_integration.sh
+tests/integration/vardictColo20_1.perl.txt
+tests/integration/non_deterministic_behavior/Colo829.chr20.PerlNonDeterm.bam
+tests/integration/non_deterministic_behavior/Colo829.chr20.PerlNonDeterm.bam.bai
+src/main/java/com/astrazeneca/vardict/Configuration.java
+src/main/java/com/astrazeneca/vardict/Main.java
+src/main/java/com/astrazeneca/vardict/ReferenceResource.java
+src/main/java/com/astrazeneca/vardict/Utils.java
+src/main/java/com/astrazeneca/vardict/VarDict.java
+src/main/java/com/astrazeneca/vardict/collection/ConcurrentHashSet.java
+src/main/java/com/astrazeneca/vardict/collection/Tuple.java
+src/main/java/com/astrazeneca/vardict/collection/VariationMap.java
+src/main/java/com/astrazeneca/vardict/data/Flags.java
+src/main/java/com/astrazeneca/vardict/data/Patterns.java
+src/main/java/com/astrazeneca/vardict/data/Reference.java
+src/main/java/com/astrazeneca/vardict/data/Region.java
+src/main/java/com/astrazeneca/vardict/data/SVStructures.java
+src/main/java/com/astrazeneca/vardict/data/SamView.java
+src/main/java/com/astrazeneca/vardict/data/Side.java
+src/main/java/com/astrazeneca/vardict/modules/CigarUtils.java
+src/main/java/com/astrazeneca/vardict/modules/SAMFileParser.java
+src/main/java/com/astrazeneca/vardict/modules/StructuralVariantsProcessor.java
+src/main/java/com/astrazeneca/vardict/modules/ToVarsBuilder.java
+src/main/java/com/astrazeneca/vardict/modules/VariationRealigner.java
+src/main/java/com/astrazeneca/vardict/variations/Cluster.java
+src/main/java/com/astrazeneca/vardict/variations/Mate.java
+src/main/java/com/astrazeneca/vardict/variations/Sclip.java
+src/main/java/com/astrazeneca/vardict/variations/Variant.java
+src/main/java/com/astrazeneca/vardict/variations/Variation.java
+src/main/java/com/astrazeneca/vardict/variations/VariationUtils.java
+src/main/java/com/astrazeneca/vardict/variations/Vars.java
+src/test/java/com/astrazeneca/vardict/integrationtests/IntegrationTest.java
+src/test/resources/com/astrazeneca/vardict/integrationtests/172N_S7.final.chr1_sliced_SOOBE.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/172N_S7.final.chr1_sliced_SOOBE.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/172T_S8.final.chr1_sliced_SOOBE.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/172T_S8.final.chr1_sliced_SOOBE.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/2-364738.chr21.Negative.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/2-364738.chr21.Negative.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/2-420233.chr7.Negative.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/2-420233.chr7.Negative.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/ArgumentNA_Normal.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/ArgumentNA_Normal.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/ArgumentNA_Tumor.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/ArgumentNA_Tumor.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829-18_S3-sort.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829-18_S3-sort.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829-18_S3-sort_chrY.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829-18_S3-sort_chrY.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829-19_S4-sort.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829-19_S4-sort.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr10.CandDel5.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr10.CandDel5.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr10.DELDiscReverse.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr10.DELDiscReverse.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr10.LGDEL3.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr10.LGDEL3.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr10.LGINS30.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr10.LGINS30.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.CandDel5SV.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.CandDel5SV.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.DEL.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.DEL.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.DELSV3Happy.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.DELSV3Happy.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.DELSV3Unhappy.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.DELSV3Unhappy.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.DELSV5Happy.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.DELSV5Happy.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.DUPDiscSV.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.DUPDiscSV.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.INVSV.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.INVSV.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.MarkingDUPSV.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.MarkingDUPSV.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.OverlapSV.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.OverlapSV.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.SVBP.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.SVBP.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.SVBPReverse.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Colo829.chr20.SVBPReverse.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Count-Depth-With-Ns.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Count-Depth-With-Ns.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/DelOutOfBound.chr1_150578117_150578617.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/DelOutOfBound.chr1_150578117_150578617.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/ExtraSVInRealignment.chr1_11144571_11144831.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/ExtraSVInRealignment.chr1_11144571_11144831.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/HCC2218_C_position_bug.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/HCC2218_C_position_bug.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/L861Q.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/L861Q.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/N13532.TwoDels1InsStringBoundError.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/N13532.TwoDels1InsStringBoundError.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chr6_137219200-137219700.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chr6_137219200-137219700.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom20.DELSV.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom20.DELSV.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom20.INVFullSV.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom20.INVFullSV.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom20.INVSimpleSV.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom20.INVSimpleSV.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom20.StrSomSamSpec.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom20.StrSomSamSpec.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom20.Unmapped.reads.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom20.Unmapped.reads.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom5.DUPSV.140594296-140594495.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12878.chrom5.DUPSV.140594296-140594495.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12889.chrom20.StrSomSamSpec.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA12889.chrom20.StrSomSamSpec.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA21144.chrom11.DUPDiscF.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA21144.chrom11.DUPDiscF.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA21144.chrom11.Duplicates.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA21144.chrom11.Duplicates.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA21144.chrom11.INV3Disc.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA21144.chrom11.INV3Disc.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA21144.chrom11.INV5Disc.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA21144.chrom11.INV5Disc.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA24385_cnt0.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA24385_cnt0.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA24385_tcov_empty.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NA24385_tcov_empty.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NAP1L1.NegativeRRC.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NAP1L1.NegativeRRC.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NPE_NM_JOIN_Normal.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NPE_NM_JOIN_Normal.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NPE_NM_JOIN_Tumor.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NPE_NM_JOIN_Tumor.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NPE_insertion_adjust_ref.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NPE_insertion_adjust_ref.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/NormalA.StrongLOH.chr21.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/NormalA.StrongLOH.chr21.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/Tcov_zero_SV_DEL_candidate3.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/Tcov_zero_SV_DEL_candidate3.bam.bai
+src/test/resources/com/astrazeneca/vardict/integrationtests/TumorA.StrongLOH.chr21.bam
+src/test/resources/com/astrazeneca/vardict/integrationtests/TumorA.StrongLOH.chr21.bam.bai
+src/test/java/com/astrazeneca/vardict/integrationtests/utils/CSVReferenceManager.java
+src/test/java/com/astrazeneca/vardict/integrationtests/utils/OutputFileCreator.java
+src/test/java/com/astrazeneca/vardict/integrationtests/utils/VarDictInput.java
+src/test/resources/com/astrazeneca/vardict/integrationtests/beds/correct_5columns.bed
+src/test/resources/com/astrazeneca/vardict/integrationtests/beds/correct_8columns_amplicon.bed
+src/test/resources/com/astrazeneca/vardict/integrationtests/beds/correct_8columns_not_amplicon.bed
+src/test/resources/com/astrazeneca/vardict/integrationtests/beds/correct_9columns.bed
+src/test/resources/com/astrazeneca/vardict/integrationtests/beds/incorrect_4columns.bed

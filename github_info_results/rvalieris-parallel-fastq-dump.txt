@@ -1,0 +1,5 @@
+#repo:rvalieris/parallel-fastq-dump 
+.gitignore
+LICENSE
+README.rst
+parallel-fastq-dump

@@ -1,0 +1,14 @@
+#repo:metageni/FOCUS 
+.gitignore
+CHANGELOG
+COPYING
+MANIFEST.in
+README.md
+setup.py
+focus_app/db.zip
+focus_app/focus.py
+logo/focus_small_logo.png
+tests/test_focus.py
+tests/data/k6_small_sample.txt
+tests/data/k6_small_sample_empty_record.txt
+tests/data/mock_sample.fasta

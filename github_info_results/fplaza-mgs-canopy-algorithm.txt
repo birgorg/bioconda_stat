@@ -1,0 +1,3 @@
+#repo:fplaza/mgs-canopy-algorithm 
+.gitignore
+README.md

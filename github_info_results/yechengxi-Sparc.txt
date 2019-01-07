@@ -1,0 +1,12 @@
+#repo:yechengxi/Sparc 
+Align.h
+BasicDataStructure.h
+GraphConstruction.h
+GraphSimplification.h
+LICENSE
+README.md
+Sparc.cpp
+compiled/Sparc
+utility/RunSparcConsensus.txt
+utility/SeqIO.py
+utility/split_and_run_sparc.sh

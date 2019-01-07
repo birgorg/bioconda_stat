@@ -1,0 +1,16 @@
+#repo:ekg/fastahack 
+.gitignore
+.travis.yml
+Fasta.cpp
+Fasta.h
+FastaHack.cpp
+LICENSE
+LargeFileSupport.h
+Makefile
+README
+Region.h
+disorder.c
+disorder.h
+libdisorder.LICENSE
+split.cpp
+split.h

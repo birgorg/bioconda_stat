@@ -1,0 +1,11 @@
+#repo:tommyau/bamclipper 
+LICENSE
+README.md
+bamclipper.sh
+clipprimer.pl
+injectseparator.pl
+examples/SRR2075598.bam
+examples/SRR2075598.bam.bai
+examples/SRR2075598.primerclipped.bam
+examples/SRR2075598.primerclipped.bam.bai
+examples/trusight_myeloid.bedpe

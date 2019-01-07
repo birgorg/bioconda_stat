@@ -1,0 +1,14 @@
+#repo:mahmoudibrahim/JAMM 
+JAMM.sh
+LICENSE
+README.md
+SignalGenerator.sh
+bincalculator.r
+changelog
+peakfilter.pl
+peakfinder.r
+peakhelper.r
+readme
+readshifter.pl
+signalmaker.r
+xcorr.r

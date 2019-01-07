@@ -1,0 +1,8 @@
+#repo:tseemann/samclip 
+.gitignore
+.travis.yml
+LICENSE
+README.md
+samclip
+test.fna
+test.fna.fai

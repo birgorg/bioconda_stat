@@ -1,0 +1,12 @@
+#repo:arq5x/grabix 
+LICENSE
+Makefile
+README.md
+bgzf.c
+bgzf.h
+grabix.cpp
+grabix.h
+grabix_main.cpp
+khash.h
+simrep.chr1.bed
+test.sh

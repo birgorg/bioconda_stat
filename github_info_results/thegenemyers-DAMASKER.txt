@@ -1,0 +1,16 @@
+#repo:thegenemyers/DAMASKER 
+DB.c
+DB.h
+HPC.DAScover.c
+HPC.REPmask.c
+HPC.TANmask.c
+Makefile
+QV.c
+QV.h
+README.md
+REPmask.c
+TANmask.c
+align.c
+align.h
+datander.c
+tandem.c

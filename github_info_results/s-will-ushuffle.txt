@@ -1,0 +1,6 @@
+#repo:s-will/ushuffle 
+README.md
+main.c
+setup.py
+ushuffle.c
+ushuffle.h

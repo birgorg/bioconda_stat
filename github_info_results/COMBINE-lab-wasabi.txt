@@ -1,0 +1,8 @@
+#repo:COMBINE-lab/wasabi 
+.Rbuildignore
+.gitignore
+DESCRIPTION
+LICENSE
+NAMESPACE
+README.md
+wasabi.Rproj

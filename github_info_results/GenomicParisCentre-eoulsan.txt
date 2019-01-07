@@ -1,0 +1,16 @@
+#repo:GenomicParisCentre/eoulsan 
+.gitignore
+Bpipe-scripts-LICENSE.txt
+COMPILING.txt
+Dockerfile
+INSTALL.txt
+LICENSE-CeCILL-C.txt
+LICENSE-LGPL.txt
+README.md
+checkstyle-license.txt
+checkstyle.xml
+eoulsan-eclipse-cleanup-style.xml
+eoulsan-eclipse-formatter-style.xml
+eoulsan.dic
+pmd-rules.xml
+pom.xml

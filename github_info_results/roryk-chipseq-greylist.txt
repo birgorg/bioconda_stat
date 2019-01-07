@@ -1,0 +1,7 @@
+#repo:roryk/chipseq-greylist 
+HISTORY.md
+LICENSE.txt
+README.md
+setup.py
+scripts/chipseq-greylist
+test/input-test.bam

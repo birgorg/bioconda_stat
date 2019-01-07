@@ -1,0 +1,10 @@
+#repo:bbuchfink/diamond 
+.gitattributes
+.gitignore
+.travis.yml
+CMakeLists.txt
+Dockerfile
+LICENSE
+README.md
+build_simple.sh
+diamond_manual.pdf

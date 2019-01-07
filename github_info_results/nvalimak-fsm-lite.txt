@@ -1,0 +1,10 @@
+#repo:nvalimak/fsm-lite 
+LICENSE.md
+Makefile
+README.md
+configuration.cpp
+configuration.h
+default.h
+dependencies.mk
+fsm-lite.cpp
+input_reader.cpp

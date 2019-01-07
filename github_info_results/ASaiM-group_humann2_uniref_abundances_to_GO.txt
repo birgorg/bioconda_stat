@@ -1,0 +1,17 @@
+#repo:ASaiM/group_humann2_uniref_abundances_to_GO 
+.travis.yml
+LICENSE
+README.md
+group_humann2_uniref_abundances_to_GO.sh
+install_dependencies.sh
+requirements.txt
+src/format_go_correspondance.py
+src/format_humann2_output.py
+src/format_humann2_uniref_go_mapping.py
+src/group_humann2_uniref_abundances_to_GO_download_datasets.sh
+test-data/expected_biological_process_abundance.txt
+test-data/expected_cellular_component_abundance.txt
+test-data/expected_molecular_function_abundances.txt
+test-data/go_02_22_2016.obo
+test-data/goslim_metagenomics_02_22_2016.obo
+test-data/humann2_gene_families.csv

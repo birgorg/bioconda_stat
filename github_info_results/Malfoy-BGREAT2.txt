@@ -1,0 +1,14 @@
+#repo:Malfoy/BGREAT2 
+.travis.yml
+BooPHF.h
+README.md
+aligner.cpp
+aligner.h
+alignerGreedy.cpp
+bgreat.cpp
+makefile
+numbersToSequences.cpp
+sortPaths.cpp
+strict_fstream.hpp
+utils.cpp
+utils.h

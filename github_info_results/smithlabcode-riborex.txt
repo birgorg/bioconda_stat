@@ -1,0 +1,13 @@
+#repo:smithlabcode/riborex 
+.gitignore
+CHANGELOG.md
+DESCRIPTION
+NAMESPACE
+README.md
+R/riborex.r
+data/RNACntTable.txt
+data/RiboCntTable.txt
+data/riborexdata.RData
+inst/CITATION
+man/riborex.Rd
+vignettes/riborex.Rmd

@@ -1,0 +1,8 @@
+#repo:NCIP/ctat-metagenomics 
+.gitmodules
+LICENSE.txt
+README.md
+SciEDPipeR
+metagenomics.py
+docker-conda/Dockerfile
+bioconda_recipe/ctat-metagenomics/build.sh

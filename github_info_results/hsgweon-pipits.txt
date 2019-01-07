@@ -1,0 +1,15 @@
+#repo:hsgweon/pipits 
+LICENSE
+README.md
+setup.py
+bin/__init__.py
+bin/pipits_funguild.py
+bin/pipits_funits
+bin/pipits_getsamplelistfromfasta
+bin/pipits_phylotype_biom
+bin/pipits_process
+bin/pipits_reformatAssignedTaxonomy
+bin/pipits_rereplicate
+bin/pipits_retrain_rdp
+bin/pipits_uc2otutable
+pipits/__init__.py

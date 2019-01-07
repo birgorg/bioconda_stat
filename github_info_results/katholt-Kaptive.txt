@@ -1,0 +1,16 @@
+#repo:katholt/Kaptive 
+.gitignore
+LICENSE
+README.md
+__init__.py
+kaptive.py
+setup.py
+extras/kaptive_logo.png
+extras/kaptive_slurm.py
+reference_database/Klebsiella_k_locus_primary_reference.gbk
+reference_database/Klebsiella_k_locus_variant_reference.gbk
+reference_database/Klebsiella_o_locus_primary_reference.gbk
+reference_database/wzi_wzc_db.fasta
+sample_data/exact_match.fasta
+sample_data/fragmented_assembly.fasta
+sample_data/inexact_match.fasta

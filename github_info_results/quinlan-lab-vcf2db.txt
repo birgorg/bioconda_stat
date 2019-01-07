@@ -1,0 +1,10 @@
+#repo:quinlan-lab/vcf2db 
+.gitignore
+.travis.yml
+README.md
+requirements.txt
+vcf2db.py
+tests/error_test.ped
+tests/error_test.vcf.gz
+tests/test.ped
+tests/test.py

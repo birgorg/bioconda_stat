@@ -1,0 +1,7 @@
+#repo:mhalushka/miRge 
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+dist/mirge-2.0-py2-none-any.whl

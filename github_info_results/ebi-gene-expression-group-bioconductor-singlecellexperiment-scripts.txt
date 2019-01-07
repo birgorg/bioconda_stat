@@ -1,0 +1,8 @@
+#repo:ebi-gene-expression-group/bioconductor-singlecellexperiment-scripts 
+.travis.yml
+README.md
+VERSION
+bioconductor-singlecellexperiment-scripts-post-install-tests.bats
+bioconductor-singlecellexperiment-scripts-post-install-tests.sh
+singlecellexperiment-create-single-cell-experiment.R
+singlecellexperiment-get-random-cells.R

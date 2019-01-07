@@ -1,0 +1,5 @@
+#repo:brentp/hts-nim-tools 
+.gitignore
+LICENSE
+README.md
+hts_nim_tools.nimble

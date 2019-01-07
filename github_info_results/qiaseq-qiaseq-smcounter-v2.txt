@@ -1,0 +1,14 @@
+#repo:qiaseq/qiaseq-smcounter-v2 
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+__init__.py
+filters.py
+get_pvalue.R
+run.py
+utils.py
+vc.py
+vcf.py
+tests/compare_outlong.py

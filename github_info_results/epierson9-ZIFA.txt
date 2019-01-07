@@ -1,0 +1,10 @@
+#repo:epierson9/ZIFA 
+.gitignore
+LICENSE.txt
+README.md
+example.py
+read_in_real_data_example.py
+setup.py
+unitTests.py
+ZIFA/ZIFA.py
+ZIFA/__init__.py

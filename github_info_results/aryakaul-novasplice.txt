@@ -1,0 +1,15 @@
+#repo:aryakaul/novasplice 
+.gitignore
+LICENSE
+README.md
+_config.yml
+lab-notebook.md
+setup.py
+figs/novasplice-allss-scores.png
+figs/novasplice-blank-allss-score.png
+figs/novasplice-logo.png
+novasplice/__init__.py
+novasplice/__main__.py
+novasplice/_version.py
+novasplice/novasplice.py
+figs/old/2018-06-22_INDEXbySSFREQUENCY.png

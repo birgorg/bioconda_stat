@@ -1,0 +1,7 @@
+#repo:cbg-ethz/ConsensusFixer 
+.gitignore
+CF_logo.png
+COPYING
+README.md
+makefile
+pom.xml

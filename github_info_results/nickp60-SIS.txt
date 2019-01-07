@@ -1,0 +1,17 @@
+#repo:nickp60/SIS 
+.gitignore
+.travis.yml
+LICENSE
+MANIFEST.in
+README
+setup.cfg
+setup.py
+examples/NC_009525-NC_002945.coords
+examples/NC_009525.fna
+examples/nucmer.coords
+examples/promer.coords
+scaffoldsis/__init__.py
+scaffoldsis/multifasta.py
+scaffoldsis/sis.py
+tests/__init__.py
+tests/context.py

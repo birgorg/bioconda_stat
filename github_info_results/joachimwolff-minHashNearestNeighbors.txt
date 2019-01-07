@@ -1,0 +1,6 @@
+#repo:joachimwolff/minHashNearestNeighbors 
+.gitignore
+LICENSE
+README.md
+run_test.py
+setup.py

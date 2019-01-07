@@ -1,0 +1,17 @@
+#repo:lh3/ropebwt2 
+.gitignore
+LICENSE.txt
+Makefile
+README.md
+crlf.c
+crlf.h
+kseq.h
+main.c
+mrope.c
+mrope.h
+rld0.c
+rld0.h
+rle.c
+rle.h
+rope.c
+rope.h

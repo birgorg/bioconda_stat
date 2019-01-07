@@ -1,0 +1,16 @@
+#repo:suwangbio/MARGE_py3 
+LICENSE.txt
+README.md
+setup.py
+marge/.DS_Store
+marge/H3K27ac_readsCount.py
+marge/RPCalc.py
+marge/Snakefile
+marge/__init__.py
+marge/config.json
+marge/createEmptyHDF5.py
+marge/createHDF5.py
+marge/enhancerIdentifier.py
+marge/marge
+marge/regions.py
+marge/relativeRPCalc.py

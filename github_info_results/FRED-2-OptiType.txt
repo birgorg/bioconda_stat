@@ -1,0 +1,17 @@
+#repo:FRED-2/OptiType 
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+OptiTypePipeline.py
+README.md
+config.ini.example
+hlatyper.py
+model.py
+data/alleles.h5
+data/hla_reference_dna.fasta
+data/hla_reference_rna.fasta
+test/test_config.ini
+test/exome/NA11995_SRR766010_1_fished.fastq
+test/exome/NA11995_SRR766010_2_fished.fastq
+test/rna/CRC_81_N_1_fished.fastq

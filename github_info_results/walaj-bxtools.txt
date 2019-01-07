@@ -1,0 +1,17 @@
+#repo:walaj/bxtools 
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+Makefile.am
+Makefile.in
+README.md
+SeqLib
+autogen.sh
+config.h
+config.h.in
+configure
+configure.ac
+depcomp
+install-sh
+missing

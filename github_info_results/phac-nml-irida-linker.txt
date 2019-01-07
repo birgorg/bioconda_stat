@@ -1,0 +1,8 @@
+#repo:phac-nml/irida-linker 
+.gitignore
+LICENSE
+README.md
+ngsArchiveLinker.pl
+install/install.pl
+install/ngs-archive-linker.conf
+lib/.gitignore

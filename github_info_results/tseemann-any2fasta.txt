@@ -1,0 +1,16 @@
+#repo:tseemann/any2fasta 
+.gitignore
+.travis.yml
+LICENSE
+README.md
+any2fasta
+paper.bib
+paper.md
+test.clw
+test.embl
+test.fna
+test.fq
+test.gbk
+test.gfa
+test.gff
+test.noseq.gff

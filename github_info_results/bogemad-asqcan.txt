@@ -1,0 +1,6 @@
+#repo:bogemad/asqcan 
+LICENSE
+README.md
+asqcan.py
+setup.py
+bin/asqcan

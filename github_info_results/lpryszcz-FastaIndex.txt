@@ -1,0 +1,9 @@
+#repo:lpryszcz/FastaIndex 
+.gitignore
+CHANGELOG.md
+FastaIndex.py
+LICENSE
+MANIFEST.in
+README.rst
+fasta_stats.py
+setup.cfg

@@ -1,0 +1,11 @@
+#repo:harvardinformatics/NGmerge 
+.gitignore
+LICENSE
+Makefile
+NGmerge.c
+NGmerge.h
+README.md
+UserGuide.pdf
+VERSION
+qual_profile.txt
+figures/figure1.png

@@ -1,0 +1,9 @@
+#repo:BioTools-Tek/funcannot 
+FASTAhandler.h
+GeneMap.h
+GeneStructs.h
+Makefile
+ProteinHandler.h
+appender.cpp
+appender.h
+funcannot.pro

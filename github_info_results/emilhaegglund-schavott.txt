@@ -1,0 +1,17 @@
+#repo:emilhaegglund/schavott 
+.gitignore
+LICENSE
+README.md
+gui.png
+move_fast5.py
+read_simulation.py
+setup.py
+bin/schavott
+config/schavott_conda_env.yaml
+schavott/Assembler.py
+schavott/MainApp.py
+schavott/ReadData.py
+schavott/Scaffold.py
+schavott/UI.py
+schavott/__init__.py
+schavott/__main__.py

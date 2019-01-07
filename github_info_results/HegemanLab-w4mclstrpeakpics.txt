@@ -1,0 +1,13 @@
+#repo:HegemanLab/w4mclstrpeakpics 
+DESCRIPTION
+LICENSE
+NAMESPACE
+README.md
+R/cluster_peak_assessment.R
+man/cluster_peak_assessment.Rd
+tests/testthat.R
+vignettes/w4mclstrpeakpics.Rmd
+tests/testthat/expected_assessment.tsv
+tests/testthat/input_dataMatrix.tsv
+tests/testthat/input_sampleMetadata.tsv
+tests/testthat/input_variableMetadata.tsv

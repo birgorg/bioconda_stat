@@ -1,0 +1,6 @@
+#repo:indraniel/sff2fastq 
+Makefile
+README.md
+endian.h
+main.c
+sff.c

@@ -1,0 +1,8 @@
+#repo:NCIP/ctat-lncrna 
+.gitmodules
+LICENSE.txt
+README.md
+SciEDPipeR
+lncrna
+docker-conda/Dockerfile
+bioconda_recipe/ctat-lncrna/build.sh

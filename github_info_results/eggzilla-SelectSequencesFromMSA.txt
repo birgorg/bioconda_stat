@@ -1,0 +1,7 @@
+#repo:eggzilla/SelectSequencesFromMSA 
+.travis.yml
+LICENSE
+README.md
+SelectSequencesFromMSA.cabal
+changelog
+stack.yaml

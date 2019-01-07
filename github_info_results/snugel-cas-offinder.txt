@@ -1,0 +1,16 @@
+#repo:snugel/cas-offinder 
+CMakeLists.txt
+LICENSE
+README.md
+cas-offinder.cl
+cas-offinder.cpp
+cas-offinder.h
+config.h.in
+main.cpp
+oclfunctions.h
+read_fasta.cpp
+read_fasta.h
+read_twobit.cpp
+read_twobit.h
+CMakeModules/CopyKernels.cmake
+CMakeModules/FindOpenCL.cmake

@@ -1,0 +1,4 @@
+#repo:kwongj/roary2fripan 
+.gitignore
+LICENSE
+README.md

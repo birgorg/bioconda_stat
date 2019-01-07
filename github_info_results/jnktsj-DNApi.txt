@@ -1,0 +1,17 @@
+#repo:jnktsj/DNApi 
+.gitignore
+LICENSE
+README.md
+dnapi.py
+setup.py
+dnapilib/__init__.py
+dnapilib/apred.py
+dnapilib/exhaust.py
+dnapilib/io_utils.py
+dnapilib/kmer.py
+examples/README.md
+examples/good.fq
+examples/poor.fq
+examples/processed.fq
+utils/qual_offset.py
+utils/qual_trim.py

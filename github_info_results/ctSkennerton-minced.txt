@@ -1,0 +1,16 @@
+#repo:ctSkennerton/minced 
+.gitignore
+CHANGES
+CRISPR.java
+CRISPRFinder.java
+CRISPRUtil.java
+DNASequence.java
+FASTAReader.java
+IntervalSearchTree.java
+LICENSE
+MANIFEST.txt
+Makefile
+README.md
+SearchUtil.java
+minced
+minced.java

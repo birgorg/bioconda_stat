@@ -1,0 +1,9 @@
+#repo:lh3/trimadap 
+Makefile
+README.md
+illumina.txt
+kseq.h
+ksw.c
+ksw.h
+kthread.c
+test.fa

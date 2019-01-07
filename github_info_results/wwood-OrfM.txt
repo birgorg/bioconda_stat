@@ -1,0 +1,16 @@
+#repo:wwood/OrfM 
+.gitignore
+.gitmodules
+.rspec
+LICENSE.txt
+Makefile.am
+README.md
+autogen.sh
+configure.ac
+codon_tables/convert_ncbi_text_to_C_code.rb
+codon_tables/copy_from_ncbi.txt
+ext/ac.c
+ext/ac.h
+ext/seqtk
+src/orfm.c
+test/20_random100bp.fna

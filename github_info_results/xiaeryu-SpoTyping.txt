@@ -1,0 +1,11 @@
+#repo:xiaeryu/SpoTyping 
+README.md
+SpoTyping-v2.1-GUI/SpoTyping-GUI-README.pdf
+SpoTyping-v2.1-GUI/SpoTyping-GUI.py
+SpoTyping-v2.1-GUI/SpoTyping_plot.r
+SpoTyping-v2.1-GUI/Update-history.md
+SpoTyping-v2.1-commandLine/README.md
+SpoTyping-v2.1-commandLine/SpoTyping-README-md.pdf
+SpoTyping-v2.1-commandLine/SpoTyping.py
+SpoTyping-v2.1-commandLine/SpoTyping_plot.r
+SpoTyping-v2.1-commandLine/Update-history.md

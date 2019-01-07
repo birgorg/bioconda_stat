@@ -1,0 +1,11 @@
+#repo:BioPP/bpp-popgen 
+.gitignore
+AUTHORS.txt
+CMakeLists.txt
+COPYING.txt
+ChangeLog
+Doxyfile
+INSTALL.txt
+bpp-popgen.spec
+header.html
+package.cmake.in

@@ -1,0 +1,11 @@
+#repo:jduc/geoDL 
+.gitignore
+LICENSE
+README.rst
+changelog.md
+setup.py
+geoDL/__init__.py
+geoDL/geoDL.py
+geoDL/logo.png
+geoDL/logo.svg
+geoDL/logo.txt

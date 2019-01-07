@@ -1,0 +1,10 @@
+#repo:tseemann/berokka 
+.gitignore
+.travis.yml
+LICENSE
+README.md
+berokka.png
+bin/berokka
+db/controls.fna
+db/dnaA.fna
+test/Makefile

@@ -1,0 +1,12 @@
+#repo:freeman-lab/showit 
+.gitignore
+.travis.yml
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+showit/VERSION
+showit/__init__.py
+showit/showit.py

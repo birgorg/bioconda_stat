@@ -1,0 +1,11 @@
+#repo:Carldeboer/Brockman 
+LICENSE
+README.md
+brockman_pipeline
+Example/SRA_entries.txt
+Example/config.sh
+Example/downloadExample.sh
+Example/example_run_pipeine_UGER.sh
+Example/runExample.sh
+Example/sample_list.txt
+Resources/NexteraPE-PE.fa

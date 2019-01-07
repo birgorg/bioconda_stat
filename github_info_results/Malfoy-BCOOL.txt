@@ -1,0 +1,9 @@
+#repo:Malfoy/BCOOL 
+.travis.yml
+Bcool
+README.md
+install.sh
+src/Bcool_broken.py
+src/Bcool_conda
+src/Bcool_header.py
+test/lambda_virus.200bp.50x.1percentError.fa.gz

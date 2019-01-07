@@ -1,0 +1,5 @@
+#repo:PacificBiosciences/IsoSeq3 
+LICENSE
+README.md
+README_v3.0.md
+README_v3.1.md

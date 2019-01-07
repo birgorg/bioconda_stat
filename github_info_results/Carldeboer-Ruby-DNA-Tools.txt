@@ -1,0 +1,11 @@
+#repo:Carldeboer/Ruby-DNA-Tools 
+DNATOOLBOX.rb
+GZ.rb
+HASHFILE.rb
+HOME.rb
+LICENSE
+MATHS.rb
+README.md
+RINTERFACE.rb
+SCORINGMETHODS.rb
+SWITCHES.rb

@@ -1,0 +1,7 @@
+#repo:apeltzer/AdapterRemovalFixPrefix 
+.travis.yml
+README.md
+build.gradle
+arch-pkgbuild/PKGBUILD
+arch-pkgbuild/starter.sh
+arch-pkgbuild/updatePKGBuild.sh

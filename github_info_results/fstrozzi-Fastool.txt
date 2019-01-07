@@ -1,0 +1,9 @@
+#repo:fstrozzi/Fastool 
+Makefile
+README.md
+fastool.c
+kseq.h
+test.fasta
+test.fastq
+test.fastq.gz
+test_casava_18.fastq

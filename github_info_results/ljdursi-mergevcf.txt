@@ -1,0 +1,14 @@
+#repo:ljdursi/mergevcf 
+.gitignore
+DESCRIPTION.rst
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+mergevcf/__init__.py
+mergevcf/locations.py
+mergevcf/mergedfile.py
+mergevcf/variantdict.py
+mergevcf/vcftobreakpoints.py
+tests/__init__.py

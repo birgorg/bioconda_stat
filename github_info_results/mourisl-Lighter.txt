@@ -1,0 +1,16 @@
+#repo:mourisl/Lighter 
+.gitignore
+ErrorCorrection.cpp
+ErrorCorrection.h
+File.h
+GetKmers.cpp
+GetKmers.h
+KmerCode.h
+LICENSE
+Makefile
+README.md
+Reads.h
+Store.h
+bloom_filter.hpp
+main.cpp
+old_bloom_filter.hpp

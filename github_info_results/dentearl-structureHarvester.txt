@@ -1,0 +1,6 @@
+#repo:dentearl/structureHarvester 
+.gitignore
+LICENSE
+README.md
+harvesterCore.py
+structureHarvester.py

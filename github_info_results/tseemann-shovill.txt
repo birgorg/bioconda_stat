@@ -1,0 +1,11 @@
+#repo:tseemann/shovill 
+.gitignore
+.travis.yml
+LICENSE
+README.md
+.travis/install_deps.sh
+bin/shovill
+db/trimmomatic.fa
+test/R1.fq.gz
+test/R2.fq.gz
+test/test.fna

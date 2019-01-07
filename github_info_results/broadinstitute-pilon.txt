@@ -1,0 +1,13 @@
+#repo:broadinstitute/pilon 
+.classpath
+.gitignore
+.project
+COPYRIGHT
+LICENSE
+README.md
+build.sbt
+build.sh
+.settings/org.scala-ide.sdt.core.prefs
+lib/LICENSE.picard
+lib/htsjdk-2.14.3.jar
+project/plugins.sbt

@@ -1,0 +1,12 @@
+#repo:ohlab/SMEG 
+README.md
+SMEG_SNP.R
+SNP_method.R
+check_R_libraries.R
+create_clusters.R
+download_genomes.sh
+extract_unique_SNP.R
+geneDosage.R
+heatmap.R
+pileupParser
+smeg

@@ -1,0 +1,15 @@
+#repo:FelixKrueger/SNPsplit 
+BS-seq_report.pdf
+CHANGELOG.md
+HiC_report.pdf
+LICENSE
+README.md
+SNPsplit
+SNPsplit_User_Guide.md
+SNPsplit_User_Guide.pdf
+SNPsplit_genome_preparation
+copy_SNPsplit_files_for_release.pl
+paired_end_report.pdf
+tag2sort
+Images/SNPsplit.png
+Images/bioinformatics_logo.png

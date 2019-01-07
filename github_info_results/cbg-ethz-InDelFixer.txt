@@ -1,0 +1,5 @@
+#repo:cbg-ethz/InDelFixer 
+.gitignore
+COPYING
+README.md
+pom.xml

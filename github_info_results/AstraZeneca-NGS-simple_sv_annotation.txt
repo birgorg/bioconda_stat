@@ -1,0 +1,6 @@
+#repo:AstraZeneca-NGS/simple_sv_annotation 
+LICENSE
+README.md
+az-cancer-panel.txt
+fusion_pairs.txt
+refSeq.hg19.BRCA1.NM_007294.alternateNumbers.bed

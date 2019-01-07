@@ -1,0 +1,9 @@
+#repo:ThimotheeV/Tadarida-D 
+Makefile
+detec.cpp
+detec.h
+deteclaunch.cpp
+deteclaunch.h
+detectreatment.cpp
+detectreatment.h
+licence.txt

@@ -1,0 +1,7 @@
+#repo:chapmanb/DKFZBiasFilter 
+Dockerfile
+Dockstore.cwl
+LICENSE
+README.md
+description_dkfz_bias_filter.pdf
+sample_configs.json

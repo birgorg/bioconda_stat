@@ -1,0 +1,14 @@
+#repo:UCanCompBio/deltaBS 
+LICENSE.md
+README.md
+manuscript/DBS preprint.pdf
+manuscript/README.txt
+manuscript/S1_Text.pdf
+manuscript/Supplementary.pdf
+manuscript/paulall.bib
+manuscript/supplementary-text.pdf
+manuscript/supplementary-text.tex
+src/buildCustomModels.pl
+src/deltaBS.pl
+data/tests/AE014613.embl
+data/tests/FQ312003.AE014613.ol
