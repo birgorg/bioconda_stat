@@ -6,10 +6,9 @@ import time
 import os
 
 def wait_for_rate_limit(g):
-    print(g.rate_limiting_resettime)
-    print(time.time())
-    while g.rate_limiting_resettime+3600 > time.time() :
-        print('Time limit exceeded, seconds remaining: %r' % (g.rate_limiting_resettime+3600-time.time()))
+    resettime = g.rate_limiting_resettime
+    while resettime > time.time() :
+        print('Time limit exceeded, seconds remaining: %r' % (resettime-time.time()))
         time.sleep(10)
 
 
@@ -41,18 +40,13 @@ def getFiletreeForRepo(user, repo, g):
                 raise
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Script for counting files in github repo")
-    parser.add_argument('file_path', help="path to file containing repo urls, one url for each line")
-    parser.add_argument('-t', '--token', help='Github token for getting a better rate limit', default=None)
-    args = parser.parse_args()
-
-    f = open(args.file_path, 'r')
+def mineRepos(file_path, token):
+    f = open(file_path, 'r')
     lines = f.readlines()
     f.close()
     
-    if args.token != None:
-        g = Github(args.token)
+    if token != None:
+        g = Github(token)
     else:
         g = Github()
 
@@ -72,6 +66,34 @@ def main():
             for line in lines[visited_lines:]:
                 uf.write(line)
 
+
+def countFileExtensions(files_path):
+    python_setup = 0
+    makefile_in_root = 0
+    files = os.listdir(files_path)
+    for file_name in files:
+        with open('%s%s' % (files_path, file_name), 'r') as f:
+            for line in f.readlines():
+                if 'setup.py\n' == line or 'Setup.py\n' == line:
+                    python_setup += 1
+                    print(line)
+                elif 'makefile\n' == line or 'Makefile\n' == line:
+                    makefile_in_root += 1
+                    print(line)
+    print('Number of repos with setup.py: %r' % python_setup)
+    print('Number of makefiles in root of repos: %r' % makefile_in_root)
+
+def main():
+    parser = argparse.ArgumentParser(description="Script for counting files in github repo")
+    parser.add_argument('-c', '--count', action='store_true', help='If this flag i set, the script will tage the directory given in file_path, run through all the .txt files and count file extensions')
+    parser.add_argument('file_path', help="path to file containing repo urls, one url for each line")
+    parser.add_argument('-t', '--token', help='Github token for getting a better rate limit', default=None)
+    args = parser.parse_args()
+
+    if(args.count):
+        countFileExtensions(args.file_path)
+    else:
+        mineRepos(args.file_path, args.token)
 
 if __name__=='__main__':
     main()
