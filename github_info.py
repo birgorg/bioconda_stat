@@ -4,6 +4,7 @@ from github import Github
 import github
 import time
 import os
+from collections import Counter
 
 def wait_for_rate_limit(g):
     resettime = g.rate_limiting_resettime
@@ -70,18 +71,26 @@ def mineRepos(file_path, token):
 def countFileExtensions(files_path):
     python_setup = 0
     makefile_in_root = 0
+    extension_counter = Counter()
     files = os.listdir(files_path)
     for file_name in files:
+        extension_set = set()
         with open('%s%s' % (files_path, file_name), 'r') as f:
             for line in f.readlines():
+                extension = line.split('.')[-1:]
+                if not extension[0] == line:
+                    extension_set.add(extension[0].strip('\n'))
                 if 'setup.py\n' == line or 'Setup.py\n' == line:
                     python_setup += 1
                     print(line)
                 elif 'makefile\n' == line or 'Makefile\n' == line:
                     makefile_in_root += 1
                     print(line)
+        for ext in extension_set:
+            extension_counter[ext] += 1
     print('Number of repos with setup.py: %r' % python_setup)
     print('Number of makefiles in root of repos: %r' % makefile_in_root)
+    print('10 most common extensions: ' + str(extension_counter.most_common(10)))
 
 def main():
     parser = argparse.ArgumentParser(description="Script for counting files in github repo")
