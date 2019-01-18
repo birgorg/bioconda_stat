@@ -1,0 +1,27 @@
+#package: barrnap-0.0.5 
+/PKG-INFO
+/LICENSE
+/LICENSE.Rfam
+/LICENSE.SILVA
+/MANIFEST.in
+/README.md
+/setup.py
+/setup.cfg
+/barrnap/barrnap.py
+/barrnap/examples/protein.fna
+/barrnap/examples/nohits.fna
+/barrnap/examples/empty.fna
+/barrnap/examples/mitochondria.fna
+/barrnap/examples/archaea.fna
+/barrnap/examples/null.fna
+/barrnap/examples/fungus.fna
+/barrnap/examples/small.fna
+/barrnap/examples/bacteria.fna
+/barrnap/db/arc.hmm
+/barrnap/db/bac.hmm
+/barrnap/db/mito.hmm
+/barrnap/db/euk.hmm
+/barrnap.egg-info/PKG-INFO
+/barrnap.egg-info/SOURCES.txt
+/barrnap.egg-info/top_level.txt
+/barrnap.egg-info/dependency_links.txt
