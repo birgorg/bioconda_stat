@@ -77,13 +77,15 @@ def countFileExtensions(files_path):
         extension_set = set()
         with open('%s%s' % (files_path, file_name), 'r') as f:
             for line in f.readlines():
+                line.strip('\n')
+                line.lower()
                 extension = line.split('.')[-1:]
                 if not extension[0] == line:
-                    extension_set.add(extension[0].strip('\n'))
-                if 'setup.py\n' == line or 'Setup.py\n' == line:
+                    extension_set.add(extension[0])
+                if 'setup.py' == line:
                     python_setup += 1
                     print(line)
-                elif 'makefile\n' == line or 'Makefile\n' == line:
+                elif 'makefile' == line:
                     makefile_in_root += 1
                     print(line)
         for ext in extension_set:
