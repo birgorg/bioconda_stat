@@ -1,6 +1,0 @@
-#package: TxDb.Rnorvegicus.UCSC.rn5.refGene 
-/NAMESPACE
-/DESCRIPTION
-/man/package.Rd
-/R/zzz.R
-/inst/extdata/TxDb.Rnorvegicus.UCSC.rn5.refGene.sqlite
