@@ -1,0 +1,48 @@
+=======  Github repo setup.py og makefile undersøgelse  =======
+Dato: 07/01/2019
+
+Metode:
+Ved at gennemløbe alle opskrifter(meta.yaml) fundet i Bioconda repositoriet
+bioconda-recepies. Trak vi den url ud, hvor source koden har hjemme, for 
+hver opskrift. Hvis denne url var et github repository, gemte vi url'en 
+i en fil. 
+Herefter hentede vi filtræet for hvert repository. Det er disse filtræer,
+som vi har gennemløbet og trukket data ud af. 
+
+Resultat:
+Ud af i alt 4063 Bioconda pakker blev fundet, at 937 havde source kode 
+liggende på Github.com. Af de 937 blev fundet 244 pakker med en setup.py 
+i rodmappen og 237 pakker med en Makefile i rodmappen.
+
+
+=======  Github repo file extension undersøgelse  =======
+Dato: 18/01/2019
+
+metode: 
+Samme som ovenfor
+
+Resultat:
+Ud af i alt 4063 Bioconda pakker blev fundet, at 937 havde source kode 
+liggende på Github.com. Af de 937 pakker var de 10 mest gennemgående
+file extensions:
+[('md', 826),
+('gitignore', 657),
+('txt', 547),
+('py', 495),
+('sh', 442),
+('yml', 405),
+('h', 363),
+('png', 258),
+('cpp', 250),
+('c', 248),
+('gz', 242),
+('in', 240),
+('fa', 179),
+('pl', 174),
+('R', 150),
+('rst', 146),
+('html', 142),
+('pdf', 139),
+('fasta', 139),
+('bam', 129)]
+
