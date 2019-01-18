@@ -1,4 +1,4 @@
-
+http://www-personal.umich.edu/~jianghui/seqmap/download/seqmap-1.0.13-src.zip
 http://bioconductor.org/packages/3.7/data/annotation/src/contrib/TxDb.Rnorvegicus.UCSC.rn5.refGene_3.4.3.tar.gz
 http://bioconductor.org/packages/3.7/bioc/src/contrib/RbcBook1_1.48.0.tar.gz
 http://bioconductor.org/packages/3.7/data/experiment/src/contrib/curatedMetagenomicData_1.10.2.tar.gz
@@ -35,7 +35,6 @@ http://bioconductor.org/packages/3.7/bioc/src/contrib/bridge_1.44.0.tar.gz
 http://hgdownload.cse.ucsc.edu/admin/exe/userApps.v366.src.tgz
 http://bioconductor.org/packages/3.7/bioc/src/contrib/preprocessCore_1.42.0.tar.gz
 http://hgdownload.cse.ucsc.edu/admin/exe/userApps.v366.src.tgz
-http://www-personal.umich.edu/~jianghui/seqmap/download/seqmap-1.0.13-src.zip
 https://pypi.python.org/packages/f0/3c/a93e1572570fe42222c77669232e9ebb686092969490bd4b81d5daafbe3d/CIRCexplorer-1.1.10.tar.gz
 http://hgdownload.cse.ucsc.edu/admin/exe/userApps.v366.src.tgz
 http://bioconductor.org/packages/3.7/data/annotation/src/contrib/Homo.sapiens_1.3.1.tar.gz
