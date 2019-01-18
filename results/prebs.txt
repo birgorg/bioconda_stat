@@ -1,0 +1,14 @@
+#package: prebs 
+/NAMESPACE
+/DESCRIPTION
+/man/calc_prebs.Rd
+/man/prebs.Rd
+/vignettes/my_references.bib
+/vignettes/prebs.Rnw
+/R/PREBS.R
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/prebs.Rnw
+/inst/doc/prebs.pdf
+/inst/doc/prebs.R

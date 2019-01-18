@@ -1,0 +1,27 @@
+#package: pancake-1.1.2 
+/PKG-INFO
+/MANIFEST.in
+/README
+/setup.py
+/setup.cfg
+/pancake.egg-info/PKG-INFO
+/pancake.egg-info/SOURCES.txt
+/pancake.egg-info/requires.txt
+/pancake.egg-info/top_level.txt
+/pancake.egg-info/dependency_links.txt
+/pancake/sf.py
+/pancake/chromosome.py
+/pancake/aliparser.py
+/pancake/editops.py
+/pancake/alignment.py
+/pancake/__init__.py
+/pancake/pangenome.py
+/pancake/core.py
+/pancake/fi.py
+/pancake/singletons.py
+/pancake/utils.py
+/pancake/gv_graphs.py
+/bin/pancake
+/tests/out.delta
+/tests/genomes.txt
+/tests/tests.py

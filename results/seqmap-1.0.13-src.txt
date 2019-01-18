@@ -1,0 +1,15 @@
+#package: seqmap-1.0.13-src 
+/type.h
+/file_operation.h
+/fasta.h
+/Makefile
+/match.cpp
+/probe.h
+/stl.h
+/timer.h
+/probe_match.h
+/math_utils.h
+/system_utils.h
+/README.txt
+/HISTORY.txt
+/string_operation.h

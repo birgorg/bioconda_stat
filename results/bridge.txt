@@ -1,0 +1,23 @@
+#package: bridge 
+/NAMESPACE
+/DESCRIPTION
+/man/bridge.2samples.Rd
+/man/bridge.3samples.Rd
+/man/hiv.Rd
+/vignettes/robust-testing.bib
+/vignettes/chicago.sty
+/vignettes/bridge.Rnw
+/vignettes/chicago.bst
+/R/zzz.R
+/R/bridge.2samples.R
+/R/bridge.3samples.R
+/build/vignette.rds
+/inst/doc/bridge.R
+/inst/doc/bridge.pdf
+/inst/doc/bridge.Rnw
+/data/hiv.rda
+/src/bridge3.c
+/src/bridge2_util.c
+/src/bridge2.affy.c
+/src/bridge2.c
+/src/bridge2_util.h

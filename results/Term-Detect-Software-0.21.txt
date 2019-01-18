@@ -1,0 +1,16 @@
+#package: Term-Detect-Software-0.21 
+/LICENSE
+/Changes
+/MANIFEST
+/TODO.md
+/README
+/META.yml
+/Makefile.PL
+/weaver.ini
+/META.json
+/dist.ini
+/t/release-pod-coverage.t
+/t/release-rinci.t
+/t/release-pod-syntax.t
+/t/00-compile.t
+/lib/Term/Detect/Software.pm
