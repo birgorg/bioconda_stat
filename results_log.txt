@@ -46,3 +46,51 @@ file extensions:
 ('fasta', 139),
 ('bam', 129)]
 
+=======  Download og unpack undersøgelse  =======
+Dato: 25/01/2019
+
+metode: 
+
+Ved at gennemløbe alle opskrifter(meta.yaml) fundet i Bioconda repositoriet
+bioconda-recepies. Trak vi den url ud, hvor source koden har hjemme, for 
+hver opskrift. For alle urler der ikke indeholdte github har vi downloaded 
+source koden og konstrueret et filtræ.
+Vi har herefter merged den nye data med dataen fra github. (se ovenfor) 
+
+Resultat:
+Ud af i alt 4063 Bioconda pakker blev fundet, at vi kunne konstruere filtræet
+for 3196 pakker. Af de pakker indeholde 689 af dem en setup.py i roden og i
+317 fandt vi en makefile i roden.
+De 30 mest gennemgående file extensions var følgende:
+(Dataen skal læses som i f.eks. 1447 pakker blev fundet en eller flere .txt filer)
+[('txt', 1447), 
+('md', 1379), 
+('r', 1313), 
+('rd', 1156), 
+('py', 1032), 
+('rds', 975), 
+('pdf', 974), 
+('yml', 912), 
+('h', 784), 
+('rnw', 730), 
+('pl', 729), 
+('gitignore', 715), 
+('sh', 656), 
+('c', 655), 
+('in', 634), 
+('png', 594), 
+('html', 570), 
+('pm', 563), 
+('cfg', 516), 
+('json', 500), 
+('t', 480), 
+('cpp', 474), 
+('rda', 473), 
+('bib', 452),
+('gz', 401), 
+('egg-info/pkg-info', 380), 
+('rst', 369), 
+('rmd', 319), 
+('fa', 296), 
+('rdata', 268)]
+(Bemærk at 'egg-info/pkg-info' ikke er en file extension)
