@@ -1,6 +1,12 @@
-#package: BSgenome.Hsapiens.UCSC.hg38 
-/NAMESPACE
-/DESCRIPTION
-/R/zzz.R
-/man/package.Rd
-/inst/extdata/single_sequences.2bit
+#package: bsgenome.hsapiens.ucsc.hg38 
+
+namespace
+
+description
+
+r/zzz.r
+
+man/package.rd
+
+inst/extdata/single_sequences.2bit
+

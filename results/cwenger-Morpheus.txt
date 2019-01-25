@@ -1,160 +1,320 @@
-#repo:cwenger/Morpheus 
+#repo:cwenger/morpheus 
+
 .gitignore
-LICENSE.txt
-README.md
+
+license.txt
+
+readme.md
+
 exclude.txt
+
 release.bat
+
 release.sh
-Morpheus Peptide Summarizer/Morpheus Peptide Summarizer.csproj
-Morpheus Peptide Summarizer/Morpheus Peptide Summarizer.sln
-Morpheus Peptide Summarizer/Morpheus.ico
-Morpheus Peptide Summarizer/Program.cs
-Morpheus Peptide Summarizer/frmMain.Designer.cs
-Morpheus Peptide Summarizer/frmMain.cs
-Morpheus Peptide Summarizer/frmMain.resx
-Morpheus Protein Summarizer/Morpheus Protein Summarizer.csproj
-Morpheus Protein Summarizer/Morpheus Protein Summarizer.sln
-Morpheus Protein Summarizer/Morpheus.ico
-Morpheus Protein Summarizer/Program.cs
-Morpheus Protein Summarizer/frmMain.Designer.cs
-Morpheus Protein Summarizer/frmMain.cs
-Morpheus Protein Summarizer/frmMain.resx
-Morpheus/Morpheus (Agilent).sln
-Morpheus/Morpheus (Thermo).sln
-Morpheus/Morpheus (mzML Mono).sln
-Morpheus/Morpheus (mzML).sln
-ZipFolder/Program.cs
-ZipFolder/ZipFolder.csproj
-ZipFolder/ZipFolder.sln
-Morpheus Peptide Summarizer/Properties/AssemblyInfo.cs
-Morpheus Peptide Summarizer/Properties/Resources.Designer.cs
-Morpheus Peptide Summarizer/Properties/Resources.resx
-Morpheus Peptide Summarizer/Properties/Settings.Designer.cs
-Morpheus Peptide Summarizer/Properties/Settings.settings
-Morpheus Protein Summarizer/Properties/AssemblyInfo.cs
-Morpheus Protein Summarizer/Properties/Resources.Designer.cs
-Morpheus Protein Summarizer/Properties/Resources.resx
-Morpheus Protein Summarizer/Properties/Settings.Designer.cs
-Morpheus Protein Summarizer/Properties/Settings.settings
-Morpheus/Agilent/App.config
-Morpheus/Agilent/EULA.MHDAC.txt
-Morpheus/Agilent/Morpheus (Agilent).csproj
-Morpheus/Agilent/TandemMassSpectra.Agilent.cs
-Morpheus/Agilent/frmMain.Agilent.cs
-Morpheus/Morpheus/AminoAcidMasses.cs
-Morpheus/Morpheus/AminoAcidPolymer.cs
-Morpheus/Morpheus/App.config
-Morpheus/Morpheus/CleavageSpecificity.cs
-Morpheus/Morpheus/Constants.cs
-Morpheus/Morpheus/DatabaseSearcher.cs
-Morpheus/Morpheus/ExceptionEventArgs.cs
-Morpheus/Morpheus/Exporters.cs
-Morpheus/Morpheus/FalseDiscoveryRate.cs
-Morpheus/Morpheus/FilepathEventArgs.cs
-Morpheus/Morpheus/ITargetDecoy.cs
-Morpheus/Morpheus/IdentificationWithFalseDiscoveryRate.cs
-Morpheus/Morpheus/InitiatorMethionineBehavior.cs
-Morpheus/Morpheus/MIT_License.Morpheus.txt
-Morpheus/Morpheus/MSPeak.cs
-Morpheus/Morpheus/MassTolerance.cs
-Morpheus/Morpheus/MassToleranceUnits.cs
-Morpheus/Morpheus/MassType.cs
-Morpheus/Morpheus/Modification.cs
-Morpheus/Morpheus/ModificationDictionary.cs
-Morpheus/Morpheus/ModificationType.cs
-Morpheus/Morpheus/Morpheus.ico
-Morpheus/Morpheus/PSI-MOD.obo.xml
-Morpheus/Morpheus/Peptide.cs
-Morpheus/Morpheus/PeptideSpectrumMatch.cs
-Morpheus/Morpheus/Product.cs
-Morpheus/Morpheus/ProductCaps.cs
-Morpheus/Morpheus/ProductType.cs
-Morpheus/Morpheus/ProductTypes.cs
-Morpheus/Morpheus/Program.cs
-Morpheus/Morpheus/ProgressEventArgs.cs
-Morpheus/Morpheus/Protease.cs
-Morpheus/Morpheus/ProteaseDictionary.cs
-Morpheus/Morpheus/Protein.cs
-Morpheus/Morpheus/ProteinGroup.cs
-Morpheus/Morpheus/ProteomeDatabaseReader.cs
-Morpheus/Morpheus/StatusEventArgs.cs
-Morpheus/Morpheus/TandemMassSpectra.Filtering.cs
-Morpheus/Morpheus/TandemMassSpectra.cs
-Morpheus/Morpheus/TandemMassSpectrum.cs
-Morpheus/Morpheus/Terminus.cs
-Morpheus/Morpheus/amino_acids.tsv
-Morpheus/Morpheus/frmMain.Designer.cs
-Morpheus/Morpheus/frmMain.cs
-Morpheus/Morpheus/frmMain.resources
-Morpheus/Morpheus/frmMain.resx
-Morpheus/Morpheus/modifications.tsv
-Morpheus/Morpheus/product_caps.tsv
-Morpheus/Morpheus/product_types.tsv
-Morpheus/Morpheus/proteases.tsv
-Morpheus/Morpheus/ptmlist.txt
-Morpheus/Thermo/EULA.MSFileReader.txt
-Morpheus/Thermo/Morpheus (Thermo).csproj
-Morpheus/Thermo/TandemMassSpectra.Thermo.cs
-Morpheus/mzML/Morpheus (mzML).csproj
-Morpheus/mzML/TandemMassSpectra.mzML.cs
-ZipFolder/Properties/AssemblyInfo.cs
-external/Agilent/AgtFileSelectionDialog.dll
-external/Agilent/BaseCommon.dll
-external/Agilent/BaseDataAccess.dll
-external/Agilent/BaseError.dll
-external/Agilent/BaseTof.dll
-external/Agilent/CoreDefinitions.dll
-external/Agilent/CoreTypes.dll
-external/Agilent/CoreUI.dll
-external/Agilent/EULA.MHDAC.txt
-external/Agilent/Infragistics2.Shared.v9.1.dll
-external/Agilent/Infragistics2.Win.v9.1.dll
-external/Agilent/Interop.Shell32.dll
-external/Agilent/MassSpecDataReader.dll
-external/Agilent/QualDefinitions.dll
-external/Agilent/QualUI.dll
-external/CommandLine/CommandLine (Mono).sln
-external/CommandLine/CommandLine.sln
-external/DotNetZip/Ionic.Zlib.dll
-external/Thermo/EULA.MSFileReader.txt
-external/Thermo/XRawfile2.dll
-external/Thermo/XRawfile2_x64.dll
-Morpheus/Agilent/Properties/AssemblyInfo.cs
-Morpheus/Agilent/Properties/Resources.Designer.cs
-Morpheus/Agilent/Properties/Resources.resources
-Morpheus/Agilent/Properties/Resources.resx
-Morpheus/Agilent/Properties/Settings.Designer.cs
-Morpheus/Agilent/Properties/Settings.settings
-Morpheus/Agilent/command line/Morpheus (Agilent command line).csproj
-Morpheus/Morpheus/command line/Program.cs
-Morpheus/Thermo/Properties/AssemblyInfo.cs
-Morpheus/Thermo/Properties/Resources.Designer.cs
-Morpheus/Thermo/Properties/Resources.resources
-Morpheus/Thermo/Properties/Resources.resx
-Morpheus/Thermo/Properties/Settings.Designer.cs
-Morpheus/Thermo/Properties/Settings.settings
-Morpheus/Thermo/command line/Morpheus (Thermo command line).csproj
-Morpheus/mzML/Mono/Morpheus (mzML Mono).csproj
-Morpheus/mzML/Properties/AssemblyInfo.cs
-Morpheus/mzML/Properties/Resources.Designer.cs
-Morpheus/mzML/Properties/Resources.resources
-Morpheus/mzML/Properties/Resources.resx
-Morpheus/mzML/Properties/Settings.Designer.cs
-Morpheus/mzML/Properties/Settings.settings
-Morpheus/mzML/command line/Morpheus (mzML command line).csproj
-external/CommandLine/CommandLine/App.ico
-external/CommandLine/CommandLine/AssemblyInfo.cs
-external/CommandLine/CommandLine/CommandLine (Mono).csproj
-external/CommandLine/CommandLine/CommandLine.csproj
-external/CommandLine/CommandLine/MIT_License.CommandLine.txt
-Morpheus/Agilent/command line/Properties/AssemblyInfo.cs
-Morpheus/Thermo/command line/Properties/AssemblyInfo.cs
-Morpheus/mzML/Mono/Properties/AssemblyInfo.cs
-Morpheus/mzML/Mono/Properties/Resources.Designer.cs
-Morpheus/mzML/Mono/Properties/Resources.resources
-Morpheus/mzML/Mono/Properties/Resources.resx
-Morpheus/mzML/Mono/Properties/Settings.Designer.cs
-Morpheus/mzML/Mono/Properties/Settings.settings
-Morpheus/mzML/Mono/command line/Morpheus (mzML Mono command line).csproj
-Morpheus/mzML/command line/Properties/AssemblyInfo.cs
-external/CommandLine/CommandLine/Utility/Arguments.cs
+
+morpheus peptide summarizer/morpheus peptide summarizer.csproj
+
+morpheus peptide summarizer/morpheus peptide summarizer.sln
+
+morpheus peptide summarizer/morpheus.ico
+
+morpheus peptide summarizer/program.cs
+
+morpheus peptide summarizer/frmmain.designer.cs
+
+morpheus peptide summarizer/frmmain.cs
+
+morpheus peptide summarizer/frmmain.resx
+
+morpheus protein summarizer/morpheus protein summarizer.csproj
+
+morpheus protein summarizer/morpheus protein summarizer.sln
+
+morpheus protein summarizer/morpheus.ico
+
+morpheus protein summarizer/program.cs
+
+morpheus protein summarizer/frmmain.designer.cs
+
+morpheus protein summarizer/frmmain.cs
+
+morpheus protein summarizer/frmmain.resx
+
+morpheus/morpheus (agilent).sln
+
+morpheus/morpheus (thermo).sln
+
+morpheus/morpheus (mzml mono).sln
+
+morpheus/morpheus (mzml).sln
+
+zipfolder/program.cs
+
+zipfolder/zipfolder.csproj
+
+zipfolder/zipfolder.sln
+
+morpheus peptide summarizer/properties/assemblyinfo.cs
+
+morpheus peptide summarizer/properties/resources.designer.cs
+
+morpheus peptide summarizer/properties/resources.resx
+
+morpheus peptide summarizer/properties/settings.designer.cs
+
+morpheus peptide summarizer/properties/settings.settings
+
+morpheus protein summarizer/properties/assemblyinfo.cs
+
+morpheus protein summarizer/properties/resources.designer.cs
+
+morpheus protein summarizer/properties/resources.resx
+
+morpheus protein summarizer/properties/settings.designer.cs
+
+morpheus protein summarizer/properties/settings.settings
+
+morpheus/agilent/app.config
+
+morpheus/agilent/eula.mhdac.txt
+
+morpheus/agilent/morpheus (agilent).csproj
+
+morpheus/agilent/tandemmassspectra.agilent.cs
+
+morpheus/agilent/frmmain.agilent.cs
+
+morpheus/morpheus/aminoacidmasses.cs
+
+morpheus/morpheus/aminoacidpolymer.cs
+
+morpheus/morpheus/app.config
+
+morpheus/morpheus/cleavagespecificity.cs
+
+morpheus/morpheus/constants.cs
+
+morpheus/morpheus/databasesearcher.cs
+
+morpheus/morpheus/exceptioneventargs.cs
+
+morpheus/morpheus/exporters.cs
+
+morpheus/morpheus/falsediscoveryrate.cs
+
+morpheus/morpheus/filepatheventargs.cs
+
+morpheus/morpheus/itargetdecoy.cs
+
+morpheus/morpheus/identificationwithfalsediscoveryrate.cs
+
+morpheus/morpheus/initiatormethioninebehavior.cs
+
+morpheus/morpheus/mit_license.morpheus.txt
+
+morpheus/morpheus/mspeak.cs
+
+morpheus/morpheus/masstolerance.cs
+
+morpheus/morpheus/masstoleranceunits.cs
+
+morpheus/morpheus/masstype.cs
+
+morpheus/morpheus/modification.cs
+
+morpheus/morpheus/modificationdictionary.cs
+
+morpheus/morpheus/modificationtype.cs
+
+morpheus/morpheus/morpheus.ico
+
+morpheus/morpheus/psi-mod.obo.xml
+
+morpheus/morpheus/peptide.cs
+
+morpheus/morpheus/peptidespectrummatch.cs
+
+morpheus/morpheus/product.cs
+
+morpheus/morpheus/productcaps.cs
+
+morpheus/morpheus/producttype.cs
+
+morpheus/morpheus/producttypes.cs
+
+morpheus/morpheus/program.cs
+
+morpheus/morpheus/progresseventargs.cs
+
+morpheus/morpheus/protease.cs
+
+morpheus/morpheus/proteasedictionary.cs
+
+morpheus/morpheus/protein.cs
+
+morpheus/morpheus/proteingroup.cs
+
+morpheus/morpheus/proteomedatabasereader.cs
+
+morpheus/morpheus/statuseventargs.cs
+
+morpheus/morpheus/tandemmassspectra.filtering.cs
+
+morpheus/morpheus/tandemmassspectra.cs
+
+morpheus/morpheus/tandemmassspectrum.cs
+
+morpheus/morpheus/terminus.cs
+
+morpheus/morpheus/amino_acids.tsv
+
+morpheus/morpheus/frmmain.designer.cs
+
+morpheus/morpheus/frmmain.cs
+
+morpheus/morpheus/frmmain.resources
+
+morpheus/morpheus/frmmain.resx
+
+morpheus/morpheus/modifications.tsv
+
+morpheus/morpheus/product_caps.tsv
+
+morpheus/morpheus/product_types.tsv
+
+morpheus/morpheus/proteases.tsv
+
+morpheus/morpheus/ptmlist.txt
+
+morpheus/thermo/eula.msfilereader.txt
+
+morpheus/thermo/morpheus (thermo).csproj
+
+morpheus/thermo/tandemmassspectra.thermo.cs
+
+morpheus/mzml/morpheus (mzml).csproj
+
+morpheus/mzml/tandemmassspectra.mzml.cs
+
+zipfolder/properties/assemblyinfo.cs
+
+external/agilent/agtfileselectiondialog.dll
+
+external/agilent/basecommon.dll
+
+external/agilent/basedataaccess.dll
+
+external/agilent/baseerror.dll
+
+external/agilent/basetof.dll
+
+external/agilent/coredefinitions.dll
+
+external/agilent/coretypes.dll
+
+external/agilent/coreui.dll
+
+external/agilent/eula.mhdac.txt
+
+external/agilent/infragistics2.shared.v9.1.dll
+
+external/agilent/infragistics2.win.v9.1.dll
+
+external/agilent/interop.shell32.dll
+
+external/agilent/massspecdatareader.dll
+
+external/agilent/qualdefinitions.dll
+
+external/agilent/qualui.dll
+
+external/commandline/commandline (mono).sln
+
+external/commandline/commandline.sln
+
+external/dotnetzip/ionic.zlib.dll
+
+external/thermo/eula.msfilereader.txt
+
+external/thermo/xrawfile2.dll
+
+external/thermo/xrawfile2_x64.dll
+
+morpheus/agilent/properties/assemblyinfo.cs
+
+morpheus/agilent/properties/resources.designer.cs
+
+morpheus/agilent/properties/resources.resources
+
+morpheus/agilent/properties/resources.resx
+
+morpheus/agilent/properties/settings.designer.cs
+
+morpheus/agilent/properties/settings.settings
+
+morpheus/agilent/command line/morpheus (agilent command line).csproj
+
+morpheus/morpheus/command line/program.cs
+
+morpheus/thermo/properties/assemblyinfo.cs
+
+morpheus/thermo/properties/resources.designer.cs
+
+morpheus/thermo/properties/resources.resources
+
+morpheus/thermo/properties/resources.resx
+
+morpheus/thermo/properties/settings.designer.cs
+
+morpheus/thermo/properties/settings.settings
+
+morpheus/thermo/command line/morpheus (thermo command line).csproj
+
+morpheus/mzml/mono/morpheus (mzml mono).csproj
+
+morpheus/mzml/properties/assemblyinfo.cs
+
+morpheus/mzml/properties/resources.designer.cs
+
+morpheus/mzml/properties/resources.resources
+
+morpheus/mzml/properties/resources.resx
+
+morpheus/mzml/properties/settings.designer.cs
+
+morpheus/mzml/properties/settings.settings
+
+morpheus/mzml/command line/morpheus (mzml command line).csproj
+
+external/commandline/commandline/app.ico
+
+external/commandline/commandline/assemblyinfo.cs
+
+external/commandline/commandline/commandline (mono).csproj
+
+external/commandline/commandline/commandline.csproj
+
+external/commandline/commandline/mit_license.commandline.txt
+
+morpheus/agilent/command line/properties/assemblyinfo.cs
+
+morpheus/thermo/command line/properties/assemblyinfo.cs
+
+morpheus/mzml/mono/properties/assemblyinfo.cs
+
+morpheus/mzml/mono/properties/resources.designer.cs
+
+morpheus/mzml/mono/properties/resources.resources
+
+morpheus/mzml/mono/properties/resources.resx
+
+morpheus/mzml/mono/properties/settings.designer.cs
+
+morpheus/mzml/mono/properties/settings.settings
+
+morpheus/mzml/mono/command line/morpheus (mzml mono command line).csproj
+
+morpheus/mzml/command line/properties/assemblyinfo.cs
+
+external/commandline/commandline/utility/arguments.cs
+

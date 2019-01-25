@@ -1,4 +1,8 @@
-#repo:carringtonlab/TargetFinder 
-LICENSE
-README.md
+#repo:carringtonlab/targetfinder 
+
+license
+
+readme.md
+
 targetfinder.pl
+

@@ -1,4 +1,8 @@
-#repo:xzt41/RPF-count-CDS 
-LICENSE
-README.md
-RPF_count_CDS.py
+#repo:xzt41/rpf-count-cds 
+
+license
+
+readme.md
+
+rpf_count_cds.py
+

@@ -1,6 +1,12 @@
 #repo:nugentechnologies/nudup 
-Dockerfile
-LICENSE.md
-README.md
+
+dockerfile
+
+license.md
+
+readme.md
+
 _config.yml
+
 nudup.py
+

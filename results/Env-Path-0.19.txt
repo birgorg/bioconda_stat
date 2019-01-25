@@ -1,11 +1,22 @@
-#package: Env-Path-0.19 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/envpath
-/Changes
-/test.pl
-/Path.pm
-/examples/Whence
-/examples/Whence.bat
+#package: env-path-0.19 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+envpath
+
+changes
+
+test.pl
+
+path.pm
+
+examples/whence
+
+examples/whence.bat
+

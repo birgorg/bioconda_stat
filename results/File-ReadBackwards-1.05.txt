@@ -1,9 +1,18 @@
-#package: File-ReadBackwards-1.05 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/ReadBackwards.pm
-/t/bw.t
-/t/large_file.t
+#package: file-readbackwards-1.05 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+readbackwards.pm
+
+t/bw.t
+
+t/large_file.t
+

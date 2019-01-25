@@ -1,3 +1,6 @@
-#repo:PacificBiosciences/minorseq 
-LICENSE
-README.md
+#repo:pacificbiosciences/minorseq 
+
+license
+
+readme.md
+

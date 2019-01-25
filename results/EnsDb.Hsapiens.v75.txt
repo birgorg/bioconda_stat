@@ -1,6 +1,12 @@
-#package: EnsDb.Hsapiens.v75 
-/NAMESPACE
-/DESCRIPTION
-/R/zzz.R
-/man/package.Rd
-/inst/extdata/EnsDb.Hsapiens.v75.sqlite
+#package: ensdb.hsapiens.v75 
+
+namespace
+
+description
+
+r/zzz.r
+
+man/package.rd
+
+inst/extdata/ensdb.hsapiens.v75.sqlite
+

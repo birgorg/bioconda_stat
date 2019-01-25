@@ -1,3 +1,6 @@
 #repo:steinmann/peakzilla 
-COPYING
-README
+
+copying
+
+readme
+

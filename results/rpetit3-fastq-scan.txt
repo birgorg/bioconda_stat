@@ -1,7 +1,14 @@
 #repo:rpetit3/fastq-scan 
+
 .gitignore
-LICENSE
-Makefile
-README.md
+
+license
+
+makefile
+
+readme.md
+
 example-q33.fq
+
 example-q64.fq
+

@@ -1,12 +1,24 @@
-#package: Mozilla-CA-20180117 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/META.json
-/update-cacert-file
-/mk-ca-bundle.pl
-/t/locate-file.t
-/lib/Mozilla/CA.pm
-/lib/Mozilla/CA/cacert.pem
+#package: mozilla-ca-20180117 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+meta.json
+
+update-cacert-file
+
+mk-ca-bundle.pl
+
+t/locate-file.t
+
+lib/mozilla/ca.pm
+
+lib/mozilla/ca/cacert.pem
+

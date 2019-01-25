@@ -1,10 +1,20 @@
-#package: RUST_1.2 
-/rust_amino
-/rust_plot_transcript
-/rust_tripeptide
-/rust_codon
-/rust_synergy
-/rust_nucleotide
-/rust_dipeptide
-/rust_predict_profiles
-/COPYING
+#package: rust_1.2 
+
+rust_amino
+
+rust_plot_transcript
+
+rust_tripeptide
+
+rust_codon
+
+rust_synergy
+
+rust_nucleotide
+
+rust_dipeptide
+
+rust_predict_profiles
+
+copying
+

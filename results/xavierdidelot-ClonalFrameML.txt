@@ -1,3 +1,6 @@
-#repo:xavierdidelot/ClonalFrameML 
+#repo:xavierdidelot/clonalframeml 
+
 .gitignore
-README.md
+
+readme.md
+

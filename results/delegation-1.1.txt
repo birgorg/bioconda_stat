@@ -1,5 +1,10 @@
 #package: delegation-1.1 
-/PKG-INFO
-/setup.py
-/setup.cfg
-/delegation/__init__.py
+
+pkg-info
+
+setup.py
+
+setup.cfg
+
+delegation/__init__.py
+

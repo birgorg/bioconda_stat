@@ -1,3 +1,6 @@
-#repo:MikeAxtell/ShortStack 
-LICENSE
-README
+#repo:mikeaxtell/shortstack 
+
+license
+
+readme
+

@@ -1,8 +1,16 @@
-#package: Math-Round-0.07 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/test.pl
-/Round.pm
+#package: math-round-0.07 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+test.pl
+
+round.pm
+

@@ -1,9 +1,18 @@
-#package: Module-Loaded-0.08 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/META.json
-/CHANGES
-/t/01_Module-Loaded.t
-/lib/Module/Loaded.pm
+#package: module-loaded-0.08 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+meta.json
+
+changes
+
+t/01_module-loaded.t
+
+lib/module/loaded.pm
+

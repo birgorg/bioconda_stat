@@ -1,4 +1,8 @@
-#repo:hcdenbakker/SalmID 
-LICENSE
-README.md
+#repo:hcdenbakker/salmid 
+
+license
+
+readme.md
+
 pyproject.toml
+

@@ -1,9 +1,18 @@
-#package: Canary-Stability-2012 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/Stability.pm
-/META.json
-/COPYING
+#package: canary-stability-2012 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+stability.pm
+
+meta.json
+
+copying
+

@@ -1,3 +1,6 @@
-#repo:Alanamosse/Netcdf-Metadata-Info 
-Makefile
-NC_info.c
+#repo:alanamosse/netcdf-metadata-info 
+
+makefile
+
+nc_info.c
+

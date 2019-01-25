@@ -1,9 +1,18 @@
-#package: Devel-Cycle-1.12 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/META.json
-/t/Devel-Cycle.t
-/lib/Devel/Cycle.pm
+#package: devel-cycle-1.12 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+meta.json
+
+t/devel-cycle.t
+
+lib/devel/cycle.pm
+

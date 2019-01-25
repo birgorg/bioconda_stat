@@ -1,7 +1,14 @@
-#package: GenomeInfoDbData 
-/NAMESPACE
-/DESCRIPTION
-/data/specData.rda
-/data/datalist
-/man/GenomeInfoDbData-package.Rd
-/inst/scripts/updateGenomeInfoDbData.R
+#package: genomeinfodbdata 
+
+namespace
+
+description
+
+data/specdata.rda
+
+data/datalist
+
+man/genomeinfodbdata-package.rd
+
+inst/scripts/updategenomeinfodbdata.r
+

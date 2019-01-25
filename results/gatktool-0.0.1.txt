@@ -1,5 +1,10 @@
 #package: gatktool-0.0.1 
-/PKG-INFO
-/setup.py
-/gatktool/__init__.py
-/gatktool/tool.py
+
+pkg-info
+
+setup.py
+
+gatktool/__init__.py
+
+gatktool/tool.py
+

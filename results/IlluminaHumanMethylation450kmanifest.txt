@@ -1,7 +1,14 @@
-#package: IlluminaHumanMethylation450kmanifest 
-/NAMESPACE
-/DESCRIPTION
-/data/IlluminaHumanMethylation450kmanifest.rda
-/data/datalist
-/man/IlluminaHumanMethylation450kmanifest.Rd
-/inst/scripts/manifest.R
+#package: illuminahumanmethylation450kmanifest 
+
+namespace
+
+description
+
+data/illuminahumanmethylation450kmanifest.rda
+
+data/datalist
+
+man/illuminahumanmethylation450kmanifest.rd
+
+inst/scripts/manifest.r
+

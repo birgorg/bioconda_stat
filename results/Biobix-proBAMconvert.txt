@@ -1,2 +1,4 @@
-#repo:Biobix/proBAMconvert 
-Readme
+#repo:biobix/probamconvert 
+
+readme
+

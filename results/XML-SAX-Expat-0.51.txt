@@ -1,12 +1,24 @@
-#package: XML-SAX-Expat-0.51 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/Expat.pm
-/META.json
-/t/98podsyn.t
-/t/00basic.t
-/t/99podcov.t
-/eg/counter.pl
+#package: xml-sax-expat-0.51 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+expat.pm
+
+meta.json
+
+t/98podsyn.t
+
+t/00basic.t
+
+t/99podcov.t
+
+eg/counter.pl
+

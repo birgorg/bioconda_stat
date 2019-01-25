@@ -1,5 +1,10 @@
-#repo:ndierckx/NOVOPlasty 
+#repo:ndierckx/novoplasty 
+
 .gitignore
-LICENSE
-NOVOPlasty2.7.2.pl
-README.md
+
+license
+
+novoplasty2.7.2.pl
+
+readme.md
+

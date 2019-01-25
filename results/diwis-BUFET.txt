@@ -1,6 +1,12 @@
-#repo:diwis/BUFET 
-LICENSE
-Makefile
-README.md
+#repo:diwis/bufet 
+
+license
+
+makefile
+
+readme.md
+
 bufet.cpp
+
 bufet.py
+

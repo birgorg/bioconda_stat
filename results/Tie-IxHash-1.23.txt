@@ -1,12 +1,24 @@
-#package: Tie-IxHash-1.23 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/META.json
-/Build.PL
-/t/pod.t
-/t/each-delete.t
-/t/ixhash.t
-/lib/Tie/IxHash.pm
+#package: tie-ixhash-1.23 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+meta.json
+
+build.pl
+
+t/pod.t
+
+t/each-delete.t
+
+t/ixhash.t
+
+lib/tie/ixhash.pm
+

@@ -1,5 +1,10 @@
-#repo:ImmPortDB/ig-checkflowtypes 
-README.md
-checkFCS.R
-checkFlowSOM.R
-checkFlowSet.R
+#repo:immportdb/ig-checkflowtypes 
+
+readme.md
+
+checkfcs.r
+
+checkflowsom.r
+
+checkflowset.r
+

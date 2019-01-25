@@ -1,12 +1,24 @@
-#package: FileDirUtil-v0.03 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/META.json
-/t/manifest.t
-/t/pod.t
-/t/FileDirUtil.t
-/t/pod-coverage.t
-/lib/FileDirUtil.pm
+#package: filedirutil-v0.03 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+meta.json
+
+t/manifest.t
+
+t/pod.t
+
+t/filedirutil.t
+
+t/pod-coverage.t
+
+lib/filedirutil.pm
+

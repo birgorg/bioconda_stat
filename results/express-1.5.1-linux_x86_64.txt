@@ -1,7 +1,14 @@
 #package: express-1.5.1-linux_x86_64 
-/LICENSE
-/README
-/express
-/sample_data/transcripts.fasta
-/sample_data/reads_1.fastq
-/sample_data/reads_2.fastq
+
+license
+
+readme
+
+express
+
+sample_data/transcripts.fasta
+
+sample_data/reads_1.fastq
+
+sample_data/reads_2.fastq
+

@@ -1,9 +1,18 @@
-#package: Trimmomatic-0.38 
-/LICENSE
-/trimmomatic-0.38.jar
-/adapters/TruSeq2-SE.fa
-/adapters/TruSeq3-SE.fa
-/adapters/TruSeq3-PE-2.fa
-/adapters/TruSeq3-PE.fa
-/adapters/NexteraPE-PE.fa
-/adapters/TruSeq2-PE.fa
+#package: trimmomatic-0.38 
+
+license
+
+trimmomatic-0.38.jar
+
+adapters/truseq2-se.fa
+
+adapters/truseq3-se.fa
+
+adapters/truseq3-pe-2.fa
+
+adapters/truseq3-pe.fa
+
+adapters/nexterape-pe.fa
+
+adapters/truseq2-pe.fa
+

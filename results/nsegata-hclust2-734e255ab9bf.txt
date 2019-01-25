@@ -1,9 +1,18 @@
 #package: nsegata-hclust2-734e255ab9bf 
-/README.md
-/license.txt
-/__init__.py
-/.hgtags
-/.hg_archival.txt
-/hclust2.py
-/examples/HMP-MetaPhlAn/HMP.species.txt
-/examples/HMP-MetaPhlAn/run.sh
+
+readme.md
+
+license.txt
+
+__init__.py
+
+.hgtags
+
+.hg_archival.txt
+
+hclust2.py
+
+examples/hmp-metaphlan/hmp.species.txt
+
+examples/hmp-metaphlan/run.sh
+

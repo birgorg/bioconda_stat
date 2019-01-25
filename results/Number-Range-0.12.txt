@@ -1,8 +1,16 @@
-#package: Number-Range-0.12 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/t/Number-Range.t
-/lib/Number/Range.pm
+#package: number-range-0.12 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+t/number-range.t
+
+lib/number/range.pm
+

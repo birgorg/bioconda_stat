@@ -1,3 +1,6 @@
 #repo:chollenbeck/rad_haplotyper 
-LICENSE
-README.md
+
+license
+
+readme.md
+

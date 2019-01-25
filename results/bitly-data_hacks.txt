@@ -1,8 +1,16 @@
 #repo:bitly/data_hacks 
+
 .gitignore
-README.markdown
+
+readme.markdown
+
 setup.py
+
 data_hacks/bar_chart.py
+
 data_hacks/histogram.py
+
 data_hacks/ninety_five_percent.py
+
 data_hacks/run_for.py
+

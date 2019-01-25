@@ -1,8 +1,16 @@
-#package: XML-RegExp-0.04 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/test.pl
-/lib/XML/RegExp.pm
+#package: xml-regexp-0.04 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+test.pl
+
+lib/xml/regexp.pm
+

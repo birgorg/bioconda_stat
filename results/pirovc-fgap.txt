@@ -1,4 +1,8 @@
 #repo:pirovc/fgap 
-LICENSE.md
-README.md
+
+license.md
+
+readme.md
+
 fgap.m
+

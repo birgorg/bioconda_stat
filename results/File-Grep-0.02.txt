@@ -1,10 +1,20 @@
-#package: File-Grep-0.02 
-/META.yml
-/Grep.pm
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/t/grep.t
-/t/test.txt
-/t/test2.txt
+#package: file-grep-0.02 
+
+meta.yml
+
+grep.pm
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+t/grep.t
+
+t/test.txt
+
+t/test2.txt
+

@@ -1,4 +1,8 @@
-#repo:metageni/Scaffold_builder 
-COPYING
-README.md
+#repo:metageni/scaffold_builder 
+
+copying
+
+readme.md
+
 scaffold_builder.py
+

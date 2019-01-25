@@ -1,8 +1,16 @@
 #repo:chengyuan/reago-1.1 
-README.md
+
+readme.md
+
 benchmark.parameter
+
 filter_input.py
+
 reago.py
+
 sample_1.fasta
+
 sample_2.fasta
+
 cm/archaea.cm
+

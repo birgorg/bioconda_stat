@@ -1,4 +1,8 @@
-#repo:CK7/abawaca 
-Makefile
-README.md
+#repo:ck7/abawaca 
+
+makefile
+
+readme.md
+
 abawaca
+

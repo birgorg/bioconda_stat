@@ -1,6 +1,12 @@
 #repo:mikessh/oncofuse 
+
 .gitignore
+
 .travis.yml
-LICENCE.txt
+
+licence.txt
+
 pom.xml
+
 readme.md
+

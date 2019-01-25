@@ -1,3 +1,6 @@
-#repo:fabio-cumbo/RNAcentral-data-retrieval-tool 
-LICENSE.txt
-README.md
+#repo:fabio-cumbo/rnacentral-data-retrieval-tool 
+
+license.txt
+
+readme.md
+

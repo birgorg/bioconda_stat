@@ -1,6 +1,12 @@
-#package: TSSAR_1.0.1 
-/VGAM_0.9-0.tar.gz
-/README
-/install.sh
-/skellam_0.0-8-7.tar.gz
-/TSSAR
+#package: tssar_1.0.1 
+
+vgam_0.9-0.tar.gz
+
+readme
+
+install.sh
+
+skellam_0.0-8-7.tar.gz
+
+tssar
+

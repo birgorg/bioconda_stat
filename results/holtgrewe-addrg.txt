@@ -1,5 +1,10 @@
 #repo:holtgrewe/addrg 
-HISTORY.md
-LICENSE.txt
-Makefile
-README.md
+
+history.md
+
+license.txt
+
+makefile
+
+readme.md
+

@@ -1,5 +1,10 @@
 #repo:jts/sga 
-Dockerfile
-Dockerfile.testing
-README.md
+
+dockerfile
+
+dockerfile.testing
+
+readme.md
+
 index.html
+

@@ -1,9 +1,18 @@
 #package: graphlite-1.0.5 
-/README
-/PKG-INFO
-/setup.py
-/graphlite/graph.py
-/graphlite/__init__.py
-/graphlite/query.py
-/graphlite/sql.py
-/graphlite/transaction.py
+
+readme
+
+pkg-info
+
+setup.py
+
+graphlite/graph.py
+
+graphlite/__init__.py
+
+graphlite/query.py
+
+graphlite/sql.py
+
+graphlite/transaction.py
+

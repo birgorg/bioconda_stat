@@ -1,11 +1,22 @@
-#package: Scope-Guard-0.21 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/META.json
-/t/guard.t
-/t/scope_guard.t
-/t/new.t
-/lib/Scope/Guard.pm
+#package: scope-guard-0.21 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+meta.json
+
+t/guard.t
+
+t/scope_guard.t
+
+t/new.t
+
+lib/scope/guard.pm
+

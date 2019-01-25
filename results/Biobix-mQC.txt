@@ -1,4 +1,8 @@
-#repo:Biobix/mQC 
-LICENSE
-README.md
-mQC.pl
+#repo:biobix/mqc 
+
+license
+
+readme.md
+
+mqc.pl
+

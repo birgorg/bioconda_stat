@@ -1,4 +1,8 @@
 #package: 2.7.7 
-/soap.coverage.1
-/soap.coverage.man
-/soap.coverage
+
+soap.coverage.1
+
+soap.coverage.man
+
+soap.coverage
+

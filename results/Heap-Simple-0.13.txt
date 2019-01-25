@@ -1,11 +1,22 @@
-#package: Heap-Simple-0.13 
-/META.yml
-/md5-versions
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/MANIFEST.SKIP
-/t/Heap-Simple.t
-/lib/Heap/Simple.pm
-/lib/Heap/Simple/Package.pm
+#package: heap-simple-0.13 
+
+meta.yml
+
+md5-versions
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+manifest.skip
+
+t/heap-simple.t
+
+lib/heap/simple.pm
+
+lib/heap/simple/package.pm
+

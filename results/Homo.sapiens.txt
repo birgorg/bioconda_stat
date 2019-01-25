@@ -1,6 +1,12 @@
-#package: Homo.sapiens 
-/NAMESPACE
-/DESCRIPTION
-/R/zzz.R
-/data/graphInfo.rda
-/man/Homo.sapiens.Rd
+#package: homo.sapiens 
+
+namespace
+
+description
+
+r/zzz.r
+
+data/graphinfo.rda
+
+man/homo.sapiens.rd
+

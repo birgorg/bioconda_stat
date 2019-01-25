@@ -1,7 +1,14 @@
 #package: soap2.21release 
-/soap.man
-/NOTE
-/2bwt-builder
-/soap
-/release
-/soap.1
+
+soap.man
+
+note
+
+2bwt-builder
+
+soap
+
+release
+
+soap.1
+

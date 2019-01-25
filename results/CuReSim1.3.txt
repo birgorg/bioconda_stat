@@ -1,6 +1,12 @@
-#package: CuReSim1.3 
-/manual.pdf
-/CuReSim.jar
-/CuReSim_galaxy/README.txt
-/CuReSim_galaxy/CuReSim.xml
-/CuReSim_galaxy/CuReSim.sh
+#package: curesim1.3 
+
+manual.pdf
+
+curesim.jar
+
+curesim_galaxy/readme.txt
+
+curesim_galaxy/curesim.xml
+
+curesim_galaxy/curesim.sh
+

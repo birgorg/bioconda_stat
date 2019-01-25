@@ -1,12 +1,24 @@
-#package: Sub-Info-0.002 
-/README.md
-/META.yml
-/LICENSE
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/META.json
-/cpanfile
-/t/Sub.t
-/lib/Sub/Info.pm
+#package: sub-info-0.002 
+
+readme.md
+
+meta.yml
+
+license
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+meta.json
+
+cpanfile
+
+t/sub.t
+
+lib/sub/info.pm
+

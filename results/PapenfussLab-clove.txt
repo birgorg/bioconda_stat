@@ -1,6 +1,12 @@
-#repo:PapenfussLab/clove 
+#repo:papenfusslab/clove 
+
 .gitignore
-LICENSE
-README.md
+
+license
+
+readme.md
+
 pom.xml
+
 simulation.sh
+

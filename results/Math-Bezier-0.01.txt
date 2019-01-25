@@ -1,7 +1,14 @@
-#package: Math-Bezier-0.01 
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/test.pl
-/Bezier.pm
+#package: math-bezier-0.01 
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+test.pl
+
+bezier.pm
+

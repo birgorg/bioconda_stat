@@ -1,11 +1,22 @@
-#package: IO-SessionData-1.03 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/META.json
-/t/SessionData.t
-/t/SessionSet.t
-/lib/IO/SessionData.pm
-/lib/IO/SessionSet.pm
+#package: io-sessiondata-1.03 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+meta.json
+
+t/sessiondata.t
+
+t/sessionset.t
+
+lib/io/sessiondata.pm
+
+lib/io/sessionset.pm
+

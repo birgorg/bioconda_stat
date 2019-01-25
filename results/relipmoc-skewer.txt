@@ -1,4 +1,8 @@
 #repo:relipmoc/skewer 
-LICENSE
-Makefile
-README.md
+
+license
+
+makefile
+
+readme.md
+

@@ -1,7 +1,14 @@
-#package: FIs 
-/NAMESPACE
-/DESCRIPTION
-/external_data_store.txt
-/data/FIs.rda
-/data/datalist
-/man/FIs.Rd
+#package: fis 
+
+namespace
+
+description
+
+external_data_store.txt
+
+data/fis.rda
+
+data/datalist
+
+man/fis.rd
+

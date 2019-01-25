@@ -1,12 +1,24 @@
-#package: Digest-MD5-File-0.08 
-/META.yml
-/README
-/Makefile.PL
-/MANIFEST
-/Changes
-/File.pm
-/t/hello-world
-/t/1.t
-/t/teststruct/b
-/t/teststruct/a
-/t/teststruct/subdir/c
+#package: digest-md5-file-0.08 
+
+meta.yml
+
+readme
+
+makefile.pl
+
+manifest
+
+changes
+
+file.pm
+
+t/hello-world
+
+t/1.t
+
+t/teststruct/b
+
+t/teststruct/a
+
+t/teststruct/subdir/c
+

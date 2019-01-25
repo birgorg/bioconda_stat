@@ -1,4 +1,8 @@
 #repo:cc2qe/vawk 
+
 .gitignore
-LICENSE
-README.md
+
+license
+
+readme.md
+

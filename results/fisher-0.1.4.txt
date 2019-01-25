@@ -1,7 +1,14 @@
 #package: fisher-0.1.4 
-/README.rst
-/PKG-INFO
-/setup.py
-/src/cfisher.c
-/src/cfisher.pyx
-/fisher/__init__.py
+
+readme.rst
+
+pkg-info
+
+setup.py
+
+src/cfisher.c
+
+src/cfisher.pyx
+
+fisher/__init__.py
+

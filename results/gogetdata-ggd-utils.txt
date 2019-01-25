@@ -1,5 +1,10 @@
 #repo:gogetdata/ggd-utils 
+
 .travis.yml
-LICENSE
-README.md
+
+license
+
+readme.md
+
 genomefile.go
+

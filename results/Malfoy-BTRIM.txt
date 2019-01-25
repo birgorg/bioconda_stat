@@ -1,5 +1,10 @@
-#repo:Malfoy/BTRIM 
-README.md
+#repo:malfoy/btrim 
+
+readme.md
+
 btrim.cpp
-btrimBubble.cpp
+
+btrimbubble.cpp
+
 makefile
+

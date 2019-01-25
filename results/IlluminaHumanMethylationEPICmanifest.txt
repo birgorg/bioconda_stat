@@ -1,8 +1,16 @@
-#package: IlluminaHumanMethylationEPICmanifest 
-/NAMESPACE
-/DESCRIPTION
-/data/IlluminaHumanMethylationEPICmanifest.rda
-/data/datalist
-/man/IlluminaHumanMethylationEPICmanifest.Rd
-/inst/scripts/manifest.R
-/inst/scripts/manifest.Rout
+#package: illuminahumanmethylationepicmanifest 
+
+namespace
+
+description
+
+data/illuminahumanmethylationepicmanifest.rda
+
+data/datalist
+
+man/illuminahumanmethylationepicmanifest.rd
+
+inst/scripts/manifest.r
+
+inst/scripts/manifest.rout
+

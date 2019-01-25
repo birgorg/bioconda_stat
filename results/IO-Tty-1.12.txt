@@ -1,12 +1,24 @@
-#package: IO-Tty-1.12 
-/META.yml
-/Tty.pm
-/README
-/Makefile.PL
-/MANIFEST
-/Tty.xs
-/META.json
-/ChangeLog
-/try
-/Pty.pm
-/t/test.t
+#package: io-tty-1.12 
+
+meta.yml
+
+tty.pm
+
+readme
+
+makefile.pl
+
+manifest
+
+tty.xs
+
+meta.json
+
+changelog
+
+try
+
+pty.pm
+
+t/test.t
+

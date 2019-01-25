@@ -1,7 +1,14 @@
 #repo:roryk/chipseq-greylist 
-HISTORY.md
-LICENSE.txt
-README.md
+
+history.md
+
+license.txt
+
+readme.md
+
 setup.py
+
 scripts/chipseq-greylist
+
 test/input-test.bam
+

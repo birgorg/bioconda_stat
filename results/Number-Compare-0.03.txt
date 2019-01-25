@@ -1,8 +1,16 @@
-#package: Number-Compare-0.03 
-/META.yml
-/Makefile.PL
-/MANIFEST
-/Changes
-/MANIFEST.SKIP
-/t/Number-Compare.t
-/lib/Number/Compare.pm
+#package: number-compare-0.03 
+
+meta.yml
+
+makefile.pl
+
+manifest
+
+changes
+
+manifest.skip
+
+t/number-compare.t
+
+lib/number/compare.pm
+

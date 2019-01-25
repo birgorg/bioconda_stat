@@ -1,6 +1,12 @@
-#package: TxDb.Rnorvegicus.UCSC.rn4.ensGene 
-/NAMESPACE
-/DESCRIPTION
-/R/zzz.R
-/man/package.Rd
-/inst/extdata/TxDb.Rnorvegicus.UCSC.rn4.ensGene.sqlite
+#package: txdb.rnorvegicus.ucsc.rn4.ensgene 
+
+namespace
+
+description
+
+r/zzz.r
+
+man/package.rd
+
+inst/extdata/txdb.rnorvegicus.ucsc.rn4.ensgene.sqlite
+

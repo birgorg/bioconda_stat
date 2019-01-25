@@ -1,4 +1,8 @@
-#repo:J35P312/SVDB 
+#repo:j35p312/svdb 
+
 .gitignore
-README.md
+
+readme.md
+
 setup.py
+

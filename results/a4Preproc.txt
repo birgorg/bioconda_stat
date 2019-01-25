@@ -1,6 +1,12 @@
-#package: a4Preproc 
-/NAMESPACE
-/DESCRIPTION
-/R/addGeneInfo.R
-/man/addGeneInfo.Rd
-/inst/NEWS
+#package: a4preproc 
+
+namespace
+
+description
+
+r/addgeneinfo.r
+
+man/addgeneinfo.rd
+
+inst/news
+

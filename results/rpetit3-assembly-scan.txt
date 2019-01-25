@@ -1,4 +1,8 @@
 #repo:rpetit3/assembly-scan 
-LICENSE
-README.md
+
+license
+
+readme.md
+
 assembly-scan.py
+

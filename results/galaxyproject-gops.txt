@@ -1,5 +1,10 @@
 #repo:galaxyproject/gops 
-LICENSE
-README.md
+
+license
+
+readme.md
+
 setup.py
+
 lib/__init__.py
+

@@ -1,4 +1,8 @@
-#repo:cimendes/roProfile 
+#repo:cimendes/roprofile 
+
 .gitignore
-LICENSE
-README.md
+
+license
+
+readme.md
+

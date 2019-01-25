@@ -1,4 +1,8 @@
-#repo:pontussk/PMDtools 
-LICENSE
-README.md
-plotPMD.v2.R
+#repo:pontussk/pmdtools 
+
+license
+
+readme.md
+
+plotpmd.v2.r
+

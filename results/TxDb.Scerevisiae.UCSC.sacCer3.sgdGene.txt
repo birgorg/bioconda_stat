@@ -1,6 +1,12 @@
-#package: TxDb.Scerevisiae.UCSC.sacCer3.sgdGene 
-/NAMESPACE
-/DESCRIPTION
-/R/zzz.R
-/man/package.Rd
-/inst/extdata/TxDb.Scerevisiae.UCSC.sacCer3.sgdGene.sqlite
+#package: txdb.scerevisiae.ucsc.saccer3.sgdgene 
+
+namespace
+
+description
+
+r/zzz.r
+
+man/package.rd
+
+inst/extdata/txdb.scerevisiae.ucsc.saccer3.sgdgene.sqlite
+

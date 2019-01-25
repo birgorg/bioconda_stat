@@ -1,10 +1,20 @@
-#package: stemHypoxia 
-/NAMESPACE
-/DESCRIPTION
-/external_data_store.txt
-/NEWS
-/data/stemHypoxia.RData
-/data/datalist
-/man/M.Rd
-/man/design.Rd
-/man/stemHypoxia.Rd
+#package: stemhypoxia 
+
+namespace
+
+description
+
+external_data_store.txt
+
+news
+
+data/stemhypoxia.rdata
+
+data/datalist
+
+man/m.rd
+
+man/design.rd
+
+man/stemhypoxia.rd
+

@@ -1,6 +1,12 @@
-#package: TxDb.Dmelanogaster.UCSC.dm6.ensGene 
-/NAMESPACE
-/DESCRIPTION
-/R/zzz.R
-/man/package.Rd
-/inst/extdata/TxDb.Dmelanogaster.UCSC.dm6.ensGene.sqlite
+#package: txdb.dmelanogaster.ucsc.dm6.ensgene 
+
+namespace
+
+description
+
+r/zzz.r
+
+man/package.rd
+
+inst/extdata/txdb.dmelanogaster.ucsc.dm6.ensgene.sqlite
+

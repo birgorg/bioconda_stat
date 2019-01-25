@@ -1,3 +1,6 @@
-#repo:PacificBiosciences/pblaa 
-LICENSE
-PBLAA.md
+#repo:pacificbiosciences/pblaa 
+
+license
+
+pblaa.md
+

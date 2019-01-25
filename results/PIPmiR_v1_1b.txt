@@ -1,5 +1,10 @@
-#package: PIPmiR_v1_1b 
-/README
-/PIPmiR
-/src/jPIPmiR.jar
-/src/TrainingData.dat
+#package: pipmir_v1_1b 
+
+readme
+
+pipmir
+
+src/jpipmir.jar
+
+src/trainingdata.dat
+

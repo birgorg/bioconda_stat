@@ -1,6 +1,12 @@
 #repo:mhoopmann/kronik 
-CKronik.cpp
-CKronik.h
-Kronik.cpp
-LICENSE
-Makefile
+
+ckronik.cpp
+
+ckronik.h
+
+kronik.cpp
+
+license
+
+makefile
+
