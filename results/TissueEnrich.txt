@@ -1,0 +1,25 @@
+#package: TissueEnrich 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/TissueEnrich.Rproj
+/NEWS
+/R/teGeneRetrieval.R
+/R/teEnrichmentCustom.R
+/R/teEnrichment.R
+/man/teEnrichment.Rd
+/man/teEnrichmentCustom.Rd
+/man/teGeneRetrieval.Rd
+/vignettes/library.bib
+/vignettes/TissueEnrich.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/tests.R
+/inst/doc/TissueEnrich.html
+/inst/doc/TissueEnrich.Rmd
+/inst/doc/TissueEnrich.R
+/inst/extdata/inputGenesEnsembl.txt
+/inst/extdata/test.expressiondata.txt
+/inst/extdata/inputGenes.txt
+/inst/extdata/combine-expression.rda

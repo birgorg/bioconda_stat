@@ -1,0 +1,18 @@
+#package: File-Slurper-0.012 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/INSTALL
+/t/20-no-side-effects.t
+/t/10-basics.t
+/t/data/cp1252.txt
+/lib/File/Slurper.pm
+/bench/logic.pl
+/bench/layers.pl
+/bench/modules.pl
+/xt/author/pod-syntax.t

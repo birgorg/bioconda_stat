@@ -1,0 +1,18 @@
+#package: epivizrStandalone 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS.md
+/R/zzz.R
+/R/startStandalone.R
+/R/setStandalone.R
+/man/startStandalone.Rd
+/man/setStandalone.Rd
+/man/startStandaloneApp.Rd
+/vignettes/EpivizrStandalone.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test-startStandalone.R
+/inst/NEWS.Rd
+/inst/doc/EpivizrStandalone.Rmd
+/inst/doc/EpivizrStandalone.html

@@ -1,0 +1,20 @@
+#package: frmaTools 
+/NAMESPACE
+/DESCRIPTION
+/R/utils-general.R
+/R/makeVectorPackage.R
+/R/makeVectorsFeatureSet.R
+/R/makeVectorsAffyBatch.R
+/R/makeMaps.R
+/R/convertPlatform.R
+/man/makeVectorPackage.Rd
+/man/convertPlatform.Rd
+/vignettes/frmaTools.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/frmaTools.Rnw
+/inst/doc/frmaTools.pdf
+/inst/doc/frmaTools.R
+/inst/VectorPkg-template/DESCRIPTION
+/inst/VectorPkg-template/data/.dummy.txt
+/inst/VectorPkg-template/man/@PKGNAME@.Rd

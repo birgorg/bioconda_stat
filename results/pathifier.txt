@@ -1,0 +1,17 @@
+#package: pathifier 
+/NAMESPACE
+/DESCRIPTION
+/R/pathifier.R
+/data/KEGG.RData
+/data/Sheffer.RData
+/data/datalist
+/man/pathifier-package.Rd
+/man/quantify_pathways_deregulation.Rd
+/man/Sheffer.Rd
+/man/KEGG.Rd
+/vignettes/Overview.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/Overview.Rnw
+/inst/doc/Overview.R
+/inst/doc/Overview.pdf

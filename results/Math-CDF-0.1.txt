@@ -1,0 +1,17 @@
+#package: Math-CDF-0.1 
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/CDF.xs
+/test.pl
+/CDF.pm
+/cdflib/Makefile.PL
+/cdflib/cdflib.h
+/cdflib/dcdflib.c
+/cdflib/ipmpar.c
+/cdflib/doc/README
+/cdflib/doc/dcdflib.fdoc
+/cdflib/doc/dcdflib.h
+/cdflib/doc/HOWTOGET
+/cdflib/doc/dcdflib.chs

@@ -1,0 +1,25 @@
+#package: CopyhelpeR 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/NEWS
+/R/private.R
+/R/getPathHelperFiles.R
+/man/getPathHelperFiles.Rd
+/vignettes/CopyhelpeR.Rnw
+/build/vignette.rds
+/inst/doc/CopyhelpeR.pdf
+/inst/doc/CopyhelpeR.R
+/inst/doc/CopyhelpeR.Rnw
+/inst/extdata/mm10_1kb_4/GC_mappability.rda
+/inst/extdata/mm10_1kb_4/blacklist.rda
+/inst/extdata/hg18_1kb/GC_mappability.rda
+/inst/extdata/hg18_1kb/blacklist.rda
+/inst/extdata/mm9_1kb/GC_mappability.rda
+/inst/extdata/mm9_1kb/blacklist.rda
+/inst/extdata/hg38_1kb/GC_mappability.rda
+/inst/extdata/hg38_1kb/blacklist.rda
+/inst/extdata/mm10_1kb/GC_mappability.rda
+/inst/extdata/mm10_1kb/blacklist.rda
+/inst/extdata/hg19_1kb/GC_mappability.rda
+/inst/extdata/hg19_1kb/blacklist.rda

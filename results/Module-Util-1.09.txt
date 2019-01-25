@@ -1,0 +1,15 @@
+#package: Module-Util-1.09 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/Build.PL
+/scripts/pm_which
+/t/99..pod.t
+/t/01..module.t
+/t/data/NS2/One.pm
+/t/data/NS/One.pm
+/t/more/01..validate_all_cpan.t
+/lib/Module/Util.pm

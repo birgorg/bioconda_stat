@@ -1,0 +1,19 @@
+#package: Test-Memory-Cycle-1.06 
+/README.md
+/META.yml
+/LICENSE
+/Cycle.pm
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/family-array.t
+/t/Foo.pm
+/t/cycle-exists.t
+/t/family-scalar.t
+/t/pod.t
+/t/family-object.t
+/t/00-load.t
+/t/pod-coverage.t
+/t/good.t
+/t/family-hash.t

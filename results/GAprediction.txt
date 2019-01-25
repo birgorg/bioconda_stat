@@ -1,0 +1,16 @@
+#package: GAprediction 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/extractSites.R
+/R/sysdata.rda
+/R/predictGA.R
+/man/predictGA.Rd
+/man/UL.mod.cv.Rd
+/man/extractSites.Rd
+/vignettes/GAprediction.Rmd
+/build/vignette.rds
+/inst/doc/GAprediction.html
+/inst/doc/GAprediction.Rmd
+/inst/doc/GAprediction.R

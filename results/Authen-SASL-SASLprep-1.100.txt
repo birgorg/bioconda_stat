@@ -1,0 +1,15 @@
+#package: Authen-SASL-SASLprep-1.100 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/SIGNATURE
+/Build.PL
+/t/11pod_cover.t
+/t/10pod.t
+/t/00use.t
+/t/saslprep.t
+/lib/Authen/SASL/SASLprep.pm

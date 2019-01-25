@@ -1,0 +1,20 @@
+#package: BrowserViz 
+/NAMESPACE
+/README
+/DESCRIPTION
+/build.makefile
+/NEWS
+/R/BrowserViz-class.R
+/man/BrowserViz-class.Rd
+/vignettes/BrowserViz.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/browserCode/package.json
+/inst/browserCode/webpack.config.js
+/inst/browserCode/makefile
+/inst/browserCode/dist/bvdemo.html
+/inst/browserCode/src/bvdemo.js
+/inst/doc/BrowserViz.pdf
+/inst/doc/BrowserViz.Rnw
+/inst/doc/BrowserViz.R
+/inst/unitTests/test_BrowserViz.R

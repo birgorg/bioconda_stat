@@ -1,0 +1,10 @@
+#package: Digest-HMAC-1.03 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/rfc2202.t
+/lib/Digest/HMAC.pm
+/lib/Digest/HMAC_SHA1.pm
+/lib/Digest/HMAC_MD5.pm

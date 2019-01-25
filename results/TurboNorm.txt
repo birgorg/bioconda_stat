@@ -1,0 +1,25 @@
+#package: TurboNorm 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/panel.pspline.R
+/R/turbotrend.R
+/R/normalize.pspline.R
+/R/normalize.AffyBatch.pspline.R
+/R/pspline.R
+/data/methylation.RData
+/man/pspline.Rd
+/man/normalize.pspline.Rd
+/man/panel.pspline.Rd
+/man/turbonorm-package.Rd
+/man/turbotrend.Rd
+/man/methylation.Rd
+/vignettes/turbonorm.bib
+/vignettes/turbonorm.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/turbonorm.Rnw
+/inst/doc/turbonorm.R
+/inst/doc/turbonorm.pdf
+/src/Rinit.c
+/src/binners.c

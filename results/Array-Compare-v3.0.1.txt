@@ -1,0 +1,12 @@
+#package: Array-Compare-v3.0.1 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/Build.PL
+/t/pod_coverage.t
+/t/test.t
+/t/pod.t
+/lib/Array/Compare.pm

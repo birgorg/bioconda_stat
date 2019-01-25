@@ -1,0 +1,14 @@
+#package: sourcetracker-2.0.1 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/sourcetracker.egg-info/entry_points.txt
+/sourcetracker.egg-info/top_level.txt
+/sourcetracker.egg-info/SOURCES.txt
+/sourcetracker.egg-info/PKG-INFO
+/sourcetracker.egg-info/dependency_links.txt
+/sourcetracker.egg-info/requires.txt
+/sourcetracker/__init__.py
+/sourcetracker/_sourcetracker.py
+/sourcetracker/_cli/__init__.py
+/sourcetracker/_cli/gibbs.py

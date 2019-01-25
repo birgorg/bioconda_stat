@@ -1,0 +1,9 @@
+#package: Tie-Cacher-0.09 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Cacher.pm
+/t/1.t
+/t/2.t

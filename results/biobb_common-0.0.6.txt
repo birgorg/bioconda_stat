@@ -1,0 +1,18 @@
+#package: biobb_common-0.0.6 
+/README.md
+/PKG-INFO
+/setup.py
+/setup.cfg
+/biobb_common/__init__.py
+/biobb_common/configuration/__init__.py
+/biobb_common/configuration/settings.py
+/biobb_common/tools/__init__.py
+/biobb_common/tools/test_fixtures.py
+/biobb_common/tools/file_utils.py
+/biobb_common/command_wrapper/cmd_wrapper.py
+/biobb_common/command_wrapper/__init__.py
+/biobb_common.egg-info/top_level.txt
+/biobb_common.egg-info/SOURCES.txt
+/biobb_common.egg-info/PKG-INFO
+/biobb_common.egg-info/dependency_links.txt
+/biobb_common.egg-info/requires.txt

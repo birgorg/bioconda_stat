@@ -1,0 +1,15 @@
+#package: Data-Munge-0.097 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/Makefile_PL_settings
+/t/torgox.t
+/t/eval.t
+/t/01-compile.t
+/t/00-load.t
+/lib/Data/Munge.pm
+/xt/pod.t

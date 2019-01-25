@@ -1,0 +1,14 @@
+#package: NanoSplit-0.1.4 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/NanoSplit.egg-info/entry_points.txt
+/NanoSplit.egg-info/top_level.txt
+/NanoSplit.egg-info/SOURCES.txt
+/NanoSplit.egg-info/PKG-INFO
+/NanoSplit.egg-info/dependency_links.txt
+/NanoSplit.egg-info/requires.txt
+/nanosplit/NanoSplit.py
+/nanosplit/__init__.py
+/nanosplit/version.py

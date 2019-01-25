@@ -1,0 +1,7 @@
+#package: munkres-1.0.7 
+/munkres.py
+/LICENSE
+/PKG-INFO
+/CHANGELOG
+/setup.py
+/setup.cfg

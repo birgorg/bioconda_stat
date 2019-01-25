@@ -1,0 +1,26 @@
+#package: anota 
+/NAMESPACE
+/DESCRIPTION
+/R/anotaQc.R
+/R/anotaDiffExp.R
+/R/anotaDfbetas.R
+/R/anotaResids.R
+/data/anotaDataSet.RData
+/man/anotaPerformQc.Rd
+/man/anotaGetSigGenes.Rd
+/man/anotaDataSet.Rd
+/man/anotaResidOutlierTest.Rd
+/man/anotaPlotSigGenes.Rd
+/vignettes/anota.Rnw
+/vignettes/fig/resid.jpg
+/vignettes/fig/residSingle.pdf
+/vignettes/fig/anotaPlotSigOut.pdf
+/vignettes/fig/singleReg.pdf
+/vignettes/fig/rvm.jpg
+/vignettes/fig/int.pdf
+/vignettes/fig/dfbs.pdf
+/build/vignette.rds
+/inst/NEWS
+/inst/doc/anota.pdf
+/inst/doc/anota.Rnw
+/inst/doc/anota.R

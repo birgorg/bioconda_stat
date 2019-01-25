@@ -1,0 +1,10 @@
+#package: Math-Combinatorics-0.09 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/01.t
+/t/03.t
+/t/02.t
+/lib/Math/Combinatorics.pm

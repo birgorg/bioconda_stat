@@ -1,0 +1,27 @@
+#package: rfPred 
+/NAMESPACE
+/DESCRIPTION
+/R/NAMESPACE.r
+/R/variant_list_Y.r
+/R/rfPred_scores_motor.r
+/R/rfPred-package.r
+/R/rfPred_scores-methods.r
+/R/example_GRanges.r
+/data/example_GRanges.rda
+/data/variant_list_Y.rda
+/man/example_GRanges.Rd
+/man/rfPred_scores_motor.Rd
+/man/variant_list_Y.Rd
+/man/rfPred_scores-methods.Rd
+/man/rfPred-package.Rd
+/vignettes/vignette.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/vignette.R
+/inst/doc/vignette.Rnw
+/inst/doc/vignette.pdf
+/inst/extdata/chrY_rfPred.txtz
+/inst/extdata/chrY_rfPred.txtz.tbi
+/inst/extdata/example.vcf
+/src/outstring.c

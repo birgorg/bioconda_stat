@@ -1,0 +1,12 @@
+#package: xdg-1.0.5 
+/README.rst
+/xdg.py
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/LICENCE
+/setup.cfg
+/xdg.egg-info/top_level.txt
+/xdg.egg-info/SOURCES.txt
+/xdg.egg-info/PKG-INFO
+/xdg.egg-info/dependency_links.txt

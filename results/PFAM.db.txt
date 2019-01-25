@@ -1,0 +1,14 @@
+#package: PFAM.db 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/PFAMPDB2AC.Rd
+/man/PFAM_dbconn.Rd
+/man/PFAMREVERSEBIMAP.Rd
+/man/PFAMFORWARDBIMAP.Rd
+/man/PFAMBASE.Rd
+/man/PFAMPDB.Rd
+/man/PFAMSCOP.Rd
+/man/PFAMMAPCOUNTS.Rd
+/man/PFAMSCOP2AC.Rd
+/inst/extdata/PFAM.sqlite

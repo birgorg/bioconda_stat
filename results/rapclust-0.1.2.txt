@@ -1,0 +1,13 @@
+#package: rapclust-0.1.2 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/bin/RapClust
+/rapclust/__init__.py
+/rapclust/eqnet.py
+/rapclust.egg-info/top_level.txt
+/rapclust.egg-info/not-zip-safe
+/rapclust.egg-info/SOURCES.txt
+/rapclust.egg-info/PKG-INFO
+/rapclust.egg-info/dependency_links.txt
+/rapclust.egg-info/requires.txt

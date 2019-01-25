@@ -1,0 +1,13 @@
+#package: pal_finder_v0.02.04 
+/README.txt
+/config.txt
+/pal_finder_v0.02.04.pl
+/.DS_Store
+/COPYING.txt
+/simple.ref
+/test/.DS_Store
+/test/data/IlluminaPE_SG_10k_1.fq
+/test/data/IlluminaPE_SG_10k_1.txt
+/test/data/IlluminaPE_SG_10k_2.txt
+/test/data/IlluminaPE_SG_10k_2.fq
+/test/data/454_All_python.fna

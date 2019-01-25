@@ -1,0 +1,19 @@
+#package: RLMM 
+/NAMESPACE
+/DESCRIPTION
+/R/normalize_Rawfiles.R
+/R/Classify.R
+/R/create_Thetafile.R
+/R/plot_theta.R
+/man/create_Thetafile.Rd
+/man/plot_theta.Rd
+/man/Classify.Rd
+/man/normalize_Rawfiles.Rd
+/vignettes/Xba.rlmm
+/vignettes/snps.lst
+/vignettes/RLMM.Rnw
+/vignettes/Xba.theta
+/build/vignette.rds
+/inst/doc/RLMM.pdf
+/inst/doc/RLMM.R
+/inst/doc/RLMM.Rnw

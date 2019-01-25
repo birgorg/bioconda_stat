@@ -1,0 +1,13 @@
+#package: nanomath-0.22.0 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/nanomath/__init__.py
+/nanomath/nanomath.py
+/nanomath/version.py
+/nanomath.egg-info/top_level.txt
+/nanomath.egg-info/SOURCES.txt
+/nanomath.egg-info/PKG-INFO
+/nanomath.egg-info/dependency_links.txt
+/nanomath.egg-info/requires.txt

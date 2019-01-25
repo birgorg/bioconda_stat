@@ -1,0 +1,16 @@
+#package: String-Truncate-1.100602 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/basic.t
+/t/exports.t
+/t/ends.t
+/t/000-report-versions-tiny.t
+/lib/String/Truncate.pm
+/xt/release/pod-syntax.t
+/xt/release/changes_has_content.t

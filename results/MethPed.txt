@@ -1,0 +1,25 @@
+#package: MethPed 
+/NAMESPACE
+/DESCRIPTION
+/R/MethPed_summary.methped.R
+/R/MethPed_checkNA.R
+/R/sysdata.rda
+/R/MethPed_probeMis.R
+/R/MethPed_dataset.R
+/R/MethPed.R
+/R/MethPed_plot.methped.R
+/data/MethPed_sample.rda
+/data/MethPed_900probes.rda
+/data/datalist
+/man/MethPed_900probes.Rd
+/man/checkNA.Rd
+/man/plot.methped.Rd
+/man/MethPed_sample.Rd
+/man/probeMis.Rd
+/man/MethPed.Rd
+/man/summary.methped.Rd
+/vignettes/MethPed-vignette.Rmd
+/build/vignette.rds
+/inst/doc/MethPed-vignette.R
+/inst/doc/MethPed-vignette.html
+/inst/doc/MethPed-vignette.Rmd

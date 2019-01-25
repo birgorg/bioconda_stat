@@ -1,0 +1,6 @@
+#package: TxDb.Drerio.UCSC.danRer10.refGene 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Drerio.UCSC.danRer10.refGene.sqlite

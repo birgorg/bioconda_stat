@@ -1,0 +1,27 @@
+#package: IlluminaHumanMethylationEPICanno.ilm10b4.hg19 
+/NAMESPACE
+/DESCRIPTION
+/data/SNPs.138CommonSingle.rda
+/data/Manifest.rda
+/data/Locations.rda
+/data/IlluminaHumanMethylationEPICanno.ilm10b4.hg19.rda
+/data/Islands.UCSC.rda
+/data/SNPs.144CommonSingle.rda
+/data/SNPs.147CommonSingle.rda
+/data/SNPs.137CommonSingle.rda
+/data/SNPs.146CommonSingle.rda
+/data/SNPs.Illumina.rda
+/data/SNPs.141CommonSingle.rda
+/data/SNPs.142CommonSingle.rda
+/data/SNPs.132CommonSingle.rda
+/data/Other.rda
+/data/datalist
+/data/SNPs.135CommonSingle.rda
+/man/SNPs.CommonSingle.Rd
+/man/IlluminaHumanMethylationEPICanno.ilm10b4.hg19.Rd
+/inst/NEWS.Rd
+/inst/scripts/createAnno.Rout
+/inst/scripts/getSnp.sh
+/inst/scripts/getSnp.R
+/inst/scripts/comparisons.R
+/inst/scripts/createAnno.R

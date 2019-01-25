@@ -1,0 +1,15 @@
+#package: ALL 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/tojulian.R
+/data/ALL.rda
+/data/datalist
+/man/tojulian.Rd
+/man/ALL.Rd
+/vignettes/oldMakefile
+/vignettes/ALLintro.Rnw
+/build/vignette.rds
+/inst/doc/ALLintro.pdf
+/inst/doc/ALLintro.Rnw
+/inst/doc/ALLintro.R

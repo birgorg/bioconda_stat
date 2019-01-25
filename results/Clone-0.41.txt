@@ -1,0 +1,19 @@
+#package: Clone-0.41 
+/META.yml
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/Clone.pm
+/Clone.xs
+/t/tied.pl
+/t/06refcnt.t
+/t/dclone.t
+/t/dump.pl
+/t/02hash.t
+/t/03scalar.t
+/t/04tie.t
+/t/07magic.t
+/t/05dtype.t
+/t/08fieldhash.t
+/t/01array.t

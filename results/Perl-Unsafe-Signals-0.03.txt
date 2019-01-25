@@ -1,0 +1,12 @@
+#package: Perl-Unsafe-Signals-0.03 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Signals.xs
+/Changes
+/MANIFEST.SKIP
+/Signals.pm
+/t/01nofilter.t
+/t/02filter.t
+/t/pod.t

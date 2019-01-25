@@ -1,0 +1,17 @@
+#package: genomelake-0.1.4 
+/README.md
+/LICENSE
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/genomelake.egg-info/top_level.txt
+/genomelake.egg-info/SOURCES.txt
+/genomelake.egg-info/PKG-INFO
+/genomelake.egg-info/dependency_links.txt
+/genomelake.egg-info/requires.txt
+/genomelake/extractors.py
+/genomelake/util.pyx
+/genomelake/__init__.py
+/genomelake/backend.py
+/genomelake/util.c

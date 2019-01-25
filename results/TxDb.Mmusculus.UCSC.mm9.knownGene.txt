@@ -1,0 +1,6 @@
+#package: TxDb.Mmusculus.UCSC.mm9.knownGene 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Mmusculus.UCSC.mm9.knownGene.sqlite

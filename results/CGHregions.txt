@@ -1,0 +1,13 @@
+#package: CGHregions 
+/NAMESPACE
+/DESCRIPTION
+/R/CGHRegions.R
+/R/private.R
+/man/CGHregions-package.Rd
+/man/CGHregions.Rd
+/vignettes/CGHregions.bib
+/vignettes/CGHregions.Rnw
+/build/vignette.rds
+/inst/doc/CGHregions.R
+/inst/doc/CGHregions.Rnw
+/inst/doc/CGHregions.pdf

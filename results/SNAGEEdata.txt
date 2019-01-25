@@ -1,0 +1,10 @@
+#package: SNAGEEdata 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/SNAGEEdata.R
+/man/SNAGEEdata-package.Rd
+/man/getCC.Rd
+/inst/extdata/ccWoAffy.RData
+/inst/extdata/geneList.RData
+/inst/extdata/ccComplete.RData

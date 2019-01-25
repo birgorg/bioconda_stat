@@ -1,0 +1,25 @@
+#package: Path-Class-0.37 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/README.pod
+/cpanfile
+/INSTALL
+/SIGNATURE
+/Build.PL
+/t/06-traverse_filt.t
+/t/07-recurseprune.t
+/t/03-filesystem.t
+/t/05-traverse.t
+/t/04-subclass.t
+/t/02-foreign.t
+/t/author-critic.t
+/t/01-basic.t
+/lib/Path/Class.pm
+/lib/Path/Class/File.pm
+/lib/Path/Class/Entity.pm
+/lib/Path/Class/Dir.pm

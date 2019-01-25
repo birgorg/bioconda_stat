@@ -1,0 +1,12 @@
+#package: sprinkles-0.4.6 
+/README.txt
+/sprinkles.py
+/INSTALL.txt
+/LICENSE.txt
+/CHANGELOG.txt
+/PKG-INFO
+/setup.py
+/test.py
+/test/test_export.py
+/test/test_noexport.py
+/test/__init__.py

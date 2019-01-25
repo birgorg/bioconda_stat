@@ -1,0 +1,14 @@
+#package: RnBeads.mm9 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/package.R
+/data/mm9.regions.RData
+/data/mm9.RData
+/data/mm9.CpG.RData
+/data/CpG.RData
+/data/example.rrbs.mm9.blood.skin.RData
+/data/regions.RData
+/data/datalist
+/man/mm9.Rd
+/inst/NEWS

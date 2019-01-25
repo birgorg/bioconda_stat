@@ -1,0 +1,26 @@
+#package: MoPS 
+/NAMESPACE
+/DESCRIPTION
+/R/fit.periodic.R
+/R/internal.R
+/R/result.as.dataframe.R
+/R/predictTimecourses.R
+/data/basic.RData
+/data/ccycle.RData
+/man/ccycle.Rd
+/man/MoPS-package.Rd
+/man/fit.periodic.Rd
+/man/MoPS-internal.Rd
+/man/basic.Rd
+/man/predictTimecourses.Rd
+/man/result.as.dataframe.Rd
+/vignettes/Bioconductor.sty
+/vignettes/MoPS.Rnw
+/vignettes/mops1.pdf
+/vignettes/mops2.pdf
+/vignettes/refs.bib
+/vignettes/sweave.sty
+/build/vignette.rds
+/inst/doc/MoPS.R
+/inst/doc/MoPS.Rnw
+/inst/doc/MoPS.pdf

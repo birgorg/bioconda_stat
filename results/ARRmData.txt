@@ -1,0 +1,13 @@
+#package: ARRmData 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/betaMatrix.rda
+/data/greenControlMatrix.rda
+/data/redControlMatrix.rda
+/data/sampleNames.rda
+/data/datalist
+/man/greenControlMatrix.Rd
+/man/redControlMatrix.Rd
+/man/betaMatrix.Rd
+/man/sampleNames.Rd

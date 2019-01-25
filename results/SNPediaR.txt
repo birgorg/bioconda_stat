@@ -1,0 +1,18 @@
+#package: SNPediaR 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/getPages.R
+/R/getCategoryElements.R
+/R/extractTags.R
+/man/getCategoryElements.Rd
+/man/extractTags.Rd
+/man/getPages.Rd
+/vignettes/SNPediaR.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/tests.r
+/inst/NEWS
+/inst/doc/SNPediaR.html
+/inst/doc/SNPediaR.Rmd
+/inst/doc/SNPediaR.R

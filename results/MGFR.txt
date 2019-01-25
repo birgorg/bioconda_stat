@@ -1,0 +1,20 @@
+#package: MGFR 
+/NAMESPACE
+/DESCRIPTION
+/R/getMarkerGenes.rnaseq.html.R
+/R/internal.R
+/R/getMarkerGenes.rnaseq.R
+/data/ref.mat.rda
+/data/datalist
+/man/getMarkerGenes.rnaseq.html.Rd
+/man/getMarkerGenes.rnaseq.Rd
+/man/MGFR-package.Rd
+/man/MGFR-internal.Rd
+/man/ref.mat.Rd
+/vignettes/MGFR.Rnw
+/vignettes/references.bib
+/build/vignette.rds
+/inst/NEWS
+/inst/doc/MGFR.Rnw
+/inst/doc/MGFR.pdf
+/inst/doc/MGFR.R

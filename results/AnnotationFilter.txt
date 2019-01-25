@@ -1,0 +1,21 @@
+#package: AnnotationFilter 
+/NAMESPACE
+/NOTES.md
+/README
+/DESCRIPTION
+/NEWS
+/R/AnnotationFilter.R
+/R/AnnotationFilterList.R
+/R/AllGenerics.R
+/R/translate-utils.R
+/man/AnnotationFilter.Rd
+/man/AnnotationFilterList.Rd
+/vignettes/AnnotationFilter.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_AnnotationFilter.R
+/tests/testthat/test_AnnotationFilterList.R
+/tests/testthat/test_translate-utils.R
+/inst/doc/AnnotationFilter.html
+/inst/doc/AnnotationFilter.R
+/inst/doc/AnnotationFilter.Rmd

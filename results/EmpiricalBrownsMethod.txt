@@ -1,0 +1,18 @@
+#package: EmpiricalBrownsMethod 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/ebm.R
+/data/ebmTestData.RData
+/man/kostsMethod.Rd
+/man/empiricalBrownsMethod.Rd
+/man/ebmTestData.Rd
+/vignettes/ebmVignette.Rmd
+/vignettes/ebmVignette.md
+/build/vignette.rds
+/tests/test-all.R
+/tests/testthat/test_ebm_main.R
+/inst/NEWS
+/inst/doc/ebmVignette.Rmd
+/inst/doc/ebmVignette.html
+/inst/doc/ebmVignette.R

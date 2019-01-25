@@ -1,0 +1,23 @@
+#package: javh-prototype-prestor-07f9c7caeb60 
+/README.md
+/NAMESPACE
+/.hgtags
+/DESCRIPTION
+/.hg_archival.txt
+/R/Reports.R
+/R/PrestoPlots.R
+/R/Core.R
+/R/Prototype.R
+/vignettes/AbSeq-Vignette.Rmd
+/inst/reports/Front.Rmd
+/inst/reports/Paired-Console.Rmd
+/inst/reports/Paired-Consensus.Rmd
+/inst/reports/header.tex
+/inst/reports/presto.jpg
+/inst/reports/CRegion.Rmd
+/inst/reports/AbSeqV3.Rmd
+/inst/reports/Paired-Quality.Rmd
+/inst/reports/references.bib
+/inst/reports/Paired-Primers.Rmd
+/inst/reports/Headers.Rmd
+/inst/reports/Assembly.Rmd

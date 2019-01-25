@@ -1,0 +1,5 @@
+#package: yara-1.0.2-Mac-x86_64 
+/LICENSE
+/README.rst
+/bin/yara_mapper
+/bin/yara_indexer

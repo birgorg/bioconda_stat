@@ -1,0 +1,15 @@
+#package: BrowserVizDemo 
+/NAMESPACE
+/DESCRIPTION
+/.BBSoptions
+/R/BrowserVizDemo-class.R
+/man/BrowserVizDemo-class.Rd
+/vignettes/BrowserVizDemo.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/index.html
+/inst/scripts/browserVizDemo.html
+/inst/doc/BrowserVizDemo.pdf
+/inst/doc/BrowserVizDemo.R
+/inst/doc/BrowserVizDemo.Rnw
+/inst/unitTests/test_BrowserVizDemo.R

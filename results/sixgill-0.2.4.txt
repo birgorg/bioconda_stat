@@ -1,0 +1,18 @@
+#package: sixgill-0.2.4 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/bin/sixgill_makefasta
+/bin/sixgill_merge
+/bin/sixgill_filter
+/bin/sixgill_build
+/sixgill.egg-info/top_level.txt
+/sixgill.egg-info/SOURCES.txt
+/sixgill.egg-info/PKG-INFO
+/sixgill.egg-info/dependency_links.txt
+/sixgill.egg-info/requires.txt
+/sixgill/dna.py
+/sixgill/__init__.py
+/sixgill/version.py
+/sixgill/metapeptides.py

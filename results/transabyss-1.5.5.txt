@@ -1,0 +1,27 @@
+#package: transabyss-1.5.5 
+/README.md
+/TUTORIAL.txt
+/LICENSE.txt
+/transabyss
+/transabyss-merge
+/.gitignore
+/configs/transcriptome.cfg
+/bin/skip_psl_self_ss.awk
+/bin/strip_sam_qual.awk
+/bin/skip_psl_self.awk
+/bin/strip_sam_seq_qual_noself.awk
+/bin/strip_sam_seq_qual.awk
+/utilities/adj_utils.py
+/utilities/dist_utils.py
+/utilities/cfg.py
+/utilities/psl_cid_extractor.py
+/utilities/__init__.py
+/utilities/package_info.py
+/utilities/job_runner.py
+/utilities/fasta_utils.py
+/utilities/common_utils.py
+/utilities/sam_cid_extractor.py
+/sample_dataset/assemble.sh
+/sample_dataset/reads/rnaseq_2.fq.gz
+/sample_dataset/reads/rnaseq_1.fq.gz
+/prereqs/makefile

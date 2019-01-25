@@ -1,0 +1,27 @@
+#package: Mirsynergy 
+/NAMESPACE
+/DESCRIPTION
+/R/mirsynergy.R
+/R/mirsynergy_utils.R
+/R/gencluster.R
+/man/plot_modules.Rd
+/man/plot_module_summary.Rd
+/man/print_modules2.Rd
+/man/summary_modules.Rd
+/man/tabular_module.Rd
+/man/mirsynergy.Rd
+/man/Mirsynergy-package.Rd
+/man/toy_modules.Rd
+/man/tcga_brca_testdata.Rd
+/vignettes/Mirsynergy.bib
+/vignettes/Mirsynergy.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/CITATION
+/inst/NEWS
+/inst/doc/Mirsynergy.pdf
+/inst/doc/Mirsynergy.Rnw
+/inst/doc/Mirsynergy.R
+/inst/unitTests/test_mirsynergy.R
+/inst/extdata/toy_modules.RData
+/inst/extdata/tcga_brca_testdata.RData

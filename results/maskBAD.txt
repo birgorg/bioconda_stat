@@ -1,0 +1,22 @@
+#package: maskBAD 
+/NAMESPACE
+/DESCRIPTION
+/COPYING
+/R/methods.R
+/data/exmask.rda
+/data/AffyBatch.rda
+/man/overlapExprExtMasks.Rd
+/man/exmask.Rd
+/man/plotProbe.Rd
+/man/sequenceMask.Rd
+/man/newCdf.Rd
+/man/prepareMaskedAffybatch.Rd
+/man/mask.Rd
+/man/newAffyBatch.Rd
+/vignettes/maskBAD.Rnw
+/vignettes/maskBAD.bib
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/maskBAD.R
+/inst/doc/maskBAD.Rnw
+/inst/doc/maskBAD.pdf

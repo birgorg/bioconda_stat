@@ -1,0 +1,21 @@
+#package: miRNAtap 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/dbClassesAndMethods.R
+/R/dbDataAccess.R
+/R/miRNAtap.R
+/man/getPredictedTargets.Rd
+/man/getTargetsFromSource.Rd
+/man/MirnaDb-class.Rd
+/man/aggregateRanks.Rd
+/man/translate.Rd
+/man/miRNAtap.Rd
+/vignettes/miRNAtap.Rnw
+/vignettes/refs.bib
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_sanity.R
+/inst/doc/miRNAtap.pdf
+/inst/doc/miRNAtap.Rnw
+/inst/doc/miRNAtap.R

@@ -1,0 +1,21 @@
+#package: Roleswitch 
+/NAMESPACE
+/DESCRIPTION
+/R/roleswitch.R
+/R/getSeedMatrix.R
+/R/diagnosticPlot.R
+/data/tcga_gbm_testdata.RData
+/data/datalist
+/man/Roleswitch-package.Rd
+/man/tcga_gbm_testdata.Rd
+/man/getSeedMatrix.Rd
+/man/diagnosticPlot.Rd
+/man/roleswitch.Rd
+/vignettes/Roleswitch.Rnw
+/vignettes/Roleswitch.bib
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/Roleswitch.Rnw
+/inst/doc/Roleswitch.pdf
+/inst/doc/Roleswitch.R

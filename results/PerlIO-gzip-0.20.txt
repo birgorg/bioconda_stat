@@ -1,0 +1,18 @@
+#package: PerlIO-gzip-0.20 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/gzip.xs
+/gzip.pm
+/t/ok3.gz
+/t/ok50.gz.short
+/t/ok17.gz
+/t/ok54.gz.len
+/t/ok58.gz.crc
+/t/ok19
+/t/read.t
+/t/ok21
+/t/write.t

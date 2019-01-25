@@ -1,0 +1,21 @@
+#package: kraken-biom-1.0.1 
+/README.rst
+/CHANGELOG.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/kraken_biom.py
+/CONTRIBUTING.rst
+/setup.cfg
+/.travis.yml
+/test/test_process_samples.py
+/test/test_parsing.py
+/test/test_biom_create.py
+/kraken_biom.egg-info/entry_points.txt
+/kraken_biom.egg-info/namespace_packages.txt
+/kraken_biom.egg-info/top_level.txt
+/kraken_biom.egg-info/not-zip-safe
+/kraken_biom.egg-info/SOURCES.txt
+/kraken_biom.egg-info/PKG-INFO
+/kraken_biom.egg-info/dependency_links.txt
+/kraken_biom.egg-info/requires.txt

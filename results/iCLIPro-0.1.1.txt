@@ -1,0 +1,13 @@
+#package: iCLIPro-0.1.1 
+/README
+/PKG-INFO
+/setup.py
+/scripts/iCLIPro
+/scripts/iCLIPro_bam_splitter
+/examples/01_run_iCLIPro.sh
+/examples/00_get_raw_BAMs.sh
+/doc/_build/latex/iCLIPro.pdf
+/iCLIPro/bed.py
+/iCLIPro/__init__.py
+/iCLIPro/_version.py
+/iCLIPro/cmd_utils.py

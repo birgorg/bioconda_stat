@@ -1,0 +1,25 @@
+#package: GEOmetadb 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/.travis.yml
+/R/getBiocPlatformMap.R
+/R/getSQLiteFile.R
+/R/columnDescriptions.R
+/R/geoConvert.R
+/man/columnDescriptions.Rd
+/man/GEOmetadb-package.Rd
+/man/getSQLiteFile.Rd
+/man/geoConvert.Rd
+/man/getBiocPlatformMap.Rd
+/vignettes/GEOmetadb.Rmd
+/vignettes/GEOmetadb_diagram.pdf
+/vignettes/GEOmetadb_diagram.png
+/build/vignette.rds
+/inst/CITATION
+/inst/scripts/makeGSErss.R
+/inst/scripts/runTests.R
+/inst/doc/GEOmetadb.R
+/inst/doc/GEOmetadb.html
+/inst/doc/GEOmetadb.Rmd
+/inst/unitTests/runitDbTests.R

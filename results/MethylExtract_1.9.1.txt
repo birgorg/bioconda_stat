@@ -1,0 +1,7 @@
+#package: MethylExtract_1.9.1 
+/readme.txt
+/license.txt
+/Manual_MethylExtract_v1.9.pdf
+/MethylExtractBSPvalue.pl
+/MethylExtract.pl
+/MethylExtractBSCR.pl

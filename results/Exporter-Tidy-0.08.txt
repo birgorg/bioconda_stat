@@ -1,0 +1,11 @@
+#package: Exporter-Tidy-0.08 
+/META.yml
+/Tidy.pm
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/1.t
+/t/lib/Test/More.pm
+/t/lib/Test/Builder.pm

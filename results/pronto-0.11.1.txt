@@ -1,0 +1,25 @@
+#package: pronto-0.11.1 
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/COPYING
+/setup.cfg
+/pronto/description.py
+/pronto/relationship.py
+/pronto/synonym.py
+/pronto/__init__.py
+/pronto/ontology.py
+/pronto/term.py
+/pronto/utils.py
+/pronto/parser/obo.py
+/pronto/parser/__init__.py
+/pronto/parser/owl.py
+/pronto/parser/base.py
+/pronto/parser/utils.py
+/pronto.egg-info/zip-safe
+/pronto.egg-info/top_level.txt
+/pronto.egg-info/SOURCES.txt
+/pronto.egg-info/PKG-INFO
+/pronto.egg-info/dependency_links.txt
+/pronto.egg-info/requires.txt

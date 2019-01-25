@@ -1,0 +1,7 @@
+#package: IGV_2.4.9 
+/igv.sh
+/igv.bat
+/goby-io-igv__V1.0.jar
+/batik-codec__V1.7.jar
+/igv.jar
+/igv.command

@@ -1,0 +1,12 @@
+#package: twobitreader-3.1.6 
+/README.md
+/PKG-INFO
+/setup.py
+/setup.cfg
+/twobitreader/__init__.py
+/twobitreader/download.py
+/twobitreader/__main__.py
+/twobitreader.egg-info/top_level.txt
+/twobitreader.egg-info/SOURCES.txt
+/twobitreader.egg-info/PKG-INFO
+/twobitreader.egg-info/dependency_links.txt

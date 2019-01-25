@@ -1,0 +1,27 @@
+#package: MUSiCC-1.0.2 
+/LICENSE
+/HISTORY.rst
+/README.rst
+/PKG-INFO
+/AUTHORS.rst
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/scripts/run_musicc.py
+/musicc/core.py
+/musicc/__init__.py
+/musicc/data/uscg_76_kegg_min_2313.lst
+/musicc/data/Correlog_clusters_genes_DATA_HMP_STOOL_CLASS_HMP_SAMP_134_KO_76.tab
+/musicc/data/semi_uscg_72_kegg_min_2148_max_2313.lst
+/musicc/data/Final_Betas_ALL_SAMPLES_DATA_HMP_STOOL_CLASS_HMP_SAMP_134_KO_76.tab
+/musicc/data/Gene_level_features_for_all_KOs_DATA_HMP_STOOL_CLASS_HMP_SAMP_134_KO_76.tab
+/musicc/examples/simulated_ko_MUSiCC_Normalized_Corrected_learn_model.tab
+/musicc/examples/simulated_ko_MUSiCC_Normalized.tab
+/musicc/examples/simulated_ko_relative_abundance.tab
+/musicc/examples/simulated_ko_MUSiCC_Normalized_Corrected_use_generic.tab
+/MUSiCC.egg-info/top_level.txt
+/MUSiCC.egg-info/SOURCES.txt
+/MUSiCC.egg-info/PKG-INFO
+/MUSiCC.egg-info/dependency_links.txt
+/MUSiCC.egg-info/requires.txt
+/tests/test_musicc.py

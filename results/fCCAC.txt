@@ -1,0 +1,23 @@
+#package: fCCAC 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/fccac.R
+/R/heatmapfCCAC.R
+/R/multiplot.R
+/man/fCCAC-package.Rd
+/man/fccac.Rd
+/man/fCCAC-internal.Rd
+/man/heatmapfCCAC.Rd
+/vignettes/fCCAC.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/CITATION
+/inst/doc/fCCAC.R
+/inst/doc/fCCAC.pdf
+/inst/doc/fCCAC.Rnw
+/inst/unitTests/test_fCCAC.R
+/inst/extdata/chr21_H3K4me3_2.bw
+/inst/extdata/chr21_H3K4me3_3.bw
+/inst/extdata/chr21_H3K4me3_1.bw
+/inst/extdata/chr21_merged_ACT_K4.bed

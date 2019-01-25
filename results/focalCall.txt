@@ -1,0 +1,26 @@
+#package: focalCall 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/singleSample.R
+/R/igvFiles.R
+/R/FreqPlotfocal.R
+/R/focalCall.R
+/R/private.R
+/R/FreqPlot.R
+/data/BierkensCNA.RData
+/man/FreqPlot.Rd
+/man/BierkensCNA.Rd
+/man/focalCall.Rd
+/man/FreqPlotfocal.Rd
+/man/igvFiles.Rd
+/man/singleSample.Rd
+/vignettes/focalCall.Rnw
+/vignettes/focalCall.bib
+/build/vignette.rds
+/tests/runTests.R
+/inst/doc/focalCall.Rnw
+/inst/doc/focalCall.R
+/inst/doc/focalCall.pdf
+/inst/unitTests/focalCall_unitTests.R

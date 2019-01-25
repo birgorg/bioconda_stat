@@ -1,0 +1,23 @@
+#package: MantelCorr 
+/NAMESPACE
+/DESCRIPTION
+/R/MantelCorrs.r
+/R/PermutationTest.r
+/R/ClusterList.r
+/R/GetClusters.r
+/R/ClusterGeneList.r
+/R/DistMatrices.r
+/data/GolubTrain.rda
+/man/ClusterList.Rd
+/man/PermutationTest.Rd
+/man/GolubTrain.Rd
+/man/MantelCorrs.Rd
+/man/GetClusters.Rd
+/man/DistMatrices.Rd
+/man/ClusterGeneList.Rd
+/vignettes/MantelCorrVignette.Rnw
+/vignettes/MantelCorrVignette.ps
+/build/vignette.rds
+/inst/doc/MantelCorrVignette.Rnw
+/inst/doc/MantelCorrVignette.pdf
+/inst/doc/MantelCorrVignette.R

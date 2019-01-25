@@ -1,0 +1,24 @@
+#package: gseapy-0.9.9 
+/LICENSE.txt
+/README.rst
+/requirements.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/gseapy.egg-info/entry_points.txt
+/gseapy.egg-info/top_level.txt
+/gseapy.egg-info/not-zip-safe
+/gseapy.egg-info/SOURCES.txt
+/gseapy.egg-info/PKG-INFO
+/gseapy.egg-info/dependency_links.txt
+/gseapy.egg-info/requires.txt
+/gseapy/enrichr.py
+/gseapy/algorithm.py
+/gseapy/stats.py
+/gseapy/__init__.py
+/gseapy/parser.py
+/gseapy/plot.py
+/gseapy/gsea.py
+/gseapy/__main__.py
+/gseapy/utils.py

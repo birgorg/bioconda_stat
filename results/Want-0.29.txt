@@ -1,0 +1,18 @@
+#package: Want-0.29 
+/META.yml
+/TODO
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Want.xs
+/Want.pm
+/t/threads.p
+/t/threads.t
+/t/assign.t
+/t/object.t
+/t/err.t
+/t/damian.t
+/t/methcall.t
+/t/boolean.t
+/t/all.t

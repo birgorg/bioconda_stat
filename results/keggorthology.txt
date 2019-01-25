@@ -1,0 +1,23 @@
+#package: keggorthology 
+/NAMESPACE
+/DESCRIPTION
+/R/indRender.R
+/R/getKOtags.R
+/R/keggDF2graph.R
+/data/keggOrthDF.rda
+/data/KOgraph.rda
+/man/getKOprobes.Rd
+/man/indRender.Rd
+/man/keggDF2graph.Rd
+/vignettes/keggorth.Rnw
+/build/vignette.rds
+/inst/doc/keggorth.pdf
+/inst/doc/keggorth.R
+/inst/doc/keggorth.Rnw
+/inst/keggHTML/get_htext_2010.html
+/inst/keggHTML/dfWdepth.R
+/inst/keggHTML/parseKeg.R
+/inst/keggHTML/ko00001.keg
+/inst/keggHTML/wget.keg
+/inst/keggHTML/get_htext.html
+/inst/keggHTML/PRE2010/ko00001.keg

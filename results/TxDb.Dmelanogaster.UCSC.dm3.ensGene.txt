@@ -1,0 +1,6 @@
+#package: TxDb.Dmelanogaster.UCSC.dm3.ensGene 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Dmelanogaster.UCSC.dm3.ensGene.sqlite

@@ -1,0 +1,13 @@
+#package: ExtUtils-InstallPaths-0.012 
+/META.yml
+/LICENSE
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/INSTALL
+/t/destinations.t
+/lib/ExtUtils/InstallPaths.pm
+/xt/author/pod-syntax.t
+/xt/author/pod-coverage.t

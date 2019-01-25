@@ -1,0 +1,26 @@
+#package: File-HomeDir-1.004 
+/README.md
+/META.yml
+/LICENSE
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/t/20_empty_home.t
+/t/10_test.t
+/t/12_darwin_carbon.t
+/t/01_compile.t
+/t/02_main.t
+/t/11_darwin.t
+/t/13_darwin_cocoa.t
+/lib/File/HomeDir.pm
+/lib/File/HomeDir/Unix.pm
+/lib/File/HomeDir/Darwin.pm
+/lib/File/HomeDir/Test.pm
+/lib/File/HomeDir/Windows.pm
+/lib/File/HomeDir/MacOS9.pm
+/lib/File/HomeDir/FreeDesktop.pm
+/lib/File/HomeDir/Driver.pm
+/lib/File/HomeDir/Darwin/Carbon.pm
+/lib/File/HomeDir/Darwin/Cocoa.pm

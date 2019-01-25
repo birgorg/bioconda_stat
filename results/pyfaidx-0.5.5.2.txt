@@ -1,0 +1,14 @@
+#package: pyfaidx-0.5.5.2 
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/pyfaidx/cli.py
+/pyfaidx/__init__.py
+/pyfaidx.egg-info/entry_points.txt
+/pyfaidx.egg-info/top_level.txt
+/pyfaidx.egg-info/SOURCES.txt
+/pyfaidx.egg-info/PKG-INFO
+/pyfaidx.egg-info/dependency_links.txt
+/pyfaidx.egg-info/requires.txt

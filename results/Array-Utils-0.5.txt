@@ -1,0 +1,8 @@
+#package: Array-Utils-0.5 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Utils.pm
+/Changes
+/t/array-utils.t

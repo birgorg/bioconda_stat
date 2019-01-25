@@ -1,0 +1,10 @@
+#package: Import-Into-1.002005 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/import_into.t
+/lib/Import/Into.pm
+/maint/Makefile.PL.include

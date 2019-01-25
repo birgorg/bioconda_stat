@@ -1,0 +1,11 @@
+#package: Sort-Naturally-1.03 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/MANIFEST.SKIP
+/ChangeLog
+/t/00_about_verbose.t
+/t/01_old_junk.t
+/lib/Sort/Naturally.pm

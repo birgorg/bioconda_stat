@@ -1,0 +1,18 @@
+#package: BAC 
+/NAMESPACE
+/DESCRIPTION
+/R/CallRegions.R
+/R/BAC.R
+/data/ER.rda
+/man/ER.Rd
+/man/BAC.Rd
+/man/CallRegions.Rd
+/vignettes/BAC.Rnw
+/vignettes/bac.rda
+/build/vignette.rds
+/inst/doc/BAC.pdf
+/inst/doc/BAC.Rnw
+/inst/doc/BAC.R
+/src/util.h
+/src/BAC.c
+/src/util.c

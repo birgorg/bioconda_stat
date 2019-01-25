@@ -1,0 +1,24 @@
+#package: kipoiseq-0.2.2 
+/README.md
+/LICENSE
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/docs/README.md
+/docs/Makefile
+/kipoiseq/extractors.py
+/kipoiseq/__init__.py
+/kipoiseq/utils.py
+/kipoiseq/dataloaders/splicing.py
+/kipoiseq/dataloaders/__init__.py
+/kipoiseq/dataloaders/sequence.py
+/kipoiseq/transforms/__init__.py
+/kipoiseq/transforms/transforms.py
+/kipoiseq/transforms/functional.py
+/kipoiseq.egg-info/top_level.txt
+/kipoiseq.egg-info/not-zip-safe
+/kipoiseq.egg-info/SOURCES.txt
+/kipoiseq.egg-info/PKG-INFO
+/kipoiseq.egg-info/dependency_links.txt
+/kipoiseq.egg-info/requires.txt

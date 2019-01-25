@@ -1,0 +1,25 @@
+#package: daMA 
+/NAMESPACE
+/DESCRIPTION
+/R/analyseMA.R
+/R/designMA.R
+/data/cmat.rda
+/data/cmatB.AB.rda
+/data/designs.basic.rda
+/data/cinfoB.AB.rda
+/data/designs.composite.rda
+/data/cinfo.rda
+/data/data.3x2.rda
+/data/datalist
+/data/id.3x2.rda
+/man/cinfoB.AB.Rd
+/man/id.3x2.Rd
+/man/designMA.Rd
+/man/cmat.Rd
+/man/analyseMA.Rd
+/man/cmatB.AB.Rd
+/man/designs.basic.Rd
+/man/designs.composite.Rd
+/man/cinfo.Rd
+/man/core.Rd
+/man/data.3x2.Rd

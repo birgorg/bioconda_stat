@@ -1,0 +1,11 @@
+#package: splots 
+/NAMESPACE
+/TODO
+/DESCRIPTION
+/R/plotScreen.R
+/man/plotScreen.Rd
+/vignettes/splotsHOWTO.Rnw
+/build/vignette.rds
+/inst/doc/splotsHOWTO.Rnw
+/inst/doc/splotsHOWTO.pdf
+/inst/doc/splotsHOWTO.R

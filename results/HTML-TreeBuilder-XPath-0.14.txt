@@ -1,0 +1,13 @@
+#package: HTML-TreeBuilder-XPath-0.14 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/pod_coverage.t
+/t/test_following.t
+/t/pod.t
+/t/HTML-TreeBuilder-XPath.t
+/t/test_preceding.t
+/lib/HTML/TreeBuilder/XPath.pm

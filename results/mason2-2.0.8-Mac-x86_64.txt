@@ -1,0 +1,18 @@
+#package: mason2-2.0.8-Mac-x86_64 
+/LICENSE
+/README.mason_variator
+/README.mason_materializer
+/README
+/README.mason_simulator
+/README.mason_frag_sequencing
+/README.mason_genome
+/README.mason_splicing
+/README.mason_methylation
+/bin/mason_variator
+/bin/mason_frag_sequencing
+/bin/mason_methylation
+/bin/mason_simulator
+/bin/mason_splicing
+/bin/mason_materializer
+/bin/mason_genome
+/example/adeno_virus.fa

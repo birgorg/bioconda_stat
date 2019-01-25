@@ -1,0 +1,9 @@
+#package: File-Sort-1.01 
+/README
+/Makefile.PL
+/MANIFEST
+/test.pl
+/Sort.pm
+/Sort.pm_sorted.txt
+/Sort.pm_rsorted.txt
+/eg/sort.pudge.PL

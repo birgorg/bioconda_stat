@@ -1,0 +1,15 @@
+#package: sizepower 
+/NAMESPACE
+/DESCRIPTION
+/R/power.R
+/R/SampleSize.R
+/man/powerRandomized.Rd
+/man/sampleSizeRandomized.Rd
+/man/powerMatched.Rd
+/man/powerMulti.Rd
+/man/sampleSizeMatched.Rd
+/vignettes/sizepower.Rnw
+/build/vignette.rds
+/inst/doc/sizepower.pdf
+/inst/doc/sizepower.Rnw
+/inst/doc/sizepower.R

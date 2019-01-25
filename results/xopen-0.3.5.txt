@@ -1,0 +1,10 @@
+#package: xopen-0.3.5 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/xopen.py
+/xopen.egg-info/top_level.txt
+/xopen.egg-info/SOURCES.txt
+/xopen.egg-info/PKG-INFO
+/xopen.egg-info/dependency_links.txt

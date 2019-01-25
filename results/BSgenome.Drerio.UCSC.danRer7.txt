@@ -1,0 +1,8 @@
+#package: BSgenome.Drerio.UCSC.danRer7 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/Zv9_NA.rda
+/inst/extdata/single_sequences.2bit
+/inst/extdata/Zv9_scaffold.rda

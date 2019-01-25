@@ -1,0 +1,26 @@
+#package: RUVSeq 
+/NAMESPACE
+/DESCRIPTION
+/R/RUVr-methods.R
+/R/residuals.DGEGLM.R
+/R/RUVg-methods.R
+/R/RUVs-methods.R
+/R/AllGenerics.R
+/R/helper.R
+/man/RUVg.Rd
+/man/makeGroups.Rd
+/man/RUVs.Rd
+/man/RUVr.Rd
+/man/residuals.DGEGLM.Rd
+/man/RUVSeq-package.Rd
+/vignettes/biblio.bib
+/vignettes/RUVSeq.Rnw
+/build/vignette.rds
+/tests/RUVr.R
+/tests/RUVs.R
+/tests/RUVg.R
+/inst/CITATION
+/inst/NEWS
+/inst/doc/RUVSeq.R
+/inst/doc/RUVSeq.pdf
+/inst/doc/RUVSeq.Rnw

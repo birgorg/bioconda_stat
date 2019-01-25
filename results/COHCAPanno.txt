@@ -1,0 +1,16 @@
+#package: COHCAPanno 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/COHCAP.450k.UCSC.rda
+/data/COHCAP.450k.HMM.rda
+/data/COHCAP.27k.rda
+/data/datalist
+/man/COHCAP.27k.Rd
+/man/COHCAP.450k.UCSC.Rd
+/man/COHCAP.450k.HMM.Rd
+/vignettes/COHCAPanno.Rnw
+/build/vignette.rds
+/inst/doc/COHCAPanno.R
+/inst/doc/COHCAPanno.pdf
+/inst/doc/COHCAPanno.Rnw

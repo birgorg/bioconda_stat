@@ -1,0 +1,24 @@
+#package: GotohScan-1.3 
+/scf2time.sh
+/main.c
+/ggaACA29.fa
+/README
+/read.c
+/calc.c
+/Makefile
+/fasta.c
+/read.h
+/calc.h
+/structs.h
+/gammatable.h
+/settings.cfg
+/maturestar.fa
+/reFormat.pl
+/fasta.h
+/test/test.maf
+/test/test.blast
+/test/test.fa
+/test/testquery.fa
+/test/testdb.fa
+/test/test.gff
+/test/test.bed

@@ -1,0 +1,27 @@
+#package: cleaver 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/cleavageSites-functions.R
+/R/helper-functions.R
+/R/rules.R
+/R/cleavageRanges-functions.R
+/R/AllGenerics.R
+/R/cleave-methods.R
+/R/cleavageRanges-methods.R
+/R/cleavageSites-methods.R
+/R/cleave-functions.R
+/man/cleaver-package.Rd
+/man/cleave-methods.Rd
+/vignettes/cleaver.bib
+/vignettes/cleaver.Rnw
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_cleavageRanges-methods.R
+/tests/testthat/test_cleavageSites-methods.R
+/tests/testthat/test_helper-functions.R
+/tests/testthat/test_rules.R
+/tests/testthat/test_cleave-methods.R
+/inst/doc/cleaver.pdf
+/inst/doc/cleaver.R
+/inst/doc/cleaver.Rnw

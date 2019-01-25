@@ -1,0 +1,14 @@
+#package: sonLib-1.1.0 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/src/sonLib.egg-info/top_level.txt
+/src/sonLib.egg-info/SOURCES.txt
+/src/sonLib.egg-info/PKG-INFO
+/src/sonLib.egg-info/dependency_links.txt
+/src/sonLib/nxnewick.py
+/src/sonLib/__init__.py
+/src/sonLib/bioio.py
+/src/sonLib/misc.py
+/src/sonLib/nxtree.py
+/src/sonLib/tree.py

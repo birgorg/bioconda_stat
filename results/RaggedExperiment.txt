@@ -1,0 +1,27 @@
+#package: RaggedExperiment 
+/NAMESPACE
+/DESCRIPTION
+/R/assay-functions.R
+/R/utilities.R
+/R/RaggedExperiment-pkg.R
+/R/coerce-functions.R
+/R/RaggedExperiment-class.R
+/R/RaggedExperiment-subset-methods.R
+/man/coerce-functions.Rd
+/man/RaggedExperiment-class.Rd
+/man/RaggedExperiment-package.Rd
+/man/assay-functions.Rd
+/vignettes/RaggedExperiment.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_RaggedExperiment-class.R
+/tests/testthat/test_assay-functions.R
+/tests/testthat/test_coerce-functions.R
+/tests/testthat/test_RaggedExperiment-subset-methods.R
+/inst/NEWS
+/inst/scripts/RaggedExperiment-Ex.R
+/inst/scripts/coerce-functions-Ex.R
+/inst/scripts/assay-functions-Ex.R
+/inst/doc/RaggedExperiment.Rmd
+/inst/doc/RaggedExperiment.R
+/inst/doc/RaggedExperiment.html

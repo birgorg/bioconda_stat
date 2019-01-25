@@ -1,0 +1,21 @@
+#package: LPEadj 
+/NAMESPACE
+/DESCRIPTION
+/R/LPEadj.R
+/man/adjBaseOlig.error.step1.Rd
+/man/adjBaseOlig.error.step2.Rd
+/man/calculateLpeAdj.Rd
+/man/lpeAdj.Rd
+/man/adjBaseOlig.error.Rd
+/vignettes/LPEadj.Rnw
+/vignettes/isorot.sty
+/vignettes/fig/FPRPvalHist10Reps4.EPS
+/vignettes/fig/MeanMedianVar3.eps
+/vignettes/fig/MeanMedianVar3.jpg
+/vignettes/fig/HGU95GreyScale1.eps
+/vignettes/fig/FPRPvalHist10Reps4.jpg
+/vignettes/fig/HGU95GreyScale1.jpg
+/build/vignette.rds
+/inst/doc/LPEadj.R
+/inst/doc/LPEadj.pdf
+/inst/doc/LPEadj.Rnw

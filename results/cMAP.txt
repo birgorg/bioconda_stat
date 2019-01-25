@@ -1,0 +1,16 @@
+#package: cMAP 
+/NAMESPACE
+/DESCRIPTION
+/R/cMAP.R
+/data/Rdata.rdb
+/data/Rdata.rdx
+/data/Rdata.rds
+/data/datalist
+/man/cMAPCARTAMOLECULE.Rd
+/man/cMAPQC.Rd
+/man/cMAPCARTAPATHWAY.Rd
+/man/cMAP.Rd
+/man/cMAPKEGGINTERACTION.Rd
+/man/cMAPKEGGPATHWAY.Rd
+/man/cMAPCARTAINTERACTION.Rd
+/man/cMAPKEGGMOLECULE.Rd

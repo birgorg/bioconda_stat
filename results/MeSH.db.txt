@@ -1,0 +1,10 @@
+#package: MeSH.db 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/MeSH.db.Rd
+/tests/runTests.R
+/inst/CITATION
+/inst/NEWS
+/inst/unitTests/test_select.R
+/inst/extdata/MeSH.db.sqlite

@@ -1,0 +1,20 @@
+#package: Test-Requires-0.10 
+/README.md
+/META.yml
+/LICENSE
+/Makefile.PL
+/MANIFEST
+/Changes
+/minil.toml
+/META.json
+/cpanfile
+/t/06_perlver.t
+/t/04_import_array.t
+/t/00_compile.t
+/t/01_simple.t
+/t/05_success.t
+/t/03_import_hashref.t
+/t/02_no_plan.t
+/lib/Test/Requires.pm
+/xt/perlcriticrc
+/xt/02_perlcritic.t

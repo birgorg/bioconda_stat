@@ -1,0 +1,26 @@
+#package: Pviz 
+/NAMESPACE
+/DESCRIPTION
+/R/AllClasses.R
+/R/GenericsAndMethods.R
+/R/AllFunctions.R
+/R/pepStat_plots.R
+/man/DTrack.Rd
+/man/ProbeTrack.Rd
+/man/plot_inter.Rd
+/man/CladeTrack.Rd
+/man/ATrack.Rd
+/man/ProteinSequenceTrack.Rd
+/man/ProteinAxisTrack.Rd
+/man/plot_clade.Rd
+/vignettes/Pviz.Rnw
+/build/vignette.rds
+/inst/doc/Pviz.pdf
+/inst/doc/Pviz.Rnw
+/inst/doc/Pviz.R
+/inst/extdata/alignments/SequenceHXB2-7Subtypes.fasta
+/inst/extdata/alignments/SequenceLANL_239_E660.fasta
+/inst/extdata/alignments/MuscleLANL_239_E660.fasta
+/inst/extdata/alignments/Musclehxb2_vaccineInsert.fasta
+/inst/extdata/alignments/SequenceHXB2_vaccineInsert.fasta
+/inst/extdata/alignments/Musclehxb2_7subtypes.fasta

@@ -1,0 +1,8 @@
+#package: Number-Compare-0.03 
+/META.yml
+/Makefile.PL
+/MANIFEST
+/Changes
+/MANIFEST.SKIP
+/t/Number-Compare.t
+/lib/Number/Compare.pm

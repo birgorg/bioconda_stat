@@ -1,0 +1,8 @@
+#package: genomicepidemiology-kma-fd1f3ff93da4 
+/README.md
+/KMA.c
+/Makefile
+/performanceAndComparisonCMDs.tar.gz
+/KMA_update.c
+/KMA_index.c
+/KMA_SHM.c

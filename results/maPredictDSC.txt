@@ -1,0 +1,17 @@
+#package: maPredictDSC 
+/NAMESPACE
+/DESCRIPTION
+/R/perfDSC.R
+/R/aggregateDSC.R
+/R/maPredictDSC.R
+/R/predictDSC.R
+/man/perfDSC.Rd
+/man/maPredictDSC-internal.Rd
+/man/aggregateDSC.Rd
+/man/predictDSC.Rd
+/vignettes/maPredictDSC.Rnw
+/vignettes/maPredictDSC.bib
+/build/vignette.rds
+/inst/doc/maPredictDSC.Rnw
+/inst/doc/maPredictDSC.pdf
+/inst/doc/maPredictDSC.R

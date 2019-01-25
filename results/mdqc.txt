@@ -1,0 +1,16 @@
+#package: mdqc 
+/NAMESPACE
+/DESCRIPTION
+/R/sestimator.R
+/R/mdqc.R
+/data/allQC.rda
+/man/mdqc-package.Rd
+/man/mdqc.Rd
+/man/plot.mdqc.Rd
+/man/allQC.Rd
+/man/prcomp.robust.Rd
+/vignettes/mdqcvignette.Rnw
+/build/vignette.rds
+/inst/doc/mdqcvignette.pdf
+/inst/doc/mdqcvignette.Rnw
+/inst/doc/mdqcvignette.R

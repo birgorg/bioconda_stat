@@ -1,0 +1,16 @@
+#package: File-Find-Rule-0.34 
+/META.yml
+/findrule
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/findrule.t
+/t/File-Find-Rule.t
+/lib/File/Find/Rule.pm
+/lib/File/Find/Rule/Extending.pod
+/lib/File/Find/Rule/Procedural.pod
+/testdir/findrule.t
+/testdir/File-Find-Rule.t
+/testdir/foobar
+/testdir/lib/File/Find/Rule/Test/ATeam.pm

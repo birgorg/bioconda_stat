@@ -1,0 +1,24 @@
+#package: File-ShareDir-1.116 
+/README.md
+/META.yml
+/LICENSE
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/t/00_prereqs.t
+/t/03_extensions.t
+/t/01_compile.t
+/t/05_class.t
+/t/04_fail.t
+/t/02_main.t
+/t/06_old.t
+/t/lib/ShareDir/TestClass.pm
+/lib/File/ShareDir.pm
+/foo/test_file.txt
+/share/sample.txt
+/share/subdir/sample.txt
+/inc/latest.pm
+/inc/latest/private.pm
+/inc/inc_File-ShareDir-Install/File/ShareDir/Install.pm

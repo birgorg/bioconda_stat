@@ -1,0 +1,21 @@
+#package: CGHcall 
+/NAMESPACE
+/DESCRIPTION
+/R/preprocess.R
+/R/CGHcall.R
+/R/private.R
+/data/Wilting.txt
+/man/CGHcall.Rd
+/man/postsegnormalize.Rd
+/man/CGHcall-package.Rd
+/man/preprocess.Rd
+/man/Wilting.Rd
+/man/segmentData.Rd
+/man/normalize.Rd
+/man/ExpandCGHcall.Rd
+/vignettes/CGHcall.bib
+/vignettes/CGHcall.Rnw
+/build/vignette.rds
+/inst/doc/CGHcall.R
+/inst/doc/CGHcall.Rnw
+/inst/doc/CGHcall.pdf

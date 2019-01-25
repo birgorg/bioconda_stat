@@ -1,0 +1,10 @@
+#package: stemHypoxia 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/NEWS
+/data/stemHypoxia.RData
+/data/datalist
+/man/M.Rd
+/man/design.Rd
+/man/stemHypoxia.Rd

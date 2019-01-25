@@ -1,0 +1,20 @@
+#package: decontam 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/plotting.R
+/R/decontam.R
+/man/isContaminant.Rd
+/man/plot_frequency.Rd
+/man/isNotContaminant.Rd
+/vignettes/decontam_intro.Rmd
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/decontam_intro.R
+/inst/doc/decontam_intro.Rmd
+/inst/doc/decontam_intro.html
+/inst/extdata/MUClite.rds
+/inst/extdata/MUCconc.rds
+/inst/extdata/st.rds
+/inst/extdata/samdf.rds

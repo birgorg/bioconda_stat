@@ -1,0 +1,12 @@
+#package: Class-Data-Inheritable-0.08 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/MANIFEST.SKIP
+/doc/jp/Class-Data-Inheritable.pod
+/t/pod.t
+/t/Inheritable.t
+/t/pod-coverage.t
+/lib/Class/Data/Inheritable.pm

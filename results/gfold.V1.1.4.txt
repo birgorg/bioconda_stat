@@ -1,0 +1,13 @@
+#package: gfold.V1.1.4 
+/GeneInfo.hpp
+/DataProcessor.hpp
+/README
+/Makefile
+/main.cc
+/Utility.hpp
+/GFOLD.hpp
+/doc/gfold.css
+/doc/gfold.png
+/doc/gfold.pod
+/doc/gfold.html
+/doc/gfold.man

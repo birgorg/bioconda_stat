@@ -1,0 +1,9 @@
+#package: Statistics-TTest-1.1.0 
+/test3.pl
+/PointEstimation.pm
+/test5.pl
+/TTest.pm
+/Makefile.PL
+/test4.pl
+/test.pl
+/test2.pl

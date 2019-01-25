@@ -1,0 +1,8 @@
+#package: HTTP-Negotiate-6.01 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/negotiate.t
+/lib/HTTP/Negotiate.pm

@@ -1,0 +1,20 @@
+#package: sagenhaft 
+/NAMESPACE
+/DESCRIPTION
+/R/sagenhaft.R
+/data/SAGEartifacts.txt.gz
+/man/sage.test.Rd
+/man/sage.utilities.Rd
+/man/extract.lib.Rd
+/man/sage.library.Rd
+/man/sage.library.comparison.Rd
+/man/sagelibrary.simulate.Rd
+/man/error.correction.Rd
+/vignettes/SAGEnhaft.Rnw
+/build/vignette.rds
+/inst/doc/SAGEnhaft.Rnw
+/inst/doc/SAGEnhaft.pdf
+/inst/doc/SAGEnhaft.R
+/inst/extdata/B6HypothalHFI.sage
+/inst/extdata/E15postHFI.zip
+/inst/extdata/E15postHFI.sage

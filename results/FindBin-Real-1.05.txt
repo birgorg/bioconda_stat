@@ -1,0 +1,17 @@
+#package: FindBin-Real-1.05 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Real.pm
+/CHANGES
+/t/t6.t
+/t/tpodc.t
+/t/t2.t
+/t/t3.t
+/t/t7.t
+/t/t5.t
+/t/t4.t
+/t/tpod.t
+/t/t1.t
+/t/t8.t

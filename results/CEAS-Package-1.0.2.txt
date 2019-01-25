@@ -1,0 +1,21 @@
+#package: CEAS-Package-1.0.2 
+/Artistic_License.pdf
+/ChangeLog
+/PKG-INFO
+/._ChangeLog
+/setup.py
+/._Artistic_License.pdf
+/lib/graphics.py
+/lib/inout.py
+/lib/annotator.py
+/lib/__init__.py
+/lib/profiler.py
+/lib/R.py
+/lib/corelib.py
+/lib/tables.py
+/lib/sampler.py
+/lib/Prob.py
+/bin/ceas
+/bin/gca
+/bin/sitepro
+/bin/build_genomeBG

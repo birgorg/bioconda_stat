@@ -1,0 +1,15 @@
+#package: Color-Theme-0.10.1 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/weaver.ini
+/t/author-pod-syntax.t
+/t/author-critic.t
+/t/00-compile.t
+/t/author-pod-coverage.t
+/lib/Color/Theme.pm

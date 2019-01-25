@@ -1,0 +1,24 @@
+#package: multiOmicsViz 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/zzz.R
+/R/calculateCorForTwoMatrices.R
+/R/multiOmicsViz.R
+/man/calculateCorForTwoMatrices.Rd
+/man/exampleData.Rd
+/man/multiOmicsViz.Rd
+/man/multiOmicsViz-package.Rd
+/vignettes/multiOmicsViz.Rnw
+/vignettes/example.png
+/build/vignette.rds
+/tests/runTests.R
+/inst/doc/multiOmicsViz.pdf
+/inst/doc/multiOmicsViz.Rnw
+/inst/doc/multiOmicsViz.R
+/inst/unitTests/test_multiOmicsViz.R
+/inst/extdata/sourceOmics.txt
+/inst/extdata/chromLength.txt
+/inst/extdata/genelocate.txt
+/inst/extdata/targetOmics.txt

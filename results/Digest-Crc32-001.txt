@@ -1,0 +1,7 @@
+#package: Digest-Crc32-001 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Crc32.pm
+/t/use.t

@@ -1,0 +1,15 @@
+#package: biocGraph 
+/NAMESPACE
+/DESCRIPTION
+/R/imageMap.R
+/man/imageMap.Rd
+/vignettes/layingOutPathways.Rnw
+/vignettes/biocGraph.Rnw
+/vignettes/hsa04510.png
+/build/vignette.rds
+/inst/doc/layingOutPathways.Rnw
+/inst/doc/layingOutPathways.pdf
+/inst/doc/biocGraph.pdf
+/inst/doc/biocGraph.R
+/inst/doc/biocGraph.Rnw
+/inst/doc/layingOutPathways.R

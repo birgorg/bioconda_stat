@@ -1,0 +1,12 @@
+#package: pvca 
+/NAMESPACE
+/DESCRIPTION
+/R/pvcaBatchAssess.R
+/man/pvcaBatchAssess.Rd
+/man/pvca-package.Rd
+/vignettes/pvca.Rnw
+/vignettes/pvcaEstimate.pdf
+/build/vignette.rds
+/inst/doc/pvca.pdf
+/inst/doc/pvca.Rnw
+/inst/doc/pvca.R

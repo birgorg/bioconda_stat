@@ -1,0 +1,26 @@
+#package: abeona-0.42.0 
+/Pipfile.lock
+/LICENSE
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/src/abeona.egg-info/entry_points.txt
+/src/abeona.egg-info/top_level.txt
+/src/abeona.egg-info/not-zip-safe
+/src/abeona.egg-info/SOURCES.txt
+/src/abeona.egg-info/PKG-INFO
+/src/abeona.egg-info/dependency_links.txt
+/src/abeona.egg-info/requires.txt
+/src/abeona/reads.py
+/src/abeona/cli.py
+/src/abeona/__init__.py
+/src/abeona/subgraphs.py
+/src/abeona/__main__.py
+/src/abeona/utils.py
+/src/abeona/assemble/assemble.nf
+/src/abeona/assemble/__init__.py
+/src/abeona/test/expectations.py
+/src/abeona/test/__init__.py
+/src/abeona/test/drivers.py

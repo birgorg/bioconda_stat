@@ -1,0 +1,25 @@
+#package: pyBigWig-0.3.12 
+/README.md
+/LICENSE.txt
+/pyBigWig.h
+/pyBigWig.c
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/pyBigWigTest/test.bw
+/pyBigWigTest/__init__.py
+/pyBigWigTest/test.bigBed
+/pyBigWigTest/test.py
+/libBigWig/README.md
+/libBigWig/bigWigIO.h
+/libBigWig/LICENSE
+/libBigWig/io.c
+/libBigWig/bigWig.h
+/libBigWig/bwCommon.h
+/libBigWig/bwValues.h
+/libBigWig/bwWrite.c
+/libBigWig/bwValues.c
+/libBigWig/bwStats.c
+/libBigWig/bwRead.c
+/pyBigWig.egg-info/SOURCES.txt

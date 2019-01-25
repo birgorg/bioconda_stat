@@ -1,0 +1,17 @@
+#package: IO-Zlib-1.10 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/ChangeLog
+/SIGNATURE
+/Zlib.pm
+/t/uncomp1.t
+/t/import.t
+/t/getc.t
+/t/basic.t
+/t/tied.t
+/t/external.t
+/t/large.t
+/t/getline.t
+/t/uncomp2.t

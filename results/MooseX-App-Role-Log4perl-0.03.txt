@@ -1,0 +1,12 @@
+#package: MooseX-App-Role-Log4perl-0.03 
+/README.md
+/META.yml
+/LICENSE
+/MANIFEST
+/Changes
+/minil.toml
+/META.json
+/cpanfile
+/Build.PL
+/t/00_compile.t
+/lib/MooseX/App/Role/Log4perl.pm

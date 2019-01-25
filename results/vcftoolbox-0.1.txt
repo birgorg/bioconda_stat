@@ -1,0 +1,14 @@
+#package: vcftoolbox-0.1 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/vcftoolbox.egg-info/top_level.txt
+/vcftoolbox.egg-info/SOURCES.txt
+/vcftoolbox.egg-info/PKG-INFO
+/vcftoolbox.egg-info/dependency_links.txt
+/vcftoolbox.egg-info/requires.txt
+/vcftoolbox/header_parser.py
+/vcftoolbox/genotype.py
+/vcftoolbox/__init__.py
+/vcftoolbox/parse_variant.py
+/vcftoolbox/add_variant_information.py

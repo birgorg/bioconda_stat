@@ -1,0 +1,8 @@
+#package: Bundle-BioPerl-2.1.9 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/BioPerl.pm

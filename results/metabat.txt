@@ -1,0 +1,12 @@
+#package: metabat 
+/README.md
+/metabat
+/license.txt
+/jgi_summarize_bam_contig_depths
+/aggregateContigOverlapsByBin.pl
+/runMetaBat.sh
+/contigOverlaps
+/Legal.txt
+/aggregateBinDepths.pl
+/metabat2
+/metabat1

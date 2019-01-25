@@ -1,0 +1,27 @@
+#package: SVAPLSseq 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/AllClasses.R
+/R/Methods.R
+/R/svplsTest.R
+/R/svplsSurr.R
+/R/AllGenerics.R
+/data/sim.dat.rda
+/man/pvs.unadj.Rd
+/man/svplsTest.Rd
+/man/pvs.adj.Rd
+/man/SVAPLSseq-package.Rd
+/man/svplsSurr.Rd
+/man/prop.vars.Rd
+/man/svplsSurr-class.Rd
+/man/surr.Rd
+/man/sig.features.Rd
+/man/svplsTest-class.Rd
+/man/sim.dat.Rd
+/vignettes/SVAPLSseq.Rnw
+/build/vignette.rds
+/inst/doc/SVAPLSseq.pdf
+/inst/doc/SVAPLSseq.R
+/inst/doc/SVAPLSseq.Rnw

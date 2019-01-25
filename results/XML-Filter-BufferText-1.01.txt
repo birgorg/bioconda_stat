@@ -1,0 +1,7 @@
+#package: XML-Filter-BufferText-1.01 
+/README
+/Makefile.PL
+/MANIFEST
+/BufferText.pm
+/Changes
+/t/05basic.t

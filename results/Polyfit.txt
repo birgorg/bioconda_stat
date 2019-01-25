@@ -1,0 +1,16 @@
+#package: Polyfit 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/PolyfitFunctions.R
+/man/pfNbinomTest.Rd
+/man/twoSidedPValueFromDiscrete.Rd
+/man/Polyfit-package.Rd
+/man/levelPValues.Rd
+/vignettes/polyfitFig4.pdf
+/vignettes/polyfitFig1.pdf
+/vignettes/polyfit.Rnw
+/build/vignette.rds
+/inst/doc/polyfit.R
+/inst/doc/polyfit.Rnw
+/inst/doc/polyfit.pdf

@@ -1,0 +1,25 @@
+#package: rbsurv 
+/NAMESPACE
+/DESCRIPTION
+/COPYING
+/R/rbsurv.sub.R
+/R/rbsurv.coxph.null.R
+/R/sig.covariates.R
+/R/rbsurv.coxph.R
+/R/rbsurv.default.R
+/R/id.sample.R
+/R/rbsurv.rule.boot.R
+/R/rbsurv.opt.R
+/R/rbsurv.R
+/R/rbsurv.rule.boot2.R
+/data/gliomaSet.RData
+/man/gliomaSet.Rd
+/man/rbsurv.default.Rd
+/man/rbsurv.Rd
+/vignettes/rbsurv.Rnw
+/vignettes/rbsurvrefs.bib
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/rbsurv.pdf
+/inst/doc/rbsurv.Rnw
+/inst/doc/rbsurv.R

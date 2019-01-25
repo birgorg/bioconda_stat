@@ -1,0 +1,16 @@
+#package: affydata 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/zzz.R
+/data/Dilution.rda
+/data/datalist
+/man/Dilution.Rd
+/vignettes/affydata.Rnw
+/build/vignette.rds
+/inst/celfiles/text.cel
+/inst/celfiles/binary.cel
+/inst/doc/affydata.Rnw
+/inst/doc/affydata.pdf
+/inst/doc/affydata.R
+/inst/extracelfiles/CL2001032020AA.cel

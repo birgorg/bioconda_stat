@@ -1,0 +1,25 @@
+#package: DeMAND 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/KLD2D.r
+/R/printDeMAND.R
+/R/pareto.R
+/R/integratePvalues.r
+/R/runDeMAND_ys.R
+/R/demandClass.R
+/data/inputExample.rda
+/man/bcellNetwork.Rd
+/man/controlIndex.Rd
+/man/caseIndex.Rd
+/man/demand-instance.Rd
+/man/printDeMAND.Rd
+/man/bcellExp.Rd
+/man/runDeMAND.Rd
+/man/demandClass.Rd
+/man/bcellAnno.Rd
+/vignettes/DeMAND.Rnw
+/build/vignette.rds
+/inst/doc/DeMAND.R
+/inst/doc/DeMAND.pdf
+/inst/doc/DeMAND.Rnw

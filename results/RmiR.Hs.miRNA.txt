@@ -1,0 +1,14 @@
+#package: RmiR.Hs.miRNA 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/RmiR.hsa_dbconn.Rd
+/build/vignette.rds
+/inst/doc/RmiRdb-fig1b.pdf
+/inst/doc/RmiRdb-fig2a.pdf
+/inst/doc/RmiR.Hs.miRNA.Rnw
+/inst/doc/RmiR.Hs.miRNA.R
+/inst/doc/RmiRdb-fig2b.pdf
+/inst/doc/RmiRdb-fig1a.pdf
+/inst/doc/RmiR.Hs.miRNA.pdf
+/inst/extdata/targets.sqlite

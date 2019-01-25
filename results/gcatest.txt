@@ -1,0 +1,20 @@
+#package: gcatest 
+/NAMESPACE
+/DESCRIPTION
+/R/gcat.R
+/R/data.R
+/data/sim_geno.rda
+/data/sim_trait.rda
+/data/datalist
+/man/sim_geno.Rd
+/man/sim_trait.Rd
+/man/gcat.Rd
+/vignettes/gcatest.Rnw
+/vignettes/gcatest.bib
+/build/vignette.rds
+/inst/doc/gcatest.pdf
+/inst/doc/gcatest.R
+/inst/doc/gcatest.Rnw
+/src/gcatest-init.c
+/src/assoc.c
+/src/Makevars

@@ -1,0 +1,10 @@
+#package: Text-ParseWords-3.30 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/CHANGES
+/t/ParseWords.t
+/t/taint.t
+/lib/Text/ParseWords.pm

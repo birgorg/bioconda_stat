@@ -1,0 +1,26 @@
+#package: Data-Dump-1.23 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/regexp.t
+/t/scalar.t
+/t/ref.t
+/t/hash.t
+/t/dollar-one.t
+/t/dd.t
+/t/quote.t
+/t/eval.t
+/t/tied.t
+/t/vstring.t
+/t/filtered.t
+/t/scalar-obj.t
+/t/dump.t
+/t/glob.t
+/t/quote-unicode.t
+/lib/Data/Dump.pm
+/lib/Data/Dump/FilterContext.pm
+/lib/Data/Dump/Filtered.pm
+/lib/Data/Dump/Trace.pm

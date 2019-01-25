@@ -1,0 +1,23 @@
+#package: Unicode-Normalize-1.26 
+/META.yml
+/LICENSE
+/README
+/Normalize.pm
+/Makefile.PL
+/MANIFEST
+/Changes
+/Normalize.xs
+/META.json
+/mkheader
+/t/proto.t
+/t/form.t
+/t/norm.t
+/t/test.t
+/t/partial1.t
+/t/null.t
+/t/tie.t
+/t/func.t
+/t/fcdc.t
+/t/partial2.t
+/t/illegal.t
+/t/split.t

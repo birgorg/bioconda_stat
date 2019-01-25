@@ -1,0 +1,26 @@
+#package: MIME-Types-2.17 
+/README.md
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/ChangeLog
+/t/20types.t
+/t/22accbest.t
+/t/11typeol.t
+/t/10type.t
+/t/40mojo.t
+/t/21accept.t
+/t/30export.t
+/lib/MojoX/MIME/Types.pod
+/lib/MojoX/MIME/Types.pm
+/lib/MIME/Type.pm
+/lib/MIME/Types.pod
+/lib/MIME/types.db
+/lib/MIME/Type.pod
+/lib/MIME/Types.pm
+/bin/update-iana
+/bin/collect-types
+/xt/99pod.t
+/xt/98perl.t

@@ -1,0 +1,10 @@
+#package: justbackoff-0.4.0 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/justbackoff.egg-info/top_level.txt
+/justbackoff.egg-info/not-zip-safe
+/justbackoff.egg-info/SOURCES.txt
+/justbackoff.egg-info/PKG-INFO
+/justbackoff.egg-info/dependency_links.txt
+/justbackoff/__init__.py

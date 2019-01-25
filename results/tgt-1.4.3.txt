@@ -1,0 +1,13 @@
+#package: tgt-1.4.3 
+/PKG-INFO
+/setup.py
+/scripts/tgt-shift-boundaries.py
+/scripts/tgt-extract-part.py
+/scripts/tgt-print-tiernames.py
+/scripts/tgt-concatenate-textgrids.py
+/tgt/agreement.py
+/tgt/core.py
+/tgt/__init__.py
+/tgt/io3.py
+/tgt/util.py
+/tgt/io.py

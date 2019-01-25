@@ -1,0 +1,22 @@
+#package: PadWalker-2.3 
+/META.yml
+/PadWalker.xs
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/PadWalker.pm
+/t/our.t
+/t/baz.pl
+/t/sub.t
+/t/bar.pl
+/t/test.t
+/t/closure.t
+/t/var_name.t
+/t/dm.t
+/t/foo.t
+/t/tt.t
+/t/vn-inc-2.pl
+/t/vn-inc-1.pl
+/t/recurse.t

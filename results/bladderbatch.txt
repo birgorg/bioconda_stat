@@ -1,0 +1,14 @@
+#package: bladderbatch 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/INDEX
+/data/bladderdata.rda
+/data/datalist
+/man/bladderEset.Rd
+/vignettes/bladderbatch.bib
+/vignettes/bladderbatch.Rnw
+/build/vignette.rds
+/inst/doc/bladderbatch.pdf
+/inst/doc/bladderbatch.R
+/inst/doc/bladderbatch.Rnw

@@ -1,0 +1,18 @@
+#package: FLASH-1.2.11 
+/iostream.c
+/README
+/read_io.c
+/util.h
+/iostream.h
+/Makefile
+/read_util.c
+/flash.c
+/read.h
+/read_queue.c
+/util.c
+/COPYING
+/read_io.h
+/read_queue.h
+/NEWS
+/combine_reads.c
+/combine_reads.h

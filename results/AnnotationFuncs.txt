@@ -1,0 +1,23 @@
+#package: AnnotationFuncs 
+/NAMESPACE
+/DESCRIPTION
+/R/annotation-funcs.R
+/R/homologe.R
+/man/getEvidenceCodes.Rd
+/man/removeNAs.Rd
+/man/mapLists.Rd
+/man/dbEscapeString2.Rd
+/man/getOrthologs.Rd
+/man/pickRef2.Rd
+/man/getTableName2.Rd
+/man/AnnotationFuncs-package.Rd
+/man/translate.Rd
+/man/pickRefSeq.Rd
+/man/pickGO.Rd
+/vignettes/AnnotationFuncsUserguide.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/AnnotationFuncsUserguide.Rnw
+/inst/doc/AnnotationFuncsUserguide.pdf
+/inst/doc/AnnotationFuncsUserguide.R

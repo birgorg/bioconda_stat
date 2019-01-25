@@ -1,0 +1,13 @@
+#package: RnBeads.rn5 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/package.R
+/data/rn5.CpG.RData
+/data/CpG.RData
+/data/rn5.regions.RData
+/data/regions.RData
+/data/rn5.RData
+/data/datalist
+/man/rn5.Rd
+/inst/NEWS

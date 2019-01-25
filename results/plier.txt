@@ -1,0 +1,16 @@
+#package: plier 
+/NAMESPACE
+/README
+/DESCRIPTION
+/R/justPlier.R
+/man/justPlier.Rd
+/src/plieralg.h
+/src/affyplier.h
+/src/rwrapper.cpp
+/src/affy_ptr.h
+/src/affyplier.cpp
+/src/plier_impl.cpp
+/src/affyheapsort.h
+/src/error.h
+/src/iaffyplier.h
+/src/plieralg.cpp

@@ -1,0 +1,19 @@
+#package: pyBamParser-0.0.3 
+/README
+/PKG-INFO
+/setup.py
+/setup.cfg
+/lib/pyBamParser/__init__.py
+/lib/pyBamParser/bgzf/__init__.py
+/lib/pyBamParser/fasta/__init__.py
+/lib/pyBamParser/bam/__init__.py
+/lib/pyBamParser/util/odict.py
+/lib/pyBamParser/util/__init__.py
+/lib/pyBamParser/util/packer.py
+/lib/pyBamParser/bai/__init__.py
+/lib/pyBamParser/read/__init__.py
+/lib/pyBamParser.egg-info/top_level.txt
+/lib/pyBamParser.egg-info/not-zip-safe
+/lib/pyBamParser.egg-info/SOURCES.txt
+/lib/pyBamParser.egg-info/PKG-INFO
+/lib/pyBamParser.egg-info/dependency_links.txt

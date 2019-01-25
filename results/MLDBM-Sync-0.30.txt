@@ -1,0 +1,19 @@
+#package: MLDBM-Sync-0.30 
+/README
+/Makefile.PL
+/MANIFEST
+/Makefile
+/MANIFEST.bak
+/MANIFEST.SKIP
+/CHANGES
+/Sync.pm
+/t/sdbm_big_rec.t
+/t/general.t
+/t/zdone.t
+/t/taint.t
+/t/key_checksum.t
+/t/cache.t
+/t/T.pm
+/t/locks.t
+/lib/MLDBM/Sync/SDBM_File.pm
+/bench/bench_sync.pl

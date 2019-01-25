@@ -1,0 +1,22 @@
+#package: diffGeneAnalysis 
+/NAMESPACE
+/DESCRIPTION
+/R/assocAnalysis.R
+/R/biasAdjust.R
+/R/dataTrim.R
+/R/refGroup.R
+/R/normalize.R
+/R/curveFit.R
+/data/rawdata.rda
+/man/normalize.Rd
+/man/refGroup.Rd
+/man/biasAdjust.Rd
+/man/assocAnalysis.Rd
+/man/rawdata.Rd
+/man/curveFit.Rd
+/man/dataTrim.Rd
+/vignettes/diffGeneAnalysis.Rnw
+/build/vignette.rds
+/inst/doc/diffGeneAnalysis.Rnw
+/inst/doc/diffGeneAnalysis.R
+/inst/doc/diffGeneAnalysis.pdf

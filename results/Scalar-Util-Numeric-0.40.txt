@@ -1,0 +1,13 @@
+#package: Scalar-Util-Numeric-0.40 
+/META.yml
+/ppport.h
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/Numeric.xs
+/MANIFEST.SKIP
+/t/pod.t
+/t/all.t
+/lib/Scalar/Util/Numeric.pm

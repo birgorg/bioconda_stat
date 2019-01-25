@@ -1,0 +1,12 @@
+#package: geneRecommender 
+/NAMESPACE
+/DESCRIPTION
+/R/geneRecommender.R
+/man/gr.cv.Rd
+/man/gr.normalize.Rd
+/man/gr.main.Rd
+/vignettes/geneRecommender.Rnw
+/build/vignette.rds
+/inst/doc/geneRecommender.R
+/inst/doc/geneRecommender.pdf
+/inst/doc/geneRecommender.Rnw

@@ -1,0 +1,19 @@
+#package: mygene 
+/NAMESPACE
+/DESCRIPTION
+/R/mygene.R
+/R/utils.R
+/man/queryMany.Rd
+/man/query.Rd
+/man/getGenes.Rd
+/man/MyGene-class.Rd
+/man/MyGene.Rd
+/man/makeTxDbFromMyGene.Rd
+/man/metadata.Rd
+/man/getGene.Rd
+/man/mygene-package.Rd
+/vignettes/mygene.Rnw
+/build/vignette.rds
+/inst/doc/mygene.R
+/inst/doc/mygene.Rnw
+/inst/doc/mygene.pdf

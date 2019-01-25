@@ -1,0 +1,10 @@
+#package: Math-Spline-0.02 
+/META.yml
+/Release
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/Spline.pm
+/t/01-work.t
+/t/00-load.t

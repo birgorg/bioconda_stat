@@ -1,0 +1,15 @@
+#package: File-Copy-Recursive-0.44 
+/README.md
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/01.legacy.t
+/t/05.legacy-pathmk_unc.t
+/t/02.legacy-symtogsafe.t
+/t/03.github-issue-5.t
+/t/04.readonly-dir.t
+/t/00.load.t
+/lib/File/Copy/Recursive.pm

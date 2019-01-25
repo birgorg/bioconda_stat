@@ -1,0 +1,23 @@
+#package: pymix-0.8a 
+/mixtureHMM.py
+/README.txt
+/mixtureHMMunittests.py
+/GPL.txt
+/randomMixtures.py
+/C_mixextend.c
+/plotMixture.py
+/PKG-INFO
+/C_mixextend.h
+/bioMixture.py
+/setPartitions.py
+/mixture.py
+/mixtureunittests.py
+/setup.py
+/AminoAcidPropertyPrior.py
+/testwrite.mix
+/alphabet.py
+/examples/csiMixture.py
+/examples/BayesMixture.py
+/examples/labeledBayesMixtureExample.py
+/examples/SimpleMixture.py
+/examples/DirichletMixturePrior.py

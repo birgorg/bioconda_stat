@@ -1,0 +1,21 @@
+#package: ped_parser-1.6.6 
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/ped_parser/log.py
+/ped_parser/individual.py
+/ped_parser/family.py
+/ped_parser/__init__.py
+/ped_parser/parser.py
+/ped_parser/exceptions.py
+/scripts/ped_parser
+/examples/one_ind.txt
+/examples/multi_family.ped
+/examples/my_family.ped
+/examples/madeline_test.txt
+/ped_parser.egg-info/top_level.txt
+/ped_parser.egg-info/SOURCES.txt
+/ped_parser.egg-info/PKG-INFO
+/ped_parser.egg-info/dependency_links.txt
+/ped_parser.egg-info/requires.txt

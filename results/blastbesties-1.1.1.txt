@@ -1,0 +1,15 @@
+#package: blastbesties-1.1.1 
+/README.md
+/LICENSE.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/blastbesties/__init__.py
+/blastbesties/cmd_rbb.py
+/blastbesties.egg-info/entry_points.txt
+/blastbesties.egg-info/top_level.txt
+/blastbesties.egg-info/not-zip-safe
+/blastbesties.egg-info/SOURCES.txt
+/blastbesties.egg-info/PKG-INFO
+/blastbesties.egg-info/dependency_links.txt

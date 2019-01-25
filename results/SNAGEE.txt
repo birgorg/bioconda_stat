@@ -1,0 +1,13 @@
+#package: SNAGEE 
+/NAMESPACE
+/DESCRIPTION
+/R/SNAGEE.R
+/man/SNAGEE-package.Rd
+/man/toSnageeFormat.Rd
+/man/qualSample.Rd
+/man/qualStudy.Rd
+/vignettes/SNAGEE.Rnw
+/build/vignette.rds
+/inst/doc/SNAGEE.Rnw
+/inst/doc/SNAGEE.R
+/inst/doc/SNAGEE.pdf

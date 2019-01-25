@@ -1,0 +1,6 @@
+#package: EnsDb.Hsapiens.v75 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/EnsDb.Hsapiens.v75.sqlite

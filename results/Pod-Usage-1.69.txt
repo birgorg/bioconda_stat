@@ -1,0 +1,27 @@
+#package: Pod-Usage-1.69 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/CHANGES
+/scripts/pod2usage.PL
+/t/pod/headwithmarkup.t
+/t/pod/selectheaders.pl
+/t/pod/pod2usage.t
+/t/pod/selectheaders.t
+/t/pod/p2u_data.pl
+/t/pod/usage2.pod
+/t/pod/testcmp.pl
+/t/pod/pod2usage.xr
+/t/pod/headwithmarkup.pl
+/t/pod/selectsections.pl
+/t/pod/selectsections.t
+/t/pod/usage.pod
+/t/pod/pod2usage2.t
+/t/pod/testp2pt.pl
+/t/inc/Pod/InputObjects.pm
+/t/inc/Pod/PlainText.pm
+/t/inc/Pod/Parser.pm
+/t/inc/Pod/Select.pm
+/lib/Pod/Usage.pm

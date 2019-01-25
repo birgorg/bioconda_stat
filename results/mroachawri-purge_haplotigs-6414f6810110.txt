@@ -1,0 +1,17 @@
+#package: mroachawri-purge_haplotigs-6414f6810110 
+/README.md
+/LICENSE
+/scripts/ncbi_placements.pl
+/scripts/purge.pl
+/scripts/contigcov.pl
+/scripts/dot_plot.Rscript
+/scripts/readhist.pl
+/scripts/gen_histogram.Rscript
+/lib/PipeUtils.pm
+/test/aligned.bam
+/test/Makefile
+/test/repeats.bed
+/test/workflow.sh
+/test/validate.md5
+/test/contigs.fa
+/bin/purge_haplotigs

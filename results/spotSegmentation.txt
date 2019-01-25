@@ -1,0 +1,16 @@
+#package: spotSegmentation 
+/NAMESPACE
+/DESCRIPTION
+/R/summary.spotseg.R
+/R/plotBlockImage.R
+/R/plot.spotseg.R
+/R/spotgrid.R
+/R/spotseg.R
+/data/spotSegTest.rda
+/man/spotSegTest.Rd
+/man/spotgrid.Rd
+/man/plotBlockImage.Rd
+/man/spotseg.Rd
+/man/summary.spotseg.Rd
+/man/plot.spotseg.Rd
+/vignettes/spotsegdoc.pdf

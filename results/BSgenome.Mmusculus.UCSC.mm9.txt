@@ -1,0 +1,6 @@
+#package: BSgenome.Mmusculus.UCSC.mm9 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/single_sequences.2bit

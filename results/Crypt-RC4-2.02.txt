@@ -1,0 +1,6 @@
+#package: Crypt-RC4-2.02 
+/Makefile.PL
+/MANIFEST
+/RC4.pm
+/Changes
+/test.pl

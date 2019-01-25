@@ -1,0 +1,11 @@
+#package: Tie-Cache-0.21 
+/META.yml
+/Cache.pm
+/README
+/Makefile.PL
+/MANIFEST
+/MANIFEST.bak
+/tie-cache-bench.pl
+/MANIFEST.SKIP
+/test.pl
+/CHANGES

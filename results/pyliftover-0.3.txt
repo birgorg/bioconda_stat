@@ -1,0 +1,16 @@
+#package: pyliftover-0.3 
+/README.rst
+/CHANGELOG.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/pyliftover/chainfile.py
+/pyliftover/__init__.py
+/pyliftover/intervaltree.py
+/pyliftover/liftover.py
+/pyliftover.egg-info/zip-safe
+/pyliftover.egg-info/top_level.txt
+/pyliftover.egg-info/SOURCES.txt
+/pyliftover.egg-info/PKG-INFO
+/pyliftover.egg-info/dependency_links.txt

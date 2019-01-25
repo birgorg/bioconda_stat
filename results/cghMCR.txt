@@ -1,0 +1,25 @@
+#package: cghMCR 
+/NAMESPACE
+/DESCRIPTION
+/NAMESPACEBACK
+/R/cghMCR.R
+/R/mcrFunctions.R
+/data/segData.rda
+/man/methods.Rd
+/man/mergeMCRProbes.Rd
+/man/plot.DNAcopy.Rd
+/man/cghMCR.Rd
+/man/cghMCR-class.Rd
+/man/SGOL-class.Rd
+/vignettes/sgolPlot.eps
+/vignettes/findMCR.Rnw
+/vignettes/segplot.eps
+/vignettes/sgolPlot.png
+/vignettes/segplot.png
+/build/vignette.rds
+/inst/doc/findMCR.R
+/inst/doc/findMCR.Rnw
+/inst/doc/findMCR.pdf
+/inst/sampleData/TCGA-12-0818-01A-01D-0387-02-short.txt
+/inst/sampleData/TCGA-12-0827-01A-01D-0387-02-short.txt
+/inst/sampleData/TCGA-06-0881-01A-02D-0387-02-short.txt

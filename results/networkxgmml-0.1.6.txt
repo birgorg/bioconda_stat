@@ -1,0 +1,20 @@
+#package: networkxgmml-0.1.6 
+/ez_setup.py
+/README.rst
+/PKG-INFO
+/networkxgmml.py
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/networkxgmml.egg-info/top_level.txt
+/networkxgmml.egg-info/SOURCES.txt
+/networkxgmml.egg-info/PKG-INFO
+/networkxgmml.egg-info/dependency_links.txt
+/networkxgmml.egg-info/requires.txt
+/example/import-from-cytoscape.py
+/example/export-to-cytoscape.py
+/example/yeast-ppi.xgmml
+/example/example-color.py
+/example/node-colors.xgmml
+/example/mirtarbase-example.py
+/example/mirtarbase-sample.xgmml

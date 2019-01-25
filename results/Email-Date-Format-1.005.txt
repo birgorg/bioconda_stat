@@ -1,0 +1,14 @@
+#package: Email-Date-Format-1.005 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/basic.t
+/t/000-report-versions-tiny.t
+/lib/Email/Date/Format.pm
+/xt/release/pod-syntax.t
+/xt/release/changes_has_content.t

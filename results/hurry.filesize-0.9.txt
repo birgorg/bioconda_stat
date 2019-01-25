@@ -1,0 +1,18 @@
+#package: hurry.filesize-0.9 
+/buildout.cfg
+/PKG-INFO
+/CHANGES.txt
+/setup.py
+/setup.cfg
+/src/hurry/__init__.py
+/src/hurry/filesize/README.txt
+/src/hurry/filesize/tests.py
+/src/hurry/filesize/__init__.py
+/src/hurry/filesize/filesize.py
+/src/hurry.filesize.egg-info/namespace_packages.txt
+/src/hurry.filesize.egg-info/top_level.txt
+/src/hurry.filesize.egg-info/not-zip-safe
+/src/hurry.filesize.egg-info/SOURCES.txt
+/src/hurry.filesize.egg-info/PKG-INFO
+/src/hurry.filesize.egg-info/dependency_links.txt
+/src/hurry.filesize.egg-info/requires.txt

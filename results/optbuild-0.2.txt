@@ -1,0 +1,13 @@
+#package: optbuild-0.2 
+/README
+/PKG-INFO
+/setup.py
+/setup.cfg
+/lib/optbuild.py
+/lib/optbuild.egg-info/zip-safe
+/lib/optbuild.egg-info/top_level.txt
+/lib/optbuild.egg-info/SOURCES.txt
+/lib/optbuild.egg-info/PKG-INFO
+/lib/optbuild.egg-info/dependency_links.txt
+/lib/optbuild.egg-info/requires.txt
+/test/test_optbuild.py

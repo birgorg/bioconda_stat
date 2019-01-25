@@ -1,0 +1,17 @@
+#package: PADOG 
+/NAMESPACE
+/DESCRIPTION
+/COPYING
+/R/compPADOG.R
+/R/filteranot.R
+/R/padog.R
+/man/padog.Rd
+/man/compPADOG.rd
+/man/filteranot.Rd
+/vignettes/PADOG.bib
+/vignettes/PADOG.Rnw
+/vignettes/Thumbs.db
+/build/vignette.rds
+/inst/doc/PADOG.Rnw
+/inst/doc/PADOG.R
+/inst/doc/PADOG.pdf

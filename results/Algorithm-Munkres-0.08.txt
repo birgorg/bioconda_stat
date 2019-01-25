@@ -1,0 +1,20 @@
+#package: Algorithm-Munkres-0.08 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/Unit.t
+/t/Rect_Unit.t
+/t/Obvious.t
+/t/Normal.t
+/t/Horz_Matrix.t
+/t/Rect_Matrix1.t
+/t/Rect_Matrix2.t
+/t/Ill_Formed.t
+/t/Fractions.t
+/t/DoubleInvoke.t
+/t/LargeMatrix.t
+/t/Vert_Matrix.t
+/t/Negative.t
+/lib/Algorithm/Munkres.pm

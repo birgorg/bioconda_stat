@@ -1,0 +1,14 @@
+#package: App-cpanminus-1.7044 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/cpanfile
+/t/happy_cpantesters.t
+/lib/App/cpanminus.pm
+/lib/App/cpanminus/fatscript.pm
+/bin/cpanm

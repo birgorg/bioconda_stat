@@ -1,0 +1,7 @@
+#package: stellar-1.4.9-Mac-x86_64 
+/LICENSE
+/README
+/bin/stellar
+/example/NC_001474.fasta
+/example/reads.fasta
+/example/NC_001477.fasta

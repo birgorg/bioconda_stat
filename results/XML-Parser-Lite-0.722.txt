@@ -1,0 +1,12 @@
+#package: XML-Parser-Lite-0.722 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/t/27-xmlparserlite.t
+/t/Lite.t
+/t/adam.xml
+/lib/XML/Parser/Lite.pm

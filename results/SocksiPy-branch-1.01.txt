@@ -1,0 +1,5 @@
+#package: SocksiPy-branch-1.01 
+/README
+/PKG-INFO
+/setup.py
+/socks.py

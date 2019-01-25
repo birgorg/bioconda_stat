@@ -1,0 +1,17 @@
+#package: norns-0.1.2 
+/README.md
+/LICENSE
+/requirements.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/norns.egg-info/top_level.txt
+/norns.egg-info/SOURCES.txt
+/norns.egg-info/PKG-INFO
+/norns.egg-info/dependency_links.txt
+/norns.egg-info/requires.txt
+/norns/cfg.py
+/norns/__about__.py
+/norns/__init__.py
+/norns/exceptions.py

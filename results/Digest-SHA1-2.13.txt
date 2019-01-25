@@ -1,0 +1,15 @@
+#package: Digest-SHA1-2.13 
+/fip180-1.html
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/SHA1.pm
+/SHA1.xs
+/typemap
+/fip180-1.gif
+/t/bits.t
+/t/badfile.t
+/t/sha1.t
+/hints/irix_6.pl

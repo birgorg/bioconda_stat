@@ -1,0 +1,21 @@
+#package: msPurityData 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/man/msPurity-package.Rd
+/inst/extdata/dims/mzML/B02_Blank_TEST_pos.mzML
+/inst/extdata/dims/mzML/B02_Daph_TEST_pos.mzML
+/inst/extdata/dims/example_results/exF-mzML.rds
+/inst/extdata/dims/example_results/exS-mzML.rds
+/inst/extdata/dims/example_results/exP-mzML.rds
+/inst/extdata/dims/example_results/exAv-mzML.rds
+/inst/extdata/dims/example_results/exAn-mzML.rds
+/inst/extdata/dims/msfr-peaks/Daph_TEST_pos_B02.csv
+/inst/extdata/dims/msfr-peaks/Blank_TEST_pos_B02.csv
+/inst/extdata/library_spectra/library_spectra.db
+/inst/extdata/lcms/mzML/LCMS_2.mzML
+/inst/extdata/lcms/mzML/LCMSMS_2.mzML
+/inst/extdata/lcms/mzML/LCMSMS_1.mzML
+/inst/extdata/lcms/mzML/LCMS_1.mzML
+/inst/extdata/lcms/example_results/xset.rds

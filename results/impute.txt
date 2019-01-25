@@ -1,0 +1,10 @@
+#package: impute 
+/NAMESPACE
+/DESCRIPTION
+/ChangeLog
+/info
+/R/allknnimp.R
+/data/khanmiss.rda
+/man/impute.knn.Rd
+/man/khanmiss.Rd
+/src/knnimpute.f

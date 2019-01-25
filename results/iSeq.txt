@@ -1,0 +1,20 @@
+#package: iSeq 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/iSeq.R
+/data/nrsf.RData
+/man/plotreg.Rd
+/man/peakreg.Rd
+/man/mergetag.Rd
+/man/nrsf.Rd
+/man/iSeq1.Rd
+/man/iSeq2.Rd
+/demo/00Index
+/demo/iSeqdemo.R
+/vignettes/iSeq.Rnw
+/build/vignette.rds
+/inst/doc/iSeq.R
+/inst/doc/iSeq.Rnw
+/inst/doc/iSeq.pdf
+/src/iSeq.c

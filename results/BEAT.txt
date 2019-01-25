@@ -1,0 +1,25 @@
+#package: BEAT 
+/NAMESPACE
+/DESCRIPTION
+/R/BEAT.R
+/data/BEAT.RData
+/man/BEAT.Rd
+/man/epimutation_calls.Rd
+/man/positions.reference.Rd
+/man/generate_results.Rd
+/man/makeParams.Rd
+/man/positions_to_regions.Rd
+/man/positions.Rd
+/vignettes/BEAT.Rnw
+/vignettes/BEAT.bib
+/vignettes/MethCalling.png
+/vignettes/MethDensities.png
+/build/vignette.rds
+/inst/doc/BEAT.pdf
+/inst/doc/BEAT.Rnw
+/inst/doc/BEAT.R
+/inst/extdata/NonCpG.reference.txt
+/inst/extdata/bsConversionRate.py
+/inst/extdata/NonCpG.sample.txt
+/inst/extdata/sample.positions.csv
+/inst/extdata/reference.positions.csv

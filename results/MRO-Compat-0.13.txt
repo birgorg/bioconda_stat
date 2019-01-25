@@ -1,0 +1,14 @@
+#package: MRO-Compat-0.13 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/20mros.t
+/t/15pkg_gen.t
+/t/10basic.t
+/lib/MRO/Compat.pm
+/maint/Makefile.PL.include
+/xt/pod_coverage.t
+/xt/pod.t

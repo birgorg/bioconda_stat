@@ -1,0 +1,25 @@
+#package: GraphPAC 
+/NAMESPACE
+/DESCRIPTION
+/R/Plot.Protein.R
+/R/GraphClust.R
+/R/unmap.clusters.R
+/R/Find.TSP.Path.R
+/man/Find.TSP.Path.Rd
+/man/GraphClust.Rd
+/man/graphPAC-package.Rd
+/man/Plot.Protein.Rd
+/vignettes/OddProtein.jpeg
+/vignettes/GraphPAC.Rnw
+/vignettes/KRASCircle.pdf
+/vignettes/refs.bib
+/vignettes/KRASCircleAdjusted.pdf
+/build/vignette.rds
+/tests/runTests.R
+/inst/NEWS.Rd
+/inst/doc/GraphPAC.Rnw
+/inst/doc/GraphPAC.pdf
+/inst/doc/GraphPAC.R
+/inst/unitTests/test_GraphClust.R
+/inst/unitTests/test_unmap.clusters.R
+/inst/unitTests/test_Find.TSP.Path.R

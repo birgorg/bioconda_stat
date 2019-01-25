@@ -1,0 +1,22 @@
+#package: python-Levenshtein-0.12.0 
+/HISTORY.txt
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/COPYING
+/setup.cfg
+/NEWS
+/docs/Levenshtein.html
+/Levenshtein/_levenshtein.c
+/Levenshtein/__init__.py
+/Levenshtein/StringMatcher.py
+/Levenshtein/_levenshtein.h
+/python_Levenshtein.egg-info/entry_points.txt
+/python_Levenshtein.egg-info/namespace_packages.txt
+/python_Levenshtein.egg-info/top_level.txt
+/python_Levenshtein.egg-info/not-zip-safe
+/python_Levenshtein.egg-info/SOURCES.txt
+/python_Levenshtein.egg-info/PKG-INFO
+/python_Levenshtein.egg-info/dependency_links.txt
+/python_Levenshtein.egg-info/requires.txt

@@ -1,0 +1,17 @@
+#package: Devel-GlobalDestruction-0.14 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/01_basic.t
+/t/04_phases.t
+/t/06_load-in-gd.t
+/t/03_minusc.t
+/t/02_thread.t
+/t/10_pure-perl.t
+/t/05_thread_clone.t
+/lib/Devel/GlobalDestruction.pm
+/maint/Makefile.PL.include
+/inc/ExtUtils/HasCompiler.pm

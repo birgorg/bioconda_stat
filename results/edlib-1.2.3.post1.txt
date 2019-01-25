@@ -1,0 +1,15 @@
+#package: edlib-1.2.3.post1 
+/edlib.bycython.cpp
+/README.rst
+/edlib.pyx
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/cedlib.pxd
+/setup.cfg
+/edlib/include/edlib.h
+/edlib/src/edlib.cpp
+/edlib.egg-info/top_level.txt
+/edlib.egg-info/SOURCES.txt
+/edlib.egg-info/PKG-INFO
+/edlib.egg-info/dependency_links.txt

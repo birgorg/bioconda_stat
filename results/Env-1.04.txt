@@ -1,0 +1,13 @@
+#package: Env-1.04 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/release-pod-syntax.t
+/t/array.t
+/t/env.t
+/lib/Env.pm

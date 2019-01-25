@@ -1,0 +1,21 @@
+#package: HSMMSingleCell 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/HSMMSingleCell.R
+/data/HSMM_expr_matrix.rda
+/data/HSMM_sample_sheet.rda
+/data/HSMM_gene_annotation.rda
+/data/datalist
+/man/HSMM.Rd
+/man/HSMMSingleCell-package.Rd
+/vignettes/HSMMSingleCell-vignette.toc
+/vignettes/monocle_alg.bib
+/vignettes/HSMMSingleCell-vignette.pdf
+/vignettes/whbiocvignette.sty
+/vignettes/HSMMSingleCell-vignette.bbl
+/vignettes/HSMMSingleCell-vignette-concordance.tex
+/vignettes/HSMMSingleCell-vignette.Rnw
+/vignettes/HSMMSingleCell-vignette.log
+/vignettes/HSMMSingleCell-vignette.synctex.gz
+/vignettes/HSMMSingleCell-vignette.tex

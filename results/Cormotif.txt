@@ -1,0 +1,22 @@
+#package: Cormotif 
+/NAMESPACE
+/DESCRIPTION
+/R/Cormotif.R
+/data/simu2_groupid.txt
+/data/simudata2.txt
+/data/simu2_compgroup.txt
+/man/cormotif-internal.Rd
+/man/plotIC.Rd
+/man/cormotiffitsep.Rd
+/man/plotMotif.Rd
+/man/generank.Rd
+/man/cormotiffitall.Rd
+/man/cormotiffit.Rd
+/man/simudata2.Rd
+/man/cormotiffitfull.Rd
+/vignettes/CormotifVignette.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/CormotifVignette.R
+/inst/doc/CormotifVignette.Rnw
+/inst/doc/CormotifVignette.pdf

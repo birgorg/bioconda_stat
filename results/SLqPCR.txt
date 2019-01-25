@@ -1,0 +1,25 @@
+#package: SLqPCR 
+/NAMESPACE
+/DESCRIPTION
+/R/geneStabM.R
+/R/normPCR.R
+/R/selectHKgenes.R
+/R/relQuantPCR.R
+/R/geomMean.R
+/data/SLqPCRdata.RData
+/data/vandesompele.RData
+/man/selectHKgenes.Rd
+/man/normPCR.Rd
+/man/vandesompele.Rd
+/man/SLqPCR-package.Rd
+/man/geneStabM.Rd
+/man/geomMean.Rd
+/man/relQuantPCR.Rd
+/man/SLqPCRdata.Rd
+/vignettes/SLlogo.png
+/vignettes/SLqPCR.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/SLqPCR.R
+/inst/doc/SLqPCR.pdf
+/inst/doc/SLqPCR.Rnw

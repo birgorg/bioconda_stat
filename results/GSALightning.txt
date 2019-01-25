@@ -1,0 +1,23 @@
+#package: GSALightning 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/GSALightning.r
+/data/sampleInfo.rda
+/data/expression.rda
+/data/targetGenes.rda
+/data/datalist
+/man/permTestLight.Rd
+/man/GSALight.Rd
+/man/wilcoxTest.Rd
+/man/GSALightning-package.Rd
+/man/targetGenes.Rd
+/man/sampleInfo.Rd
+/man/expression.Rd
+/vignettes/vignette.Rmd
+/build/partial.rdb
+/build/vignette.rds
+/inst/NEWS
+/inst/doc/vignette.html
+/inst/doc/vignette.Rmd
+/inst/doc/vignette.R

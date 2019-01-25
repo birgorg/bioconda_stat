@@ -1,0 +1,26 @@
+#package: Term-Table-0.013 
+/README.md
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/appveyor.yml
+/META.json
+/cpanfile
+/t/Table.t
+/t/HashBase.t
+/t/bad_blank_line.t
+/t/honor_env_in_non_tty.t
+/t/issue-9.t
+/t/Table/CellStack.t
+/t/Table/Cell.t
+/t/Table/LineBreak.t
+/lib/Term/Table.pm
+/lib/Term/Table/Cell.pm
+/lib/Term/Table/CellStack.pm
+/lib/Term/Table/HashBase.pm
+/lib/Term/Table/Spacer.pm
+/lib/Term/Table/Util.pm
+/lib/Term/Table/LineBreak.pm

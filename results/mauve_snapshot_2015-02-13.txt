@@ -1,0 +1,21 @@
+#package: mauve_snapshot_2015-02-13 
+/README
+/Mauve
+/COPYING
+/ChangeLog.html
+/Mauve.jar
+/linux-x64/mauveAligner
+/linux-x64/progressiveMauve
+/ext/jsc.jar
+/ext/core-1.9.2-SNAPSHOT.jar
+/ext/commons-cli-1.2.jar
+/ext/zeus-jscl.jar
+/ext/gui-1.9.2-SNAPSHOT.jar
+/ext/unix-0.5.jar
+/ext/dbus-2.6.jar
+/ext/ant-1.7.1.jar
+/ext/jnlp.jar
+/ext/postgresql-9.0-801.jdbc4.jar
+/ext/goose.jar
+/ext/jebl-0.4.jar
+/ext/bytecode-1.9.2-SNAPSHOT.jar

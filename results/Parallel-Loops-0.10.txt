@@ -1,0 +1,18 @@
+#package: Parallel-Loops-0.10 
+/README.md
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/createTarball.pl
+/t/test.t
+/lib/Parallel/Loops.pm
+/inc/Module/Install.pm
+/inc/Module/Install/Makefile.pm
+/inc/Module/Install/WriteAll.pm
+/inc/Module/Install/Base.pm
+/inc/Module/Install/Fetch.pm
+/inc/Module/Install/Can.pm
+/inc/Module/Install/Win32.pm
+/inc/Module/Install/Metadata.pm

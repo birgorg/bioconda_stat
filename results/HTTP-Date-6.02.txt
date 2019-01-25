@@ -1,0 +1,8 @@
+#package: HTTP-Date-6.02 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/date.t
+/lib/HTTP/Date.pm

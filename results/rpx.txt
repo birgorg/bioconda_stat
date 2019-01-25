@@ -1,0 +1,17 @@
+#package: rpx 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS.md
+/NEWS
+/R/rss.R
+/R/px.R
+/man/pxannounced.Rd
+/man/PXDataset-class.Rd
+/vignettes/rpx.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_px.R
+/inst/doc/rpx.R
+/inst/doc/rpx.Rmd
+/inst/doc/rpx.html

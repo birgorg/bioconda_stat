@@ -1,0 +1,15 @@
+#package: XML-Entities 
+/META.yml
+/ignore.txt
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Build.PL
+/t/01-xml-entities.t
+/t/02-unicode.t
+/t/00-xml-entities-data.t
+/lib/XML/Entities.pm
+/lib/XML/Entities/Data.pm
+/lib/XML/Entities/Data.pod
+/bin/download-entities.pl

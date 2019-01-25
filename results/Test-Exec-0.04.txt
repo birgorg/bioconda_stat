@@ -1,0 +1,27 @@
+#package: Test-Exec-0.04 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/author.yml
+/META.json
+/cpanfile
+/INSTALL
+/t/test_exec__never_exec_ok.t
+/t/00_diag.t
+/t/test_exec__export.t
+/t/test_exec__exec_arrayref.t
+/lib/Test/Exec.pm
+/xt/release/fixme.t
+/xt/release/changes.t
+/xt/author/pod_coverage.t
+/xt/author/no_tabs.t
+/xt/author/version.t
+/xt/author/pod_spelling_common.t
+/xt/author/eol.t
+/xt/author/pod.t
+/xt/author/strict.t
+/xt/author/pod_spelling_system.t

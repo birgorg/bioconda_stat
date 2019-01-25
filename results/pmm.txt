@@ -1,0 +1,19 @@
+#package: pmm 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/pmm.R
+/R/pmm_utils.R
+/R/hitheatmap.R
+/R/sharedness.R
+/data/kinome.rda
+/man/hitheatmap.Rd
+/man/pmm-package.Rd
+/man/kinome.Rd
+/man/pmm.Rd
+/man/sharedness.Rd
+/vignettes/pmm-package.Rnw
+/build/vignette.rds
+/inst/doc/pmm-package.R
+/inst/doc/pmm-package.Rnw
+/inst/doc/pmm-package.pdf

@@ -1,0 +1,21 @@
+#package: gxformat2-0.8.0 
+/LICENSE
+/HISTORY.rst
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/gxformat2.egg-info/entry_points.txt
+/gxformat2.egg-info/top_level.txt
+/gxformat2.egg-info/not-zip-safe
+/gxformat2.egg-info/SOURCES.txt
+/gxformat2.egg-info/PKG-INFO
+/gxformat2.egg-info/dependency_links.txt
+/gxformat2.egg-info/requires.txt
+/gxformat2/__init__.py
+/gxformat2/converter.py
+/gxformat2/export.py
+/gxformat2/interface.py
+/gxformat2/_yaml.py
+/gxformat2/main.py

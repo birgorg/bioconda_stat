@@ -1,0 +1,13 @@
+#package: schema-0.6.8 
+/test_schema.py
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/LICENSE-MIT
+/setup.py
+/setup.cfg
+/schema.py
+/schema.egg-info/top_level.txt
+/schema.egg-info/SOURCES.txt
+/schema.egg-info/PKG-INFO
+/schema.egg-info/dependency_links.txt

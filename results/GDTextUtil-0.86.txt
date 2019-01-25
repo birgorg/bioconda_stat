@@ -1,0 +1,16 @@
+#package: GDTextUtil-0.86 
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Text.pm
+/Dustismo.LICENSE
+/Dustismo_Sans.ttf
+/t/align.t
+/t/lib.pl
+/t/wrap.t
+/t/text.t
+/demo/GDWrap.ref.png
+/demo/GDWrap.pl
+/Text/Align.pm
+/Text/Wrap.pm

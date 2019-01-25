@@ -1,0 +1,16 @@
+#package: yanc-0.3.3 
+/LICENSE
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/yanc/__init__.py
+/yanc/colorstream.py
+/yanc/test_yanc.py
+/yanc/yancplugin.py
+/yanc.egg-info/entry_points.txt
+/yanc.egg-info/top_level.txt
+/yanc.egg-info/SOURCES.txt
+/yanc.egg-info/PKG-INFO
+/yanc.egg-info/dependency_links.txt

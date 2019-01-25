@@ -1,0 +1,24 @@
+#package: agfusion-1.231 
+/README.md
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/test/test_human.sh
+/test/test_mouse.sh
+/test/test.py
+/bin/agfusion
+/agfusion/model.py
+/agfusion/cli.py
+/agfusion/parsers.py
+/agfusion/__init__.py
+/agfusion/plot.py
+/agfusion/_version.py
+/agfusion/exceptions.py
+/agfusion/database.py
+/agfusion/utils.py
+/agfusion.egg-info/top_level.txt
+/agfusion.egg-info/SOURCES.txt
+/agfusion.egg-info/PKG-INFO
+/agfusion.egg-info/dependency_links.txt
+/agfusion.egg-info/requires.txt

@@ -1,0 +1,13 @@
+#package: BufferedMatrixMethods 
+/NAMESPACE
+/DESCRIPTION
+/R/BM_justRMA.R
+/R/BM_Preprocess.R
+/R/BM_affyDataInput.R
+/R/init_fns.R
+/man/BM_readcelfiles.Rd
+/man/BM_justRMA.Rd
+/man/BM_affyDataInput.Rd
+/man/rmapreprocess.bufferedmatrix.Rd
+/src/preprocess_bm.c
+/src/init_package.c

@@ -1,0 +1,12 @@
+#package: OutlierD 
+/NAMESPACE
+/DESCRIPTION
+/R/OutlierD.R
+/data/lcms.RData
+/man/lcms.Rd
+/man/OutlierD.Rd
+/vignettes/OutlierD.Rnw
+/build/vignette.rds
+/inst/doc/OutlierD.R
+/inst/doc/OutlierD.Rnw
+/inst/doc/OutlierD.pdf

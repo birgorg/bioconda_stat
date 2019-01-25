@@ -1,0 +1,23 @@
+#package: LBE 
+/NAMESPACE
+/DESCRIPTION
+/R/LBEwrite.R
+/R/LBEsummary.R
+/R/LBEa.R
+/R/LBEplot.R
+/R/LBE.R
+/data/hedenfalk.pval.rda
+/data/golub.pval.rda
+/man/LBEwrite.Rd
+/man/golub.pval.Rd
+/man/hedenfalk.pval.Rd
+/man/LBEplot.Rd
+/man/LBEa.Rd
+/man/LBEsummary.Rd
+/man/LBE.Rd
+/man/LBE-package.Rd
+/vignettes/LBE.Rnw
+/build/vignette.rds
+/inst/doc/LBE.Rnw
+/inst/doc/LBE.pdf
+/inst/doc/LBE.R

@@ -1,0 +1,23 @@
+#package: randfold-2.0.1-a7feeeaeba2afe567dbd061b9f4965646386bc98 
+/fold.h
+/randfold.c
+/LICENSE
+/utils.c
+/utils.h
+/params.h
+/COPYRIGHT
+/fold_vars.h
+/params.c
+/energy_par.h
+/config.h
+/Makefile
+/Readme.txt
+/intloops.h
+/fold.c
+/fold_vars.c
+/let7.tfa
+/pair_mat.h
+/energy_const.h
+/Makefile.old
+/squid.tar.gz
+/energy_par.c

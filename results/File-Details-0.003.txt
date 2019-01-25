@@ -1,0 +1,13 @@
+#package: File-Details-0.003 
+/README.md
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/t/01_hash.t
+/t/02_abs_path.t
+/t/testfile
+/t/00_basic.t
+/lib/File/Details.pm

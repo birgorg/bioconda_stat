@@ -1,0 +1,11 @@
+#package: logitT 
+/NAMESPACE
+/DESCRIPTION
+/R/logitTRver4.r
+/man/logitTAffy.rd
+/vignettes/logitT.Rnw
+/build/vignette.rds
+/inst/doc/logitT.Rnw
+/inst/doc/logitT.R
+/inst/doc/logitT.pdf
+/src/logitTfunc.c

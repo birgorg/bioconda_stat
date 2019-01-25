@@ -1,0 +1,18 @@
+#package: intervaltree-3.0.2 
+/README.md
+/CHANGELOG.md
+/LICENSE.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/intervaltree/__init__.py
+/intervaltree/interval.py
+/intervaltree/intervaltree.py
+/intervaltree/node.py
+/intervaltree.egg-info/zip-safe
+/intervaltree.egg-info/top_level.txt
+/intervaltree.egg-info/SOURCES.txt
+/intervaltree.egg-info/PKG-INFO
+/intervaltree.egg-info/dependency_links.txt
+/intervaltree.egg-info/requires.txt

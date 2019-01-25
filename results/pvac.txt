@@ -1,0 +1,11 @@
+#package: pvac 
+/NAMESPACE
+/DESCRIPTION
+/R/pvac.R
+/man/pvacFilter.Rd
+/vignettes/pvac.Rnw
+/vignettes/density.pdf
+/build/vignette.rds
+/inst/doc/pvac.R
+/inst/doc/pvac.pdf
+/inst/doc/pvac.Rnw

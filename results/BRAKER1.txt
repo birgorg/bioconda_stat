@@ -1,0 +1,8 @@
+#package: BRAKER1 
+/filterGenemark.pl
+/README.braker
+/filterIntronsFindStrand.pl
+/licence.txt
+/list_of_changes
+/braker.pl
+/helpMod.pm

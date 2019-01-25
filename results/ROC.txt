@@ -1,0 +1,18 @@
+#package: ROC 
+/NAMESPACE
+/DESCRIPTION
+/R/ROC.hyndman.R
+/R/zzz.R
+/R/ROCfuns.R
+/man/trapezint.Rd
+/man/AUC.Rd
+/man/plot-methods.Rd
+/man/rocdemo.sca.Rd
+/man/rocc-class.Rd
+/vignettes/ROCnotes.Rnw
+/vignettes/ROC.nw
+/build/vignette.rds
+/inst/doc/ROCnotes.Rnw
+/inst/doc/ROCnotes.R
+/inst/doc/ROCnotes.pdf
+/src/ROC.cc

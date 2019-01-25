@@ -1,0 +1,19 @@
+#package: MergeMaid 
+/NAMESPACE
+/DESCRIPTION
+/CONTENTS
+/R/MergeMaid.R
+/data/mergeData.rda
+/man/class.mergeCor.Rd
+/man/intersection.Rd
+/man/class.mergeExpressionSet.Rd
+/man/class.mergeCoeff.Rd
+/man/intCor.Rd
+/man/mergeData.Rd
+/man/modelOutcome.Rd
+/man/intcorDens.Rd
+/man/mergeExprs.Rd
+/vignettes/MergeMaid.Rnw
+/build/vignette.rds
+/inst/doc/MergeMaid.Rnw
+/inst/doc/MergeMaid.pdf

@@ -1,0 +1,16 @@
+#package: IO-HTML-1.001 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/30-outfile.t
+/t/10-find.t
+/t/00-all_prereqs.t
+/t/20-open.t
+/t/00-load.t
+/lib/IO/HTML.pm
+/xt/release/pod-syntax.t
+/xt/release/pod-coverage.t

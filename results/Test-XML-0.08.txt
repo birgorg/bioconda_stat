@@ -1,0 +1,20 @@
+#package: Test-XML-0.08 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Build.PL
+/.gitignore
+/t/whitespace.t
+/t/order.t
+/t/twig.t
+/t/basic.t
+/t/1.t
+/t/xpath.t
+/t/maint.t
+/t/sax.t
+/lib/Test/XML.pm
+/lib/Test/XML/XPath.pm
+/lib/Test/XML/SAX.pm
+/lib/Test/XML/Twig.pm

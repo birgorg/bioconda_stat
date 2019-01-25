@@ -1,0 +1,11 @@
+#package: PostScript-0.06 
+/example.pl
+/Elements.pm
+/README
+/psoutput.ps
+/Makefile.PL
+/MANIFEST
+/TextBlock.pm
+/example.txt
+/Document.pm
+/Metrics.pm

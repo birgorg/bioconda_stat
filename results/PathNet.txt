@@ -1,0 +1,22 @@
+#package: PathNet 
+/NAMESPACE
+/DESCRIPTION
+/R/context_functions.R
+/R/enrichment_functions.R
+/R/PathNet.R
+/man/PathNet.Rd
+/vignettes/PathNet.Rnw
+/vignettes/PathNet_IO.png
+/vignettes/Contextual_association_between_pathways.txt
+/vignettes/Pathway_overlap.txt
+/vignettes/Direct_indirect_combined_evidence.txt
+/vignettes/PathNet_enrichment_results.txt
+/build/vignette.rds
+/tests/runTests.R
+/inst/CITATION
+/inst/doc/PathNet.Rnw
+/inst/doc/PathNet.pdf
+/inst/doc/PathNet.R
+/inst/unitTests/test_enrichment.R
+/inst/unitTests/test_setup.R
+/inst/unitTests/test_contextual.R

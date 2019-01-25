@@ -1,0 +1,17 @@
+#package: PyAAVF-0.1.0 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/PyAAVF.egg-info/top_level.txt
+/PyAAVF.egg-info/SOURCES.txt
+/PyAAVF.egg-info/PKG-INFO
+/PyAAVF.egg-info/dependency_links.txt
+/PyAAVF.egg-info/requires.txt
+/PyAAVF/model.py
+/PyAAVF/__init__.py
+/PyAAVF/parser.py
+/PyAAVF/utils.py
+/PyAAVF/test/test_utils.py
+/PyAAVF/test/__init__.py
+/PyAAVF/test/test_parser.py

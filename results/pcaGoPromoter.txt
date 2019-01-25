@@ -1,0 +1,19 @@
+#package: pcaGoPromoter 
+/NAMESPACE
+/DESCRIPTION
+/R/GOtree.R
+/R/primo.R
+/R/common.R
+/R/pca.R
+/R/primoData.R
+/man/pcaGoPromoter-package.Rd
+/man/pca.Rd
+/man/GOtree.Rd
+/man/primo.Rd
+/man/primoData.Rd
+/vignettes/pcaGoPromoter.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/pcaGoPromoter.R
+/inst/doc/pcaGoPromoter.pdf
+/inst/doc/pcaGoPromoter.Rnw

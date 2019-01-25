@@ -1,0 +1,17 @@
+#package: teloclip-0.0.3 
+/README.md
+/LICENSE
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/teloclip/wrappers.py
+/teloclip/__init__.py
+/teloclip/run_extract.py
+/teloclip/run_self.py
+/teloclip.egg-info/entry_points.txt
+/teloclip.egg-info/top_level.txt
+/teloclip.egg-info/not-zip-safe
+/teloclip.egg-info/SOURCES.txt
+/teloclip.egg-info/PKG-INFO
+/teloclip.egg-info/dependency_links.txt

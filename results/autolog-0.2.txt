@@ -1,0 +1,12 @@
+#package: autolog-0.2 
+/README
+/PKG-INFO
+/setup.py
+/setup.cfg
+/lib/autolog.py
+/lib/autolog.egg-info/top_level.txt
+/lib/autolog.egg-info/SOURCES.txt
+/lib/autolog.egg-info/PKG-INFO
+/lib/autolog.egg-info/dependency_links.txt
+/lib/autolog.egg-info/requires.txt
+/test/test_autolog.py

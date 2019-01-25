@@ -1,0 +1,15 @@
+#package: ExtUtils-Config-0.008 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/INSTALL
+/t/release-pod-coverage.t
+/t/release-pod-syntax.t
+/t/basics.t
+/t/00-compile.t
+/lib/ExtUtils/Config.pm

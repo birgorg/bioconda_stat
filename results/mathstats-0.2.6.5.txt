@@ -1,0 +1,18 @@
+#package: mathstats-0.2.6.5 
+/README.md
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/mathstats.egg-info/top_level.txt
+/mathstats.egg-info/SOURCES.txt
+/mathstats.egg-info/PKG-INFO
+/mathstats.egg-info/dependency_links.txt
+/mathstats.egg-info/requires.txt
+/mathstats/__init__.py
+/mathstats/generate_data.py
+/mathstats/log_normal_param_est.py
+/mathstats/normaldist/__init__.py
+/mathstats/normaldist/normal.py
+/mathstats/normaldist/truncatedskewed/__init__.py
+/mathstats/normaldist/truncatedskewed/param_est.py

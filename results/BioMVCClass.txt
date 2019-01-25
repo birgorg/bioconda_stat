@@ -1,0 +1,18 @@
+#package: BioMVCClass 
+/NAMESPACE
+/DESCRIPTION
+/R/MVC.R
+/R/zzz.R
+/man/gseModel-class.Rd
+/man/graphView-class.Rd
+/man/GSE-class.Rd
+/man/heatmapView-class.Rd
+/man/graphModel-class.Rd
+/man/exprModel-class.Rd
+/vignettes/BioMVCClass.Rnw
+/vignettes/BioViewClass.jpg
+/vignettes/GSE.jpg
+/vignettes/BioModelClass.jpg
+/build/vignette.rds
+/inst/doc/BioMVCClass.pdf
+/inst/doc/BioMVCClass.Rnw

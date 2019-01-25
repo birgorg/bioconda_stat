@@ -1,0 +1,21 @@
+#package: Sub-Install-0.928 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/export.t
+/t/reinstall.t
+/t/inst-blessed.t
+/t/misc_errors.t
+/t/auto_as.t
+/t/SI_install.t
+/t/SI_reinstall.t
+/t/install.t
+/t/000-report-versions-tiny.t
+/lib/Sub/Install.pm
+/xt/release/pod-syntax.t
+/xt/release/changes_has_content.t

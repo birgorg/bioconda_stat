@@ -1,0 +1,6 @@
+#package: Math-VecStat-0.08 
+/VecStat.pm
+/README
+/Makefile.PL
+/MANIFEST
+/t/VecStat.t

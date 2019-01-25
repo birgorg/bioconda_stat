@@ -1,0 +1,24 @@
+#package: CNTools 
+/NAMESPACE
+/DESCRIPTION
+/R/ClassDefination.R
+/R/zzz.R
+/R/SupportingFunctions.R
+/data/geneInfo.rda
+/data/sampleData.rda
+/man/cor-methods.Rd
+/man/dist-methods.Rd
+/man/RS-class.Rd
+/man/madFilter-methods.Rd
+/man/genefilter-methods.Rd
+/man/getRS-methods.Rd
+/man/CNSeg-class.Rd
+/man/diffBy-methods.Rd
+/vignettes/HowTo.Rnw
+/vignettes/fig01.png
+/vignettes/fig02.png
+/build/vignette.rds
+/inst/doc/HowTo.R
+/inst/doc/HowTo.Rnw
+/inst/doc/HowTo.pdf
+/src/getratios.c

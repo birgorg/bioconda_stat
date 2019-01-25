@@ -1,0 +1,13 @@
+#package: GEWIST 
+/NAMESPACE
+/DESCRIPTION
+/R/gewistLevene.r
+/R/effectPDF.r
+/man/gewistLevene.Rd
+/man/GEWIST-package.Rd
+/man/effectPDF.Rd
+/vignettes/GEWIST.rnw
+/build/vignette.rds
+/inst/doc/GEWIST.pdf
+/inst/doc/GEWIST.rnw
+/inst/doc/GEWIST.R

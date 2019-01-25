@@ -1,0 +1,23 @@
+#package: Socket6-0.29 
+/META.yml
+/aclocal.m4
+/gailookup.pl.in
+/getnameinfo.c
+/Socket6.xs
+/README
+/Socket6.pm
+/Makefile.PL
+/MANIFEST
+/config.pl.in
+/META.json
+/config.h.in
+/ftpmirror-1.96.diff
+/ChangeLog
+/configure.in
+/inet_ntop.c
+/configure
+/inet_pton.c
+/getaddrinfo.c
+/gai.h
+/im-140.diff
+/t/use.t

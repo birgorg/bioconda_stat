@@ -1,0 +1,7 @@
+#package: Slurp-0.4 
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/slurp.t
+/lib/Slurp.pm

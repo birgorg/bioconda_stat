@@ -1,0 +1,20 @@
+#package: rain 
+/NAMESPACE
+/DESCRIPTION
+/R/mouseLiverData.R
+/R/p.est.R
+/R/umbCirc.R
+/R/rain-package.R
+/R/mainFunction.R
+/R/calcStatistic.R
+/data/menetRNASeqMouseLiver.rda
+/man/rain-package.Rd
+/man/rain.Rd
+/man/menetRNASeqMouseLiver.Rd
+/vignettes/rain.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/rain.R
+/inst/doc/rain.Rnw
+/inst/doc/rain.pdf

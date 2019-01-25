@@ -1,0 +1,20 @@
+#package: AffyRNADegradation 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/AffyRNADegradation.R
+/R/probeInfo.R
+/R/AllClasses.R
+/R/decayFunction.R
+/R/tongs.R
+/man/AffyDegradationBatch-class.Rd
+/man/AffyRNADegradation-package.Rd
+/man/AffyRNADegradation.Rd
+/man/GetTongs.Rd
+/vignettes/vignette.Rnw
+/vignettes/AffyRNADegradation.bib
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/vignette.R
+/inst/doc/vignette.Rnw
+/inst/doc/vignette.pdf

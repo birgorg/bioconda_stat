@@ -1,0 +1,13 @@
+#package: rBLAST-5cbc5039705e45c83d88c324c4f2a64dfc63e4e1 
+/README.md
+/NAMESPACE
+/LICENSE
+/appveyor.yml
+/DESCRIPTION
+/.Rbuildignore
+/.gitignore
+/.travis.yml
+/R/BLAST.R
+/R/AAA.R
+/man/BLAST.Rd
+/inst/examples/RNA_example.fasta

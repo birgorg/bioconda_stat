@@ -1,0 +1,7 @@
+#package: FIs 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/FIs.rda
+/data/datalist
+/man/FIs.Rd

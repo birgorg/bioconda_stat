@@ -1,0 +1,22 @@
+#package: paircompviz 
+/NAMESPACE
+/DESCRIPTION
+/R/hasse.R
+/R/transReduct.R
+/R/paircomp.R
+/data/brokentrans.rda
+/man/paircomp.Rd
+/man/brokentrans.Rd
+/man/transReduct.Rd
+/man/hasse.Rd
+/man/paircompviz-package.Rd
+/vignettes/jss.bst
+/vignettes/vignette.Rnw
+/vignettes/result.csv
+/vignettes/bibliography.bib
+/vignettes/jss.dtx
+/vignettes/jss.cls
+/build/vignette.rds
+/inst/doc/vignette.R
+/inst/doc/vignette.Rnw
+/inst/doc/vignette.pdf

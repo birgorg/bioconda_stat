@@ -1,0 +1,18 @@
+#package: Sub-Exporter-ForMethods-0.100052 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/carp.t
+/t/00-report-prereqs.dd
+/t/00-report-prereqs.t
+/t/autoclean.t
+/t/lib/TestDexp.pm
+/t/lib/TestMexp.pm
+/lib/Sub/Exporter/ForMethods.pm
+/xt/release/pod-syntax.t
+/xt/release/changes_has_content.t

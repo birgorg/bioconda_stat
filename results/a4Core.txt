@@ -1,0 +1,11 @@
+#package: a4Core 
+/NAMESPACE
+/DESCRIPTION
+/R/confusionMatrix.R
+/R/topTable.R
+/R/simulateData.R
+/man/topTable-methods.Rd
+/man/topTable.Rd
+/man/simulateData.Rd
+/man/confusionMatrix.Rd
+/inst/NEWS

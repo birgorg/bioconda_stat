@@ -1,0 +1,19 @@
+#package: Getopt-Long-Descriptive-0.103 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/descriptive.t
+/t/00-report-prereqs.dd
+/t/00-report-prereqs.t
+/t/shortcircuit.t
+/t/zzz-check-breaks.t
+/lib/Getopt/Long/Descriptive.pm
+/lib/Getopt/Long/Descriptive/Opts.pm
+/lib/Getopt/Long/Descriptive/Usage.pm
+/xt/release/changes_has_content.t
+/xt/author/pod-syntax.t

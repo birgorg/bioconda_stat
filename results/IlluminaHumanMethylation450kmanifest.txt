@@ -1,0 +1,7 @@
+#package: IlluminaHumanMethylation450kmanifest 
+/NAMESPACE
+/DESCRIPTION
+/data/IlluminaHumanMethylation450kmanifest.rda
+/data/datalist
+/man/IlluminaHumanMethylation450kmanifest.Rd
+/inst/scripts/manifest.R

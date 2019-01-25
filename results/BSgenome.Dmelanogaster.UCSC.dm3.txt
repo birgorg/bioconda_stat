@@ -1,0 +1,6 @@
+#package: BSgenome.Dmelanogaster.UCSC.dm3 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/single_sequences.2bit

@@ -1,0 +1,25 @@
+#package: CORREP 
+/NAMESPACE
+/DESCRIPTION
+/R/cor.bootci.R
+/R/permutest.R
+/R/cor.LRtest.std.R
+/R/cor.LRtest.R
+/R/cor.unbalance.R
+/R/cor.balance.R
+/data/gal_all.rda
+/data/true.member.rda
+/man/CORREP-package.Rd
+/man/permutest.Rd
+/man/true.member.Rd
+/man/gal_all.Rd
+/man/cor.LRtest.std.Rd
+/man/cor.LRtest.Rd
+/man/cor.unbalance.Rd
+/man/cor.balance.Rd
+/man/cor.bootci.Rd
+/vignettes/CORREP.Rnw
+/build/vignette.rds
+/inst/doc/CORREP.R
+/inst/doc/CORREP.Rnw
+/inst/doc/CORREP.pdf

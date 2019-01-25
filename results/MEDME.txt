@@ -1,0 +1,27 @@
+#package: MEDME 
+/NAMESPACE
+/DESCRIPTION
+/R/MEDME.R
+/R/zzz.R
+/R/MEDMEset-class.R
+/R/MEDME.writeFiles.R
+/R/CGcount.R
+/R/MEDME.readFiles.R
+/R/MEDME.predict.R
+/R/smooth.R
+/data/testMEDMEset.rda
+/man/MEDME.predict.Rd
+/man/CGcount.Rd
+/man/MEDME.writeFiles.Rd
+/man/MEDMEset-class.Rd
+/man/smooth.Rd
+/man/testMEDMEset.Rd
+/man/MEDME.Rd
+/man/MEDME.readFiles.Rd
+/vignettes/MEDME.rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/MEDME.R
+/inst/doc/MEDME.rnw
+/inst/doc/MEDME.pdf
+/src/MEDMEweight.c

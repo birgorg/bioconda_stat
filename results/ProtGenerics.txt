@@ -1,0 +1,7 @@
+#package: ProtGenerics 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/protgenerics.R
+/man/protgenerics.Rd

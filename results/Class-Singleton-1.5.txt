@@ -1,0 +1,8 @@
+#package: Class-Singleton-1.5 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/singleton.t
+/lib/Class/Singleton.pm

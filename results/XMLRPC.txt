@@ -1,0 +1,11 @@
+#package: XMLRPC 
+/NAMESPACE
+/Changes
+/DESCRIPTION
+/R/serialize.R
+/man/xml.rpc.Rd
+/tests/types.R
+/tests/pingomatic.R
+/tests/xmlrpcTypes.xml
+/Web/index.html.in
+/Web/GNUmakefile

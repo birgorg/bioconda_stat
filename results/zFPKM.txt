@@ -1,0 +1,15 @@
+#package: zFPKM 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS
+/R/zfpkm.R
+/man/zFPKM.Rd
+/man/zFPKMPlot.Rd
+/vignettes/zFPKM.Rmd
+/vignettes/gse94802.rds
+/build/vignette.rds
+/inst/doc/zFPKM.Rmd
+/inst/doc/zFPKM.html
+/inst/doc/zFPKM.R

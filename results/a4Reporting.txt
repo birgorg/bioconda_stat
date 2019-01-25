@@ -1,0 +1,13 @@
+#package: a4Reporting 
+/NAMESPACE
+/DESCRIPTION
+/R/xtable.methods.R
+/R/annotationTable.R
+/man/generateGOIdLinks.Rd
+/man/annotationTable-class.Rd
+/man/annotationTable.Rd
+/man/generateEntrezIdLinks.Rd
+/man/xtable-methods.Rd
+/man/print.xtableAnnotationTable.Rd
+/tests/test.annotationTable.R
+/inst/NEWS

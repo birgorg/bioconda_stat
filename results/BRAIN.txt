@@ -1,0 +1,22 @@
+#package: BRAIN 
+/NAMESPACE
+/DESCRIPTION
+/R/calculate.differential.R
+/R/input.R
+/R/get.coefficients.R
+/R/get.atoms.from.seq.R
+/R/iso.and.masses.R
+/man/calculateIsotopicProbabilities.Rd
+/man/calculateNrPeaks.Rd
+/man/calculateMonoisotopicMass.Rd
+/man/useBRAIN.Rd
+/man/calculateAverageMass.Rd
+/man/BRAIN-package.Rd
+/man/getAtomsFromSeq.Rd
+/vignettes/BRAIN-vignette.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/BRAIN-vignette.R
+/inst/doc/BRAIN-vignette.Rnw
+/inst/doc/BRAIN-vignette.pdf
+/inst/extdata/uniprotBRAIN.txt

@@ -1,0 +1,19 @@
+#package: MPFE 
+/NAMESPACE
+/README
+/DESCRIPTION
+/R/patternMap.R
+/R/estimatePatternsOneColumn.R
+/R/plotPatterns.R
+/R/estimatePatterns.R
+/data/patternsExample.rda
+/man/estimatePatterns.Rd
+/man/patternMap.Rd
+/man/patternsExample.Rd
+/man/plotPatterns.Rd
+/man/MPFE-package.Rd
+/vignettes/MPFE.Rnw
+/build/vignette.rds
+/inst/doc/MPFE.Rnw
+/inst/doc/MPFE.pdf
+/inst/doc/MPFE.R

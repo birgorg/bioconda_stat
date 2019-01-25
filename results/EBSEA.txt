@@ -1,0 +1,19 @@
+#package: EBSEA 
+/NAMESPACE
+/DESCRIPTION
+/R/EBSEA.R
+/R/filterCounts.R
+/R/normalizeData.R
+/R/generateNullDistribution.R
+/R/visualizeGenes.R
+/R/findScore.R
+/data/origCounts.rda
+/man/filterCounts.Rd
+/man/visualizeGenes.Rd
+/man/EBSEA.Rd
+/man/origCounts.Rd
+/vignettes/EBSEA.Rnw
+/build/vignette.rds
+/inst/doc/EBSEA.R
+/inst/doc/EBSEA.pdf
+/inst/doc/EBSEA.Rnw

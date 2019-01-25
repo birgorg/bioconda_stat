@@ -1,0 +1,6 @@
+#package: Statistics-Distributions-1.02 
+/Makefile.PL
+/MANIFEST
+/Changes
+/test.pl
+/Distributions.pm

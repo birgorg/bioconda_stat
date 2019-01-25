@@ -1,0 +1,8 @@
+#package: IlluminaHumanMethylationEPICmanifest 
+/NAMESPACE
+/DESCRIPTION
+/data/IlluminaHumanMethylationEPICmanifest.rda
+/data/datalist
+/man/IlluminaHumanMethylationEPICmanifest.Rd
+/inst/scripts/manifest.R
+/inst/scripts/manifest.Rout

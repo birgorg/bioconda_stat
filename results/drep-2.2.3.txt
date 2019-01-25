@@ -1,0 +1,25 @@
+#package: drep-2.2.3 
+/README.md
+/PKG-INFO
+/setup.py
+/setup.cfg
+/bin/dRep
+/drep/argumentParser.py
+/drep/d_adjust.py
+/drep/__init__.py
+/drep/d_evaluate.py
+/drep/controller.py
+/drep/WorkDirectory.py
+/drep/d_bonus.py
+/drep/d_workflows.py
+/drep/d_choose.py
+/drep/VERSION
+/drep/d_cluster.py
+/drep/d_filter.py
+/drep/d_analyze.py
+/drep.egg-info/top_level.txt
+/drep.egg-info/not-zip-safe
+/drep.egg-info/SOURCES.txt
+/drep.egg-info/PKG-INFO
+/drep.egg-info/dependency_links.txt
+/drep.egg-info/requires.txt

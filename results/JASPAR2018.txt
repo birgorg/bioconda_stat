@@ -1,0 +1,9 @@
+#package: JASPAR2018 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/zzz.R
+/R/AllClasses.R
+/man/JASPAR2018-package.Rd
+/man/JASPAR2018-class.Rd
+/inst/extdata/JASPAR2018.sqlite

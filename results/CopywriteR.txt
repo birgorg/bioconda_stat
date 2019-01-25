@@ -1,0 +1,17 @@
+#package: CopywriteR 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/preCopywriteR.R
+/R/private.R
+/R/CopywriteR.R
+/R/plotCNA.R
+/man/plotCNA.Rd
+/man/preCopywriteR.Rd
+/man/CopywriteR.Rd
+/vignettes/CopywriteR.Rnw
+/vignettes/CopywriteR.bib
+/build/vignette.rds
+/inst/doc/CopywriteR.Rnw
+/inst/doc/CopywriteR.pdf
+/inst/doc/CopywriteR.R

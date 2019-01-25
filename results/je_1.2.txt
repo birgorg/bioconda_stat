@@ -1,0 +1,4 @@
+#package: je_1.2 
+/je
+/je_1.2_bundle.jar
+/log4j.xml

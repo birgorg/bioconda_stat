@@ -1,0 +1,18 @@
+#package: toolshed-0.4.6 
+/ez_setup.py
+/NEWS.txt
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/toolshed/__init__.py
+/toolshed/pool.py
+/toolshed/files.py
+/toolshed/fmt.py
+/toolshed.egg-info/entry_points.txt
+/toolshed.egg-info/top_level.txt
+/toolshed.egg-info/not-zip-safe
+/toolshed.egg-info/SOURCES.txt
+/toolshed.egg-info/PKG-INFO
+/toolshed.egg-info/dependency_links.txt

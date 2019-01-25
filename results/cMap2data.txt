@@ -1,0 +1,21 @@
+#package: cMap2data 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/genelist.rda
+/data/drugClusters.rda
+/data/druglabels.rda
+/data/drugRL.rda
+/data/datalist
+/data/cytodrug.rda
+/man/druglabels.Rd
+/man/drugClusters.Rd
+/man/cytodrug.Rd
+/man/genelist.Rd
+/man/cMap2data-package.Rd
+/man/drugRL.Rd
+/vignettes/cMap2data.Rnw
+/build/vignette.rds
+/inst/doc/cMap2data.pdf
+/inst/doc/cMap2data.Rnw
+/inst/doc/cMap2data.R

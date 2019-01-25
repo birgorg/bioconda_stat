@@ -1,0 +1,26 @@
+#package: ArrayExpress 
+/NAMESPACE
+/DESCRIPTION
+/R/procset.r
+/R/extract.zip.r
+/R/ArrayExpress.r
+/R/getAE.r
+/R/queryAE.r
+/R/getcolproc.r
+/R/parseMAGE.r
+/R/ae2bioc.r
+/man/queryAE.Rd
+/man/ae2bioc.Rd
+/man/getcolproc.Rd
+/man/procset.Rd
+/man/ArrayExpress.Rd
+/man/extract.zip.Rd
+/man/getAE.Rd
+/man/getcolraw.Rd
+/vignettes/ArrayExpress.Rnw
+/vignettes/QT_list.txt
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/ArrayExpress.Rnw
+/inst/doc/ArrayExpress.pdf
+/inst/doc/ArrayExpress.R

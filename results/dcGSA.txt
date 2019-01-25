@@ -1,0 +1,17 @@
+#package: dcGSA 
+/NAMESPACE
+/DESCRIPTION
+/R/readGMT.R
+/R/dcGSAtest.R
+/R/dcGSA.R
+/R/LDcov.R
+/data/dcGSAtest.rda
+/man/LDcov.Rd
+/man/readGMT.Rd
+/man/dcGSAtest.Rd
+/man/dcGSA.Rd
+/vignettes/dcGSA.Rmd
+/vignettes/dcGSA.bib
+/inst/NEWS.Rd
+/inst/CITATION
+/inst/extdata/sample.gmt.txt

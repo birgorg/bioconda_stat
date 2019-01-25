@@ -1,0 +1,11 @@
+#package: Sort-Versions-1.62 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/versions.t
+/lib/Sort/Versions.pm

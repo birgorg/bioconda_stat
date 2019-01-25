@@ -1,0 +1,11 @@
+#package: IO-SessionData-1.03 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/SessionData.t
+/t/SessionSet.t
+/lib/IO/SessionData.pm
+/lib/IO/SessionSet.pm

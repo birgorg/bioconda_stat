@@ -1,0 +1,20 @@
+#package: Bio-Tools-Run-Alignment-TCoffee-1.7.4 
+/META.yml
+/LICENSE
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/author-eol.t
+/t/author-pod-syntax.t
+/t/author-mojibake.t
+/t/TCoffee.t
+/t/author-no-tabs.t
+/t/00-compile.t
+/t/author-pod-coverage.t
+/t/data/cysprot1b.fa
+/t/data/cysprot1b.msf
+/t/data/cysprot.fa
+/t/data/cysprot1a.msf
+/lib/Bio/Tools/Run/Alignment/TCoffee.pm

@@ -1,0 +1,16 @@
+#package: Border-Style-0.01 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/weaver.ini
+/t/release-pod-coverage.t
+/t/release-pod-syntax.t
+/t/release-rinci.t
+/t/00-compile.t
+/lib/Border/Style.pm
+/lib/Border/Style/Role.pm

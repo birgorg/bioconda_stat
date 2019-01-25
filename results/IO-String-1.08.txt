@@ -1,0 +1,13 @@
+#package: IO-String-1.08 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/String.pm
+/t/truncate.t
+/t/seek.t
+/t/para.t
+/t/read.t
+/t/close.t
+/t/write.t

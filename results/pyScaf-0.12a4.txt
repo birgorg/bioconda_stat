@@ -1,0 +1,17 @@
+#package: pyScaf-0.12a4 
+/LICENSE
+/README.rst
+/PKG-INFO
+/pyScaf.py
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/pyScaf.egg-info/entry_points.txt
+/pyScaf.egg-info/top_level.txt
+/pyScaf.egg-info/SOURCES.txt
+/pyScaf.egg-info/PKG-INFO
+/pyScaf.egg-info/dependency_links.txt
+/pyScaf.egg-info/requires.txt
+/FastaIndex/fasta_stats.py
+/FastaIndex/FastaIndex.py
+/FastaIndex/setup.py

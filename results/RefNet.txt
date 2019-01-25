@@ -1,0 +1,26 @@
+#package: RefNet 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/RefNet-class.R
+/man/providerClasses.Rd
+/man/detectDuplicateInteractions.Rd
+/man/pubmedAbstract.Rd
+/man/pickBestFromDupGroup.Rd
+/man/interactions.Rd
+/man/RefNet-class.Rd
+/man/providers.Rd
+/vignettes/RefNet.Rnw
+/vignettes/RefNet.bib
+/build/vignette.rds
+/tests/runTests.R
+/inst/doc/RefNet.pdf
+/inst/doc/RefNet.R
+/inst/doc/RefNet.Rnw
+/inst/unitTests/test_RefNet.R
+/inst/apps/ui.R
+/inst/apps/server.R
+/inst/apps/www/bootstrap.css
+/inst/extdata/tbl.e2f3.RData
+/inst/extdata/tbl.dups.RData
+/inst/extdata/tbl.28g2.RData

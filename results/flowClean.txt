@@ -1,0 +1,15 @@
+#package: flowClean 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/flowClean.R
+/data/synPerturbed.rda
+/data/datalist
+/man/clean.Rd
+/man/synPerturbed.Rd
+/vignettes/flowClean.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/flowClean.R
+/inst/doc/flowClean.pdf
+/inst/doc/flowClean.Rnw

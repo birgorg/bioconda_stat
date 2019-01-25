@@ -1,0 +1,23 @@
+#package: miRBaseVersions.db 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/R/ClassDef.R
+/man/miRBaseVersions.db.Rd
+/tests/testthat.R
+/tests/testthat/select-test1.txt
+/tests/testthat/test-keys-keytypes-columns.R
+/tests/testthat/test-select.R
+/inst/NEWS
+/inst/doc/miRBaseVersions.db-vignette.pdf
+/inst/doc/miRBaseVersions.db-vignette.html
+/inst/vignettes/apa.csl
+/inst/vignettes/miRBaseVersions.db-vignette.pdf
+/inst/vignettes/diff-plot.png
+/inst/vignettes/miRBaseVersions.db-vignette.R
+/inst/vignettes/miRBaseVersions.db-vignette.html
+/inst/vignettes/miRBaseVersions.db-vignette.Rmd
+/inst/vignettes/entries-plot.png
+/inst/vignettes/references.bib
+/inst/extdata/miRBaseVersions.sqlite

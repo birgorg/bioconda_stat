@@ -1,0 +1,12 @@
+#package: File-Touch-0.11 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/01-require.t
+/t/02-basic-usage.t
+/lib/File/Touch.pm

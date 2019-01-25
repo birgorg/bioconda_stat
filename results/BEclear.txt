@@ -1,0 +1,26 @@
+#package: BEclear 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/BEclear.R
+/data/BEclearCorrected.RData
+/data/BEclearData.RData
+/man/clearBEgenes.Rd
+/man/ex.corrected.data.Rd
+/man/makeBoxplot.Rd
+/man/BEclear.Rd
+/man/BEclear-package.Rd
+/man/calcScore.Rd
+/man/BEclearData.Rd
+/man/calcPvalues.Rd
+/man/calcMedians.Rd
+/man/replaceWrongValues.Rd
+/man/correctBatchEffect.Rd
+/man/findWrongValues.Rd
+/man/calcSummary.Rd
+/man/countValuesToPredict.Rd
+/vignettes/BEclear.Rnw
+/build/vignette.rds
+/inst/doc/BEclear.Rnw
+/inst/doc/BEclear.pdf
+/inst/doc/BEclear.R

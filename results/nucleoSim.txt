@@ -1,0 +1,27 @@
+#package: nucleoSim 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/nucleoSim.R
+/R/nucleoSimInternFunctions.R
+/R/nucleoSimFunctions.R
+/man/nucleoSim-package.Rd
+/man/syntheticNucReadsValidation.Rd
+/man/syntheticNucMapFromDist.Rd
+/man/syntheticNucMapFromDistValidation.Rd
+/man/syntheticNucReadsFromMap.Rd
+/man/syntheticNucReadsFromDist.Rd
+/man/plot.syntheticNucReads.Rd
+/man/createNucReadsFromNucMap.Rd
+/man/plot.syntheticNucMap.Rd
+/vignettes/nucleoSim.Rmd
+/build/vignette.rds
+/tests/runTests.R
+/inst/CITATION
+/inst/doc/nucleoSim.Rmd
+/inst/doc/nucleoSim.R
+/inst/doc/nucleoSim.html
+/inst/unitTests/test_syntheticNucMapFromDist.R
+/inst/unitTests/test_syntheticNucReadsFromMap.R
+/inst/unitTests/test_syntheticSampleFromDist.R

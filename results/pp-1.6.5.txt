@@ -1,0 +1,24 @@
+#package: pp-1.6.5 
+/pp.py
+/README
+/pptransport.py
+/ppserver.py
+/ppauto.py
+/ppworker.py
+/ppcommon.py
+/PKG-INFO
+/CHANGELOG
+/MANIFEST.in
+/setup.py
+/COPYING
+/AUTHORS
+/examples/reverse_md5.py
+/examples/quicksort.py
+/examples/dynamic_ncpus.py
+/examples/sum_primes_functor.py
+/examples/sum_primes.py
+/examples/callback.py
+/examples/auto_diff.py
+/doc/example.config
+/doc/ppdoc.html
+/doc/ppserver.1

@@ -1,0 +1,12 @@
+#package: ConsensusClusterPlus 
+/NAMESPACE
+/DESCRIPTION
+/R/ConsensusClusterPlus.R
+/man/ConsensusClusterPlus.Rd
+/vignettes/ConsensusClusterPlus.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/ConsensusClusterPlus.Rnw
+/inst/doc/ConsensusClusterPlus.pdf
+/inst/doc/ConsensusClusterPlus.R

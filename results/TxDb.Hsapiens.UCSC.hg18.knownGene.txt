@@ -1,0 +1,6 @@
+#package: TxDb.Hsapiens.UCSC.hg18.knownGene 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Hsapiens.UCSC.hg18.knownGene.sqlite

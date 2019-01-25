@@ -1,0 +1,20 @@
+#package: stepNorm 
+/NAMESPACE
+/DESCRIPTION
+/R/stepNorm.R
+/man/fitWithin.Rd
+/man/marrayFitClass.Rd
+/man/stepNorm-internal.Rd
+/man/seqWithinNorm.Rd
+/man/withinNorm.Rd
+/man/calcAIC.Rd
+/man/stepWithinNorm.Rd
+/man/calcBIC.Rd
+/man/maCompPlate2.Rd
+/man/makeStepList.Rd
+/man/fit2DWithin.Rd
+/inst/otherDocs/Rplots.ps
+/inst/otherDocs/stepNorm.Rnw
+/inst/otherDocs/stepNorm.tex
+/inst/otherDocs/stepProcedure.pdf
+/inst/otherDocs/stepNorm.pdf

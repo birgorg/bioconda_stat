@@ -1,0 +1,12 @@
+#package: convert 
+/NAMESPACE
+/DESCRIPTION
+/R/marrayRaw_to_NChannelSet.R
+/R/RGList_to_NChannelSet.R
+/R/setas.R
+/man/coerce.Rd
+/vignettes/convert.Rnw
+/vignettes/index.html
+/build/vignette.rds
+/inst/doc/convert.Rnw
+/inst/doc/convert.pdf

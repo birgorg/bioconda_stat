@@ -1,0 +1,23 @@
+#package: Parse-Yapp-1.21 
+/README.md
+/META.yml
+/YappParse.yp
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/yapp
+/Calc.yp
+/docs/fdesarmenien_20170307-parse_yapp_assignment_redacted.png
+/docs/fdesarmenien_20170307-parse_yapp_assignment__email.eml
+/t/base.t
+/t/stress.t
+/t/calc.t
+/lib/Parse/Yapp.pm
+/lib/Parse/Yapp/Parse.pm
+/lib/Parse/Yapp/Options.pm
+/lib/Parse/Yapp/Lalr.pm
+/lib/Parse/Yapp/Output.pm
+/lib/Parse/Yapp/Grammar.pm
+/lib/Parse/Yapp/Driver.pm

@@ -1,0 +1,17 @@
+#package: NanoStat-1.1.2 
+/README.md
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/scripts/test.sh
+/NanoStat.egg-info/entry_points.txt
+/NanoStat.egg-info/top_level.txt
+/NanoStat.egg-info/SOURCES.txt
+/NanoStat.egg-info/PKG-INFO
+/NanoStat.egg-info/dependency_links.txt
+/NanoStat.egg-info/requires.txt
+/nanostat/__init__.py
+/nanostat/NanoStat.py
+/nanostat/version.py

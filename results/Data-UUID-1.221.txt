@@ -1,0 +1,22 @@
+#package: Data-UUID-1.221 
+/META.yml
+/UUID.xs
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/UUID.h
+/Changes
+/META.json
+/ptable.h
+/typemap
+/UUID.pm
+/t/from-name-collisions.t
+/t/threads.t
+/t/leaky_dollar_bang.t
+/t/basic.t
+/t/pod.t
+/t/segv.t
+/t/pod-coverage.t
+/smp-test/uuid-fork.pl
+/smp-test/collision.t

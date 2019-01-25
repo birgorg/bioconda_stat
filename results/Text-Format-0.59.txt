@@ -1,0 +1,17 @@
+#package: Text-Format-0.59 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/Build.PL
+/t/justify.t
+/t/cpan-changes.t
+/t/format.t
+/t/pod.t
+/t/style-trailing-space.t
+/t/pod-coverage.t
+/lib/Text/Format.pm
+/inc/Test/Run/Builder.pm

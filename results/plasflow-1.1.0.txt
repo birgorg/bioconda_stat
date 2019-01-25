@@ -1,0 +1,14 @@
+#package: plasflow-1.1.0 
+/README.md
+/LICENSE.txt
+/PlasFlow.py
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/plasflow.egg-info/top_level.txt
+/plasflow.egg-info/SOURCES.txt
+/plasflow.egg-info/PKG-INFO
+/plasflow.egg-info/dependency_links.txt
+/plasflow.egg-info/requires.txt
+/plasflow/__init__.py

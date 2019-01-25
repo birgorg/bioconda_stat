@@ -1,0 +1,25 @@
+#package: QDNAseq.mm10 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/QDNAseq.mm10.R
+/data/mm10.1000kbp.SR50.rda
+/data/mm10.1kbp.SR50.rda
+/data/mm10.10kbp.SR50.rda
+/data/mm10.15kbp.SR50.rda
+/data/mm10.100kbp.SR50.rda
+/data/mm10.30kbp.SR50.rda
+/data/mm10.5kbp.SR50.rda
+/data/mm10.50kbp.SR50.rda
+/data/mm10.500kbp.SR50.rda
+/data/datalist
+/man/mm10.10kbp.SR50.Rd
+/man/mm10.15kbp.SR50.Rd
+/man/mm10.5kbp.SR50.Rd
+/man/QDNAseq.mm10-package.Rd
+/man/mm10.100kbp.SR50.Rd
+/man/mm10.1kbp.SR50.Rd
+/man/mm10.50kbp.SR50.Rd
+/man/mm10.30kbp.SR50.Rd
+/man/mm10.1000kbp.SR50.Rd
+/man/mm10.500kbp.SR50.Rd

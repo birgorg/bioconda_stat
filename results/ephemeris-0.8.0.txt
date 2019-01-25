@@ -1,0 +1,27 @@
+#package: ephemeris-0.8.0 
+/LICENSE
+/CODE_OF_CONDUCT.rst
+/HISTORY.rst
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/CONTRIBUTING.rst
+/setup.cfg
+/ephemeris.egg-info/entry_points.txt
+/ephemeris.egg-info/top_level.txt
+/ephemeris.egg-info/not-zip-safe
+/ephemeris.egg-info/SOURCES.txt
+/ephemeris.egg-info/PKG-INFO
+/ephemeris.egg-info/dependency_links.txt
+/ephemeris.egg-info/requires.txt
+/ephemeris/setup_data_libraries.py
+/ephemeris/run_data_managers.py
+/ephemeris/generate_tool_list_from_ga_workflow_files.py
+/ephemeris/workflow_install.py
+/ephemeris/__init__.py
+/ephemeris/common_parser.py
+/ephemeris/shed_tools.py
+/ephemeris/get_tool_list_from_galaxy.py
+/ephemeris/ephemeris_log.py
+/ephemeris/sleep.py

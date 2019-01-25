@@ -1,0 +1,10 @@
+#package: ScreamingBackpack-0.2.333 
+/README.md
+/LICENSE.txt
+/PKG-INFO
+/CHANGES.txt
+/setup.py
+/bin/screamingBackpack
+/screamingbackpack/manifestManager.py
+/screamingbackpack/__init__.py
+/screamingbackpack/fileEntity.py

@@ -1,0 +1,12 @@
+#package: IO-Tty-1.12 
+/META.yml
+/Tty.pm
+/README
+/Makefile.PL
+/MANIFEST
+/Tty.xs
+/META.json
+/ChangeLog
+/try
+/Pty.pm
+/t/test.t

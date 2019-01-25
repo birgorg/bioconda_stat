@@ -1,0 +1,15 @@
+#package: targetscan.Hs.eg.db 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/zzz.R
+/man/targetscan.Hs.eg_dbconn.Rd
+/man/targetscan.Hs.egMIRNA.Rd
+/man/targetscan.Hs.egTARGETS.Rd
+/man/targetscan.Hs.egMIRBASE2FAMILY.Rd
+/man/targetscan.Hs.egTARGETSFULL.Rd
+/man/targetscan.Hs.egundocumented.Rd
+/man/targetscan.Hs.egMAPCOUNTS.Rd
+/man/targetscan.Hs.egFAMILY2MIRBASE.Rd
+/man/targetscan.Hs.egBASE.Rd
+/inst/extdata/targetscan.Hs.eg.sqlite

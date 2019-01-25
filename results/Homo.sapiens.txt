@@ -1,0 +1,6 @@
+#package: Homo.sapiens 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/data/graphInfo.rda
+/man/Homo.sapiens.Rd

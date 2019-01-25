@@ -1,0 +1,21 @@
+#package: Devel-Size-0.82 
+/META.yml
+/ppport.h
+/README
+/Makefile.PL
+/MANIFEST
+/Size.xs
+/META.json
+/MANIFEST.SKIP
+/typemap
+/CHANGES
+/t/pvbm.t
+/t/pod_cov.t
+/t/warnings.t
+/t/basic.t
+/t/pod.t
+/t/code.t
+/t/globs.t
+/t/magic.t
+/t/recurse.t
+/lib/Devel/Size.pm

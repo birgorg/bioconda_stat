@@ -1,0 +1,16 @@
+#package: newick-1.3 
+/README
+/ChangeLog
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/COPYING
+/AUTHORS
+/newick/parsertest.py
+/newick/__init__.py
+/newick/lexer.py
+/newick/parser.py
+/newick/lexertest.py
+/newick/tokens.py
+/newick/treetest.py
+/newick/tree.py

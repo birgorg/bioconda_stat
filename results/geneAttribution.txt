@@ -1,0 +1,18 @@
+#package: geneAttribution 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/geneAttribution.R
+/man/loadBed.Rd
+/man/normP.Rd
+/man/geneModels.Rd
+/man/geneAttribution.Rd
+/vignettes/geneAttribution.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/testGeneAttribution.R
+/inst/NEWS
+/inst/doc/geneAttribution.html
+/inst/doc/geneAttribution.Rmd
+/inst/extdata/eqtlHaplotypeBlocks.b38.bed
+/inst/extdata/hiCRegions.b38.bed

@@ -1,0 +1,23 @@
+#package: QCumber-2.0.4-ae330815d94d1c0b0f27aa103db4defb7dacf065 
+/Snakefile
+/LICENSE
+/__init__.py
+/batch_report.html
+/report.tex
+/workflow.png
+/readme.md
+/QCumber-2
+/.gitignore
+/config/__init__.py
+/config/parameter.txt
+/Rscripts/sav.R
+/Rscripts/barplot.R
+/Rscripts/boxplot.R
+/modules/trimming.snakefile
+/modules/__init__.py
+/modules/init.snakefile
+/modules/classification.snakefile
+/modules/fastqc.snakefile
+/modules/sav.snakefile
+/modules/mapping.snakefile
+/environment/packages.yaml

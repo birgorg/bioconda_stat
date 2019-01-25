@@ -1,0 +1,26 @@
+#package: Readonly-2.05 
+/README.md
+/META.yml
+/LICENSE
+/MANIFEST
+/Changes
+/minil.toml
+/META.json
+/cpanfile
+/Build.PL
+/t/general/export.t
+/t/general/clone.t
+/t/general/docs.t
+/t/general/scalar.t
+/t/general/hash.t
+/t/general/deeps.t
+/t/general/tie.t
+/t/general/deeph.t
+/t/general/deepa.t
+/t/general/reassign.t
+/t/general/array.t
+/t/general/readonly.t
+/t/bugs/001_assign.t
+/t/bugs/007_implicit_undef.t
+/lib/Readonly.pm
+/eg/benchmark.pl

@@ -1,0 +1,25 @@
+#package: DrugVsDiseasedata 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/genelist.rda
+/data/cytodisease.rda
+/data/GEOfactorvalues.rda
+/data/diseaseRL.rda
+/data/diseaselabels.rda
+/data/diseaseClusters.rda
+/data/datalist
+/data/annotationlist.rda
+/man/cytodisease.Rd
+/man/diseaseClusters.Rd
+/man/diseaselabels.Rd
+/man/genelist.Rd
+/man/DrugVsDiseasedata-package.Rd
+/man/GEOfactorvalues.Rd
+/man/diseaseRL.Rd
+/man/annotationlist.Rd
+/vignettes/DrugVsDiseasedata.Rnw
+/build/vignette.rds
+/inst/doc/DrugVsDiseasedata.pdf
+/inst/doc/DrugVsDiseasedata.Rnw
+/inst/doc/DrugVsDiseasedata.R

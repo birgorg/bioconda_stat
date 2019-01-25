@@ -1,0 +1,6 @@
+#package: TxDb.Celegans.UCSC.ce6.ensGene 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Celegans.UCSC.ce6.ensGene.sqlite

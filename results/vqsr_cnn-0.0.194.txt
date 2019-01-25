@@ -1,0 +1,10 @@
+#package: vqsr_cnn-0.0.194 
+/PKG-INFO
+/setup.py
+/vqsr_cnn/defines.py
+/vqsr_cnn/plots.py
+/vqsr_cnn/arguments.py
+/vqsr_cnn/__init__.py
+/vqsr_cnn/models.py
+/vqsr_cnn/tensor_maps.py
+/vqsr_cnn/inference.py

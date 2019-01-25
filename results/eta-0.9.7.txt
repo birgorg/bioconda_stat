@@ -1,0 +1,5 @@
+#package: eta-0.9.7 
+/README.md
+/PKG-INFO
+/setup.py
+/eta/__init__.py

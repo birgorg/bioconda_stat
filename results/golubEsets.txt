@@ -1,0 +1,17 @@
+#package: golubEsets 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/golubMerge.R
+/data/Golub_Test.rda
+/data/golubMerge.rda
+/data/golubTest.rda
+/data/golubTrain.R
+/data/Golub_Train.rda
+/data/golubTrain.rda
+/data/datalist
+/data/golubTest.R
+/data/Golub_Merge.rda
+/man/golubTrain.Rd
+/man/golubTest.Rd
+/man/golubMerge.Rd
