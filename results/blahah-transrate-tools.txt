@@ -1,14 +1,7 @@
 #repo:blahah/transrate-tools 
-
 .gitignore
-
 .gitmodules
-
 cmakelists.txt
-
 license
-
 readme.md
-
 bamtools
-

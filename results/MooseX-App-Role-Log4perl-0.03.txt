@@ -1,24 +1,12 @@
 #package: moosex-app-role-log4perl-0.03 
-
 readme.md
-
 meta.yml
-
 license
-
 manifest
-
 changes
-
 minil.toml
-
 meta.json
-
 cpanfile
-
 build.pl
-
 t/00_compile.t
-
 lib/moosex/app/role/log4perl.pm
-

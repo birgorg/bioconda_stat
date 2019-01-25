@@ -1,26 +1,13 @@
 #package: xml-namespacesupport-1.12 
-
 meta.yml
-
 license
-
 readme
-
 makefile.pl
-
 manifest
-
 dist.ini
-
 changes
-
 meta.json
-
 cpanfile
-
 weaver.ini
-
 t/00base.t
-
 lib/xml/namespacesupport.pm
-

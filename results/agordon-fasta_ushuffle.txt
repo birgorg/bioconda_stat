@@ -1,16 +1,8 @@
 #repo:agordon/fasta_ushuffle 
-
 makefile
-
 readme
-
 fasta_ushuffle.c
-
 main.c
-
 test1.fa
-
 test_bad_input1.fa
-
 ushuffle.c
-

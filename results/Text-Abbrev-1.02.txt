@@ -1,24 +1,12 @@
 #package: text-abbrev-1.02 
-
 meta.yml
-
 license
-
 readme
-
 makefile.pl
-
 manifest
-
 dist.ini
-
 changes
-
 meta.json
-
 t/abbrev.t
-
 t/release-pod-syntax.t
-
 lib/text/abbrev.pm
-

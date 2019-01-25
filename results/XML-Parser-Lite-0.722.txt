@@ -1,24 +1,12 @@
 #package: xml-parser-lite-0.722 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 meta.json
-
 manifest.skip
-
 t/27-xmlparserlite.t
-
 t/lite.t
-
 t/adam.xml
-
 lib/xml/parser/lite.pm
-

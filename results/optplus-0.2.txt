@@ -1,22 +1,11 @@
 #package: optplus-0.2 
-
 readme
-
 pkg-info
-
 setup.py
-
 setup.cfg
-
 optplus/__init__.py
-
 optplus.egg-info/zip-safe
-
 optplus.egg-info/top_level.txt
-
 optplus.egg-info/sources.txt
-
 optplus.egg-info/pkg-info
-
 optplus.egg-info/dependency_links.txt
-

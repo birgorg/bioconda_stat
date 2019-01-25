@@ -1,10 +1,5 @@
 #package: pipmir_v1_1b 
-
 readme
-
 pipmir
-
 src/jpipmir.jar
-
 src/trainingdata.dat
-

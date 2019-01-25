@@ -1,18 +1,9 @@
 #package: soapsplice-v1.10 
-
 readme.txt
-
 doc/document.txt
-
 bin/2bwt-builder
-
 bin/soapsplice
-
 bin/wgsim
-
 example/example.sh
-
 example/examplerna.fa
-
 example/examplegenome.fa
-

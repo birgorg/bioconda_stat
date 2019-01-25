@@ -1,16 +1,8 @@
 #package: number-compare-0.03 
-
 meta.yml
-
 makefile.pl
-
 manifest
-
 changes
-
 manifest.skip
-
 t/number-compare.t
-
 lib/number/compare.pm
-

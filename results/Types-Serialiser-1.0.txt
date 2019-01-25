@@ -1,24 +1,12 @@
 #package: types-serialiser-1.0 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 serialiser.pm
-
 meta.json
-
 copying
-
 serialiser/error.pm
-
 t/00_load.t
-
 t/51_types.t
-

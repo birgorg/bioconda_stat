@@ -1,18 +1,9 @@
 #package: tie-cacher-0.09 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 cacher.pm
-
 t/1.t
-
 t/2.t
-

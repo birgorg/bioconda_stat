@@ -1,12 +1,6 @@
 #repo:rickgelhausen/reparation_blast 
-
 license.txt
-
 readme.md
-
 changelog
-
 reparation.pl
-
 reparation.xml
-

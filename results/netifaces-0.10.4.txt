@@ -1,22 +1,11 @@
 #package: netifaces-0.10.4 
-
 readme.rst
-
 pkg-info
-
 netifaces.c
-
 setup.py
-
 setup.cfg
-
 netifaces.egg-info/zip-safe
-
 netifaces.egg-info/top_level.txt
-
 netifaces.egg-info/sources.txt
-
 netifaces.egg-info/pkg-info
-
 netifaces.egg-info/dependency_links.txt
-

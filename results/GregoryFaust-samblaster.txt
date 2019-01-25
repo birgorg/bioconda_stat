@@ -1,14 +1,7 @@
 #repo:gregoryfaust/samblaster 
-
 license.txt
-
 makefile
-
 readme.md
-
 samblaster_supplemental.pdf
-
 samblaster.cpp
-
 sbhash.cpp
-

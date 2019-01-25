@@ -1,12 +1,6 @@
 #repo:indraniel/sff2fastq 
-
 makefile
-
 readme.md
-
 endian.h
-
 main.c
-
 sff.c
-

@@ -1,24 +1,12 @@
 #package: twobitreader-3.1.6 
-
 readme.md
-
 pkg-info
-
 setup.py
-
 setup.cfg
-
 twobitreader/__init__.py
-
 twobitreader/download.py
-
 twobitreader/__main__.py
-
 twobitreader.egg-info/top_level.txt
-
 twobitreader.egg-info/sources.txt
-
 twobitreader.egg-info/pkg-info
-
 twobitreader.egg-info/dependency_links.txt
-

@@ -1,14 +1,7 @@
 #repo:owenjm/damidseq_pipeline 
-
 license
-
 readme.md
-
 changelog
-
 damidseq_pipeline
-
 example.zip
-
 gatc.track.maker.pl
-

@@ -1,24 +1,12 @@
 #package: sompy-0.1.1 
-
 pkg-info
-
 setup.py
-
 setup.cfg
-
 sompy/sompy.py
-
 sompy/__init__.py
-
 sompy.egg-info/zip-safe
-
 sompy.egg-info/top_level.txt
-
 sompy.egg-info/sources.txt
-
 sompy.egg-info/pkg-info
-
 sompy.egg-info/dependency_links.txt
-
 sompy.egg-info/requires.txt
-

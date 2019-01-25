@@ -1,8 +1,4 @@
 #repo:biobix/mqc 
-
 license
-
 readme.md
-
 mqc.pl
-

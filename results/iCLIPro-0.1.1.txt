@@ -1,26 +1,13 @@
 #package: iclipro-0.1.1 
-
 readme
-
 pkg-info
-
 setup.py
-
 scripts/iclipro
-
 scripts/iclipro_bam_splitter
-
 examples/01_run_iclipro.sh
-
 examples/00_get_raw_bams.sh
-
 doc/_build/latex/iclipro.pdf
-
 iclipro/bed.py
-
 iclipro/__init__.py
-
 iclipro/_version.py
-
 iclipro/cmd_utils.py
-

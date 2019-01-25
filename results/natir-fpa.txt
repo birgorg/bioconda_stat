@@ -1,14 +1,7 @@
 #repo:natir/fpa 
-
 .gitignore
-
 .travis.yml
-
 cargo.lock
-
 cargo.toml
-
 license
-
 readme.md
-

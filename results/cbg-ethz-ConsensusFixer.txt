@@ -1,14 +1,7 @@
 #repo:cbg-ethz/consensusfixer 
-
 .gitignore
-
 cf_logo.png
-
 copying
-
 readme.md
-
 makefile
-
 pom.xml
-

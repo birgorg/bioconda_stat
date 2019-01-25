@@ -1,14 +1,7 @@
 #package: math-bezier-0.01 
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 test.pl
-
 bezier.pm
-

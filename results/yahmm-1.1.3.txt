@@ -1,16 +1,8 @@
 #package: yahmm-1.1.3 
-
 license.txt
-
 requirements.txt
-
 pkg-info
-
 changes.txt
-
 setup.py
-
 yahmm/__init__.py
-
 yahmm/yahmm.pyx
-

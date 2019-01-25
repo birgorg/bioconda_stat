@@ -1,16 +1,8 @@
 #package: unix_(gcc) 
-
 readme.txt
-
 makefile
-
 how_to.txt
-
 genclustlb.h
-
 copying.txt
-
 genclust.c
-
 genclustlb.c
-

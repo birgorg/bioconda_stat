@@ -1,8 +1,4 @@
 #repo:kundajelab/phantompeakqualtools 
-
 license
-
 readme.md
-
 run_spp.r
-

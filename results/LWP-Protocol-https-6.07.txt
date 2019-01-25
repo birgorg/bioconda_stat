@@ -1,20 +1,10 @@
 #package: lwp-protocol-https-6.07 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 meta.json
-
 t/https_proxy.t
-
 t/apache.t
-
 lib/lwp/protocol/https.pm
-

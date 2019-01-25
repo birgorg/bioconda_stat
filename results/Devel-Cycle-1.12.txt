@@ -1,18 +1,9 @@
 #package: devel-cycle-1.12 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 meta.json
-
 t/devel-cycle.t
-
 lib/devel/cycle.pm
-

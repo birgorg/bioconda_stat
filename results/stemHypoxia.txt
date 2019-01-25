@@ -1,20 +1,10 @@
 #package: stemhypoxia 
-
 namespace
-
 description
-
 external_data_store.txt
-
 news
-
 data/stemhypoxia.rdata
-
 data/datalist
-
 man/m.rd
-
 man/design.rd
-
 man/stemhypoxia.rd
-

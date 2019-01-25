@@ -1,14 +1,7 @@
 #repo:phac-nml/msaboot 
-
 license.txt
-
 notice.txt
-
 readme.md
-
 setup.py
-
 msaboot/__init__.py
-
 msaboot/msaboot.py
-

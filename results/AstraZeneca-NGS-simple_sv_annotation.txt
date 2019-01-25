@@ -1,12 +1,6 @@
 #repo:astrazeneca-ngs/simple_sv_annotation 
-
 license
-
 readme.md
-
 az-cancer-panel.txt
-
 fusion_pairs.txt
-
 refseq.hg19.brca1.nm_007294.alternatenumbers.bed
-

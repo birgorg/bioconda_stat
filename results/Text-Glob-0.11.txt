@@ -1,18 +1,9 @@
 #package: text-glob-0.11 
-
 meta.yml
-
 makefile.pl
-
 manifest
-
 changes
-
 meta.json
-
 t/text-glob.t
-
 t/text-glob_sep.t
-
 lib/text/glob.pm
-

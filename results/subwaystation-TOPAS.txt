@@ -1,12 +1,6 @@
 #repo:subwaystation/topas 
-
 .travis.yml
-
 bsc_thesis_heumos.pdf
-
 readme.md
-
 build.gradle
-
 settings.gradle
-

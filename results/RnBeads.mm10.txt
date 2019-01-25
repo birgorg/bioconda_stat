@@ -1,26 +1,13 @@
 #package: rnbeads.mm10 
-
 namespace
-
 description
-
 external_data_store.txt
-
 r/package.r
-
 data/mm10.regions.rdata
-
 data/mm10.cpg.rdata
-
 data/cpg.rdata
-
 data/regions.rdata
-
 data/mm10.rdata
-
 data/datalist
-
 man/mm10.rd
-
 inst/news
-

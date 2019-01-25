@@ -1,22 +1,11 @@
 #package: sort-naturally-1.03 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 meta.json
-
 manifest.skip
-
 changelog
-
 t/00_about_verbose.t
-
 t/01_old_junk.t
-
 lib/sort/naturally.pm
-

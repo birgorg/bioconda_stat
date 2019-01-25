@@ -1,16 +1,8 @@
 #package: http-date-6.02 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 t/date.t
-
 lib/http/date.pm
-

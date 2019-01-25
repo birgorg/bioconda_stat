@@ -1,26 +1,13 @@
 #package: io-string-1.08 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 string.pm
-
 t/truncate.t
-
 t/seek.t
-
 t/para.t
-
 t/read.t
-
 t/close.t
-
 t/write.t
-

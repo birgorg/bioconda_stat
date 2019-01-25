@@ -1,14 +1,7 @@
 #package: fastqe-0.1.1 
-
 pkg-info
-
 setup.py
-
 setup.cfg
-
 fastqe/__init__.py
-
 fastqe/fastqe.py
-
 fastqe/fastqe_map.py
-

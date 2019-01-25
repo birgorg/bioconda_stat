@@ -1,22 +1,11 @@
 #package: xmlbuilder-1.0 
-
 readme.txt
-
 pkg-info
-
 setup.py
-
 setup.cfg
-
 xmlbuilder.egg-info/top_level.txt
-
 xmlbuilder.egg-info/sources.txt
-
 xmlbuilder.egg-info/pkg-info
-
 xmlbuilder.egg-info/dependency_links.txt
-
 xmlbuilder/__init__.py
-
 xmlbuilder/test.py
-

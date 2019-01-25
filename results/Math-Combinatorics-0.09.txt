@@ -1,20 +1,10 @@
 #package: math-combinatorics-0.09 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 t/01.t
-
 t/03.t
-
 t/02.t
-
 lib/math/combinatorics.pm
-

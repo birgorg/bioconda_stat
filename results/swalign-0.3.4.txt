@@ -1,14 +1,7 @@
 #package: swalign-0.3.4 
-
 readme.md
-
 license
-
 pkg-info
-
 setup.py
-
 swalign/__init__.py
-
 bin/swalign
-

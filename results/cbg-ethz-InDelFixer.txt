@@ -1,10 +1,5 @@
 #repo:cbg-ethz/indelfixer 
-
 .gitignore
-
 copying
-
 readme.md
-
 pom.xml
-

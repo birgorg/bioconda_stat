@@ -1,24 +1,12 @@
 #package: array-compare-v3.0.1 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 meta.json
-
 build.pl
-
 t/pod_coverage.t
-
 t/test.t
-
 t/pod.t
-
 lib/array/compare.pm
-

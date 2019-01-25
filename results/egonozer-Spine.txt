@@ -1,14 +1,7 @@
 #repo:egonozer/spine 
-
 .gitignore
-
 license.txt
-
 readme.md
-
 readme.txt
-
 spine.pl
-
 scripts/nucmer_backbone.pl
-

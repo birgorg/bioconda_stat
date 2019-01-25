@@ -1,8 +1,4 @@
 #repo:cimendes/roprofile 
-
 .gitignore
-
 license
-
 readme.md
-

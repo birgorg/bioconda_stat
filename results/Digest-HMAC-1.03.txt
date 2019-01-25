@@ -1,20 +1,10 @@
 #package: digest-hmac-1.03 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 t/rfc2202.t
-
 lib/digest/hmac.pm
-
 lib/digest/hmac_sha1.pm
-
 lib/digest/hmac_md5.pm
-

@@ -1,14 +1,7 @@
 #repo:apeltzer/adapterremovalfixprefix 
-
 .travis.yml
-
 readme.md
-
 build.gradle
-
 arch-pkgbuild/pkgbuild
-
 arch-pkgbuild/starter.sh
-
 arch-pkgbuild/updatepkgbuild.sh
-

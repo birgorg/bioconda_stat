@@ -1,26 +1,13 @@
 #package: http-daemon-6.01 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 t/chunked.t
-
 t/misc/httpd
-
 t/misc/httpd_term.pl
-
 t/local/http.t
-
 t/robot/ua.t
-
 t/robot/ua-get.t
-
 lib/http/daemon.pm
-

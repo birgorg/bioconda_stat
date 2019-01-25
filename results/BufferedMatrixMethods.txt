@@ -1,26 +1,13 @@
 #package: bufferedmatrixmethods 
-
 namespace
-
 description
-
 r/bm_justrma.r
-
 r/bm_preprocess.r
-
 r/bm_affydatainput.r
-
 r/init_fns.r
-
 man/bm_readcelfiles.rd
-
 man/bm_justrma.rd
-
 man/bm_affydatainput.rd
-
 man/rmapreprocess.bufferedmatrix.rd
-
 src/preprocess_bm.c
-
 src/init_package.c
-

@@ -1,14 +1,7 @@
 #repo:rpetit3/vcf-annotator 
-
 .gitignore
-
 license
-
 readme.md
-
 requirements.txt
-
 vcf-annotator.py
-
 example-data/example.gb
-

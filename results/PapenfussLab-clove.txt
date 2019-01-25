@@ -1,12 +1,6 @@
 #repo:papenfusslab/clove 
-
 .gitignore
-
 license
-
 readme.md
-
 pom.xml
-
 simulation.sh
-

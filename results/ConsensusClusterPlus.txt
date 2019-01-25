@@ -1,24 +1,12 @@
 #package: consensusclusterplus 
-
 namespace
-
 description
-
 r/consensusclusterplus.r
-
 man/consensusclusterplus.rd
-
 vignettes/consensusclusterplus.rnw
-
 build/vignette.rds
-
 inst/citation
-
 inst/news
-
 inst/doc/consensusclusterplus.rnw
-
 inst/doc/consensusclusterplus.pdf
-
 inst/doc/consensusclusterplus.r
-

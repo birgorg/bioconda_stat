@@ -1,26 +1,13 @@
 #package: experimental-0.020 
-
 meta.yml
-
 license
-
 readme
-
 makefile.pl
-
 manifest
-
 dist.ini
-
 changes
-
 meta.json
-
 install
-
 t/basic.t
-
 lib/experimental.pm
-
 xt/author/pod-syntax.t
-

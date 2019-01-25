@@ -1,24 +1,12 @@
 #package: perl-unsafe-signals-0.03 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 signals.xs
-
 changes
-
 manifest.skip
-
 signals.pm
-
 t/01nofilter.t
-
 t/02filter.t
-
 t/pod.t
-

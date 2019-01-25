@@ -1,16 +1,8 @@
 #repo:combine-lab/wasabi 
-
 .rbuildignore
-
 .gitignore
-
 description
-
 license
-
 namespace
-
 readme.md
-
 wasabi.rproj
-

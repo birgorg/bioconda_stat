@@ -1,26 +1,13 @@
 #package: askocli-0.4.3 
-
 pkg-info
-
 setup.py
-
 setup.cfg
-
 bin/askocli
-
 askocli.egg-info/top_level.txt
-
 askocli.egg-info/sources.txt
-
 askocli.egg-info/pkg-info
-
 askocli.egg-info/dependency_links.txt
-
 askocli.egg-info/requires.txt
-
 libaskocli/__init__.py
-
 libaskocli/actions/__init__.py
-
 libaskocli/actions/integrate.py
-

@@ -1,6 +1,3 @@
 #repo:pacificbiosciences/minorseq 
-
 license
-
 readme.md
-

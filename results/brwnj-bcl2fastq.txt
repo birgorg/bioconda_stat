@@ -1,16 +1,8 @@
 #repo:brwnj/bcl2fastq 
-
 .gitignore
-
 license
-
 readme.md
-
 bcl2fastq.py
-
 setup.py
-
 data/samplesheet.csv
-
 data/samplesheet_bad_header.csv
-

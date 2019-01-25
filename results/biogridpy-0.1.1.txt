@@ -1,24 +1,12 @@
 #package: biogridpy-0.1.1 
-
 pkg-info
-
 setup.py
-
 setup.cfg
-
 biogridpy/biogrid_results.py
-
 biogridpy/__init__.py
-
 biogridpy/biogrid_client.py
-
 biogridpy.egg-info/top_level.txt
-
 biogridpy.egg-info/not-zip-safe
-
 biogridpy.egg-info/sources.txt
-
 biogridpy.egg-info/pkg-info
-
 biogridpy.egg-info/dependency_links.txt
-

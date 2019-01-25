@@ -1,22 +1,11 @@
 #package: www-robotrules-6.02 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 t/rules-dbm.t
-
 t/rules.t
-
 t/misc/dbmrobot
-
 lib/www/robotrules.pm
-
 lib/www/robotrules/anydbm_file.pm
-

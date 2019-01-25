@@ -1,20 +1,10 @@
 #package: impute 
-
 namespace
-
 description
-
 changelog
-
 info
-
 r/allknnimp.r
-
 data/khanmiss.rda
-
 man/impute.knn.rd
-
 man/khanmiss.rd
-
 src/knnimpute.f
-

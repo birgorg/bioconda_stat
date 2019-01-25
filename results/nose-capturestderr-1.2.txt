@@ -1,22 +1,11 @@
 #package: nose-capturestderr-1.2 
-
 pkg-info
-
 setup.py
-
 setup.cfg
-
 nose_capturestderr.egg-info/entry_points.txt
-
 nose_capturestderr.egg-info/top_level.txt
-
 nose_capturestderr.egg-info/sources.txt
-
 nose_capturestderr.egg-info/pkg-info
-
 nose_capturestderr.egg-info/dependency_links.txt
-
 nose_capturestderr.egg-info/requires.txt
-
 nose_capturestderr/__init__.py
-

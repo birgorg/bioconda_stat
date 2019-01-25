@@ -1,26 +1,13 @@
 #package: html-treebuilder-xpath-0.14 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 meta.json
-
 t/pod_coverage.t
-
 t/test_following.t
-
 t/pod.t
-
 t/html-treebuilder-xpath.t
-
 t/test_preceding.t
-
 lib/html/treebuilder/xpath.pm
-

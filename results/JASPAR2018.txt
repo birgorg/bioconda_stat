@@ -1,18 +1,9 @@
 #package: jaspar2018 
-
 namespace
-
 description
-
 news
-
 r/zzz.r
-
 r/allclasses.r
-
 man/jaspar2018-package.rd
-
 man/jaspar2018-class.rd
-
 inst/extdata/jaspar2018.sqlite
-

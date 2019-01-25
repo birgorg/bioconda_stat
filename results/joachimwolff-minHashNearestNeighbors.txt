@@ -1,12 +1,6 @@
 #repo:joachimwolff/minhashnearestneighbors 
-
 .gitignore
-
 license
-
 readme.md
-
 run_test.py
-
 setup.py
-

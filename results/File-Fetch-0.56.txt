@@ -1,20 +1,10 @@
 #package: file-fetch-0.56 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 meta.json
-
 changes
-
 t/01_file-fetch.t
-
 t/null_subclass.t
-
 lib/file/fetch.pm
-

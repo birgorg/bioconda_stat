@@ -1,14 +1,7 @@
 #repo:lh3/seqtk 
-
 .gitignore
-
 license
-
 makefile
-
 readme.md
-
 khash.h
-
 kseq.h
-

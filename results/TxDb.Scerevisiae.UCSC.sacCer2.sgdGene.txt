@@ -1,12 +1,6 @@
 #package: txdb.scerevisiae.ucsc.saccer2.sgdgene 
-
 namespace
-
 description
-
 r/zzz.r
-
 man/package.rd
-
 inst/extdata/txdb.scerevisiae.ucsc.saccer2.sgdgene.sqlite
-

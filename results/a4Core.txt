@@ -1,22 +1,11 @@
 #package: a4core 
-
 namespace
-
 description
-
 r/confusionmatrix.r
-
 r/toptable.r
-
 r/simulatedata.r
-
 man/toptable-methods.rd
-
 man/toptable.rd
-
 man/simulatedata.rd
-
 man/confusionmatrix.rd
-
 inst/news
-

@@ -1,22 +1,11 @@
 #package: filesys-df-0.92 
-
 meta.yml
-
 xs_statvfs
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 test.pl
-
 typemap
-
 xs_statfs
-
 df.pm
-

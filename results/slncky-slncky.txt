@@ -1,14 +1,7 @@
 #repo:slncky/slncky 
-
 readme.md
-
 aligntranscripts1.0
-
 annotations.config
-
 license.txt
-
 makewebsite
-
 slncky.v1.0
-

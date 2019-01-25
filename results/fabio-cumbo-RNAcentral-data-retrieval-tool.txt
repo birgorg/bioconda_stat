@@ -1,6 +1,3 @@
 #repo:fabio-cumbo/rnacentral-data-retrieval-tool 
-
 license.txt
-
 readme.md
-

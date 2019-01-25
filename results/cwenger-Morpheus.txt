@@ -1,320 +1,160 @@
 #repo:cwenger/morpheus 
-
 .gitignore
-
 license.txt
-
 readme.md
-
 exclude.txt
-
 release.bat
-
 release.sh
-
 morpheus peptide summarizer/morpheus peptide summarizer.csproj
-
 morpheus peptide summarizer/morpheus peptide summarizer.sln
-
 morpheus peptide summarizer/morpheus.ico
-
 morpheus peptide summarizer/program.cs
-
 morpheus peptide summarizer/frmmain.designer.cs
-
 morpheus peptide summarizer/frmmain.cs
-
 morpheus peptide summarizer/frmmain.resx
-
 morpheus protein summarizer/morpheus protein summarizer.csproj
-
 morpheus protein summarizer/morpheus protein summarizer.sln
-
 morpheus protein summarizer/morpheus.ico
-
 morpheus protein summarizer/program.cs
-
 morpheus protein summarizer/frmmain.designer.cs
-
 morpheus protein summarizer/frmmain.cs
-
 morpheus protein summarizer/frmmain.resx
-
 morpheus/morpheus (agilent).sln
-
 morpheus/morpheus (thermo).sln
-
 morpheus/morpheus (mzml mono).sln
-
 morpheus/morpheus (mzml).sln
-
 zipfolder/program.cs
-
 zipfolder/zipfolder.csproj
-
 zipfolder/zipfolder.sln
-
 morpheus peptide summarizer/properties/assemblyinfo.cs
-
 morpheus peptide summarizer/properties/resources.designer.cs
-
 morpheus peptide summarizer/properties/resources.resx
-
 morpheus peptide summarizer/properties/settings.designer.cs
-
 morpheus peptide summarizer/properties/settings.settings
-
 morpheus protein summarizer/properties/assemblyinfo.cs
-
 morpheus protein summarizer/properties/resources.designer.cs
-
 morpheus protein summarizer/properties/resources.resx
-
 morpheus protein summarizer/properties/settings.designer.cs
-
 morpheus protein summarizer/properties/settings.settings
-
 morpheus/agilent/app.config
-
 morpheus/agilent/eula.mhdac.txt
-
 morpheus/agilent/morpheus (agilent).csproj
-
 morpheus/agilent/tandemmassspectra.agilent.cs
-
 morpheus/agilent/frmmain.agilent.cs
-
 morpheus/morpheus/aminoacidmasses.cs
-
 morpheus/morpheus/aminoacidpolymer.cs
-
 morpheus/morpheus/app.config
-
 morpheus/morpheus/cleavagespecificity.cs
-
 morpheus/morpheus/constants.cs
-
 morpheus/morpheus/databasesearcher.cs
-
 morpheus/morpheus/exceptioneventargs.cs
-
 morpheus/morpheus/exporters.cs
-
 morpheus/morpheus/falsediscoveryrate.cs
-
 morpheus/morpheus/filepatheventargs.cs
-
 morpheus/morpheus/itargetdecoy.cs
-
 morpheus/morpheus/identificationwithfalsediscoveryrate.cs
-
 morpheus/morpheus/initiatormethioninebehavior.cs
-
 morpheus/morpheus/mit_license.morpheus.txt
-
 morpheus/morpheus/mspeak.cs
-
 morpheus/morpheus/masstolerance.cs
-
 morpheus/morpheus/masstoleranceunits.cs
-
 morpheus/morpheus/masstype.cs
-
 morpheus/morpheus/modification.cs
-
 morpheus/morpheus/modificationdictionary.cs
-
 morpheus/morpheus/modificationtype.cs
-
 morpheus/morpheus/morpheus.ico
-
 morpheus/morpheus/psi-mod.obo.xml
-
 morpheus/morpheus/peptide.cs
-
 morpheus/morpheus/peptidespectrummatch.cs
-
 morpheus/morpheus/product.cs
-
 morpheus/morpheus/productcaps.cs
-
 morpheus/morpheus/producttype.cs
-
 morpheus/morpheus/producttypes.cs
-
 morpheus/morpheus/program.cs
-
 morpheus/morpheus/progresseventargs.cs
-
 morpheus/morpheus/protease.cs
-
 morpheus/morpheus/proteasedictionary.cs
-
 morpheus/morpheus/protein.cs
-
 morpheus/morpheus/proteingroup.cs
-
 morpheus/morpheus/proteomedatabasereader.cs
-
 morpheus/morpheus/statuseventargs.cs
-
 morpheus/morpheus/tandemmassspectra.filtering.cs
-
 morpheus/morpheus/tandemmassspectra.cs
-
 morpheus/morpheus/tandemmassspectrum.cs
-
 morpheus/morpheus/terminus.cs
-
 morpheus/morpheus/amino_acids.tsv
-
 morpheus/morpheus/frmmain.designer.cs
-
 morpheus/morpheus/frmmain.cs
-
 morpheus/morpheus/frmmain.resources
-
 morpheus/morpheus/frmmain.resx
-
 morpheus/morpheus/modifications.tsv
-
 morpheus/morpheus/product_caps.tsv
-
 morpheus/morpheus/product_types.tsv
-
 morpheus/morpheus/proteases.tsv
-
 morpheus/morpheus/ptmlist.txt
-
 morpheus/thermo/eula.msfilereader.txt
-
 morpheus/thermo/morpheus (thermo).csproj
-
 morpheus/thermo/tandemmassspectra.thermo.cs
-
 morpheus/mzml/morpheus (mzml).csproj
-
 morpheus/mzml/tandemmassspectra.mzml.cs
-
 zipfolder/properties/assemblyinfo.cs
-
 external/agilent/agtfileselectiondialog.dll
-
 external/agilent/basecommon.dll
-
 external/agilent/basedataaccess.dll
-
 external/agilent/baseerror.dll
-
 external/agilent/basetof.dll
-
 external/agilent/coredefinitions.dll
-
 external/agilent/coretypes.dll
-
 external/agilent/coreui.dll
-
 external/agilent/eula.mhdac.txt
-
 external/agilent/infragistics2.shared.v9.1.dll
-
 external/agilent/infragistics2.win.v9.1.dll
-
 external/agilent/interop.shell32.dll
-
 external/agilent/massspecdatareader.dll
-
 external/agilent/qualdefinitions.dll
-
 external/agilent/qualui.dll
-
 external/commandline/commandline (mono).sln
-
 external/commandline/commandline.sln
-
 external/dotnetzip/ionic.zlib.dll
-
 external/thermo/eula.msfilereader.txt
-
 external/thermo/xrawfile2.dll
-
 external/thermo/xrawfile2_x64.dll
-
 morpheus/agilent/properties/assemblyinfo.cs
-
 morpheus/agilent/properties/resources.designer.cs
-
 morpheus/agilent/properties/resources.resources
-
 morpheus/agilent/properties/resources.resx
-
 morpheus/agilent/properties/settings.designer.cs
-
 morpheus/agilent/properties/settings.settings
-
 morpheus/agilent/command line/morpheus (agilent command line).csproj
-
 morpheus/morpheus/command line/program.cs
-
 morpheus/thermo/properties/assemblyinfo.cs
-
 morpheus/thermo/properties/resources.designer.cs
-
 morpheus/thermo/properties/resources.resources
-
 morpheus/thermo/properties/resources.resx
-
 morpheus/thermo/properties/settings.designer.cs
-
 morpheus/thermo/properties/settings.settings
-
 morpheus/thermo/command line/morpheus (thermo command line).csproj
-
 morpheus/mzml/mono/morpheus (mzml mono).csproj
-
 morpheus/mzml/properties/assemblyinfo.cs
-
 morpheus/mzml/properties/resources.designer.cs
-
 morpheus/mzml/properties/resources.resources
-
 morpheus/mzml/properties/resources.resx
-
 morpheus/mzml/properties/settings.designer.cs
-
 morpheus/mzml/properties/settings.settings
-
 morpheus/mzml/command line/morpheus (mzml command line).csproj
-
 external/commandline/commandline/app.ico
-
 external/commandline/commandline/assemblyinfo.cs
-
 external/commandline/commandline/commandline (mono).csproj
-
 external/commandline/commandline/commandline.csproj
-
 external/commandline/commandline/mit_license.commandline.txt
-
 morpheus/agilent/command line/properties/assemblyinfo.cs
-
 morpheus/thermo/command line/properties/assemblyinfo.cs
-
 morpheus/mzml/mono/properties/assemblyinfo.cs
-
 morpheus/mzml/mono/properties/resources.designer.cs
-
 morpheus/mzml/mono/properties/resources.resources
-
 morpheus/mzml/mono/properties/resources.resx
-
 morpheus/mzml/mono/properties/settings.designer.cs
-
 morpheus/mzml/mono/properties/settings.settings
-
 morpheus/mzml/mono/command line/morpheus (mzml mono command line).csproj
-
 morpheus/mzml/command line/properties/assemblyinfo.cs
-
 external/commandline/commandline/utility/arguments.cs
-

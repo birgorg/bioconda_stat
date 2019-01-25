@@ -1,22 +1,11 @@
 #package: postscript-0.06 
-
 example.pl
-
 elements.pm
-
 readme
-
 psoutput.ps
-
 makefile.pl
-
 manifest
-
 textblock.pm
-
 example.txt
-
 document.pm
-
 metrics.pm
-

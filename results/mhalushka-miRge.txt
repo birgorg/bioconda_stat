@@ -1,14 +1,7 @@
 #repo:mhalushka/mirge 
-
 license
-
 manifest.in
-
 readme.md
-
 setup.cfg
-
 setup.py
-
 dist/mirge-2.0-py2-none-any.whl
-

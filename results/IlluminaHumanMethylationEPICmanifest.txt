@@ -1,16 +1,8 @@
 #package: illuminahumanmethylationepicmanifest 
-
 namespace
-
 description
-
 data/illuminahumanmethylationepicmanifest.rda
-
 data/datalist
-
 man/illuminahumanmethylationepicmanifest.rd
-
 inst/scripts/manifest.r
-
 inst/scripts/manifest.rout
-

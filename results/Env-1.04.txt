@@ -1,26 +1,13 @@
 #package: env-1.04 
-
 meta.yml
-
 license
-
 readme
-
 makefile.pl
-
 manifest
-
 dist.ini
-
 changes
-
 meta.json
-
 t/release-pod-syntax.t
-
 t/array.t
-
 t/env.t
-
 lib/env.pm
-

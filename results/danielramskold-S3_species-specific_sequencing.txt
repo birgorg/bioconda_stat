@@ -1,16 +1,8 @@
 #repo:danielramskold/s3_species-specific_sequencing 
-
 abovethreshold.py
-
 argparse.py
-
 dr_tools.py
-
 genomespecificmap_s3.py
-
 genomespecificmap_s3_manual.txt
-
 instructions-rpkmforgenes.html
-
 rpkmforgenes.py
-

@@ -1,14 +1,7 @@
 #repo:eggzilla/selectsequencesfrommsa 
-
 .travis.yml
-
 license
-
 readme.md
-
 selectsequencesfrommsa.cabal
-
 changelog
-
 stack.yaml
-

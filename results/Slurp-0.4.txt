@@ -1,14 +1,7 @@
 #package: slurp-0.4 
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 t/slurp.t
-
 lib/slurp.pm
-

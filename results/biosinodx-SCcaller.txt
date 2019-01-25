@@ -1,8 +1,4 @@
 #repo:biosinodx/sccaller 
-
 license.txt
-
 readme.md
-
 reasoning_v1.1.py
-

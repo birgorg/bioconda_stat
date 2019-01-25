@@ -1,14 +1,7 @@
 #package: digest-crc32-001 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 crc32.pm
-
 t/use.t
-

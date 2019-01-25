@@ -1,20 +1,10 @@
 #package: import-into-1.002005 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 meta.json
-
 t/import_into.t
-
 lib/import/into.pm
-
 maint/makefile.pl.include
-

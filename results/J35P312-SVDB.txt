@@ -1,8 +1,4 @@
 #repo:j35p312/svdb 
-
 .gitignore
-
 readme.md
-
 setup.py
-

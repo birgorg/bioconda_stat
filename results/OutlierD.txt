@@ -1,24 +1,12 @@
 #package: outlierd 
-
 namespace
-
 description
-
 r/outlierd.r
-
 data/lcms.rdata
-
 man/lcms.rd
-
 man/outlierd.rd
-
 vignettes/outlierd.rnw
-
 build/vignette.rds
-
 inst/doc/outlierd.r
-
 inst/doc/outlierd.rnw
-
 inst/doc/outlierd.pdf
-

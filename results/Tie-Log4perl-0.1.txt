@@ -1,16 +1,8 @@
 #package: tie-log4perl-0.1 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 build.pl
-
 lib/tie/log4perl.pm
-

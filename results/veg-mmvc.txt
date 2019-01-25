@@ -1,8 +1,4 @@
 #repo:veg/mmvc 
-
 license
-
 readme.md
-
 mmvc.jl
-

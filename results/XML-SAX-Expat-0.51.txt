@@ -1,24 +1,12 @@
 #package: xml-sax-expat-0.51 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 expat.pm
-
 meta.json
-
 t/98podsyn.t
-
 t/00basic.t
-
 t/99podcov.t
-
 eg/counter.pl
-

@@ -1,22 +1,11 @@
 #package: html-tagset-3.20 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 manifest.skip
-
 tagset.pm
-
 t/00_about_verbose.t
-
 t/pod.t
-
 t/01_old_junk.t
-

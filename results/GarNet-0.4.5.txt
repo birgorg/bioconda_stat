@@ -1,26 +1,13 @@
 #package: garnet-0.4.5 
-
 pkg-info
-
 setup.py
-
 setup.cfg
-
 garnet.egg-info/top_level.txt
-
 garnet.egg-info/sources.txt
-
 garnet.egg-info/pkg-info
-
 garnet.egg-info/dependency_links.txt
-
 garnet.egg-info/requires.txt
-
 garnet/__init__.py
-
 garnet/summary.jinja
-
 garnet/garnet.py
-
 garnet/__main__.py
-

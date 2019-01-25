@@ -1,12 +1,6 @@
 #package: math-vecstat-0.08 
-
 vecstat.pm
-
 readme
-
 makefile.pl
-
 manifest
-
 t/vecstat.t
-

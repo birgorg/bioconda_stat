@@ -1,22 +1,11 @@
 #package: exporter-tidy-0.08 
-
 meta.yml
-
 tidy.pm
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 meta.json
-
 t/1.t
-
 t/lib/test/more.pm
-
 t/lib/test/builder.pm
-

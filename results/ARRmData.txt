@@ -1,26 +1,13 @@
 #package: arrmdata 
-
 namespace
-
 description
-
 external_data_store.txt
-
 data/betamatrix.rda
-
 data/greencontrolmatrix.rda
-
 data/redcontrolmatrix.rda
-
 data/samplenames.rda
-
 data/datalist
-
 man/greencontrolmatrix.rd
-
 man/redcontrolmatrix.rd
-
 man/betamatrix.rd
-
 man/samplenames.rd
-

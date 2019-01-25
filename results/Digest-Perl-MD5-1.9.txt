@@ -1,26 +1,13 @@
 #package: digest-perl-md5-1.9 
-
 meta.yml
-
 makefile.pl
-
 manifest
-
 meta.json
-
 rand.f
-
 install
-
 test.pl
-
 changes
-
 lib/digest/perl/md5.pm
-
 tools/md5-bench.pl
-
 tools/md5-test.pl
-
 tools/md5
-

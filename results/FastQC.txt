@@ -1,510 +1,255 @@
 #package: fastqc 
-
 readme.md
-
 fastqc
-
 readme.txt
-
 release_notes.txt
-
 license
-
 install.txt
-
 license.txt
-
 cisd-jhdf5.jar
-
 sam-1.103.jar
-
 run_fastqc.bat
-
 fastqc_icon.ico
-
 license_jhdf5.txt
-
 jbzip2-0.9.jar
-
 uk/ac/babraham/fastqc/fastqcapplication.class
-
 uk/ac/babraham/fastqc/fastqcconfig.class
-
 uk/ac/babraham/fastqc/fastqcmenubar.class
-
 uk/ac/babraham/fastqc/fastqcapplication$1.class
-
 uk/ac/babraham/fastqc/results/resultspanel.class
-
 uk/ac/babraham/fastqc/results/resultspanel$modulerenderer.class
-
 uk/ac/babraham/fastqc/modules/kmercontent.class
-
 uk/ac/babraham/fastqc/modules/moduleconfig.class
-
 uk/ac/babraham/fastqc/modules/adaptercontent$resultstable.class
-
 uk/ac/babraham/fastqc/modules/persequencequalityscores.class
-
 uk/ac/babraham/fastqc/modules/perbasequalityscores.class
-
 uk/ac/babraham/fastqc/modules/basicstats$resultstable.class
-
 uk/ac/babraham/fastqc/modules/qcmodule.class
-
 uk/ac/babraham/fastqc/modules/kmercontent$resultstable.class
-
 uk/ac/babraham/fastqc/modules/kmercontent$kmer.class
-
 uk/ac/babraham/fastqc/modules/perbasesequencecontent.class
-
 uk/ac/babraham/fastqc/modules/modulefactory.class
-
 uk/ac/babraham/fastqc/modules/overrepresentedseqs.class
-
 uk/ac/babraham/fastqc/modules/pertilequalityscores.class
-
 uk/ac/babraham/fastqc/modules/adaptercontent.class
-
 uk/ac/babraham/fastqc/modules/persequencegccontent.class
-
 uk/ac/babraham/fastqc/modules/adaptercontent$adapter.class
-
 uk/ac/babraham/fastqc/modules/sequencelengthdistribution.class
-
 uk/ac/babraham/fastqc/modules/abstractqcmodule.class
-
 uk/ac/babraham/fastqc/modules/overrepresentedseqs$overrepresentedseq.class
-
 uk/ac/babraham/fastqc/modules/duplicationlevel.class
-
 uk/ac/babraham/fastqc/modules/overrepresentedseqs$resultstable.class
-
 uk/ac/babraham/fastqc/modules/ncontent.class
-
 uk/ac/babraham/fastqc/modules/basicstats.class
-
 uk/ac/babraham/fastqc/modules/gcmodel/gcmodelvalue.class
-
 uk/ac/babraham/fastqc/modules/gcmodel/gcmodel.class
-
 uk/ac/babraham/fastqc/report/htmlreportarchive.class
-
 uk/ac/babraham/fastqc/report/stylesheet.txt
-
 uk/ac/babraham/fastqc/resources/fastqc_icon.png
-
 uk/ac/babraham/fastqc/resources/fastqc_icon.svg
-
 uk/ac/babraham/fastqc/resources/fastqc_icon_100.png
-
 uk/ac/babraham/fastqc/resources/warning.png
-
 uk/ac/babraham/fastqc/resources/tick.png
-
 uk/ac/babraham/fastqc/resources/error.png
-
 uk/ac/babraham/fastqc/dialogs/welcomepanel.class
-
 uk/ac/babraham/fastqc/dialogs/fastqctitlepanel$smoothjlabel.class
-
 uk/ac/babraham/fastqc/dialogs/aboutdialog$1.class
-
 uk/ac/babraham/fastqc/dialogs/aboutdialog.class
-
 uk/ac/babraham/fastqc/dialogs/fastqctitlepanel.class
-
 uk/ac/babraham/fastqc/utilities/qualitycount.class
-
 uk/ac/babraham/fastqc/utilities/nameformatexception.class
-
 uk/ac/babraham/fastqc/utilities/hotcoldcolourgradient.class
-
 uk/ac/babraham/fastqc/utilities/multimembergzipinputstream.class
-
 uk/ac/babraham/fastqc/utilities/casavabasename.class
-
 uk/ac/babraham/fastqc/utilities/imagetobase64.class
-
 uk/ac/babraham/fastqc/utilities/rgb.class
-
 uk/ac/babraham/fastqc/utilities/nanoporebasename.class
-
 uk/ac/babraham/fastqc/help/helpsearchpanel.class
-
 uk/ac/babraham/fastqc/help/helpindexroot$filesorter.class
-
 uk/ac/babraham/fastqc/help/helpdialog.class
-
 uk/ac/babraham/fastqc/help/helpindexroot.class
-
 uk/ac/babraham/fastqc/help/helppage.class
-
 uk/ac/babraham/fastqc/help/helppagedisplay$helpeditor.class
-
 uk/ac/babraham/fastqc/help/helppagedisplay.class
-
 uk/ac/babraham/fastqc/statistics/normaldistribution.class
-
 uk/ac/babraham/fastqc/statistics/pearsoncorrelation.class
-
 uk/ac/babraham/fastqc/analysis/analysisqueue.class
-
 uk/ac/babraham/fastqc/analysis/analysislistener.class
-
 uk/ac/babraham/fastqc/analysis/analysisrunner.class
-
 uk/ac/babraham/fastqc/analysis/offlinerunner.class
-
 uk/ac/babraham/fastqc/sequence/sequencefile.class
-
 uk/ac/babraham/fastqc/sequence/fastqfile.class
-
 uk/ac/babraham/fastqc/sequence/sequenceformatexception.class
-
 uk/ac/babraham/fastqc/sequence/sequencefactory.class
-
 uk/ac/babraham/fastqc/sequence/sequence.class
-
 uk/ac/babraham/fastqc/sequence/bamfile.class
-
 uk/ac/babraham/fastqc/sequence/fast5file.class
-
 uk/ac/babraham/fastqc/sequence/sequencefilegroup.class
-
 uk/ac/babraham/fastqc/sequence/qualityencoding/phredencoding.class
-
 uk/ac/babraham/fastqc/sequence/contaminant/contaminanthit.class
-
 uk/ac/babraham/fastqc/sequence/contaminant/contaminant.class
-
 uk/ac/babraham/fastqc/sequence/contaminant/contaminentfinder.class
-
 uk/ac/babraham/fastqc/graphs/qualityboxplot.class
-
 uk/ac/babraham/fastqc/graphs/linegraph.class
-
 uk/ac/babraham/fastqc/graphs/tilegraph.class
-
 uk/ac/babraham/fastqc/graphs/basegroup.class
-
 uk/ac/babraham/fastqc/filefilters/sequencefilefilter.class
-
 uk/ac/babraham/fastqc/filefilters/gobyfilefilter.class
-
 uk/ac/babraham/fastqc/filefilters/bamfilefilter.class
-
 uk/ac/babraham/fastqc/filefilters/mappedbamfilefilter.class
-
 uk/ac/babraham/fastqc/filefilters/casavafastqfilefilter.class
-
 uk/ac/babraham/fastqc/filefilters/fastqfilefilter.class
-
 net/sourceforge/iharder/base64/base64$inputstream.class
-
 net/sourceforge/iharder/base64/base64$1.class
-
 net/sourceforge/iharder/base64/base64$outputstream.class
-
 net/sourceforge/iharder/base64/base64.class
-
 help/2 basic operations/2.3 saving a report.html
-
 help/2 basic operations/2.2 evaluating results.html
-
 help/2 basic operations/2.1 opening a sequence file.html
-
 help/2 basic operations/.svn/entries
-
 help/2 basic operations/.svn/text-base/2.2 evaluating results.html.svn-base
-
 help/2 basic operations/.svn/text-base/2.1 opening a sequence file.html.svn-base
-
 help/2 basic operations/.svn/text-base/2.3 saving a report.html.svn-base
-
 help/3 analysis modules/8 duplicate sequences.html
-
 help/3 analysis modules/duplication_levels.png
-
 help/3 analysis modules/per_base_n_content.png
-
 help/3 analysis modules/per_tile_quality.png
-
 help/3 analysis modules/sequence_length_distribution.png
-
 help/3 analysis modules/4 per base sequence content.html
-
 help/3 analysis modules/3 per sequence quality scores.html
-
 help/3 analysis modules/5 per sequence gc content.html
-
 help/3 analysis modules/10 adapter content.html
-
 help/3 analysis modules/9 overrepresented sequences.html
-
 help/3 analysis modules/1 basic statistics.html
-
 help/3 analysis modules/12 per tile sequence quality.html
-
 help/3 analysis modules/per_base_quality.png
-
 help/3 analysis modules/2 per base sequence quality.html
-
 help/3 analysis modules/per_sequence_gc_content.png
-
 help/3 analysis modules/per_sequence_quality.png
-
 help/3 analysis modules/per_base_gc_content.png
-
 help/3 analysis modules/11 kmer content.html
-
 help/3 analysis modules/kmer_profiles.png
-
 help/3 analysis modules/6 per base n content.html
-
 help/3 analysis modules/per_base_sequence_content.png
-
 help/3 analysis modules/7 sequence length distribution.html
-
 help/3 analysis modules/.svn/entries
-
 help/3 analysis modules/.svn/text-base/1 basic statistics.html.svn-base
-
 help/3 analysis modules/.svn/text-base/duplication_levels.png.svn-base
-
 help/3 analysis modules/.svn/text-base/5 per sequence gc content.html.svn-base
-
 help/3 analysis modules/.svn/text-base/3 per sequence quality scores.html.svn-base
-
 help/3 analysis modules/.svn/text-base/per_sequence_gc_content.png.svn-base
-
 help/3 analysis modules/.svn/text-base/per_sequence_quality.png.svn-base
-
 help/3 analysis modules/.svn/text-base/9 overrepresented sequences.html.svn-base
-
 help/3 analysis modules/.svn/text-base/per_base_quality.png.svn-base
-
 help/3 analysis modules/.svn/text-base/7 sequence length distribution.html.svn-base
-
 help/3 analysis modules/.svn/text-base/per_base_n_content.png.svn-base
-
 help/3 analysis modules/.svn/text-base/4 per base sequence content.html.svn-base
-
 help/3 analysis modules/.svn/text-base/12 per tile sequence quality.html.svn-base
-
 help/3 analysis modules/.svn/text-base/kmer_profiles.png.svn-base
-
 help/3 analysis modules/.svn/text-base/per_base_gc_content.png.svn-base
-
 help/3 analysis modules/.svn/text-base/6 per base n content.html.svn-base
-
 help/3 analysis modules/.svn/text-base/11 kmer content.html.svn-base
-
 help/3 analysis modules/.svn/text-base/per_tile_quality.png.svn-base
-
 help/3 analysis modules/.svn/text-base/8 duplicate sequences.html.svn-base
-
 help/3 analysis modules/.svn/text-base/per_base_sequence_content.png.svn-base
-
 help/3 analysis modules/.svn/text-base/2 per base sequence quality.html.svn-base
-
 help/3 analysis modules/.svn/text-base/10 adapter content.html.svn-base
-
 help/3 analysis modules/.svn/text-base/sequence_length_distribution.png.svn-base
-
 help/3 analysis modules/.svn/prop-base/duplication_levels.png.svn-base
-
 help/3 analysis modules/.svn/prop-base/per_sequence_gc_content.png.svn-base
-
 help/3 analysis modules/.svn/prop-base/per_sequence_quality.png.svn-base
-
 help/3 analysis modules/.svn/prop-base/per_base_quality.png.svn-base
-
 help/3 analysis modules/.svn/prop-base/per_base_n_content.png.svn-base
-
 help/3 analysis modules/.svn/prop-base/kmer_profiles.png.svn-base
-
 help/3 analysis modules/.svn/prop-base/per_base_gc_content.png.svn-base
-
 help/3 analysis modules/.svn/prop-base/per_tile_quality.png.svn-base
-
 help/3 analysis modules/.svn/prop-base/per_base_sequence_content.png.svn-base
-
 help/3 analysis modules/.svn/prop-base/sequence_length_distribution.png.svn-base
-
 help/1 introduction/1.1 what is fastqc.html
-
 help/1 introduction/.svn/entries
-
 help/1 introduction/.svn/text-base/1.1 what is fastqc.html.svn-base
-
 configuration/contaminant_list.txt
-
 configuration/limits.txt
-
 configuration/adapter_list.txt
-
 org/apache/commons/math3/util/incrementor$maxcountexceededcallback.class
-
 org/apache/commons/math3/util/fastmathcalc.class
-
 org/apache/commons/math3/util/fastmath$expfractable.class
-
 org/apache/commons/math3/util/incrementor$1.class
-
 org/apache/commons/math3/util/precision.class
-
 org/apache/commons/math3/util/incrementor.class
-
 org/apache/commons/math3/util/fastmath$expinttable.class
-
 org/apache/commons/math3/util/resizabledoublearray.class
-
 org/apache/commons/math3/util/doublearray.class
-
 org/apache/commons/math3/util/fastmath$lnmant.class
-
 org/apache/commons/math3/util/arithmeticutils.class
-
 org/apache/commons/math3/util/mathutils.class
-
 org/apache/commons/math3/util/fastmath.class
-
 org/apache/commons/math3/util/fastmathliteralarrays.class
-
 org/apache/commons/math3/util/continuedfraction.class
-
 org/apache/commons/math3/distribution/tdistribution.class
-
 org/apache/commons/math3/distribution/binomialdistribution.class
-
 org/apache/commons/math3/distribution/zipfdistribution.class
-
 org/apache/commons/math3/distribution/realdistribution.class
-
 org/apache/commons/math3/distribution/poissondistribution.class
-
 org/apache/commons/math3/distribution/normaldistribution.class
-
 org/apache/commons/math3/distribution/hypergeometricdistribution.class
-
 org/apache/commons/math3/distribution/fdistribution.class
-
 org/apache/commons/math3/distribution/integerdistribution.class
-
 org/apache/commons/math3/distribution/abstractintegerdistribution.class
-
 org/apache/commons/math3/distribution/chisquareddistribution.class
-
 org/apache/commons/math3/distribution/betadistribution.class
-
 org/apache/commons/math3/distribution/cauchydistribution.class
-
 org/apache/commons/math3/distribution/abstractrealdistribution.class
-
 org/apache/commons/math3/distribution/abstractrealdistribution$1.class
-
 org/apache/commons/math3/distribution/saddlepointexpansion.class
-
 org/apache/commons/math3/distribution/pascaldistribution.class
-
 org/apache/commons/math3/distribution/gammadistribution.class
-
 org/apache/commons/math3/distribution/weibulldistribution.class
-
 org/apache/commons/math3/random/randomdataimpl.class
-
 org/apache/commons/math3/random/bitsstreamgenerator.class
-
 org/apache/commons/math3/random/randomgenerator.class
-
 org/apache/commons/math3/random/abstractwell.class
-
 org/apache/commons/math3/random/well19937c.class
-
 org/apache/commons/math3/random/randomdata.class
-
 org/apache/commons/math3/analysis/univariatefunction.class
-
 org/apache/commons/math3/analysis/solvers/univariatesolver.class
-
 org/apache/commons/math3/analysis/solvers/allowedsolution.class
-
 org/apache/commons/math3/analysis/solvers/brentsolver.class
-
 org/apache/commons/math3/analysis/solvers/baseabstractunivariatesolver.class
-
 org/apache/commons/math3/analysis/solvers/univariatesolverutils.class
-
 org/apache/commons/math3/analysis/solvers/bracketedunivariatesolver.class
-
 org/apache/commons/math3/analysis/solvers/abstractunivariatesolver.class
-
 org/apache/commons/math3/analysis/solvers/baseunivariatesolver.class
-
 org/apache/commons/math3/special/gamma.class
-
 org/apache/commons/math3/special/erf.class
-
 org/apache/commons/math3/special/beta.class
-
 org/apache/commons/math3/special/beta$1.class
-
 org/apache/commons/math3/special/gamma$1.class
-
 org/apache/commons/math3/exception/dimensionmismatchexception.class
-
 org/apache/commons/math3/exception/mathillegalnumberexception.class
-
 org/apache/commons/math3/exception/mathinternalerror.class
-
 org/apache/commons/math3/exception/mathillegalstateexception.class
-
 org/apache/commons/math3/exception/mathillegalargumentexception.class
-
 org/apache/commons/math3/exception/convergenceexception.class
-
 org/apache/commons/math3/exception/notstrictlypositiveexception.class
-
 org/apache/commons/math3/exception/notpositiveexception.class
-
 org/apache/commons/math3/exception/maxcountexceededexception.class
-
 org/apache/commons/math3/exception/numberistoosmallexception.class
-
 org/apache/commons/math3/exception/outofrangeexception.class
-
 org/apache/commons/math3/exception/numberistoolargeexception.class
-
 org/apache/commons/math3/exception/notfinitenumberexception.class
-
 org/apache/commons/math3/exception/matharithmeticexception.class
-
 org/apache/commons/math3/exception/toomanyevaluationsexception.class
-
 org/apache/commons/math3/exception/nobracketingexception.class
-
 org/apache/commons/math3/exception/nullargumentexception.class
-
 org/apache/commons/math3/exception/util/exceptioncontextprovider.class
-
 org/apache/commons/math3/exception/util/localizable.class
-
 org/apache/commons/math3/exception/util/argutils.class
-
 org/apache/commons/math3/exception/util/localizedformats.class
-
 org/apache/commons/math3/exception/util/exceptioncontext.class
-
 templates/header_template.html
-
 templates/fastqc2fo.xsl
-
 templates/icons/fastqc_icon.png
-
 templates/icons/warning.png
-
 templates/icons/tick.png
-
 templates/icons/error.png
-

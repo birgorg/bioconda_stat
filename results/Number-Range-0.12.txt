@@ -1,16 +1,8 @@
 #package: number-range-0.12 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 t/number-range.t
-
 lib/number/range.pm
-

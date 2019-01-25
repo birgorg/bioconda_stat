@@ -1,26 +1,13 @@
 #package: fqzcomp-4.6 
-
 simple_model.h
-
 fqz_comp.c
-
 sfh.h
-
 readme
-
 clr.cdr
-
 fqz_comp-cr.c
-
 clrf256.cdr
-
 makefile
-
 base_model2.h
-
 fqz_comp.cr-try1.c
-
 sfh.c
-
 base_model.h
-

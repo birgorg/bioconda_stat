@@ -1,26 +1,13 @@
 #package: emirge-0.61.1 
-
 readme.txt
-
 emirge_rename_fasta.py
-
 emirge_makedb.py
-
 _emirge.c
-
 pkg-info
-
 _emirge_amplicon.c
-
 setup.py
-
 emirge.py
-
 emirge_amplicon.py
-
 _emirge_c.h
-
 pykseq/kseq.h
-
 pykseq/pykseq.c
-

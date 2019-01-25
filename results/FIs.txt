@@ -1,14 +1,7 @@
 #package: fis 
-
 namespace
-
 description
-
 external_data_store.txt
-
 data/fis.rda
-
 data/datalist
-
 man/fis.rd
-

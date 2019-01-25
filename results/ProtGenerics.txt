@@ -1,14 +1,7 @@
 #package: protgenerics 
-
 readme.md
-
 namespace
-
 description
-
 news
-
 r/protgenerics.r
-
 man/protgenerics.rd
-

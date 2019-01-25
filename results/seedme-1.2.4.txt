@@ -1,24 +1,12 @@
 #package: seedme-1.2.4 
-
 readme.rst
-
 pkg-info
-
 setup.py
-
 seedme.py
-
 setup.cfg
-
 seedme.egg-info/entry_points.txt
-
 seedme.egg-info/top_level.txt
-
 seedme.egg-info/sources.txt
-
 seedme.egg-info/pkg-info
-
 seedme.egg-info/dependency_links.txt
-
 seedme.egg-info/requires.txt
-

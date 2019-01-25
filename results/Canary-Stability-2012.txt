@@ -1,18 +1,9 @@
 #package: canary-stability-2012 
-
 meta.yml
-
 readme
-
 makefile.pl
-
 manifest
-
 changes
-
 stability.pm
-
 meta.json
-
 copying
-
