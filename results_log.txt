@@ -1,4 +1,10 @@
-=======  Github repo setup.py og makefile undersøgelse  =======
+====================
+Forundersøgelses Log
+====================
+
+
+Github repo setup.py og makefile undersøgelse
+=============================================
 Dato: 07/01/2019
 
 Metode:
@@ -15,7 +21,8 @@ liggende på Github.com. Af de 937 blev fundet 244 pakker med en setup.py
 i rodmappen og 237 pakker med en Makefile i rodmappen.
 
 
-=======  Github repo file extension undersøgelse  =======
+Github repo file extension undersøgelse  
+=======================================
 Dato: 18/01/2019
 
 metode: 
@@ -25,6 +32,7 @@ Resultat:
 Ud af i alt 4063 Bioconda pakker blev fundet, at 937 havde source kode 
 liggende på Github.com. Af de 937 pakker var de 10 mest gennemgående
 file extensions:
+(Dataen skal læses som i f.eks. 826 pakker blev fundet en eller flere .md filer)
 [('md', 826),
 ('gitignore', 657),
 ('txt', 547),
@@ -46,23 +54,22 @@ file extensions:
 ('fasta', 139),
 ('bam', 129)]
 
-=======  Download og unpack undersøgelse  =======
+
+Download og unpack undersøgelse 
+===============================
 Dato: 25/01/2019
 
-metode: 
-
+Metode: 
 Ved at gennemløbe alle opskrifter(meta.yaml) fundet i Bioconda repositoriet
 bioconda-recepies. Trak vi den url ud, hvor source koden har hjemme, for 
-hver opskrift. For alle urler der ikke indeholdte github har vi downloaded 
+hver opskrift. For alle url'er der ikke indeholdte github har vi downloaded 
 source koden og konstrueret et filtræ.
 Vi har herefter merged den nye data med dataen fra github. (se ovenfor) 
 
 Resultat:
 Ud af i alt 4063 Bioconda pakker blev fundet, at vi kunne konstruere filtræet
-for 3196 pakker. Af de pakker indeholde 689 af dem en setup.py i roden og i
-317 fandt vi en makefile i roden.
+for 3196 pakker.
 De 30 mest gennemgående file extensions var følgende:
-(Dataen skal læses som i f.eks. 1447 pakker blev fundet en eller flere .txt filer)
 [('txt', 1447), 
 ('md', 1379), 
 ('r', 1313), 
@@ -94,3 +101,35 @@ De 30 mest gennemgående file extensions var følgende:
 ('fa', 296), 
 ('rdata', 268)]
 (Bemærk at 'egg-info/pkg-info' ikke er en file extension)
+
+De 30 mest gennemgående filer i roden af filtræet var følgende: 
+[('readme.md', 1293), 
+('description', 1148), 
+('namespace', 1147), 
+('license', 1034), 
+('.gitignore', 690), 
+('setup.py', 689), 
+('readme', 619), 
+('manifest', 471), 
+('changes', 465), 
+('setup.cfg', 459), 
+('makefile.pl', 453), 
+('news', 444), 
+('meta.yml', 443), 
+('pkg-info', 430), 
+('.travis.yml', 408), 
+('manifest.in', 394), 
+('meta.json', 362), 
+('makefile', 317), 
+('readme.rst', 260), 
+('license.txt', 216), 
+('install', 198), 
+('changelog', 175), 
+('copying', 167), 
+('requirements.txt', 160), 
+('dist.ini', 131), 
+('configure.ac', 122), 
+('authors', 121), 
+('todo', 113), 
+('configure', 108), 
+('.gitmodules', 86)]
