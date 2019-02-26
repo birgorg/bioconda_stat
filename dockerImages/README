@@ -1,0 +1,2 @@
+To copy the current folder into /package and start bash, in the new container user:
+$docker run -v $(pwd):/package --rm -ti alpine-buildenv /bin/sh
