@@ -3,6 +3,7 @@ import zipfile
 import shutil
 import os
 import tarfile
+from distutils.dir_util import copy_tree
 
 
 def download_package(url_to_package):
@@ -20,7 +21,6 @@ def download_package(url_to_package):
     else:
         return ""
 
-
     with open(temp_file_path, "wb") as code:
         code.write(r.content)
     
@@ -30,23 +30,20 @@ def unpack_package(temp_file_path):
     try:
         if temp_file_path == "temp.tar.gz":
             tf = tarfile.open(temp_file_path)
-            #path_to_dir = os.path.commonprefix(tf.getnames()).replace('/','').replace('.','')
             tf.extractall('tmp')
             tf.close()
         else:
             zip_ref = zipfile.ZipFile(temp_file_path, 'r')
-            #path_to_dir = zip_ref.namelist()[0].replace('/','').replace('.','')
-            #print(zip_ref.filename)
             zip_ref.extractall('tmp')
             zip_ref.close()
     except:
         os.mkdir('tmp')
-        #os.mkdir('tmp/fail')
         pass
 
-def build_filetree(startpath, name):
-    with open('results/%s.txt' % name, 'w') as f:
+def build_filetree(startpath, name, url):
+    with open('../results/%s.txt' % name, 'w') as f:    
         f.write('#package: %s \n' % name)
+        f.write('#url: %s \n' % url)
         for root, dirs, files in os.walk(startpath):
             newroot = root.replace(startpath, '')
             for fp in files:
@@ -54,16 +51,23 @@ def build_filetree(startpath, name):
 
 
 def clean(temp_file_path):
+    # copy file into 
+    copy_tree("tmp", "../bioconda_packages/")
+    
+    # remove the unpacked temp files 
     shutil.rmtree('tmp')
+    
+    # remove the downloaded .zip, .tar.gz or .tar file
     os.remove(temp_file_path)
 
-if __name__ == "__main__":
-    with open("noneGithubUrls.txt", "r") as f:
+
+# downloads all bioconda packages from the urls in all_urls.txt in the urls folder
+def download_all_packages():
+    with open("../urls/all_urls.txt", "r") as f:
         for url in f.readlines():
-            print(url)
+            print("Next url to handle: %s" % url)
             temp_file_path = download_package(url.strip("\n"))
             if temp_file_path != "":  
-                #path_to_dir = unpack_package(temp_file_path)
                 unpack_package(temp_file_path)
                 name = ''
                 path = 'tmp'
@@ -72,7 +76,12 @@ if __name__ == "__main__":
                     path += '/'+dirs[0]
                     name = dirs[0]
                     root, dirs, files = next(os.walk(path))
-                build_filetree(path, name)
+                build_filetree(path, name, url)
                 clean(temp_file_path)
+    
+
+if __name__ == "__main__":
+    download_all_packages()
+
     
     
