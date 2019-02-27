@@ -5,7 +5,6 @@ import os
 import tarfile
 from distutils.dir_util import copy_tree
 
-
 def download_package(url_to_package):
     if not url_to_package.startswith("http"):
         return ""
@@ -50,10 +49,13 @@ def build_filetree(startpath, name, url):
                f.write(newroot + "/" + fp + "\n")
 
 
-def clean(temp_file_path):
-    # copy file into 
-    copy_tree("tmp", "../bioconda_packages/")
-    
+def clean(temp_file_path, name):
+    # copy package into bioconda_packages
+    try:
+        copy_tree("tmp", "../bioconda_packages/")
+    except:
+        print("Error: Couldn't copy %s into the packages folder" % name)
+
     # remove the unpacked temp files 
     shutil.rmtree('tmp')
     
@@ -77,7 +79,7 @@ def download_all_packages():
                     name = dirs[0]
                     root, dirs, files = next(os.walk(path))
                 build_filetree(path, name, url)
-                clean(temp_file_path)
+                clean(temp_file_path, name)
     
 
 if __name__ == "__main__":
