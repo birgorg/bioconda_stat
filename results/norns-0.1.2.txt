@@ -1,0 +1,19 @@
+#package: norns-0.1.2 
+#url: https://pypi.python.org/packages/c4/74/e151195a1986c6f3c795810de395d91dbe8d80365758d6a09d7dd7d5b35f/norns-0.1.2.tar.gz
+ 
+/README.md
+/LICENSE
+/requirements.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/norns.egg-info/top_level.txt
+/norns.egg-info/SOURCES.txt
+/norns.egg-info/PKG-INFO
+/norns.egg-info/dependency_links.txt
+/norns.egg-info/requires.txt
+/norns/cfg.py
+/norns/__about__.py
+/norns/__init__.py
+/norns/exceptions.py

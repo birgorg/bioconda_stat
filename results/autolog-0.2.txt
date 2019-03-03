@@ -1,0 +1,14 @@
+#package: autolog-0.2 
+#url: https://files.pythonhosted.org/packages/9c/5f/3667a40406a147a7ad0506ee95fad25e310cfc419537160cb3b3e2e92c2c/autolog-0.2.tar.gz
+ 
+/README
+/PKG-INFO
+/setup.py
+/setup.cfg
+/lib/autolog.py
+/lib/autolog.egg-info/top_level.txt
+/lib/autolog.egg-info/SOURCES.txt
+/lib/autolog.egg-info/PKG-INFO
+/lib/autolog.egg-info/dependency_links.txt
+/lib/autolog.egg-info/requires.txt
+/test/test_autolog.py

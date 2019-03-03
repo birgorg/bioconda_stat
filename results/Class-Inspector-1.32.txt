@@ -1,0 +1,29 @@
+#package: Class-Inspector-1.32 
+#url: https://cpan.metacpan.org/authors/id/P/PL/PLICEASE/Class-Inspector-1.32.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/author.yml
+/META.json
+/cpanfile
+/INSTALL
+/t/04_main_functions.t
+/t/00_diag.t
+/t/03_inc_to_local.t
+/t/01_compile.t
+/t/02_main.t
+/lib/Class/Inspector.pm
+/lib/Class/Inspector/Functions.pm
+/xt/release/fixme.t
+/xt/author/pod_coverage.t
+/xt/author/no_tabs.t
+/xt/author/version.t
+/xt/author/pod_spelling_common.t
+/xt/author/eol.t
+/xt/author/pod.t
+/xt/author/strict.t

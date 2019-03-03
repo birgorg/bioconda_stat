@@ -1,0 +1,12 @@
+#package: funcannot-master 
+#url: https://github.com/BioTools-Tek/funcannot/archive/master.zip
+ 
+/appender.h
+/funcannot.pro
+/main.cpp
+/FASTAhandler.h
+/ProteinHandler.h
+/Makefile
+/GeneMap.h
+/appender.cpp
+/GeneStructs.h

@@ -1,0 +1,8 @@
+#package: ig-checkflowtypes-ig-checkflowtypes.v1.0.0 
+#url: https://github.com/ImmPortDB/ig-checkflowtypes/archive/ig-checkflowtypes.v1.0.0.tar.gz
+ 
+/README.md
+/checkFlowSet.R
+/checkFCS.R
+/checkFlowSOM.R
+/checkFlowframe.R

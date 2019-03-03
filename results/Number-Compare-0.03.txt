@@ -1,0 +1,10 @@
+#package: Number-Compare-0.03 
+#url: https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Number-Compare-0.03.tar.gz
+ 
+/META.yml
+/Makefile.PL
+/MANIFEST
+/Changes
+/MANIFEST.SKIP
+/t/Number-Compare.t
+/lib/Number/Compare.pm

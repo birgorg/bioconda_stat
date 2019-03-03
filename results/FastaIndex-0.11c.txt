@@ -1,0 +1,12 @@
+#package: FastaIndex-0.11c 
+#url: https://github.com/lpryszcz/FastaIndex/archive/0.11c.tar.gz
+ 
+/LICENSE
+/CHANGELOG.md
+/fasta_stats.py
+/README.rst
+/FastaIndex.py
+/MANIFEST.in
+/setup.py
+/.gitignore
+/setup.cfg

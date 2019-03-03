@@ -1,0 +1,8 @@
+#package: EnsDb.Hsapiens.v75 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/EnsDb.Hsapiens.v75_2.99.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/EnsDb.Hsapiens.v75.sqlite

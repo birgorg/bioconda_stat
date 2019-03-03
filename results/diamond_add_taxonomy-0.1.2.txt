@@ -1,0 +1,17 @@
+#package: diamond_add_taxonomy-0.1.2 
+#url: https://github.com/pvanheus/diamond_add_taxonomy/archive/0.1.2.tar.gz
+ 
+/README.md
+/LICENSE
+/pyproject.toml
+/requirements.txt
+/Dockerfile
+/setup.py
+/.gitignore
+/diamond_add_taxonomy/cli.py
+/diamond_add_taxonomy/taxid_utils.py
+/diamond_add_taxonomy/__init__.py
+/.circleci/config.yml
+/tests/__init__.py
+/tests/test_taxid_utils.py
+/tests/test_diamond_add_taxonomy.py

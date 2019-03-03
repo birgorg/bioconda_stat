@@ -1,0 +1,24 @@
+#package: tDRmapper-6710e07c409961c590ede75a5550d5e569d9fceb 
+#url: https://github.com/lpantano/tDRmapper/archive/6710e07c409961c590ede75a5550d5e569d9fceb.zip
+ 
+/README.md
+/License.txt
+/hg19_mature_and_pre.fa
+/tDRmapper_Fig/TDR_covg_gmt_legend.tif
+/tDRmapper_Fig/namingScheme.png
+/tDRmapper_Fig/pre-tRNA_covg_for_git.png
+/tDRmapper_Fig/tdrOvervew.png
+/tDRmapper_Fig/mature-tRNA_covg_for_git.png
+/tDRmapper_Fig/.DS_Store
+/Scripts/rCovgPlotPre.r
+/Scripts/tdrMappingTwoDeletions.pl
+/Scripts/TdrMappingScripts.pl
+/Scripts/makeCovgPlotTop50_and_overallStats.pl
+/Scripts/tdrMappingThreeConsGap.pl
+/Scripts/tdrMappingExactMatches.pl
+/Scripts/rCovgPlot.r
+/Scripts/tdrMappingTwoMisMatches.pl
+/Scripts/tdrMappingOneMisMatch.pl
+/Scripts/tdrMappingOneDeletion.pl
+/Scripts/quality_at_positions.pl
+/Scripts/tdrMappingExactMatchesPretRNA.pl

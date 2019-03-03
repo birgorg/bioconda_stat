@@ -1,0 +1,14 @@
+#package: OutlierD 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/OutlierD_1.44.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/OutlierD.R
+/data/lcms.RData
+/man/lcms.Rd
+/man/OutlierD.Rd
+/vignettes/OutlierD.Rnw
+/build/vignette.rds
+/inst/doc/OutlierD.R
+/inst/doc/OutlierD.Rnw
+/inst/doc/OutlierD.pdf

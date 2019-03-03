@@ -1,0 +1,5 @@
+#package: RNAcentral-data-retrieval-tool-1.0.0 
+#url: https://github.com/fabio-cumbo/RNAcentral-data-retrieval-tool/archive/1.0.0.tar.gz
+ 
+/README.md
+/rnacentral.py

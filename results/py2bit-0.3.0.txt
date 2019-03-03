@@ -1,0 +1,17 @@
+#package: py2bit-0.3.0 
+#url: https://files.pythonhosted.org/packages/53/bb/547a927bed736ead3dc909e1e552d57c9034bb9493eff80544c0cf6e4828/py2bit-0.3.0.tar.gz
+ 
+/README.md
+/py2bit.h
+/LICENSE.txt
+/PKG-INFO
+/MANIFEST.in
+/py2bit.c
+/setup.py
+/setup.cfg
+/py2bitTest/foo.2bit
+/py2bitTest/__init__.py
+/py2bitTest/test.py
+/py2bit.egg-info/SOURCES.txt
+/lib2bit/2bit.c
+/lib2bit/2bit.h

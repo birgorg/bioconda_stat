@@ -1,0 +1,15 @@
+#package: bioconductor-sc3-scripts-0.0.1 
+#url: https://github.com/ebi-gene-expression-group/bioconductor-sc3-scripts/archive/v0.0.1.tar.gz
+ 
+/README.md
+/sc3-sc3-calc-consens.R
+/sc3-sc3-estimate-k.R
+/bioconductor-sc3-scripts-post-install-tests.sh
+/sc3-sc3-kmeans.R
+/sc3-sc3-calc-biology.R
+/sc3-sc3-calc-transfs.R
+/bioconductor-sc3-scripts-post-install-tests.bats
+/sc3-sc3-prepare.R
+/VERSION
+/sc3-sc3-calc-dists.R
+/.travis.yml

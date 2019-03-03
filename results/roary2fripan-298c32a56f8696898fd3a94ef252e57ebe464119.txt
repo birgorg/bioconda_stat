@@ -1,0 +1,6 @@
+#package: roary2fripan-298c32a56f8696898fd3a94ef252e57ebe464119 
+#url: https://github.com/kwongj/roary2fripan/archive/298c32a56f8696898fd3a94ef252e57ebe464119.tar.gz
+ 
+/README.md
+/LICENSE
+/roary2fripan.py

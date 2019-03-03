@@ -1,0 +1,13 @@
+#package: HTML-Tagset-3.20 
+#url: https://cpan.metacpan.org/authors/id/P/PE/PETDANCE/HTML-Tagset-3.20.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/MANIFEST.SKIP
+/Tagset.pm
+/t/00_about_verbose.t
+/t/pod.t
+/t/01_old_junk.t

@@ -1,0 +1,16 @@
+#package: RNASeqPower 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/RNASeqPower_1.20.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/rnapower.R
+/man/rnapower.Rd
+/vignettes/samplesize.Rnw
+/build/vignette.rds
+/tests/test1.R
+/tests/test1.Rout.save
+/inst/NEWS.Rd
+/inst/CITATION
+/inst/doc/samplesize.pdf
+/inst/doc/samplesize.R
+/inst/doc/samplesize.Rnw

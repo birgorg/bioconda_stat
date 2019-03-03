@@ -1,0 +1,29 @@
+#package: SPEM 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/SPEM_1.20.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/initial_h_guess.R
+/R/SPEM.R
+/R/row_optimize.R
+/R/s_diff.R
+/R/pre_prepare.R
+/R/ssystem_set.R
+/R/opt_parameter.R
+/R/initial_beta_guess.R
+/data/sos.rda
+/man/SPEM.Rd
+/man/s_diff.Rd
+/man/row_optimize.Rd
+/man/sos.Rd
+/man/SPEM-package.Rd
+/vignettes/Flowchartmain.pdf
+/vignettes/sospathway.pdf
+/vignettes/S_system.pdf
+/vignettes/SPEM-package.Rnw
+/vignettes/Addendum.bib
+/build/vignette.rds
+/inst/NEWS
+/inst/doc/SPEM-package.R
+/inst/doc/SPEM-package.pdf
+/inst/doc/SPEM-package.Rnw

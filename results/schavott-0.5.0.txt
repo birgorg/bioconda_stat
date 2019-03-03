@@ -1,0 +1,20 @@
+#package: schavott-0.5.0 
+#url: https://github.com/emilhaegglund/schavott/archive/0.5.0.tar.gz
+ 
+/README.md
+/LICENSE
+/read_simulation.py
+/gui.png
+/move_fast5.py
+/setup.py
+/.gitignore
+/config/schavott_conda_env.yaml
+/bin/schavott
+/schavott/__init__.py
+/schavott/Scaffold.py
+/schavott/Assembler.py
+/schavott/UI.py
+/schavott/__main__.py
+/schavott/gfatofasta.py
+/schavott/MainApp.py
+/schavott/ReadData.py

@@ -1,0 +1,28 @@
+#package: tximport 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/tximport_1.8.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/summarizeToGene.R
+/R/infReps.R
+/R/tximport.R
+/R/helper.R
+/man/tximport.Rd
+/vignettes/tximport.Rmd
+/vignettes/library.bib
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_no_tx2gene.R
+/tests/testthat/test_salmon.R
+/tests/testthat/test_one_sample.R
+/tests/testthat/test_h5.R
+/tests/testthat/test_kallisto.R
+/tests/testthat/test_stringtie.R
+/tests/testthat/test_rsem.R
+/tests/testthat/test_counts_from_abundance.R
+/inst/CITATION
+/inst/doc/tximport.html
+/inst/doc/tximport.Rmd
+/inst/doc/tximport.R

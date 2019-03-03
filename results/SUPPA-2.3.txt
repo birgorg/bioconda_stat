@@ -1,0 +1,28 @@
+#package: SUPPA-2.3 
+#url: https://pypi.python.org/packages/a5/e5/b90c9bcd85ad5605d25a3e7ed0615c8ef212e6f94813b9638ab9c376e2de/SUPPA-2.3.tar.gz
+ 
+/significanceCalculator.py
+/fileMerger.py
+/eventGenerator.py
+/__init__.py
+/psiCalculator.py
+/suppa.py
+/PKG-INFO
+/multipleFieldSelection.py
+/psiPerGene.py
+/setup.py
+/setup.cfg
+/eventClusterer.py
+/lib/gtf_store.py
+/lib/tools.py
+/lib/optics.py
+/lib/var_event.py
+/lib/event.py
+/lib/__init__.py
+/lib/diff_tools.py
+/lib/cluster_tools.py
+/SUPPA.egg-info/top_level.txt
+/SUPPA.egg-info/SOURCES.txt
+/SUPPA.egg-info/PKG-INFO
+/SUPPA.egg-info/dependency_links.txt
+/SUPPA.egg-info/requires.txt

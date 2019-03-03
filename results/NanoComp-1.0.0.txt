@@ -1,0 +1,19 @@
+#package: NanoComp-1.0.0 
+#url: https://pypi.io/packages/source/n/nanocomp/NanoComp-1.0.0.tar.gz
+ 
+/README.md
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/scripts/test.sh
+/nanocomp/NanoComp.py
+/nanocomp/__init__.py
+/nanocomp/version.py
+/NanoComp.egg-info/entry_points.txt
+/NanoComp.egg-info/top_level.txt
+/NanoComp.egg-info/SOURCES.txt
+/NanoComp.egg-info/PKG-INFO
+/NanoComp.egg-info/dependency_links.txt
+/NanoComp.egg-info/requires.txt

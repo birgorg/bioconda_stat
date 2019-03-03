@@ -1,0 +1,25 @@
+#package: org.Ss.eg.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/org.Ss.eg.db_3.6.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/org.Ss.egUNIPROT.Rd
+/man/org.Ss.egALIAS2EG.Rd
+/man/org.Ss.egSYMBOL.Rd
+/man/org.Ss.egCHR.Rd
+/man/org.Ss.egENZYME.Rd
+/man/org.Ss.egORGANISM.Rd
+/man/org.Ss.egBASE.Rd
+/man/org.Ss.egREFSEQ.Rd
+/man/org.Ss.egMAPCOUNTS.Rd
+/man/org.Ss.egGO.Rd
+/man/org.Ss.egUNIGENE.Rd
+/man/org.Ss.egGENENAME.Rd
+/man/org.Ss.egPMID.Rd
+/man/org.Ss.egACCNUM.Rd
+/man/org.Ss.eg_dbconn.Rd
+/man/org.Ss.egPATH.Rd
+/tests/runalltests.R
+/tests/unit/test.R
+/inst/extdata/org.Ss.eg.sqlite

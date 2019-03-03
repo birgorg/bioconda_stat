@@ -1,0 +1,19 @@
+#package: Importer-0.024 
+#url: https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Importer-0.024.tar.gz
+ 
+/README.md
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/cpanfile
+/t/import.t
+/t/missing.t
+/t/units.t
+/t/Simple.t
+/t/export_fail.t
+/t/all_tag.t
+/lib/Importer.pm

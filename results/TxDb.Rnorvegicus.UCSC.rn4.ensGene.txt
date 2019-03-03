@@ -1,0 +1,8 @@
+#package: TxDb.Rnorvegicus.UCSC.rn4.ensGene 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/TxDb.Rnorvegicus.UCSC.rn4.ensGene_3.2.2.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Rnorvegicus.UCSC.rn4.ensGene.sqlite

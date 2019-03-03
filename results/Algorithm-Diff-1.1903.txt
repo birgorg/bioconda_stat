@@ -1,0 +1,17 @@
+#package: Algorithm-Diff-1.1903 
+#url: https://cpan.metacpan.org/authors/id/T/TY/TYEMQ/Algorithm-Diff-1.1903.tar.gz
+ 
+/META.yml
+/diff.pl
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/cdiff.pl
+/META.json
+/diffnew.pl
+/htmldiff.pl
+/t/base.t
+/t/oo.t
+/lib/Algorithm/DiffOld.pm
+/lib/Algorithm/Diff.pm

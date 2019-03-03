@@ -1,0 +1,9 @@
+#package: chipseq-greylist-2a5826766402221e44e38b40499dc1b358a625f6 
+#url: https://github.com/roryk/chipseq-greylist/archive/2a58267.tar.gz
+ 
+/README.md
+/LICENSE.txt
+/setup.py
+/scripts/chipseq-greylist
+/test/input-test.bam.bai
+/test/input-test.bam

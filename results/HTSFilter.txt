@@ -1,0 +1,30 @@
+#package: HTSFilter 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/HTSFilter_1.20.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/HTSFilter-methods.R
+/R/normalizeData.R
+/R/HTSBasicFilter-methods.R
+/R/functions.R
+/R/HTSFilter_package.R
+/data/sultan.RData
+/man/HTSFilter.Rd
+/man/normalizeData.Rd
+/man/HTSFilter-deprecated.Rd
+/man/HTSBasicFilter.Rd
+/man/HTSFilter-package.Rd
+/man/sultan.Rd
+/vignettes/vignette_refs.bib
+/vignettes/HTSFilter.Rnw
+/vignettes/Compile_HTSFilter.R
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test-xyz.R
+/inst/CITATION
+/inst/NEWS
+/inst/examples/HTSFilter-package.R
+/inst/examples/HTSBasicFilter.R
+/inst/doc/HTSFilter.pdf
+/inst/doc/HTSFilter.R
+/inst/doc/HTSFilter.Rnw

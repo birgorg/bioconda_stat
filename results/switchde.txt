@@ -1,0 +1,33 @@
+#package: switchde 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/switchde_1.6.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/.travis.yml
+/R/switchde.R
+/R/zi_constant.R
+/R/mle.R
+/R/zi.R
+/data/ex_pseudotime.rda
+/data/synth_gex.rda
+/man/sigmoid.Rd
+/man/switchplot.Rd
+/man/fit_zi_model.Rd
+/man/ex_pseudotime.Rd
+/man/fit_nzi_model.Rd
+/man/switchde.Rd
+/man/extract_pars.Rd
+/man/example_sigmoid.Rd
+/man/sanitise_inputs.Rd
+/man/synth_gex.Rd
+/vignettes/switchde_vignette.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_switchde.R
+/inst/example.png
+/inst/example_sigmoid.png
+/inst/NEWS
+/inst/doc/switchde_vignette.R
+/inst/doc/switchde_vignette.Rmd
+/inst/doc/switchde_vignette.html

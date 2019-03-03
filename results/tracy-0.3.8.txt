@@ -1,0 +1,30 @@
+#package: tracy-0.3.8 
+#url: https://github.com/gear-genomics/tracy/archive/v0.3.8.tar.gz
+ 
+/README.md
+/LICENSE
+/Makefile
+/.gitmodules
+/.gitignore
+/.travis.yml
+/docker/README.md
+/docker/Dockerfile
+/src/assemble.h
+/src/teal.h
+/src/scf.h
+/src/sage.h
+/src/gotoh.h
+/src/profile.h
+/src/decompose.h
+/src/fmindex.h
+/src/indigo.h
+/src/abif.h
+/src/align.h
+/src/index.h
+/src/msa.h
+/src/version.h
+/src/tracy.cpp
+/src/needle.h
+/src/fasta.h
+/src/json.h
+/src/trim.h

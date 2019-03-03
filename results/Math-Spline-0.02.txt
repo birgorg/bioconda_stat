@@ -1,0 +1,12 @@
+#package: Math-Spline-0.02 
+#url: http://cpan.metacpan.org/authors/id/C/CH/CHORNY/Math-Spline-0.02.tar.gz
+ 
+/META.yml
+/Release
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/Spline.pm
+/t/01-work.t
+/t/00-load.t

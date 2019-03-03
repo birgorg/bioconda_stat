@@ -1,0 +1,12 @@
+#package: File-Fetch-0.56 
+#url: https://cpan.metacpan.org/authors/id/B/BI/BINGOS/File-Fetch-0.56.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/CHANGES
+/t/01_File-Fetch.t
+/t/null_subclass.t
+/lib/File/Fetch.pm

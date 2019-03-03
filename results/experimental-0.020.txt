@@ -1,0 +1,15 @@
+#package: experimental-0.020 
+#url: https://cpan.metacpan.org/authors/id/L/LE/LEONT/experimental-0.020.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/INSTALL
+/t/basic.t
+/lib/experimental.pm
+/xt/author/pod-syntax.t

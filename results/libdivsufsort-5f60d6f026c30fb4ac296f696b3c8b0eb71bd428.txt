@@ -1,0 +1,32 @@
+#package: libdivsufsort-5f60d6f026c30fb4ac296f696b3c8b0eb71bd428 
+#url: https://github.com/y-256/libdivsufsort/archive/5f60d6f026c30fb4ac296f696b3c8b0eb71bd428.tar.gz
+ 
+/README.md
+/LICENSE
+/CHANGELOG.md
+/CMakeLists.txt
+/VERSION.cmake
+/.gitignore
+/examples/suftest.c
+/examples/bwt.c
+/examples/mksary.c
+/examples/CMakeLists.txt
+/examples/unbwt.c
+/examples/sasearch.c
+/lib/sssort.c
+/lib/utils.c
+/lib/CMakeLists.txt
+/lib/trsort.c
+/lib/divsufsort.c
+/include/lfs.h.cmake
+/include/divsufsort_private.h
+/include/CMakeLists.txt
+/include/config.h.cmake
+/include/divsufsort.h.cmake
+/pkgconfig/CMakeLists.txt
+/pkgconfig/libdivsufsort.pc.cmake
+/CMakeModules/cmake_uninstall.cmake.in
+/CMakeModules/CheckLFS.cmake
+/CMakeModules/CheckFunctionKeywords.cmake
+/CMakeModules/ProjectCPack.cmake
+/CMakeModules/AppendCompilerFlags.cmake

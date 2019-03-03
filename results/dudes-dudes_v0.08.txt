@@ -1,0 +1,22 @@
+#package: dudes-dudes_v0.08 
+#url: https://github.com/pirovc/dudes/archive/dudes_v0.08.tar.gz
+ 
+/README.md
+/DUDesDB.py
+/LICENSE.md
+/setup.py
+/DUDes.py
+/sampledata/hiseq_accuracy_k60.sam
+/sampledata/arc-bac_refseq-cg_201503.npz
+/dudes/Ranks.py
+/dudes/Rep.py
+/dudes/parse_names.py
+/dudes/SMap.py
+/dudes/__init__.py
+/dudes/Refs.py
+/dudes/parse_sam.py
+/dudes/Names.py
+/dudes/Ident.py
+/dudes/Bins.py
+/dudes/TTree.py
+/dudes/Util.py

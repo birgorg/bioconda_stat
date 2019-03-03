@@ -1,0 +1,27 @@
+#package: AMOUNTAIN 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/AMOUNTAIN_1.6.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/AMOUNTAINC.R
+/R/AMOUNTAIN.R
+/man/moduleIdentificationGPFixSSTwolayer.Rd
+/man/EuclideanProjectionENNORM.Rd
+/man/CGPFixSS.Rd
+/man/twolayernetworkSimulation.Rd
+/man/multilayernetworkSimulation.Rd
+/man/CGPFixSSMultiLayer.Rd
+/man/networkSimulation.Rd
+/man/CGPFixSSTwolayer.Rd
+/man/moduleIdentificationGPFixSSMultilayer.Rd
+/man/moduleIdentificationGPFixSS.Rd
+/vignettes/Bibliography.bib
+/vignettes/AMOUNTAIN.Rmd
+/build/vignette.rds
+/inst/NEWS
+/inst/doc/AMOUNTAIN.R
+/inst/doc/AMOUNTAIN.html
+/inst/doc/AMOUNTAIN.Rmd
+/src/Makevars.win
+/src/AMOUNTAIN.c
+/src/Makevars

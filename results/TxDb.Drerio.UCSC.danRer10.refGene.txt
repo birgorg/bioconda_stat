@@ -1,0 +1,8 @@
+#package: TxDb.Drerio.UCSC.danRer10.refGene 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/TxDb.Drerio.UCSC.danRer10.refGene_3.4.3.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Drerio.UCSC.danRer10.refGene.sqlite

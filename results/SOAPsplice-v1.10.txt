@@ -1,0 +1,11 @@
+#package: SOAPsplice-v1.10 
+#url: https://depot.galaxyproject.org/software/soapsplice/soapsplice_1.10_src_all.tar.gz
+ 
+/readme.txt
+/doc/document.txt
+/bin/2bwt-builder
+/bin/soapsplice
+/bin/wgsim
+/example/example.sh
+/example/exampleRNA.fa
+/example/exampleGenome.fa

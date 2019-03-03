@@ -1,0 +1,26 @@
+#package: hyperdraw 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/hyperdraw_1.32.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/graphBPH.R
+/R/hypergraph.R
+/R/node.R
+/R/AllClasses.R
+/R/draw.R
+/R/legacy.R
+/R/affine.R
+/R/grid.R
+/R/RagraphBPH.R
+/man/graphLayout.Rd
+/man/graphBPH.Rd
+/man/graphBPH-class.Rd
+/man/RagraphBPH-class.Rd
+/vignettes/hyperdraw.Rnw
+/vignettes/hyperdraw.bib
+/build/vignette.rds
+/tests/test.R
+/inst/NEWS.Rd
+/inst/doc/hyperdraw.Rnw
+/inst/doc/hyperdraw.R
+/inst/doc/hyperdraw.pdf

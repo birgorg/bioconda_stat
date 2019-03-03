@@ -1,0 +1,12 @@
+#package: SNAGEEdata 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/SNAGEEdata_1.16.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/SNAGEEdata.R
+/man/SNAGEEdata-package.Rd
+/man/getCC.Rd
+/inst/extdata/ccWoAffy.RData
+/inst/extdata/geneList.RData
+/inst/extdata/ccComplete.RData

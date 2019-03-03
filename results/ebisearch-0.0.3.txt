@@ -1,0 +1,19 @@
+#package: ebisearch-0.0.3 
+#url: https://pypi.python.org/packages/09/70/41c23c12b7a3610625b97b989fca91ecf66df6e30053128ef97ff9fef75f/ebisearch-0.0.3.tar.gz
+ 
+/ebi_metagenomics
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/ebisearch_data/__init__.py
+/ebisearch_data/ebi_metagenomics_run_data.json
+/ebisearch/__init__.py
+/ebisearch/__main__.py
+/ebisearch.egg-info/entry_points.txt
+/ebisearch.egg-info/top_level.txt
+/ebisearch.egg-info/SOURCES.txt
+/ebisearch.egg-info/PKG-INFO
+/ebisearch.egg-info/dependency_links.txt
+/ebisearch.egg-info/requires.txt

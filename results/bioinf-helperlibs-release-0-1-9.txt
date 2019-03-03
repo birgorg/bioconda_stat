@@ -1,0 +1,31 @@
+#package: bioinf-helperlibs-release-0-1-9 
+#url: https://github.com/kblin/bioinf-helperlibs/archive/release-0-1-9.tar.gz
+ 
+/README.md
+/publish.sh
+/tox.ini
+/.drone.yml
+/LICENSE.txt
+/Makefile
+/MANIFEST.in
+/setup.py
+/.gitignore
+/helperlibs/__init__.py
+/helperlibs/bio/seqio.py
+/helperlibs/bio/featurematch.py
+/helperlibs/bio/__init__.py
+/helperlibs/wrappers/__init__.py
+/helperlibs/wrappers/io.py
+/helperlibs/tests/__init__.py
+/helperlibs/tests/bio/test_seqio.py
+/helperlibs/tests/bio/test_featurematch.py
+/helperlibs/tests/bio/__init__.py
+/helperlibs/tests/wrappers/__init__.py
+/helperlibs/tests/wrappers/test_io.py
+/helperlibs/tests/files/no_header.gbk
+/helperlibs/tests/files/no_header.embl
+/helperlibs/tests/files/melanin.gbk
+/helperlibs/tests/files/melanin.fasta
+/helperlibs/tests/files/melanin.embl
+/helperlibs/tests/files/no_header.fasta
+/helperlibs/tests/files/melanin.gbk.gz

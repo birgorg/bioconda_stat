@@ -1,0 +1,21 @@
+#package: MPFE 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/MPFE_1.16.0.tar.gz
+ 
+/NAMESPACE
+/README
+/DESCRIPTION
+/R/patternMap.R
+/R/estimatePatternsOneColumn.R
+/R/plotPatterns.R
+/R/estimatePatterns.R
+/data/patternsExample.rda
+/man/estimatePatterns.Rd
+/man/patternMap.Rd
+/man/patternsExample.Rd
+/man/plotPatterns.Rd
+/man/MPFE-package.Rd
+/vignettes/MPFE.Rnw
+/build/vignette.rds
+/inst/doc/MPFE.Rnw
+/inst/doc/MPFE.pdf
+/inst/doc/MPFE.R

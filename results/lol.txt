@@ -1,0 +1,25 @@
+#package: lol 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/lol_1.28.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/linFit.R
+/data/chin07.rda
+/man/print.lolMatrix.Rd
+/man/lasso.multiSplit.Rd
+/man/chin07.Rd
+/man/lasso.stability.Rd
+/man/matrixLasso.Rd
+/man/lol-package.Rd
+/man/lmMatrixFit.Rd
+/man/lasso.Rd
+/man/print.lol.Rd
+/man/lasso.simultaneous.Rd
+/man/getLambdaNcoef.Rd
+/man/lasso.cv.Rd
+/man/plotGW.Rd
+/vignettes/lol.Rnw
+/build/vignette.rds
+/inst/doc/lol.pdf
+/inst/doc/lol.Rnw
+/inst/doc/lol.R

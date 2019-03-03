@@ -1,0 +1,33 @@
+#package: bayescan_distributed_2.01 
+#url: http://cmpg.unibe.ch/software/BayeScan/files/BayeScan2.01.zip
+ 
+/BayeScan2.0_manual.pdf
+/R functions/plot_R.r
+/R functions/AFLP_data_functions.r
+/source/read_write.cpp
+/source/global_defs.h
+/source/likelihood.cpp
+/source/MHupdates.cpp
+/source/structure.h
+/source/anyoption.h
+/source/Makefile
+/source/errors.cpp
+/source/beta.cpp
+/source/MersenneTwister.h
+/source/anyoption.cpp
+/source/dirichlet.cpp
+/source/COPYING
+/source/start.cpp
+/source/RJupdates.cpp
+/binaries/BayeScan2.01_win32bits_GUI.exe.exe
+/binaries/BayeScan2.0_macos64bits
+/binaries/BayeScan2.0_linux64bits
+/binaries/help.rtf
+/binaries/BayeScan2.0_linux32bits
+/binaries/COPYING
+/binaries/BayeScan2.0_win32bits_cmd_line.exe
+/input_examples/test_binary_AFLP.txt
+/input_examples/test_genotype_SNP.txt
+/input_examples/test_msats.txt
+/input_examples/test_band_intensity_AFLP.txt
+/input_examples/test_SNPs.txt

@@ -1,0 +1,11 @@
+#package: wasabi-master 
+#url: https://github.com/COMBINE-lab/wasabi/archive/master.zip
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/.Rbuildignore
+/wasabi.Rproj
+/.gitignore
+/R/wasabi.R

@@ -1,0 +1,19 @@
+#package: SVDB-SVDB-1.3.0 
+#url: https://github.com/J35P312/SVDB/archive/SVDB-1.3.0.tar.gz
+ 
+/README.md
+/setup.py
+/.gitignore
+/svdb/query_module.py
+/svdb/DBSCAN.py
+/svdb/build_module.py
+/svdb/__init__.py
+/svdb/hist_module.py
+/svdb/merge_vcf_module.py
+/svdb/purge_module.py
+/svdb/bed_annotation_module.py
+/svdb/readVCF.py
+/svdb/__main__.py
+/svdb/export_module.py
+/svdb/overlap_module.py
+/svdb/merge_vcf_module_cython.py

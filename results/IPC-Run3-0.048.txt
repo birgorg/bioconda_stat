@@ -1,0 +1,31 @@
+#package: IPC-Run3-0.048 
+#url: https://cpan.metacpan.org/authors/id/R/RJ/RJBS/IPC-Run3-0.048.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/t/die_handler.t
+/t/utf8.t
+/t/IPC-Run3-ProfReporter.t
+/t/IPC-Run3-profiling.t
+/t/pod.t
+/t/fork.t
+/t/IPC-Run3-ProfPP.t
+/t/IPC-Run3-ProfArrayBuffer.t
+/t/IPC-Run3.t
+/t/IPC-Run3-ProfLogReader.t
+/t/pod-coverage.t
+/t/IPC-Run3-ProfLogger.t
+/t/fd_leak.t
+/lib/IPC/Run3.pm
+/lib/IPC/Run3/ProfLogger.pm
+/lib/IPC/Run3/ProfLogReader.pm
+/lib/IPC/Run3/ProfReporter.pm
+/lib/IPC/Run3/ProfArrayBuffer.pm
+/lib/IPC/Run3/ProfPP.pm
+/bin/run3profpp

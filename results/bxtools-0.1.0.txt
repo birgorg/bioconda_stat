@@ -1,0 +1,36 @@
+#package: bxtools-0.1.0 
+#url: https://github.com/walaj/bxtools/archive/0.1.0.tar.gz
+ 
+/README.md
+/configure.ac
+/LICENSE
+/autogen.sh
+/Makefile.in
+/config.h
+/config.h.in
+/Makefile.am
+/depcomp
+/missing
+/install-sh
+/.gitmodules
+/configure
+/.gitignore
+/.travis.yml
+/src/bxtile.cpp
+/src/bxrelabel.h
+/src/bxtools.cpp
+/src/bxrelabel.cpp
+/src/bxconvert.cpp
+/src/Makefile.in
+/src/bxconvert.h
+/src/bxcommon.h
+/src/Makefile.am
+/src/bxgroup.h
+/src/bxmol.h
+/src/bxsplit.h
+/src/bxsplit.cpp
+/src/bxstats.cpp
+/src/bxmol.cpp
+/src/bxstats.h
+/src/bxgroup.cpp
+/src/bxtile.h

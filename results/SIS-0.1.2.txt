@@ -1,0 +1,20 @@
+#package: SIS-0.1.2 
+#url: https://github.com/nickp60/SIS/archive/0.1.2.tar.gz
+ 
+/LICENSE
+/README
+/MANIFEST.in
+/setup.py
+/.gitignore
+/setup.cfg
+/.travis.yml
+/examples/nucmer.coords
+/examples/NC_009525-NC_002945.coords
+/examples/NC_009525.fna
+/examples/promer.coords
+/scaffoldsis/multifasta.py
+/scaffoldsis/__init__.py
+/scaffoldsis/sis.py
+/tests/test_sis_package.py
+/tests/__init__.py
+/tests/context.py

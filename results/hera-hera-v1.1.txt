@@ -1,0 +1,32 @@
+#package: hera-hera-v1.1 
+#url: https://github.com/bioturing/hera/archive/hera-v1.1.tar.gz
+ 
+/README.md
+/LICENSE
+/Makefile_mac
+/Makefile_linux
+/build.sh
+/configure
+/src/khash.h
+/src/kseq.h
+/src/main.c
+/src/bam_write.c
+/src/ssw.c
+/src/xxhash.h
+/src/fusion.c
+/src/hera_build
+/src/assembly.c
+/src/genome_map.h
+/src/EM.h
+/src/bam_write.h
+/src/fmindex.h
+/src/ssw.h
+/src/xxhash.c
+/src/hash_align.c
+/src/EM.c
+/src/fmindex.c
+/src/hash_align.h
+/src/fusion.h
+/src/bgzf.c
+/src/bgzf.h
+/src/genome_map.c

@@ -1,0 +1,8 @@
+#package: TxDb.Mmusculus.UCSC.mm9.knownGene 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/TxDb.Mmusculus.UCSC.mm9.knownGene_3.2.2.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Mmusculus.UCSC.mm9.knownGene.sqlite

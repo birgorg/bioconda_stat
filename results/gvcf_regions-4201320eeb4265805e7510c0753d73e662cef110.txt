@@ -1,0 +1,15 @@
+#package: gvcf_regions-4201320eeb4265805e7510c0753d73e662cef110 
+#url: https://github.com/lijiayong/gvcf_regions/archive/4201320.tar.gz
+ 
+/README.md
+/LICENSE
+/gvcf_regions_tester.py
+/gvcf_regions.py
+/test/complete_genomics.vcf
+/test/freebayes.vcf
+/test/gatk.vcf
+/test/platypus.vcf
+/test/platypus.bed
+/test/gatk.bed
+/test/complete_genomics.bed
+/test/freebayes.bed

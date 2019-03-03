@@ -1,0 +1,19 @@
+#package: Clone-PP-1.06 
+#url: http://cpan.metacpan.org/authors/id/N/NE/NEILB/Clone-PP-1.06.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/tied.pl
+/t/06refcnt.t
+/t/dclone.t
+/t/dump.pl
+/t/02hash.t
+/t/03scalar.t
+/t/04tie.t
+/t/05dtype.t
+/t/01array.t
+/lib/Clone/PP.pm

@@ -1,0 +1,7 @@
+#package: vawk-bab8237ff655e1ebb8c17440455ee765e828676c 
+#url: https://github.com/cc2qe/vawk/archive/bab8237.tar.gz
+ 
+/README.md
+/LICENSE
+/vawk
+/.gitignore

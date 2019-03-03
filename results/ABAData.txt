@@ -1,0 +1,17 @@
+#package: ABAData 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/ABAData_1.10.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/dataset_adult.rda
+/data/dataset_5_stages.rda
+/data/dataset_dev_effect.rda
+/data/datalist
+/man/datasets_ABAData.Rd
+/man/ABAData-package.Rd
+/vignettes/ABAData.Rmd
+/build/vignette.rds
+/inst/doc/ABAData.R
+/inst/doc/ABAData.Rmd
+/inst/doc/ABAData.html

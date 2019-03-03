@@ -1,0 +1,29 @@
+#package: sequenceTools-1.2.2 
+#url: https://github.com/stschiff/sequenceTools/archive/v1.2.2.tar.gz
+ 
+/README.md
+/stack.yaml
+/LICENSE
+/Setup.hs
+/sequenceTools.cabal
+/.gitignore
+/scripts/makeAdmixtureDat.hs
+/scripts/genToVcf.hs
+/scripts/preseqWizard.py
+/scripts/mergeit_wrapper.hs
+/scripts/smartpca_wrapper.hs
+/scripts/samMarkDup.py
+/scripts/barcodeDemulti.py
+/scripts/vcfRemoveDuplicates.awk
+/scripts/vcfToGen.py
+/scripts/qp3Pop_wrapper.hs
+/scripts/qpDstat_wrapper.hs
+/scripts/convertf_wrapper.hs
+/src-vcf2eigenstrat/vcf2eigenstrat.hs
+/src-genoStats/genoStats.hs
+/src-pileupCaller/pileupCaller.hs
+/old/Makefile
+/old/filterTrimFastq.d
+/old/gzip.d
+/src/SeqTools/OrderedZip.hs
+/src-simpleBamCaller/simpleBamCaller.hs

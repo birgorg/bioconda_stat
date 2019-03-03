@@ -1,0 +1,26 @@
+#package: tinyfasta-0.1.0 
+#url: https://github.com/tjelvar-olsson/tinyfasta/archive/0.1.0.tar.gz
+ 
+/LICENSE
+/appveyor.yml
+/README.rst
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/.travis.yml
+/docs/make.bat
+/docs/Makefile
+/docs/source/conf.py
+/docs/source/finding_fasta_records.rst
+/docs/source/parsing_fasta_files.rst
+/docs/source/README.rst
+/docs/source/installation.rst
+/docs/source/index.rst
+/docs/source/creating_fasta_records.rst
+/docs/source/api.rst
+/appveyor/install.ps1
+/tinyfasta/__init__.py
+/tests/__init__.py
+/tests/unit_tests.py
+/tests/functional_tests.py
+/tests/data/dummy.fasta

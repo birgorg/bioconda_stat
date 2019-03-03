@@ -1,0 +1,33 @@
+#package: swarm-2.2.2 
+#url: https://github.com/torognes/swarm/archive/v2.2.2.tar.gz
+ 
+/README.md
+/LICENSE
+/CITATION
+/scripts/amplicon_contingency_table.py
+/scripts/graph_plot.py
+/man/swarm.1
+/man/swarm_manual.pdf
+/src/util.cc
+/src/matrix.cc
+/src/bitmap.h
+/src/bloom.h
+/src/arch.cc
+/src/db.cc
+/src/nw.cc
+/src/Makefile
+/src/swarm.cc
+/src/qgram.cc
+/src/derep.cc
+/src/scan.cc
+/src/search16.cc
+/src/search8.cc
+/src/ssse3.cc
+/src/algo.cc
+/src/threads.h
+/src/algod1.cc
+/src/swarm.h
+/src/cityhash/city.h
+/src/cityhash/city.cc
+/src/cityhash/config.h
+/src/cityhash/citycrc.h

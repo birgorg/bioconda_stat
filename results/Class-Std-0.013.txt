@@ -1,0 +1,36 @@
+#package: Class-Std-0.013 
+#url: https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Class-Std-0.013.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/Build.PL
+/t/simple.t
+/t/access_name.t
+/t/start.t
+/t/perlattrs.t
+/t/access.t
+/t/access_automethod.t
+/t/can.t
+/t/automethod.t
+/t/00.load.t
+/t/runtime.t
+/t/dump.t
+/t/begin-coercion.t
+/t/coercions.t
+/t/cumulative.t
+/lib/Class/Std.pm
+/demo/demo_library_AUTOLOAD_CUMULATIVE.pl
+/demo/demo_coercions.pl
+/demo/demo_can.pl
+/demo/demo_library.pl
+/demo/demo_perlify.pl
+/demo/demo_unclass.pl
+/demo/demo_library_AUTOMETHDEF.pl
+/demo/demo_library_AUTOLOAD.pl
+/demo/demo_shimmer.pl
+/xt/pod.t
+/xt/pod-coverage.t

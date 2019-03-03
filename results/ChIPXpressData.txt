@@ -1,0 +1,22 @@
+#package: ChIPXpressData 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/ChIPXpressData_1.18.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/.BBSoptions
+/data/GPL1261mean.rda
+/data/GPL570var.rda
+/data/GPL1261var.rda
+/data/GPL570mean.rda
+/man/DB_GPL570.bigmemory.Rd
+/man/DB_GPL1261.bigmemory.Rd
+/man/ChIPXpressData-package.Rd
+/man/GPL1261var.Rd
+/man/GPL1261mean.Rd
+/man/GPL570mean.Rd
+/man/GPL570var.Rd
+/inst/extdata/DB_GPL570.bigmemory.desc
+/inst/extdata/DB_GPL1261.bigmemory
+/inst/extdata/DB_GPL1261.bigmemory.desc
+/inst/extdata/DB_GPL570.bigmemory

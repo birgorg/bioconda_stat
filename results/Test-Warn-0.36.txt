@@ -1,0 +1,18 @@
+#package: Test-Warn-0.36 
+#url: https://cpan.metacpan.org/authors/id/B/BI/BIGJ/Test-Warn-0.36.tar.gz
+ 
+/META.yml
+/Warn.pm
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/warning_is.t
+/t/warnings_exist.t
+/t/warning_like.t
+/t/1.t
+/t/warnings_like.t
+/t/warnings_are.t
+/t/carped.t
+/t/warnings_exist1.pl

@@ -1,0 +1,11 @@
+#package: gustaf-1.0.8-Mac-x86_64 
+#url: http://packages.seqan.de/gustaf/gustaf-1.0.8-Mac-x86_64.zip
+ 
+/LICENSE
+/README
+/bin/gustaf
+/bin/gustaf_mate_joining
+/example/adeno_modified.fa
+/example/adeno_modified_reads.fa
+/example/stellar.gff
+/example/adeno.fa

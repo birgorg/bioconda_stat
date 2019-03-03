@@ -1,0 +1,14 @@
+#package: biogridpy-0.1.1 
+#url: https://pypi.python.org/packages/97/3f/389d2928ed5d59a4fde16a506e8c6e0e04620f7f61fc84caefca2aa7d84d/biogridpy-0.1.1.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/biogridpy/biogrid_results.py
+/biogridpy/__init__.py
+/biogridpy/biogrid_client.py
+/biogridpy.egg-info/top_level.txt
+/biogridpy.egg-info/not-zip-safe
+/biogridpy.egg-info/SOURCES.txt
+/biogridpy.egg-info/PKG-INFO
+/biogridpy.egg-info/dependency_links.txt

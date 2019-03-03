@@ -1,0 +1,35 @@
+#package: geneRxCluster 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/geneRxCluster_1.16.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/geneRxCluster-package.R
+/R/gRxPlotClumps.R
+/R/grx_clust_Call.R
+/R/gRxCluster.R
+/R/Rutils.R
+/R/dot-gRxCluster.R
+/R/gRxSummary.R
+/R/gRxPlot.R
+/man/geneRxCluster.Rd
+/man/critVal.power.Rd
+/man/gRxPlot.Rd
+/man/critVal.target.Rd
+/man/critVal.alpha.Rd
+/man/prune.loglik.Rd
+/man/plot.cutpoints.Rd
+/man/gRxPlotClumps.Rd
+/man/noprune.Rd
+/man/gRxCluster-object.Rd
+/man/gRxCluster.Rd
+/man/gRxSummary.Rd
+/vignettes/tutorial.Rnw
+/build/vignette.rds
+/tests/doRunit.R
+/inst/CITATION
+/inst/doc/tutorial.Rnw
+/inst/doc/tutorial.pdf
+/inst/doc/tutorial.R
+/inst/unitTests/runit.1.R
+/inst/unitTests/Makefile
+/src/cluster.c

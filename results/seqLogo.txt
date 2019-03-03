@@ -1,0 +1,18 @@
+#package: seqLogo 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/seqLogo_1.46.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/seqLogo.R
+/R/AllClasses.R
+/R/pwm.R
+/R/AllGenerics.R
+/man/seqLogo.Rd
+/man/makePWM.Rd
+/man/pwm-class.Rd
+/vignettes/seqLogo.Rnw
+/build/vignette.rds
+/inst/doc/seqLogo.Rnw
+/inst/doc/seqLogo.pdf
+/inst/doc/seqLogo.R
+/inst/Exfiles/pwm1

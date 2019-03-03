@@ -1,0 +1,18 @@
+#package: NanoLyse-1.1.0 
+#url: https://pypi.io/packages/source/n/nanolyse/NanoLyse-1.1.0.tar.gz
+ 
+/README.md
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/NanoLyse.egg-info/entry_points.txt
+/NanoLyse.egg-info/top_level.txt
+/NanoLyse.egg-info/SOURCES.txt
+/NanoLyse.egg-info/PKG-INFO
+/NanoLyse.egg-info/dependency_links.txt
+/NanoLyse.egg-info/requires.txt
+/reference/lambda.fasta.gz
+/nanolyse/__init__.py
+/nanolyse/version.py
+/nanolyse/NanoLyse.py

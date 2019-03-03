@@ -1,0 +1,24 @@
+#package: faahKO 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/faahKO_1.20.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/zzz.R
+/data/faahko.rda
+/man/faahko.Rd
+/inst/s_Proteomic profiling of yeast TFs.txt
+/inst/i_Investigation.txt
+/inst/a_metabolite.txt
+/inst/cdf/KO/ko16.CDF
+/inst/cdf/KO/ko15.CDF
+/inst/cdf/KO/ko19.CDF
+/inst/cdf/KO/ko21.CDF
+/inst/cdf/KO/ko22.CDF
+/inst/cdf/KO/ko18.CDF
+/inst/cdf/WT/wt18.CDF
+/inst/cdf/WT/wt16.CDF
+/inst/cdf/WT/wt21.CDF
+/inst/cdf/WT/wt22.CDF
+/inst/cdf/WT/wt19.CDF
+/inst/cdf/WT/wt15.CDF

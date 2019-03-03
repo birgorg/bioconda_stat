@@ -1,0 +1,26 @@
+#package: DISCASM-DISCASM-v0.1.3 
+#url: https://github.com/DISCASM/DISCASM/archive/DISCASM-v0.1.3.tar.gz
+ 
+/README.md
+/DISCASM
+/LICENSE
+/.gitmodules
+/Changelog.txt
+/testing/run_DOI.sh
+/testing/run_DOMI.sh
+/testing/Chimeric.out.junction
+/testing/reads_1.fq.gz
+/testing/Aligned.sortedByCoord.out.bam
+/testing/Makefile
+/testing/reads_2.fq.gz
+/testing/cleanMe.sh
+/testing/run_DT.sh
+/testing/run_DO.sh
+/testing/Chimeric.out.sam.gz
+/testing/run_DTI.sh
+/util/retrieve_SF_chimeric_and_unmapped_reads.py
+/util/run_OASES_multiK.pl
+/util/run_OASES.pl
+/util/retrieve_SF_chimeric_reads.py
+/PerlLib/Pipeliner.pm
+/PyLib/Pipeliner.py

@@ -1,0 +1,32 @@
+#package: GRmetrics 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/GRmetrics_1.6.1.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/GRbox.R
+/R/GRdrawDRC.R
+/R/GRfunctions.R
+/R/GRaccessors.R
+/R/GRscatter.R
+/R/data.R
+/data/inputCaseA.rda
+/data/inputCaseC.rda
+/man/GRgetMetrics.Rd
+/man/GRgetDefs.Rd
+/man/GRgetGroupVars.Rd
+/man/inputCaseC.Rd
+/man/GRscatter.Rd
+/man/GRbox.Rd
+/man/GRgetValues.Rd
+/man/GRfit.Rd
+/man/GRdrawDRC.Rd
+/man/inputCaseA.Rd
+/vignettes/GRmetrics-vignette.Rmd
+/build/vignette.rds
+/tests/test.R
+/inst/CITATION
+/inst/scripts/generate_data.py
+/inst/doc/GRmetrics-vignette.R
+/inst/doc/GRmetrics-vignette.html
+/inst/doc/GRmetrics-vignette.Rmd

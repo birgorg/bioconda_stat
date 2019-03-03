@@ -1,0 +1,33 @@
+#package: downpore-0.3.1 
+#url: https://github.com/jteutenberg/downpore/archive/0.3.1.tar.gz
+ 
+/README.md
+/LICENSE
+/downpore.go
+/commands/map.go
+/commands/subseq.go
+/commands/command.go
+/commands/overlap.go
+/commands/trim.go
+/commands/version.go
+/data/adapters_back.fasta
+/data/adapters_front.fasta
+/trim/trim.go
+/mapping/mapping.go
+/util/bitset.go
+/util/bitset_test.go
+/util/asm_amd64.s
+/util/gzip.go
+/util/sequtil/kmers.go
+/sequence/sequence_test.go
+/sequence/seqio.go
+/sequence/asm_amd64.s
+/sequence/sequence.go
+/img/docs_mapping_ecoli_identity.png
+/img/docs_mapping_ecoli_deltaidentity.png
+/img/docs_mapping_human_identity.png
+/img/docs_mapping_human_deltaidentity.png
+/seeds/seeds.go
+/seeds/sequence.go
+/overlap/combine.go
+/overlap/overlap.go

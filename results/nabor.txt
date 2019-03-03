@@ -1,0 +1,35 @@
+#package: nabor 
+#url: https://cran.r-project.org/src/contrib/nabor_0.5.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/MD5
+/DESCRIPTION
+/NEWS.md
+/R/WKNNClasses.R
+/R/knn.R
+/R/nabor-package.R
+/R/RcppExports.R
+/data/kcpoints.rda
+/man/nabor-package.Rd
+/man/knn.Rd
+/man/kcpoints.Rd
+/man/WKNN-class.Rd
+/tests/testthat.R
+/tests/testthat/test-WKNND.R
+/tests/testthat/test-knn.R
+/tests/testthat/test-WKNNF.R
+/inst/CITATION
+/src/nabo_private.h
+/src/nabo.cpp
+/src/index_heap.h
+/src/WKNN.cpp
+/src/nabo.h
+/src/kdtree_cpu.cpp
+/src/RcppExports.cpp
+/src/nabor.cpp
+/src/brute_force_cpu.cpp
+/src/WKNN.h
+/src/init.c
+/src/Makevars

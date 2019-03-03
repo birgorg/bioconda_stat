@@ -1,0 +1,15 @@
+#package: Module-List-0.004 
+#url: https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Module-List-0.004.tar.gz
+ 
+/META.yml
+/README
+/MANIFEST
+/Changes
+/META.json
+/SIGNATURE
+/Build.PL
+/.gitignore
+/t/pod_syn.t
+/t/list.t
+/t/pod_cvg.t
+/lib/Module/List.pm

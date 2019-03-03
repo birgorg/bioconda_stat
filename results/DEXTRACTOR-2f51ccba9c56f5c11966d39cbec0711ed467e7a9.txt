@@ -1,0 +1,24 @@
+#package: DEXTRACTOR-2f51ccba9c56f5c11966d39cbec0711ed467e7a9 
+#url: https://github.com/thegenemyers/DEXTRACTOR/archive/2f51ccba9c56f5c11966d39cbec0711ed467e7a9.tar.gz
+ 
+/README.md
+/QV.c
+/undexar.c
+/bax.h
+/LICENSE
+/QV.h
+/dexqv.c
+/undexta.c
+/Makefile
+/expr.c
+/DB.h
+/dexta.c
+/undexqv.c
+/dextract.c
+/sam.h
+/sam.c
+/DB.c
+/bax.c
+/expr.h
+/dex2DB.c
+/dexar.c

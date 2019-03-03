@@ -1,0 +1,8 @@
+#package: RealPhy 
+#url: https://realphy.unibas.ch/downloads/REALPHY_v112_exec.zip
+ 
+/LICENSE
+/Manual_Jan13_2015.pdf
+/RealPhy_v112.jar
+/Manual_Aug28_2015.pdf
+/REALPHY_v112

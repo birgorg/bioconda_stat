@@ -1,0 +1,34 @@
+#package: PubChemPy-1.0.4 
+#url: https://pypi.io/packages/source/P/PubChemPy/PubChemPy-1.0.4.tar.gz
+ 
+/LICENSE
+/pubchempy.py
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/PubChemPy.egg-info/top_level.txt
+/PubChemPy.egg-info/SOURCES.txt
+/PubChemPy.egg-info/PKG-INFO
+/PubChemPy.egg-info/dependency_links.txt
+/PubChemPy.egg-info/requires.txt
+/docs/Makefile
+/docs/README.rst
+/docs/.DS_Store
+/docs/source/conf.py
+/docs/source/index.rst
+/docs/source/api.rst
+/docs/source/guide/advanced.rst
+/docs/source/guide/install.rst
+/docs/source/guide/searching.rst
+/docs/source/guide/pandas.rst
+/docs/source/guide/contribute.rst
+/docs/source/guide/download.rst
+/docs/source/guide/gettingstarted.rst
+/docs/source/guide/introduction.rst
+/docs/source/guide/compound.rst
+/docs/source/guide/properties.rst
+/docs/source/guide/substance.rst
+/requirements/common.txt
+/requirements/dev.txt

@@ -1,0 +1,6 @@
+#package: phantompeakqualtools-1.2 
+#url: https://github.com/kundajelab/phantompeakqualtools/archive/1.2.tar.gz
+ 
+/README.md
+/spp_1.14.tar.gz
+/run_spp.R

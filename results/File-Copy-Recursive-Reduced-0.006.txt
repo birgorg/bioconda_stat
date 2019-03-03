@@ -1,0 +1,18 @@
+#package: File-Copy-Recursive-Reduced-0.006 
+#url: https://cpan.metacpan.org/authors/id/J/JK/JKEENAN/File-Copy-Recursive-Reduced-0.006.tar.gz
+ 
+/META.yml
+/Todo
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/t/003-rcopy.t
+/t/002-dircopy.t
+/t/001-fcopy.t
+/t/lib/Helper.pm
+/t/lib/MockHomeDir.pm
+/lib/File/Copy/Recursive/Reduced.pm

@@ -1,0 +1,11 @@
+#package: samclip-0.2 
+#url: https://github.com/tseemann/samclip/archive/v0.2.tar.gz
+ 
+/README.md
+/LICENSE
+/test.sam
+/samclip
+/test.fna.fai
+/test.fna
+/.gitignore
+/.travis.yml

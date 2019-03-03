@@ -1,0 +1,15 @@
+#package: rBLAST-5cbc5039705e45c83d88c324c4f2a64dfc63e4e1 
+#url: https://github.com/mhahsler/rBLAST/archive/5cbc5039705e45c83d88c324c4f2a64dfc63e4e1.tar.gz
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/appveyor.yml
+/DESCRIPTION
+/.Rbuildignore
+/.gitignore
+/.travis.yml
+/R/BLAST.R
+/R/AAA.R
+/man/BLAST.Rd
+/inst/examples/RNA_example.fasta

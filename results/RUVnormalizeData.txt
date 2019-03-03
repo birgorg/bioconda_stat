@@ -1,0 +1,15 @@
+#package: RUVnormalizeData 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/RUVnormalizeData_0.114.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/datalist
+/data/gender.rda
+/man/gender.Rd
+/vignettes/bibli.bib
+/vignettes/RUVnormalizeData.Rnw
+/build/vignette.rds
+/inst/doc/RUVnormalizeData.Rnw
+/inst/doc/RUVnormalizeData.R
+/inst/doc/RUVnormalizeData.pdf

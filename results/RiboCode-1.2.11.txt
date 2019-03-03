@@ -1,0 +1,32 @@
+#package: RiboCode-1.2.11 
+#url: https://github.com/xryanglab/RiboCode/archive/v1.2.11.tar.gz
+ 
+/ChangeLog.rst
+/LICENSE
+/README.rst
+/MANIFEST.in
+/setup.py
+/AUTHORS
+/.gitignore
+/setup.cfg
+/data/rRNA.fa
+/data/config.txt
+/data/GTF_update.rst
+/.circleci/config.yml
+/.circleci/run_test.sh
+/RiboCode/orf_finder.py
+/RiboCode/metaplots.py
+/RiboCode/parsing_opts.py
+/RiboCode/prepare_transcripts.py
+/RiboCode/translate_dna.py
+/RiboCode/__init__.py
+/RiboCode/RiboCode_onestep.py
+/RiboCode/pie_plot.py
+/RiboCode/loadconfig.py
+/RiboCode/GTF_update.py
+/RiboCode/RiboCode.py
+/RiboCode/plot_orf_density.py
+/RiboCode/test_func.py
+/RiboCode/process_bam.py
+/RiboCode/RPF_count_ORF.py
+/RiboCode/detectORF.py

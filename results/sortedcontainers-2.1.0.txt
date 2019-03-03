@@ -1,0 +1,17 @@
+#package: sortedcontainers-2.1.0 
+#url: https://files.pythonhosted.org/packages/29/e0/135df2e733790a3d3bcda970fd080617be8cea3bd98f411e76e6847c17ef/sortedcontainers-2.1.0.tar.gz
+ 
+/LICENSE
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/sortedcontainers/sortedlist.py
+/sortedcontainers/__init__.py
+/sortedcontainers/sortedset.py
+/sortedcontainers/sorteddict.py
+/sortedcontainers.egg-info/top_level.txt
+/sortedcontainers.egg-info/SOURCES.txt
+/sortedcontainers.egg-info/PKG-INFO
+/sortedcontainers.egg-info/dependency_links.txt

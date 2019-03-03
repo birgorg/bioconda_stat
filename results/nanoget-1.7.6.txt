@@ -1,0 +1,18 @@
+#package: nanoget-1.7.6 
+#url: https://pypi.io/packages/source/n/nanoget/nanoget-1.7.6.tar.gz
+ 
+/README.md
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/scripts/test.sh
+/nanoget.egg-info/top_level.txt
+/nanoget.egg-info/SOURCES.txt
+/nanoget.egg-info/PKG-INFO
+/nanoget.egg-info/dependency_links.txt
+/nanoget.egg-info/requires.txt
+/nanoget/__init__.py
+/nanoget/version.py
+/nanoget/nanoget.py

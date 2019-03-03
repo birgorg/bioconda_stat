@@ -1,0 +1,22 @@
+#package: ChIPXpress 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ChIPXpress_1.24.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/.BBSoptions
+/R/buildDatabase.R
+/R/ChIPXpress.R
+/R/cleanDatabase.R
+/data/Oct4ESC_ChIPgenes.rda
+/man/ChIPXpress-package.Rd
+/man/cleanDatabase.Rd
+/man/buildDatabase.Rd
+/man/ChIPXpress.Rd
+/man/Oct4ESC_ChIPgenes.Rd
+/vignettes/ChIPXpress.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/doc/ChIPXpress.pdf
+/inst/doc/ChIPXpress.R
+/inst/doc/ChIPXpress.Rnw
+/inst/unitTests/test_all.R

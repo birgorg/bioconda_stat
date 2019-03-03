@@ -1,0 +1,36 @@
+#package: ISoLDE 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ISoLDE_1.8.0.tar.gz
+ 
+/NAMESPACE
+/README
+/DESCRIPTION
+/R/Invisible_functions.R
+/R/readNormInput.R
+/R/isolde_test.R
+/R/readRawInput.R
+/R/filterT.R
+/R/readTarget.R
+/data/normASRcounts.rda
+/data/filteredASRcounts.rda
+/data/target.rda
+/data/rawASRcounts.rda
+/man/isolde_test.Rd
+/man/readNormInput.Rd
+/man/rawASRcounts.Rd
+/man/target.Rd
+/man/ISoLDE-package.Rd
+/man/normASRcounts.Rd
+/man/readRawInput.Rd
+/man/filteredASRcounts.Rd
+/man/readTarget.Rd
+/man/filterT.Rd
+/vignettes/vignette.Rnw
+/vignettes/ISoLDE_result_on_example.pdf
+/vignettes/workflow.pdf
+/tests/testsIsolde.R
+/inst/NEWS
+/inst/extdata/rawASRcounts_file.txt
+/inst/extdata/normASRcounts_file.txt
+/inst/extdata/target_file.txt
+/src/Isolde.c
+/src/Makevars

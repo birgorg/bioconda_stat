@@ -1,0 +1,8 @@
+#package: addrg-0.2.1 
+#url: https://github.com/holtgrewe/addrg/archive/v0.2.1.tar.gz
+ 
+/README.md
+/HISTORY.md
+/addrg.c
+/LICENSE.txt
+/Makefile

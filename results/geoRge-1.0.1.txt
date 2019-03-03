@@ -1,0 +1,22 @@
+#package: geoRge-1.0.1 
+#url: https://github.com/jcapelladesto/geoRge/archive/v1.0.1.zip
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/database_query.R
+/R/basepeak_finder.R
+/R/label_compare.R
+/R/PuInc_seeker.R
+/data/mtbls213.RData
+/man/PuInc_seeker.Rd
+/man/database_query.Rd
+/man/mtbls213.Rd
+/man/geoRge-package.Rd
+/man/basepeak_finder.Rd
+/man/label_compare.Rd
+/vignettes/geoRge.Rmd
+/inst/extdata/ExampleDatabase.csv
+/inst/extdata/adducts_negative.txt
+/inst/extdata/adducts_positive.txt

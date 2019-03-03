@@ -1,0 +1,18 @@
+#package: Perl-osnames-0.11 
+#url: https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/Perl-osnames-0.11.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/weaver.ini
+/t/release-pod-coverage.t
+/t/release-pod-syntax.t
+/t/release-rinci.t
+/t/00-compile.t
+/t/01-basic.t
+/lib/Perl/osnames.pm

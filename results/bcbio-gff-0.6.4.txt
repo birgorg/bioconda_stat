@@ -1,0 +1,19 @@
+#package: bcbio-gff-0.6.4 
+#url: https://pypi.python.org/packages/94/df/e2d75cc688ac6eb53f5fb4e2cffd240596bbcd5be28bab8d4f6404a6f86c/bcbio-gff-0.6.4.tar.gz
+ 
+/distribute_setup.py
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/bcbio_gff.egg-info/top_level.txt
+/bcbio_gff.egg-info/SOURCES.txt
+/bcbio_gff.egg-info/PKG-INFO
+/bcbio_gff.egg-info/dependency_links.txt
+/bcbio_gff.egg-info/requires.txt
+/BCBio/__init__.py
+/BCBio/GFF/GFFOutput.py
+/BCBio/GFF/_utils.py
+/BCBio/GFF/__init__.py
+/BCBio/GFF/GFFParser.py

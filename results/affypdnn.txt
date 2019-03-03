@@ -1,0 +1,31 @@
+#package: affypdnn 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/affypdnn_1.54.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/find.params.pdnn.R
+/R/transform.ProbeSet.R
+/R/pdnn.params.chiptype.R
+/R/zzz.R
+/R/generateExprVal.method.pdnn.R
+/R/expressopdnn.R
+/data/params.dilution.rda
+/data/hgu95av2.pdnn.params.rda
+/data/datalist
+/man/chiptype.pdnn.params.Rd
+/man/expressopdnn.Rd
+/man/pdnn.params.chiptype.Rd
+/man/transform.ProbeSet.Rd
+/man/params.dilution.Rd
+/man/find.params.pdnn.Rd
+/man/matplotProbesPDNN.Rd
+/man/generateExprVal.method.pdnn.Rd
+/vignettes/affypdnn.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/affypdnn.Rnw
+/inst/doc/affypdnn.pdf
+/inst/doc/affypdnn.R
+/inst/exampleData/pdnn-energy-parameter_hg-u95av2.txt
+/inst/exampleData/pdnn-energy-parameter_mg-u74av2.txt
+/inst/exampleData/pdnn-energy-parameter_hg-u133a.txt

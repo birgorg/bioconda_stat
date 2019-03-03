@@ -1,0 +1,18 @@
+#package: structureHarvester-e15952601b946267ce566df6ff0dd56df5c8b8f6 
+#url: https://github.com/dentearl/structureHarvester/archive/e15952601b946267ce566df6ff0dd56df5c8b8f6.zip
+ 
+/README.md
+/LICENSE
+/harvesterCore.py
+/structureHarvester.py
+/.gitignore
+/test/data_readFileUnexpectedValue.py
+/test/test_data.py
+/test/data_clumppPriorPopInfo.py
+/test/test_harvesterCore.py
+/test/data_example_harvester_archive.py
+/test/result2test.py
+/test/data_lbroadhurst_okay_1.py
+/test/data_lbroadhurst_okay_0.py
+/test/data_clumppLineStructure.py
+/test/data_clumppRegEx.py

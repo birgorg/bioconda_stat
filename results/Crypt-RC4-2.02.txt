@@ -1,0 +1,8 @@
+#package: Crypt-RC4-2.02 
+#url: http://cpan.metacpan.org/authors/id/S/SI/SIFUKURT/Crypt-RC4-2.02.tar.gz
+ 
+/Makefile.PL
+/MANIFEST
+/RC4.pm
+/Changes
+/test.pl

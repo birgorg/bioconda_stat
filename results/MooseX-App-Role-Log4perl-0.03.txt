@@ -1,0 +1,14 @@
+#package: MooseX-App-Role-Log4perl-0.03 
+#url: https://cpan.metacpan.org/authors/id/P/PS/PSYDEFECT/MooseX-App-Role-Log4perl-0.03.tar.gz
+ 
+/README.md
+/META.yml
+/LICENSE
+/MANIFEST
+/Changes
+/minil.toml
+/META.json
+/cpanfile
+/Build.PL
+/t/00_compile.t
+/lib/MooseX/App/Role/Log4perl.pm

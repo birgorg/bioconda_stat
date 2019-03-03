@@ -1,0 +1,19 @@
+#package: OLE-Storage_Lite-0.19 
+#url: http://cpan.metacpan.org/authors/id/J/JM/JMCNAMARA/OLE-Storage_Lite-0.19.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/01_date_conversion.t
+/t/00_load.t
+/lib/OLE/Storage_Lite.pm
+/sample/smpaddF.pl
+/sample/README
+/sample/smpadd.pl
+/sample/smpsv.pl
+/sample/smpadd_a.pl
+/sample/test.xls
+/sample/smplls_a.pl
+/sample/smplls.pl

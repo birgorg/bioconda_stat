@@ -1,0 +1,7 @@
+#package: cromshell-0.2.3 
+#url: https://github.com/broadinstitute/cromshell/archive/0.2.3.tar.gz
+ 
+/README.md
+/LICENSE
+/cromshell
+/.gitignore

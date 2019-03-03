@@ -1,0 +1,20 @@
+#package: structure_kernel_src 
+#url: https://web.stanford.edu/group/pritchardlab/structure_software/release_versions/v2.3.4/structure_kernel_source.tar.gz
+ 
+/mainparams
+/mymath.h
+/output.c
+/params.h
+/structure.h
+/sort.h
+/params.c
+/Makefile
+/extraparams
+/datain.c
+/sort.c
+/output.h
+/ran.h
+/mymath.c
+/datain.h
+/structure.c
+/ran.c

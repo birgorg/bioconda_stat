@@ -1,0 +1,32 @@
+#package: plgem 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/plgem_1.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/zzz.r
+/R/setGpar.R
+/R/plgem.resampledStn.R
+/R/plgem.fit.R
+/R/privateFunctions.R
+/R/plgem.write.summary.R
+/R/plgem.deg.R
+/R/plgem.pValue.r
+/R/plgem.obsStn.R
+/R/run.plgem.R
+/data/LPSeset.rda
+/man/plgem.write.summary.Rd
+/man/plgem.resampledStn.Rd
+/man/plgem.deg.Rd
+/man/plgem.pValue.rd
+/man/setGpar.Rd
+/man/plgem.fit.Rd
+/man/run.plgem.Rd
+/man/plgem.obsStn.Rd
+/man/LPSeset.Rd
+/vignettes/plgem.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/plgem.pdf
+/inst/doc/plgem.R
+/inst/doc/plgem.Rnw

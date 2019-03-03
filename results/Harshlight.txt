@@ -1,0 +1,18 @@
+#package: Harshlight 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/Harshlight_1.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/Harshlight.R
+/data/sim.rda
+/data/sim.int.rda
+/man/sim.Rd
+/man/Harshlight.Rd
+/man/HarshComp.Rd
+/man/HarshExt.Rd
+/vignettes/Harshlight.Rnw
+/build/vignette.rds
+/inst/doc/Harshlight.Rnw
+/inst/doc/Harshlight.pdf
+/inst/doc/Harshlight.R
+/src/Harshlight.c

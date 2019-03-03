@@ -1,0 +1,10 @@
+#package: Bundle-BioPerl-2.1.9 
+#url: https://cpan.metacpan.org/authors/id/C/CJ/CJFIELDS/Bundle-BioPerl-2.1.9.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/BioPerl.pm

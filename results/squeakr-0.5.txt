@@ -1,0 +1,18 @@
+#package: squeakr-0.5 
+#url: https://github.com/splatlab/squeakr/archive/v0.5.tar.gz
+ 
+/README.md
+/kmer.h
+/kmer_query.cc
+/LICENSE
+/kmer_inner_prod.cc
+/hashutil.h
+/Makefile
+/hashutil.cc
+/main.cc
+/reader.h
+/test.fastq
+/chunk.h
+/.gitignore
+/threadsafe-gqf/gqf.h
+/threadsafe-gqf/gqf.c

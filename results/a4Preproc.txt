@@ -1,0 +1,8 @@
+#package: a4Preproc 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/a4Preproc_1.28.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/addGeneInfo.R
+/man/addGeneInfo.Rd
+/inst/NEWS

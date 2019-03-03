@@ -1,0 +1,12 @@
+#package: LWP-Protocol-https-6.07 
+#url: https://cpan.metacpan.org/authors/id/O/OA/OALDERS/LWP-Protocol-https-6.07.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/https_proxy.t
+/t/apache.t
+/lib/LWP/Protocol/https.pm

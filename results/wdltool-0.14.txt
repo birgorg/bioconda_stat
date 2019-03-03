@@ -1,0 +1,20 @@
+#package: wdltool-0.14 
+#url: https://github.com/broadinstitute/wdltool/archive/0.14.tar.gz
+ 
+/README.md
+/.pullapprove.yml
+/.gitattributes
+/LICENSE.txt
+/build.sbt
+/CHANGELOG.MD
+/.gitignore
+/.travis.yml
+/src/test/scala/wdltool/SampleWdl.scala
+/src/test/scala/wdltool/MainSpec.scala
+/src/main/scala/wdltool/Main.scala
+/src/main/scala/wdltool/graph/WomGraphPrint.scala
+/src/main/scala/wdltool/graph/GraphPrint.scala
+/src/main/scala/wdltool/graph/package.scala
+/.idea/inspectionProfiles/Project_Default.xml
+/project/plugins.sbt
+/project/build.properties

@@ -1,0 +1,15 @@
+#package: GDGraph-histogram-1.1 
+#url: https://cpan.metacpan.org/authors/id/W/WH/WHIZDOG/GDGraph-histogram-1.1.tar.gz
+ 
+/Todo
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/file.png
+/test.pl
+/Makefile.old
+/scripts/histogram.pl
+/t/001_load.t
+/lib/GD/Graph/histogram.pm

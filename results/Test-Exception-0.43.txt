@@ -1,0 +1,27 @@
+#package: Test-Exception-0.43 
+#url: https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Test-Exception-0.43.tar.gz
+ 
+/META.yml
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/t/lives_and.t
+/t/Exception.t
+/t/return.t
+/t/stacktrace.t
+/t/import.t
+/t/preserve.t
+/t/caller.t
+/t/throws_ok.t
+/t/rt.t
+/t/edge-cases.t
+/t/isa.t
+/lib/Test/Exception.pm
+/xt/spelling.t
+/xt/perlcriticrc
+/xt/documented.t
+/xt/pod.t
+/xt/perlcritic.t
+/xt/distmanifest.t

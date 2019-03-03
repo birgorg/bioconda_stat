@@ -1,0 +1,31 @@
+#package: Snap 
+#url: https://www.hiv.lanl.gov/repository/aids-db/PROGS/Snap/Snap.tar.gz
+ 
+/codons-xyplot.pl
+/README
+/NOTICE
+/SNAP.pl
+/SNAPstats.c
+/codon.data
+/codon.ps
+/Codon.pm
+/codon.xy
+/example/dn.outfile
+/example/protease2.xy
+/example/protease.xy
+/example/ds.outfile
+/example/dsdist.17248
+/example/protease.tbl
+/example/protease.mase
+/example/background.17248
+/example/codons.17248
+/example/dn.treefile.ps
+/example/codon.data
+/example/dndist.17248
+/example/protease.codon.data
+/example/codon.ps
+/example/ds.treefile
+/example/dn.treefile
+/example/summary.17248
+/example/ds.treefile.ps
+/example/stats.17248

@@ -1,0 +1,13 @@
+#package: netifaces-0.10.4 
+#url: https://pypi.python.org/packages/source/n/netifaces/netifaces-0.10.4.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/netifaces.c
+/setup.py
+/setup.cfg
+/netifaces.egg-info/zip-safe
+/netifaces.egg-info/top_level.txt
+/netifaces.egg-info/SOURCES.txt
+/netifaces.egg-info/PKG-INFO
+/netifaces.egg-info/dependency_links.txt

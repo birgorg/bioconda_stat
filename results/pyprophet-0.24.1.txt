@@ -1,0 +1,27 @@
+#package: pyprophet-0.24.1 
+#url: https://pypi.io/packages/source/p/pyprophet/pyprophet-0.24.1.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/pyprophet.egg-info/entry_points.txt
+/pyprophet.egg-info/top_level.txt
+/pyprophet.egg-info/not-zip-safe
+/pyprophet.egg-info/SOURCES.txt
+/pyprophet.egg-info/PKG-INFO
+/pyprophet.egg-info/dependency_links.txt
+/pyprophet.egg-info/requires.txt
+/pyprophet/config.py
+/pyprophet/_optimized.c
+/pyprophet/report.py
+/pyprophet/std_logger.py
+/pyprophet/pyprophet.py
+/pyprophet/main_helpers.py
+/pyprophet/stats.py
+/pyprophet/semi_supervised.py
+/pyprophet/__init__.py
+/pyprophet/classifiers.py
+/pyprophet/optimized.py
+/pyprophet/version.py
+/pyprophet/data_handling.py
+/pyprophet/main.py

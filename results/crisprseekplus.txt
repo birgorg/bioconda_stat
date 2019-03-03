@@ -1,0 +1,37 @@
+#package: crisprseekplus 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/crisprseekplus_1.6.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS
+/R/disableDownload.R
+/R/installpack.R
+/R/ui.R
+/R/getImgs.R
+/R/trueFalseFunc.R
+/R/server.R
+/R/startShiny.R
+/R/fileInputFunc.R
+/man/disableDownload.Rd
+/man/getLogo.Rd
+/man/getLoadingMsg.Rd
+/man/fileInputFunc.Rd
+/man/trueFalseFunc.Rd
+/man/startcrisprseekplus.Rd
+/man/installpack.Rd
+/man/cspUI.Rd
+/man/cspServer.Rd
+/docs/quickstart.rst
+/docs/conf.py
+/docs/Makefile
+/docs/index.rst
+/vignettes/crisprseekplus.Rmd
+/build/vignette.rds
+/tests/test-ui.R
+/inst/doc/crisprseekplus.Rmd
+/inst/doc/crisprseekplus.html
+/inst/doc/crisprseekplus.R
+/inst/extdata/www/images/loading.gif
+/inst/extdata/www/images/logo.png

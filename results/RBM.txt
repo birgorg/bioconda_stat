@@ -1,0 +1,16 @@
+#package: RBM 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/RBM_1.12.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/RBM_package.R
+/data/ovarian_cancer_methylation.rda
+/man/ovarian_cancer_methylation.Rd
+/man/RBM_T.Rd
+/man/RBM_F.Rd
+/man/RBM-package.Rd
+/vignettes/RBM.Rnw
+/build/vignette.rds
+/inst/doc/RBM.R
+/inst/doc/RBM.Rnw
+/inst/doc/RBM.pdf

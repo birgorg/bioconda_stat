@@ -1,0 +1,18 @@
+#package: Term-App-Roles-0.02 
+#url: https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/Term-App-Roles-0.02.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/weaver.ini
+/t/author-pod-syntax.t
+/t/author-critic.t
+/t/00-compile.t
+/t/author-pod-coverage.t
+/lib/Term/App/Roles.pm
+/lib/Term/App/Role/Attrs.pm

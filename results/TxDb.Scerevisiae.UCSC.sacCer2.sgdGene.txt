@@ -1,0 +1,8 @@
+#package: TxDb.Scerevisiae.UCSC.sacCer2.sgdGene 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/TxDb.Scerevisiae.UCSC.sacCer2.sgdGene_3.2.2.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Scerevisiae.UCSC.sacCer2.sgdGene.sqlite

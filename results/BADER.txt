@@ -1,0 +1,15 @@
+#package: BADER 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/BADER_1.18.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/BADER.R
+/man/BADER.Rd
+/vignettes/BADER.bib
+/vignettes/BADER.Rnw
+/build/vignette.rds
+/inst/doc/BADER.pdf
+/inst/doc/BADER.R
+/inst/doc/BADER.Rnw
+/src/meth.cpp
+/src/meth.h

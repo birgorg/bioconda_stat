@@ -1,0 +1,19 @@
+#package: arboreto-0.1.5 
+#url: https://pypi.io/packages/source/a/arboreto/arboreto-0.1.5.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/tests/test_algo.py
+/tests/__init__.py
+/tests/test_core.py
+/arboreto/core.py
+/arboreto/algo.py
+/arboreto/__init__.py
+/arboreto/utils.py
+/arboreto.egg-info/top_level.txt
+/arboreto.egg-info/SOURCES.txt
+/arboreto.egg-info/PKG-INFO
+/arboreto.egg-info/dependency_links.txt
+/arboreto.egg-info/requires.txt

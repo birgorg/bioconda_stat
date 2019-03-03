@@ -1,0 +1,24 @@
+#package: InteGO 
+#url: http://marie.verbanck.free.fr/packages/InteGO/InteGO_2.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/Integration.R
+/R/intego.R
+/R/PlotPvalues.R
+/R/MCAsimple.R
+/R/Indicators.R
+/R/PCAsimple.R
+/R/IndicatorsPvalues.R
+/R/clustering.R
+/R/GeneClustering.R
+/man/intego.Rd
+/man/MCAsimple.Rd
+/man/InteGO-package.Rd
+/man/IndicatorsPvalues.Rd
+/man/PCAsimple.Rd
+/man/Indicators.Rd
+/man/Integration.Rd
+/man/GeneClustering.Rd
+/man/PlotPvalues.Rd
+/man/clustering.Rd

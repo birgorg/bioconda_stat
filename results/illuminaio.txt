@@ -1,0 +1,36 @@
+#package: illuminaio 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/illuminaio_0.22.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/readBPM.R
+/R/readIDAT.R
+/R/zzz.R
+/R/readIDAT_nonenc.R
+/R/readIDAT_enc.R
+/R/readBGX.R
+/man/readIDAT.Rd
+/man/readBPM.Rd
+/man/readBGX.Rd
+/vignettes/EncryptedFormat.Rnw
+/vignettes/illuminaio.bib
+/vignettes/illuminaio.Rnw
+/build/vignette.rds
+/tests/readBPM.R
+/tests/readIDAT_gs_wg6v2.R
+/tests/readIDAT_370k.R
+/tests/readIDAT_450k.R
+/tests/readIDAT_370k_gz.R
+/tests/readIDAT_450k_gz.R
+/tests/readIDAT_wg6v2.R
+/tests/readIDAT_ht12v4.R
+/inst/CITATION
+/inst/doc/illuminaio.pdf
+/inst/doc/EncryptedFormat.pdf
+/inst/doc/EncryptedFormat.Rnw
+/inst/doc/illuminaio.Rnw
+/inst/doc/illuminaio.R
+/src/des.h
+/src/local_des.c
+/src/des.c

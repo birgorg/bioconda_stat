@@ -1,0 +1,20 @@
+#package: Proc-Fork-0.804 
+#url: https://cpan.metacpan.org/authors/id/A/AR/ARISTOTLE/Proc-Fork-0.804.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/weaver.ini
+/t/mock.t
+/t/real.t
+/t/00-compile.t
+/lib/Proc/Fork.pm
+/eg/daemon.pl
+/eg/multichild.pl
+/eg/simple.pl
+/eg/server.pl

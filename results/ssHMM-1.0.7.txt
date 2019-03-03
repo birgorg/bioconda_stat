@@ -1,0 +1,28 @@
+#package: ssHMM-1.0.7 
+#url: https://github.molgen.mpg.de/heller/ssHMM/archive/v1.0.7.tar.gz
+ 
+/README.md
+/LICENSE
+/setup.py
+/bin/draw_model_graph
+/bin/batch_seqstructhmm
+/bin/train_seqstructhmm
+/bin/preprocess_dataset
+/sshmm/README_Cython.txt
+/sshmm/log.py
+/sshmm/SimpleQueue.py
+/sshmm/pwm.py
+/sshmm/MyHMM.py
+/sshmm/__init__.py
+/sshmm/structure_prediction.py
+/sshmm/seq_hmm.py
+/sshmm/setup.py
+/sshmm/seqstructhmm.py
+/sshmm/cEstimate.pyx
+/sshmm/sequence_container.py
+/sshmm/cEstimate.c
+/sshmm/img/C.png
+/sshmm/img/T.png
+/sshmm/img/U.png
+/sshmm/img/G.png
+/sshmm/img/A.png

@@ -1,0 +1,30 @@
+#package: BCRANK 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/BCRANK_1.42.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/AllClasses.R
+/R/methods-BCRANKmatch.R
+/R/methods-BCRANKresult.R
+/R/AllGenerics.R
+/R/methods-BCRANKsearch.R
+/R/BCRANK.R
+/data/BCRANKout.rda
+/man/BCRANKout.Rd
+/man/matchingSites.Rd
+/man/BCRANKmatch-class.Rd
+/man/BCRANKsearch-class.Rd
+/man/BCRANKresult-class.Rd
+/man/BCRANK-internal.Rd
+/man/bcrank.Rd
+/vignettes/BCRANK_intro_fig1.pdf
+/vignettes/BCRANK.Rnw
+/vignettes/BCRANK_intro_fig2.pdf
+/build/vignette.rds
+/inst/doc/BCRANK.pdf
+/inst/doc/BCRANK.Rnw
+/inst/doc/BCRANK.R
+/inst/Exfiles/USF1_small.fa
+/src/match_consensus.c
+/src/match_consensus.h
+/src/init.c

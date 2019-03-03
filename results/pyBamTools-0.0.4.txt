@@ -1,0 +1,22 @@
+#package: pyBamTools-0.0.4 
+#url: https://pypi.python.org/packages/3c/6f/7c281f7becd18362d9681bd03995c26e005cf9b25af1486495b1df3f421e/pyBamTools-0.0.4.tar.gz
+ 
+/README
+/PKG-INFO
+/setup.py
+/setup.cfg
+/lib/pyBamTools.egg-info/top_level.txt
+/lib/pyBamTools.egg-info/not-zip-safe
+/lib/pyBamTools.egg-info/SOURCES.txt
+/lib/pyBamTools.egg-info/PKG-INFO
+/lib/pyBamTools.egg-info/dependency_links.txt
+/lib/pyBamTools.egg-info/requires.txt
+/lib/pyBamTools/__init__.py
+/lib/pyBamTools/coverage/__init__.py
+/lib/pyBamTools/util/odict.py
+/lib/pyBamTools/util/nuc.py
+/lib/pyBamTools/util/__init__.py
+/lib/pyBamTools/util/sam.py
+/lib/pyBamTools/util/vcf.py
+/lib/pyBamTools/genotyping/__init__.py
+/lib/pyBamTools/genotyping/naive.py

@@ -1,0 +1,35 @@
+#package: fermi2-580ec8ffd30b73e33c7dda5b13a5bfb4281466ac 
+#url: https://github.com/lh3/fermi2/archive/580ec8ffd30b73e33c7dda5b13a5bfb4281466ac.tar.gz
+ 
+/README.md
+/sgdp.md
+/khash.h
+/rld0.c
+/sub.c
+/kseq.h
+/main.c
+/seq.c
+/unitig.c
+/correct.c
+/ksw.h
+/mag.h
+/Makefile
+/match.c
+/sys.c
+/dfs.c
+/bubble.c
+/fermi2.pl
+/unpack.c
+/kstring.h
+/diff.c
+/sa.c
+/priv.h
+/ksort.h
+/ksw.c
+/mag.c
+/fermi2.js
+/.gitignore
+/fermi2.h
+/rld0.h
+/kthread.c
+/kvec.h

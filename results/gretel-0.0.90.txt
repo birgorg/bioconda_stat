@@ -1,0 +1,24 @@
+#package: gretel-0.0.90 
+#url: https://github.com/SamStudio8/gretel/archive/v0.0.90.tar.gz
+ 
+/LICENSE
+/Makefile
+/README.rst
+/CHANGELOG.rst
+/setup.py
+/.gitignore
+/docs/make.bat
+/docs/conf.py
+/docs/Makefile
+/docs/readme.rst
+/docs/changelog.rst
+/docs/protocol.rst
+/docs/index.rst
+/docs/gretel.rst
+/docs/modules.rst
+/docs/source/gretel.rst
+/docs/source/modules.rst
+/gretel/cmd.py
+/gretel/__init__.py
+/gretel/gretel.py
+/gretel/util.py

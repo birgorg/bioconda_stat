@@ -1,0 +1,9 @@
+#package: fastqe-0.1.1 
+#url: https://pypi.io/packages/source/f/fastqe/fastqe-0.1.1.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/fastqe/__init__.py
+/fastqe/fastqe.py
+/fastqe/fastqe_map.py

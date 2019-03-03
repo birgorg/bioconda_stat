@@ -1,0 +1,15 @@
+#package: mercat-0.2 
+#url: https://github.com/pnnl/mercat/archive/0.2.tar.gz
+ 
+/README.md
+/Mercat_workflowpng.png
+/dependencies.txt
+/LICENSE.txt
+/DISCLAIMER.txt
+/setup.py
+/mercat/TruSeq2-SE.fa
+/mercat/Chunker.py
+/mercat/metrics.py
+/mercat/mercat.py
+/mercat/__init__.py
+/bioconda.recipe/meta.yaml

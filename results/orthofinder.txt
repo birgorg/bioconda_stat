@@ -1,0 +1,32 @@
+#package: orthofinder 
+#url: https://github.com/davidemms/OrthoFinder/releases/download/v2.2.7/OrthoFinder-2.2.7_source.tar.gz
+ 
+/README.md
+/__init__.py
+/config.json
+/orthofinder.py
+/License.md
+/scripts/program_caller.py
+/scripts/stride.py
+/scripts/wrapper_phyldog.py
+/scripts/resolve.py
+/scripts/__init__.py
+/scripts/mcl.py
+/scripts/consensus_tree.py
+/scripts/orthologues.py
+/scripts/probroot.py
+/scripts/parallel_task_manager.py
+/scripts/trees2ologs_dlcpar.py
+/scripts/trees_msa.py
+/scripts/trees2ologs_of.py
+/scripts/matrices.py
+/scripts/newick.py
+/scripts/stag.py
+/scripts/util.py
+/scripts/blast_file_processor.py
+/scripts/tree.py
+/tools/convert_tree_ids.py
+/ExampleData/Mycoplasma_genitalium.faa
+/ExampleData/Mycoplasma_agalactiae.faa
+/ExampleData/Mycoplasma_gallisepticum.faa
+/ExampleData/Mycoplasma_hyopneumoniae.faa

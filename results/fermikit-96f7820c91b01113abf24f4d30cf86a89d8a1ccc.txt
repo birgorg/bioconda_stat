@@ -1,0 +1,21 @@
+#package: fermikit-96f7820c91b01113abf24f4d30cf86a89d8a1ccc 
+#url: https://github.com/lh3/fermikit/archive/96f7820c91b01113abf24f4d30cf86a89d8a1ccc.tar.gz
+ 
+/README.md
+/run-calling
+/Makefile
+/k8-0.2.2.tar.bz2
+/.gitmodules
+/NEWS.md
+/.gitignore
+/.travis.yml
+/test/test.sh
+/test/HS1011_11_1910000_1940000.fastq.gz
+/test/11_1910000_1940000.fa
+/tex/fermikit.tex
+/tex/fermikit.bib
+/tex/del2bed.js
+/tex/natbib.bst
+/tex/Makefile
+/tex/bioinfo.cls
+/tex/natbib.sty

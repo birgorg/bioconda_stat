@@ -1,0 +1,10 @@
+#package: Number-Range-0.12 
+#url: https://cpan.metacpan.org/authors/id/L/LA/LARRYSH/Number-Range-0.12.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/Number-Range.t
+/lib/Number/Range.pm

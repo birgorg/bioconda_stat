@@ -1,0 +1,25 @@
+#package: ropebwt2-e23a7df263571c02aa0c0434e623108482097e3d 
+#url: https://github.com/lh3/ropebwt2/archive/e23a7df263571c02aa0c0434e623108482097e3d.tar.gz
+ 
+/README.md
+/crlf.h
+/rld0.c
+/kseq.h
+/mrope.c
+/main.c
+/LICENSE.txt
+/Makefile
+/mrope.h
+/rle.h
+/rle.c
+/rope.c
+/.gitignore
+/crlf.c
+/rld0.h
+/rope.h
+/tex/ropebwt2.tex
+/tex/ropebwt2.bib
+/tex/natbib.bst
+/tex/Makefile
+/tex/bioinfo.cls
+/tex/natbib.sty

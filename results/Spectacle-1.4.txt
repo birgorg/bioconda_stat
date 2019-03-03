@@ -1,0 +1,5 @@
+#package: Spectacle-1.4 
+#url: https://github.com/jiminsong/Spectacle/archive/v1.4.tar.gz
+ 
+/Spectacle.zip
+/README

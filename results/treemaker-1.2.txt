@@ -1,0 +1,19 @@
+#package: treemaker-1.2 
+#url: https://pypi.io/packages/source/t/treemaker/treemaker-1.2.tar.gz
+ 
+/README.md
+/LICENSE
+/CONTRIBUTING.md
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/treemaker/treemaker.py
+/treemaker/__init__.py
+/treemaker/test_treemaker.py
+/treemaker.egg-info/zip-safe
+/treemaker.egg-info/entry_points.txt
+/treemaker.egg-info/top_level.txt
+/treemaker.egg-info/SOURCES.txt
+/treemaker.egg-info/PKG-INFO
+/treemaker.egg-info/dependency_links.txt

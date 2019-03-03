@@ -1,0 +1,23 @@
+#package: RRHO 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/RRHO_1.20.0.tar.gz
+ 
+/NAMESPACE
+/.Rinstignore
+/DESCRIPTION
+/NEWS
+/R/RRHO_comparison.R
+/R/ExpressionAnalysis.R
+/data/lists.RData
+/man/RRHO-package.Rd
+/man/pvalRRHO.Rd
+/man/HNP.Rd
+/man/RRHO.Rd
+/man/RRHOComparison.Rd
+/vignettes/RRHO.Rnw
+/vignettes/RRHO.bib
+/temp/testing.R
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/RRHO.Rnw
+/inst/doc/RRHO.pdf
+/inst/doc/RRHO.R

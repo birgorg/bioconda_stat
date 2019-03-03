@@ -1,0 +1,27 @@
+#package: Bracken-2.2 
+#url: https://github.com/jenniferlu717/Bracken/archive/v2.2.tar.gz
+ 
+/bracken
+/README.md
+/LICENSE
+/bracken-build
+/install_bracken.sh
+/sample_data/sample_output_bracken.mpa
+/sample_data/sample_test.report
+/sample_data/sample_output_bracken_with_intermediate.mpa
+/sample_data/sample_output_bracken.report
+/sample_data/sample_kmer_distr_75mers.txt
+/sample_data/sample_output_species_abundance.txt
+/analysis_scripts/combine_bracken_outputs.py
+/src/kmer2read_distr.cpp
+/src/kraken_processing.h
+/src/est_abundance.py
+/src/kmer2read_headers.h
+/src/taxonomy.h
+/src/taxonomy.cpp
+/src/Makefile
+/src/kraken_processing.cpp
+/src/generate_kmer_distribution.py
+/src/time.h
+/src/time.cpp
+/src/kreport2mpa.py

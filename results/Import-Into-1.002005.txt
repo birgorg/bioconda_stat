@@ -1,0 +1,12 @@
+#package: Import-Into-1.002005 
+#url: https://cpan.metacpan.org/authors/id/H/HA/HAARG/Import-Into-1.002005.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/import_into.t
+/lib/Import/Into.pm
+/maint/Makefile.PL.include

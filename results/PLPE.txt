@@ -1,0 +1,36 @@
+#package: PLPE 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/PLPE_1.40.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/INDEX
+/COPYING
+/R/lpe.paired.default.R
+/R/lpe.paired.R
+/R/base.error.paired.R
+/R/print.lpe.paired.fdr.R
+/R/am.trans.paired.R
+/R/print.lpe.paired.R
+/R/generate.null.R
+/R/lpe.paired.fdr.R
+/R/summary.lpe.paired.fdr.R
+/R/summary.lpe.paired.R
+/R/lpe.paired.fdr.default.R
+/data/plateletSet.RData
+/man/summary.lpe.paired.Rd
+/man/plateletSet.Rd
+/man/base.error.paired.Rd
+/man/lpe.paired.fdr.Rd
+/man/lpe.paired.default.Rd
+/man/generate.null.Rd
+/man/lpe.paired.fdr.default.Rd
+/man/summary.lpe.paired.fdr.Rd
+/man/print.lpe.paired.Rd
+/man/am.trans.paired.Rd
+/man/print.lpe.paired.fdr.Rd
+/man/lpe.paired.Rd
+/vignettes/PLPE.Rnw
+/build/vignette.rds
+/inst/doc/PLPE.pdf
+/inst/doc/PLPE.R
+/inst/doc/PLPE.Rnw

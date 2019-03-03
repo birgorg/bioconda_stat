@@ -1,0 +1,12 @@
+#package: dropletutils-scripts-0.0.1 
+#url: https://github.com/ebi-gene-expression-group/dropletutils-scripts/archive/v0.0.1.tar.gz
+ 
+/README.md
+/dropletutils-scripts-post-install-tests.bats
+/dropletutils-downsample-matrix.R
+/dropletutils-scripts-post-install-tests.sh
+/dropletutils-read-10x-counts.R
+/dropletutils-empty-drops.R
+/VERSION
+/dropletutils-barcoderanks.R
+/.travis.yml

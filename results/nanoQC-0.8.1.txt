@@ -1,0 +1,19 @@
+#package: nanoQC-0.8.1 
+#url: https://pypi.io/packages/source/n/nanoqc/nanoQC-0.8.1.tar.gz
+ 
+/README.md
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/scripts/test.sh
+/nanoQC/__init__.py
+/nanoQC/nanoQC.py
+/nanoQC/version.py
+/nanoQC.egg-info/entry_points.txt
+/nanoQC.egg-info/top_level.txt
+/nanoQC.egg-info/SOURCES.txt
+/nanoQC.egg-info/PKG-INFO
+/nanoQC.egg-info/dependency_links.txt
+/nanoQC.egg-info/requires.txt

@@ -1,0 +1,18 @@
+#package: Vega 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/Vega_1.28.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/plotSegmentation.R
+/R/vega.R
+/data/G519.RData
+/man/Vega-package.Rd
+/man/vega.Rd
+/man/plotSegmentation.Rd
+/man/G519.Rd
+/vignettes/Vega.Rnw
+/build/vignette.rds
+/inst/doc/Vega.R
+/inst/doc/Vega.pdf
+/inst/doc/Vega.Rnw
+/src/vega.c

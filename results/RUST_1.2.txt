@@ -1,0 +1,12 @@
+#package: RUST_1.2 
+#url: https://lapti.ucc.ie/rust/scripts/RUST_1.2.tar.gz
+ 
+/rust_amino
+/rust_plot_transcript
+/rust_tripeptide
+/rust_codon
+/rust_synergy
+/rust_nucleotide
+/rust_dipeptide
+/rust_predict_profiles
+/COPYING

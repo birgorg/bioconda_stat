@@ -1,0 +1,14 @@
+#package: riborex-2.3.4 
+#url: https://github.com/smithlabcode/riborex/archive/v2.3.4.tar.gz
+ 
+/README.md
+/NAMESPACE
+/CHANGELOG.md
+/DESCRIPTION
+/.gitignore
+/R/riborex.r
+/data/riborexdata.RData
+/man/riborex.Rd
+/vignettes/riborex.pdf
+/vignettes/riborex.Rmd
+/inst/CITATION

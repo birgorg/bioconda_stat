@@ -1,0 +1,8 @@
+#package: PureCLIP-1.2.0-linux64-static 
+#url: https://github.com/skrakau/PureCLIP/releases/download/v1.2.0/pureclip-1.2.0-linux64-static.tar.gz
+ 
+/README
+/LICENSE.md
+/winextract
+/pureclip
+/util/compute_CLmotif_scores.sh

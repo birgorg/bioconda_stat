@@ -1,0 +1,12 @@
+#package: File-Grep-0.02 
+#url: https://cpan.metacpan.org/authors/id/M/MN/MNEYLON/File-Grep-0.02.tar.gz
+ 
+/META.yml
+/Grep.pm
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/grep.t
+/t/test.txt
+/t/test2.txt

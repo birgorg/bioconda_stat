@@ -1,0 +1,10 @@
+#package: asqcan-0.2 
+#url: https://github.com/bogemad/asqcan/archive/v0.2.tar.gz
+ 
+/README.md
+/LICENSE
+/asqcan.py
+/setup.py
+/test/reads/ecoli_1K_mod.fq.gz
+/test/reads/ecoli_1K.fq.gz
+/bin/asqcan

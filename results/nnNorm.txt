@@ -1,0 +1,20 @@
+#package: nnNorm 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/nnNorm_2.44.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/detectSpatialBias.R
+/R/maNormNN.R
+/R/compNorm.R
+/man/compNorm.Rd
+/man/maNormNN.Rd
+/man/detectSpatialBias.Rd
+/vignettes/nnNormGuide.pdf
+/vignettes/nnNorm.Rnw
+/vignettes/nnNorm.bib
+/build/vignette.rds
+/inst/doc/nnNorm.R
+/inst/doc/nnNorm.pdf
+/inst/doc/nnNorm.Rnw
+/inst/otherDoc/nnNormGuide.bib
+/inst/otherDoc/nnNormGuide.Rnw

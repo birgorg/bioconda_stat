@@ -1,0 +1,14 @@
+#package: transrate-tools-1.0.0 
+#url: https://github.com/blahah/transrate-tools/archive/v1.0.0.tar.gz
+ 
+/README.md
+/CMakeLists.txt
+/.gitmodules
+/.gitignore
+/src/segmenter.h
+/src/pileup.cpp
+/src/pileup.h
+/src/bam-read.cpp
+/src/CMakeLists.txt
+/src/segmenter.cpp
+/src/bam-read.h

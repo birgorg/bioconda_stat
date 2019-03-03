@@ -1,0 +1,21 @@
+#package: Module-CoreList-5.20181218 
+#url: https://cpan.metacpan.org/authors/id/B/BI/BINGOS/Module-CoreList-5.20181218.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/identify-dependencies
+/corelist
+/t/deprecated.t
+/t/corelist.t
+/t/pod.t
+/t/utils.t
+/t/is_core.t
+/t/maintainer.t
+/t/find_modules.t
+/lib/Module/CoreList.pm
+/lib/Module/CoreList.pod
+/lib/Module/CoreList/Utils.pm

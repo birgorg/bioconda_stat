@@ -1,0 +1,28 @@
+#package: DBChIP 
+#url: http://pages.cs.wisc.edu/~kliang/DBChIP/DBChIP_1.1.6.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/DBChIP.R
+/R/NCIS.R
+/data/PHA4.rda
+/data/datalist
+/man/PHA4.Rd
+/man/binding.site.list.Rd
+/man/report.peak.Rd
+/man/input.data.list.Rd
+/man/chip.data.list.Rd
+/man/site.merge.Rd
+/man/plotPeak.Rd
+/man/DBChIP.Rd
+/man/test.diff.binding.Rd
+/man/load.data.Rd
+/man/conds.Rd
+/man/DBChIP-package.Rd
+/man/get.site.count.Rd
+/man/read.binding.site.list.Rd
+/inst/ext/emb.binding.txt
+/inst/ext/L1.binding.txt
+/inst/doc/DBChIP.Rnw
+/inst/doc/DBChIP.pdf
+/inst/doc/DBChIP.bib

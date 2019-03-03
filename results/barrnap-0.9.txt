@@ -1,0 +1,30 @@
+#package: barrnap-0.9 
+#url: https://github.com/tseemann/barrnap/archive/0.9.tar.gz
+ 
+/README.md
+/LICENSE
+/Makefile
+/LICENSE.SILVA
+/LICENSE.Rfam
+/.gitignore
+/.travis.yml
+/examples/null.fna
+/examples/bacteria.fna
+/examples/empty.fna
+/examples/small.fna
+/examples/protein.fna
+/examples/archaea.fna
+/examples/nohits.fna
+/examples/fungus.fna
+/examples/mitochondria.fna
+/bin/barrnap
+/db/mito.hmm
+/db/euk.hmm
+/db/bac.hmm
+/db/arc.hmm
+/build/12S.mito.aln
+/build/16S.mito.aln
+/build/fix-SILVA.pl
+/build/build_HMMs.sh
+/binaries/linux/nhmmer
+/binaries/darwin/nhmmer

@@ -1,0 +1,21 @@
+#package: chainmap-1.0.2 
+#url: https://pypi.python.org/packages/56/09/0f2f2e693bb102083b7e77fc2b7f97b9195dc4c90dcfa85038a2d128161b/chainmap-1.0.2.tar.gz
+ 
+/tox.ini
+/toxcov.ini
+/pytest.ini
+/CHANGES.yml
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/chainmap.egg-info/top_level.txt
+/chainmap.egg-info/not-zip-safe
+/chainmap.egg-info/SOURCES.txt
+/chainmap.egg-info/PKG-INFO
+/chainmap.egg-info/dependency_links.txt
+/test/test_chainmap.py
+/chainmap/__init__.py
+/chainmap/version.py
+/chainmap/chainmap.py

@@ -1,0 +1,26 @@
+#package: pkgDepTools 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/pkgDepTools_1.46.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/getDownloadSize.R
+/R/parseContentLength.R
+/R/getInstallOrder.R
+/R/zzz.R
+/R/makeDepGraph.R
+/R/basicInstallOrder.R
+/R/cleanPkgField.R
+/R/makePkgUrl.R
+/man/pkgDepTools-package.Rd
+/man/getInstallOrder.Rd
+/man/getDownloadSize.Rd
+/man/makePkgUrl.Rd
+/man/cleanPkgField.Rd
+/man/basicInstallOrder.Rd
+/man/makeDepGraph.Rd
+/man/parseContentLength.Rd
+/vignettes/pkgDepTools.Rnw
+/build/vignette.rds
+/inst/doc/pkgDepTools.R
+/inst/doc/pkgDepTools.Rnw
+/inst/doc/pkgDepTools.pdf

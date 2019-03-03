@@ -1,0 +1,24 @@
+#package: uropa-2.0.2a0 
+#url: https://pypi.io/packages/source/u/uropa/uropa-2.0.2a0.tar.gz
+ 
+/README.md
+/LICENSE
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/uropa/config.py
+/uropa/__init__.py
+/uropa/overlaps.py
+/uropa/uropa.py
+/uropa/annotation.py
+/uropa.egg-info/entry_points.txt
+/uropa.egg-info/top_level.txt
+/uropa.egg-info/not-zip-safe
+/uropa.egg-info/SOURCES.txt
+/uropa.egg-info/PKG-INFO
+/uropa.egg-info/dependency_links.txt
+/uropa.egg-info/requires.txt
+/utils/uropa_summary.R
+/utils/uropa2gtf.R
+/utils/uropa_reformat_output.R

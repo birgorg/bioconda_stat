@@ -1,0 +1,7 @@
+#package: TargetFinder-1.7 
+#url: https://github.com/carringtonlab/TargetFinder/archive/v1.7.tar.gz
+ 
+/README.md
+/targetfinder_threads.pl
+/LICENSE
+/targetfinder.pl

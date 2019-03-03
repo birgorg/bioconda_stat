@@ -1,0 +1,8 @@
+#package: TxDb.Rnorvegicus.UCSC.rn6.refGene 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/TxDb.Rnorvegicus.UCSC.rn6.refGene_3.4.3.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Rnorvegicus.UCSC.rn6.refGene.sqlite

@@ -1,0 +1,9 @@
+#package: IGV_2.4.9 
+#url: http://data.broadinstitute.org/igv/projects/downloads/2.4/IGV_2.4.9.zip
+ 
+/igv.sh
+/igv.bat
+/goby-io-igv__V1.0.jar
+/batik-codec__V1.7.jar
+/igv.jar
+/igv.command

@@ -1,0 +1,16 @@
+#package: Math-Complex-1.59 
+#url: https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Math-Complex-1.59.tar.gz
+ 
+/META.yml
+/TODO
+/Makefile.PL
+/MANIFEST
+/META.json
+/ChangeLog
+/t/underbar.t
+/t/pod.t
+/t/Trig.t
+/t/pod-coverage.t
+/t/Complex.t
+/lib/Math/Complex.pm
+/lib/Math/Trig.pm

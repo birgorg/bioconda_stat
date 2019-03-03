@@ -1,0 +1,32 @@
+#package: bioDist 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/bioDist_1.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/KLD.matrix.R
+/R/closest.top.R
+/R/KLdist.matrix.R
+/R/zzz.R
+/R/tau.dist.R
+/R/spearman.dist.R
+/R/cor.dist.R
+/R/KLD.R
+/R/mutualInfo.R
+/R/dens2func.R
+/R/man.R
+/R/euc.R
+/R/locf2func.R
+/man/tau.dist.Rd
+/man/KLD.matrix.Rd
+/man/cor.dist.Rd
+/man/man.Rd
+/man/KLdist.matrix.Rd
+/man/closest.top.Rd
+/man/spearman.dist.Rd
+/man/mutualInfo.Rd
+/man/euc.Rd
+/vignettes/bioDist.Rnw
+/build/vignette.rds
+/inst/doc/bioDist.Rnw
+/inst/doc/bioDist.R
+/inst/doc/bioDist.pdf

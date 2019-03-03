@@ -1,0 +1,14 @@
+#package: nvc-0.0.4 
+#url: https://pypi.python.org/packages/36/2d/4aacffb051058f630b13ed773cabde623d89e705fbacbe11339a43edc8ac/nvc-0.0.4.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/nvc.egg-info/top_level.txt
+/nvc.egg-info/not-zip-safe
+/nvc.egg-info/SOURCES.txt
+/nvc.egg-info/PKG-INFO
+/nvc.egg-info/dependency_links.txt
+/nvc.egg-info/requires.txt
+/nvc/naive_variant_caller.py

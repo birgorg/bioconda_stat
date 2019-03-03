@@ -1,0 +1,32 @@
+#package: rRDP 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/rRDP_1.14.0.tar.gz
+ 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/RDP.R
+/R/accuracy.R
+/R/annotation.R
+/man/RDP.Rd
+/man/annotation.Rd
+/man/accuracy.Rd
+/java/README
+/vignettes/rRDP.bib
+/vignettes/sequence.bib
+/vignettes/rRDP.Rnw
+/build/vignette.rds
+/inst/examples/Firmicutes.fasta
+/inst/examples/RNA_example.fasta
+/inst/examples/testSequences.fasta
+/inst/examples/trainingSequences.fasta
+/inst/doc/rRDP.R
+/inst/doc/rRDP.Rnw
+/inst/doc/rRDP.pdf
+/inst/java/rdp_classifier.jar
+/inst/java/rRNAClassifier.properties
+/inst/java/lib/commons-cli-1.2.jar
+/inst/java/lib/jcommon-1.0.16.jar
+/inst/java/lib/TaxonomyTree.jar
+/inst/java/lib/commons-io-2.4.jar
+/inst/java/lib/ReadSeq.jar
+/inst/java/lib/AlignmentTools.jar

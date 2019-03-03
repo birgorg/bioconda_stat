@@ -1,0 +1,21 @@
+#package: BSgenome.Ecoli.NCBI.20080805 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/BSgenome.Ecoli.NCBI.20080805_1.3.1000.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/NC_002695.rda
+/inst/extdata/NC_009801.rda
+/inst/extdata/NC_008563.rda
+/inst/extdata/seqlengths.rda
+/inst/extdata/NC_000913.rda
+/inst/extdata/NC_010473.rda
+/inst/extdata/AC_000091.rda
+/inst/extdata/NC_010498.rda
+/inst/extdata/NC_002655.rda
+/inst/extdata/NC_004431.rda
+/inst/extdata/NC_008253.rda
+/inst/extdata/NC_009800.rda
+/inst/extdata/NC_010468.rda
+/inst/extdata/NC_007946.rda

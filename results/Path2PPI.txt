@@ -1,0 +1,33 @@
+#package: Path2PPI 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/Path2PPI_1.10.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/CITATION
+/NEWS
+/R/private_methods.R
+/R/AllClasses.R
+/R/show-methods.R
+/R/initialize-methods.R
+/R/public_methods.R
+/R/AllGenerics.R
+/data/ai.rda
+/man/getPPI.Rd
+/man/ai.Rd
+/man/addReference.Rd
+/man/getHybridNetwork.Rd
+/man/plot.Path2PPI.Rd
+/man/predictPPI.Rd
+/man/homologyScore.Rd
+/man/Path2PPI.Rd
+/man/showInteraction.Rd
+/man/removeReference.Rd
+/man/showReferences.Rd
+/vignettes/Path2PPI-tutorial.Rmd
+/vignettes/figures/algorithm.png
+/build/vignette.rds
+/tests/runTests.R
+/inst/doc/Path2PPI-tutorial.html
+/inst/doc/Path2PPI-tutorial.Rmd
+/inst/doc/Path2PPI-tutorial.R
+/inst/unitTests/test_various.R

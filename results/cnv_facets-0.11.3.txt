@@ -1,0 +1,34 @@
+#package: cnv_facets-0.11.3 
+#url: https://github.com/wwcrc/cnv_facets/archive/v0.11.3.tar.gz
+ 
+/README.md
+/setup.sh
+/LICENSE
+/.gitignore
+/.travis.yml
+/docs/stomach_panel.cov.png
+/docs/tex.spider.png
+/docs/tex.cnv.png
+/test/test_cnv_facets.R
+/test/test_cnv_facets.py
+/test/testthat.R
+/test/covr.R
+/test/data/README.md
+/test/data/annotation.bed
+/test/data/cnv_classification.tsv
+/test/data/stomach.csv.gz
+/test/data/TCRBOA6-T-WEX.sample.bam.bai
+/test/data/pileup.csv.gz
+/test/data/common.sample.vcf.gz.tbi
+/test/data/TCRBOA6-N-WEX.sample.bam
+/test/data/rcmat.txt.gz
+/test/data/single_end.bam
+/test/data/stomach_chr.csv.gz
+/test/data/pileup.csv
+/test/data/single_end.bam.bai
+/test/data/TCRBOA6-N-WEX.sample.bam.bai
+/test/data/common.sample.vcf.gz
+/test/data/targets.bed
+/test/data/TCRBOA6-T-WEX.sample.bam
+/bin/cnv_facets.R
+/install/install_pkgs.R

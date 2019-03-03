@@ -1,0 +1,12 @@
+#package: xopen-0.3.5 
+#url: https://files.pythonhosted.org/packages/e6/7d/15cfc41aa384e6a1dc60852d4df863524c647d852d62190fa638ba9abb58/xopen-0.3.5.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/xopen.py
+/xopen.egg-info/top_level.txt
+/xopen.egg-info/SOURCES.txt
+/xopen.egg-info/PKG-INFO
+/xopen.egg-info/dependency_links.txt

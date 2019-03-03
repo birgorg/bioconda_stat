@@ -1,0 +1,22 @@
+#package: sagenhaft 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/sagenhaft_1.50.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/sagenhaft.R
+/data/SAGEartifacts.txt.gz
+/man/sage.test.Rd
+/man/sage.utilities.Rd
+/man/extract.lib.Rd
+/man/sage.library.Rd
+/man/sage.library.comparison.Rd
+/man/sagelibrary.simulate.Rd
+/man/error.correction.Rd
+/vignettes/SAGEnhaft.Rnw
+/build/vignette.rds
+/inst/doc/SAGEnhaft.Rnw
+/inst/doc/SAGEnhaft.pdf
+/inst/doc/SAGEnhaft.R
+/inst/extdata/B6HypothalHFI.sage
+/inst/extdata/E15postHFI.zip
+/inst/extdata/E15postHFI.sage

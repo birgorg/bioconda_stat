@@ -1,0 +1,25 @@
+#package: cytolib 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/cytolib_1.2.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/vignettes/cytolib.Rmd
+/build/vignette.rds
+/inst/doc/cytolib.R
+/inst/doc/cytolib.Rmd
+/inst/doc/cytolib.html
+/inst/include/cytolib/flowData.hpp
+/inst/include/cytolib/POPINDICES.hpp
+/inst/include/cytolib/ellipse2points.hpp
+/inst/include/cytolib/calibrationTable.hpp
+/inst/include/cytolib/populationTree.hpp
+/inst/include/cytolib/GatingHierarchy.hpp
+/inst/include/cytolib/delimitedMessage.hpp
+/inst/include/cytolib/global.hpp
+/inst/include/cytolib/GatingSet.hpp
+/inst/include/cytolib/transformation.hpp
+/inst/include/cytolib/spline.hpp
+/inst/include/cytolib/gate.hpp
+/inst/include/cytolib/nodeProperties.hpp
+/inst/include/cytolib/compensation.hpp

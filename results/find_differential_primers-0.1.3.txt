@@ -1,0 +1,32 @@
+#package: find_differential_primers-0.1.3 
+#url: https://github.com/widdowquinn/find_differential_primers/archive/v0.1.3.tar.gz
+ 
+/README.md
+/LICENSE
+/setup.py
+/.gitignore
+/sample/generate_config_file.py
+/sample/O104_primers_5.conf
+/sample/build_config_file.py
+/sample/makefile
+/sample/build_negative_sequence_list.py
+/sample/fasta-fetch.diff
+/tests/test.sh
+/tests/test.conf
+/tests/sequences/NC_010694.fna
+/tests/sequences/e_coli_screen.fna.nsq
+/tests/sequences/e_coli_screen.fna.nhr
+/tests/sequences/e_coli_screen.fna.nin
+/tests/sequences/NC_012917.fna
+/tests/sequences/NC_004547.fna
+/tests/sequences/NC_013421.fna
+/tests/sequences/NC_018525.fna
+/find_differential_primers/find_differential_primers.py
+/utils/stitch_six_frame_stops.py
+/utils/fasta_summary.py
+/pylints/stitch_six_frame_stops.py
+/pylints/fasta_summary.py
+/pylints/stitch_six_frame_stops.pylint
+/pylints/find_differential_primers.pylint
+/pylints/build_config_file.py
+/pylints/build_negative_sequence_list.py

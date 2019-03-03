@@ -1,0 +1,20 @@
+#package: BAC 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/BAC_1.40.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/CallRegions.R
+/R/BAC.R
+/data/ER.rda
+/man/ER.Rd
+/man/BAC.Rd
+/man/CallRegions.Rd
+/vignettes/BAC.Rnw
+/vignettes/bac.rda
+/build/vignette.rds
+/inst/doc/BAC.pdf
+/inst/doc/BAC.Rnw
+/inst/doc/BAC.R
+/src/util.h
+/src/BAC.c
+/src/util.c

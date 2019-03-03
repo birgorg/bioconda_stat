@@ -1,0 +1,19 @@
+#package: Test-LongString-0.17 
+#url: https://cpan.metacpan.org/authors/id/R/RG/RGARCIA/Test-LongString-0.17.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/t/04contains.t
+/t/02import.t
+/t/pod.t
+/t/06lcss.t
+/t/03like.t
+/t/05lacks.t
+/t/pod-coverage.t
+/t/01teststring.t
+/lib/Test/LongString.pm

@@ -1,0 +1,36 @@
+#package: SpeCond 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/SpeCond_1.34.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/fct_SpeCond_visualisation.R
+/R/show_methods.R
+/R/allClass.R
+/R/fct_SpeCond_2.R
+/data/expSetSpeCondExample.rdata
+/data/expressionSpeCondExample.rdata
+/data/simulatedSpeCondData.rdata
+/man/getMatrixFromExpressionSet.Rd
+/man/fitNoPriorWithExclusion.Rd
+/man/getSpecificResult.Rd
+/man/getGeneHtmlPage.Rd
+/man/getProfile.Rd
+/man/getFullHtmlSpeCondResult.Rd
+/man/expressionSpeCondExample.Rd
+/man/expSetSpeCondExample.Rd
+/man/simulatedSpeCondData.Rd
+/man/writeSpeCondResult.Rd
+/man/getSpecificOutliersStep1.Rd
+/man/fitPrior.Rd
+/man/SpeCond.Rd
+/man/writeUniqueProfileSpecificResult.Rd
+/man/getDefaultParameter.Rd
+/man/writeGeneResult.Rd
+/man/createParameterMatrix.Rd
+/vignettes/SpeCond.Rnw
+/vignettes/ProcedureSteps.png
+/vignettes/Figure1_null_distribution.png
+/build/vignette.rds
+/inst/doc/SpeCond.pdf
+/inst/doc/SpeCond.R
+/inst/doc/SpeCond.Rnw

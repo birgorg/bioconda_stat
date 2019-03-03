@@ -1,0 +1,35 @@
+#package: cgcloud-lib-1.6.0 
+#url: https://pypi.python.org/packages/71/e3/0ce3f6b3e3f11f37a51634cd84fa5d95bcee418843ef9b30239de4df0160/cgcloud-lib-1.6.0.tar.gz
+ 
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/version.py
+/setup.cfg
+/src/cgcloud_lib.egg-info/namespace_packages.txt
+/src/cgcloud_lib.egg-info/top_level.txt
+/src/cgcloud_lib.egg-info/SOURCES.txt
+/src/cgcloud_lib.egg-info/PKG-INFO
+/src/cgcloud_lib.egg-info/dependency_links.txt
+/src/cgcloud_lib.egg-info/requires.txt
+/src/cgcloud_Crypto/__init__.py
+/src/cgcloud_Crypto/pct_warnings.py
+/src/cgcloud_Crypto/IO/PKCS8.py
+/src/cgcloud_Crypto/IO/__init__.py
+/src/cgcloud_Crypto/IO/PEM.py
+/src/cgcloud_Crypto/Hash/__init__.py
+/src/cgcloud_Crypto/Hash/MD5.py
+/src/cgcloud_Crypto/PublicKey/_slowmath.py
+/src/cgcloud_Crypto/PublicKey/__init__.py
+/src/cgcloud_Crypto/PublicKey/RSA.py
+/src/cgcloud_Crypto/Util/__init__.py
+/src/cgcloud_Crypto/Util/asn1.py
+/src/cgcloud_Crypto/Util/py3compat.py
+/src/cgcloud_Crypto/Util/number.py
+/src/cgcloud/__init__.py
+/src/cgcloud/lib/__init__.py
+/src/cgcloud/lib/context.py
+/src/cgcloud/lib/message.py
+/src/cgcloud/lib/ec2.py
+/src/cgcloud/lib/util.py
+/src/cgcloud/lib/test/__init__.py

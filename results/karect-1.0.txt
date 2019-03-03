@@ -1,0 +1,22 @@
+#package: karect-1.0 
+#url: https://github.com/aminallam/karect/archive/v1.0.tar.gz
+ 
+/memory_utils.h
+/README.md
+/stack.h
+/LICENSE
+/README
+/errorcorrect.h
+/suffixfilter.h
+/getreads.h
+/evaluate.h
+/suffixarray_induced.h
+/edit_dist.h
+/align.h
+/karect_manual.pdf
+/karect.cpp
+/errorgraph.h
+/file_access.h
+/makefile
+/suffixcactus.h
+/file_block.h

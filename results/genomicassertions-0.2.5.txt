@@ -1,0 +1,26 @@
+#package: genomicassertions-0.2.5 
+#url: https://files.pythonhosted.org/packages/8a/84/6c7342e1099338f435ee2ea2d63e3c5b1fb3bc2f3f0cf51b0d2e2e55d001/genomicassertions-0.2.5.tar.gz
+ 
+/README.md
+/LICENSE.txt
+/requirements.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/genomicassertions.egg-info/top_level.txt
+/genomicassertions.egg-info/SOURCES.txt
+/genomicassertions.egg-info/PKG-INFO
+/genomicassertions.egg-info/dependency_links.txt
+/genomicassertions.egg-info/requires.txt
+/genomicassertions/readassertions.py
+/genomicassertions/__init__.py
+/genomicassertions/variantassertions.py
+/tests/variants-with-genotypes.vcf.gz.tbi
+/tests/3_178936091.bam.bai
+/tests/3_178936091.bam
+/tests/variants.vcf.gz
+/tests/test_variants.py
+/tests/variants-with-genotypes.vcf.gz
+/tests/test_reads.py
+/tests/variants.vcf.gz.tbi

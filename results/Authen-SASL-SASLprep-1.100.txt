@@ -1,0 +1,17 @@
+#package: Authen-SASL-SASLprep-1.100 
+#url: https://cpan.metacpan.org/authors/id/C/CF/CFAERBER/Authen-SASL-SASLprep-1.100.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/SIGNATURE
+/Build.PL
+/t/11pod_cover.t
+/t/10pod.t
+/t/00use.t
+/t/saslprep.t
+/lib/Authen/SASL/SASLprep.pm

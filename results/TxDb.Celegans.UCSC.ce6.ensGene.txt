@@ -1,0 +1,8 @@
+#package: TxDb.Celegans.UCSC.ce6.ensGene 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/TxDb.Celegans.UCSC.ce6.ensGene_3.2.2.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Celegans.UCSC.ce6.ensGene.sqlite

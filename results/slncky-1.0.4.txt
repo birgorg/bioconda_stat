@@ -1,0 +1,14 @@
+#package: slncky-1.0.4 
+#url: https://github.com/slncky/slncky/archive/v1.0.4.tar.gz
+ 
+/README.md
+/license.txt
+/slncky.v1.0
+/makeWebsite
+/annotations.config
+/alignTranscripts1.0
+/templates/.browse.header.swp
+/templates/browserHeader.txt
+/templates/lncPageHeader.txt
+/templates/browserFooter.txt
+/templates/bootswatch-paper.css

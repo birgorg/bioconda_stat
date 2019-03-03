@@ -1,0 +1,24 @@
+#package: RSVSim 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/RSVSim_1.20.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/Main.R
+/R/Rearrangement.R
+/R/Misc.R
+/R/AllGenerics.R
+/R/Simulation.R
+/data/segmentalDuplications.RData
+/data/weightsRepeats.RData
+/data/weightsMechanisms.RData
+/man/simulateSV.Rd
+/man/weightsMechanisms.Rd
+/man/compareSVs.Rd
+/man/segmentalDuplications.Rd
+/man/weightsRepeats.Rd
+/man/estimateSVSizes.Rd
+/vignettes/vignette.Rnw
+/build/vignette.rds
+/inst/doc/vignette.R
+/inst/doc/vignette.Rnw
+/inst/doc/vignette.pdf

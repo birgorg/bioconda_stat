@@ -1,0 +1,19 @@
+#package: pymummer-0.10.3 
+#url: https://pypi.io/packages/source/p/pymummer/pymummer-0.10.3.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/pymummer/snp.py
+/pymummer/coords_file.py
+/pymummer/__init__.py
+/pymummer/alignment.py
+/pymummer/syscall.py
+/pymummer/nucmer.py
+/pymummer/variant.py
+/pymummer/snp_file.py
+/pymummer.egg-info/top_level.txt
+/pymummer.egg-info/SOURCES.txt
+/pymummer.egg-info/PKG-INFO
+/pymummer.egg-info/dependency_links.txt
+/pymummer.egg-info/requires.txt

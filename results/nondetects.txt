@@ -1,0 +1,25 @@
+#package: nondetects 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/nondetects_2.10.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/internal-em-functions.R
+/R/qpcrImpute.R
+/data/oncogene2013.rda
+/data/sagmb2011.rda
+/data/nature2008.rda
+/man/sagmb2011.Rd
+/man/oncogene2013.Rd
+/man/qpcrImpute.Rd
+/man/nature2008.Rd
+/vignettes/nondetects.Rmd
+/vignettes/nondetects.bib
+/build/vignette.rds
+/tests/runTests.R
+/inst/CITATION
+/inst/doc/nondetects.html
+/inst/doc/nondetects.Rmd
+/inst/doc/nondetects.bib
+/inst/doc/nondetects.R
+/inst/unitTests/test_qpcrImpute.R

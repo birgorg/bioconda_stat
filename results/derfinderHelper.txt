@@ -1,0 +1,19 @@
+#package: derfinderHelper 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/derfinderHelper_1.14.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/fstats.apply.R
+/R/derfinderHelper-package.R
+/man/fstats.apply.Rd
+/man/derfinderHelper-package.Rd
+/vignettes/derfinderHelper.Rmd
+/build/vignette.rds
+/tests/test-all.R
+/tests/testthat/test_fstats.apply.R
+/inst/CITATION
+/inst/doc/derfinderHelper.html
+/inst/doc/derfinderHelper.R
+/inst/doc/derfinderHelper.Rmd

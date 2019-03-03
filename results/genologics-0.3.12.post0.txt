@@ -1,0 +1,22 @@
+#package: genologics-0.3.12.post0 
+#url: https://pypi.python.org/packages/b4/04/bd023ff57246cd5724aec7fca289d2da519aa3c96cffac8e3a239f073c1e/genologics-0.3.12.post0.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/genologics/lims_utils.py
+/genologics/config.py
+/genologics/constants.py
+/genologics/__init__.py
+/genologics/entities.py
+/genologics/epp.py
+/genologics/lims.py
+/genologics/descriptors.py
+/genologics/version.py
+/genologics.egg-info/entry_points.txt
+/genologics.egg-info/top_level.txt
+/genologics.egg-info/not-zip-safe
+/genologics.egg-info/SOURCES.txt
+/genologics.egg-info/PKG-INFO
+/genologics.egg-info/dependency_links.txt
+/genologics.egg-info/requires.txt

@@ -1,0 +1,14 @@
+#package: cufflinks-2.2.1.OSX_x86_64 
+#url: http://cole-trapnell-lab.github.io/cufflinks/assets/downloads/cufflinks-2.2.1.OSX_x86_64.tar.gz
+ 
+/gtf_to_sam
+/gffread
+/cuffdiff
+/LICENSE
+/README
+/cuffquant
+/cufflinks
+/cuffmerge
+/AUTHORS
+/cuffcompare
+/cuffnorm

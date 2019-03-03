@@ -1,0 +1,17 @@
+#package: fitter-1.0.8 
+#url: https://pypi.python.org/packages/source/f/fitter/fitter-1.0.8.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/test/test_fitter.py
+/src/fitter.egg-info/top_level.txt
+/src/fitter.egg-info/not-zip-safe
+/src/fitter.egg-info/SOURCES.txt
+/src/fitter.egg-info/PKG-INFO
+/src/fitter.egg-info/dependency_links.txt
+/src/fitter.egg-info/requires.txt
+/src/fitter/fitter.py
+/src/fitter/__init__.py

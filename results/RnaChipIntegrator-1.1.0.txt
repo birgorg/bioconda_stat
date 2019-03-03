@@ -1,0 +1,32 @@
+#package: RnaChipIntegrator-1.1.0 
+#url: https://pypi.io/packages/source/r/rnachipintegrator/RnaChipIntegrator-1.1.0.tar.gz
+ 
+/LICENSE
+/README.rst
+/CHANGELOG.rst
+/INSTALL
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/test/test_Peaks.py
+/test/test_output.py
+/test/test_analysis.py
+/test/test_Features.py
+/test/test_distances.py
+/rnachipintegrator/cli.py
+/rnachipintegrator/Features.py
+/rnachipintegrator/distances.py
+/rnachipintegrator/__init__.py
+/rnachipintegrator/xls_output.py
+/rnachipintegrator/analysis.py
+/rnachipintegrator/output.py
+/rnachipintegrator/utils.py
+/rnachipintegrator/Peaks.py
+/RnaChipIntegrator.egg-info/entry_points.txt
+/RnaChipIntegrator.egg-info/top_level.txt
+/RnaChipIntegrator.egg-info/not-zip-safe
+/RnaChipIntegrator.egg-info/SOURCES.txt
+/RnaChipIntegrator.egg-info/PKG-INFO
+/RnaChipIntegrator.egg-info/dependency_links.txt
+/RnaChipIntegrator.egg-info/requires.txt

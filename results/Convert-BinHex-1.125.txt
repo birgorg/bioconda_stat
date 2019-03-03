@@ -1,0 +1,29 @@
+#package: Convert-BinHex-1.125 
+#url: https://cpan.metacpan.org/authors/id/S/ST/STEPHEN/Convert-BinHex-1.125.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/README-TOO
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/COPYING
+/t/comp2bin.t
+/t/crc.t
+/t/1.t
+/t/release-cpan-changes.t
+/t/hex_to_bin_oo.t
+/t/bin_to_hex_file.t
+/lib/Convert/BinHex.pm
+/test/hexbin
+/bin/binhex.pl
+/bin/debinhex.pl
+/testin/eyeball.gif
+/testin/eyeball.gif.hqx
+/testin/hands_m.eps.hqx
+/testout/eyeball.gif
+/testout/README
+/xt/pod.t

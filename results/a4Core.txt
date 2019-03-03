@@ -1,0 +1,13 @@
+#package: a4Core 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/a4Core_1.28.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/confusionMatrix.R
+/R/topTable.R
+/R/simulateData.R
+/man/topTable-methods.Rd
+/man/topTable.Rd
+/man/simulateData.Rd
+/man/confusionMatrix.Rd
+/inst/NEWS

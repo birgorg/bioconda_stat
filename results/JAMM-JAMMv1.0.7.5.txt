@@ -1,0 +1,17 @@
+#package: JAMM-JAMMv1.0.7.5 
+#url: https://github.com/mahmoudibrahim/JAMM/archive/JAMMv1.0.7.5.tar.gz
+ 
+/README.md
+/peakhelper.r
+/LICENSE
+/peakfilter.pl
+/JAMM.sh
+/bincalculator.r
+/peakfinder.r
+/signalmaker.r
+/xcorr.r
+/changelog
+/readme
+/readshifter.pl
+/SignalGenerator.sh
+/xcorrhelper.r

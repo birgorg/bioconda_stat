@@ -1,0 +1,14 @@
+#package: DKFZBiasFilter-46b67f8e0f6ab4460d2529cfca7e7ec5580ca0ea 
+#url: https://github.com/chapmanb/DKFZBiasFilter/archive/46b67f8.tar.gz
+ 
+/sample_configs.json
+/README.md
+/description_dkfz_bias_filter.pdf
+/LICENSE
+/Dockstore.cwl
+/Dockerfile
+/scripts/dkfzbiasfilter_summarize.py
+/scripts/readbiasfunctions.py
+/scripts/readbiasplots.py
+/scripts/run_biasfilter.sh
+/scripts/biasFilter.py

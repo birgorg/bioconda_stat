@@ -1,0 +1,28 @@
+#package: yeastCC 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/yeastCC_1.20.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/INDEX
+/data/spYCCES.rda
+/data/spYCCmeta.rda
+/data/yeastCC.rda
+/data/breeden.rda
+/data/orf800.rda
+/data/datalist
+/man/spYCCmeta.Rd
+/man/orf800.Rd
+/man/breeden.Rd
+/man/yeastCC.Rd
+/vignettes/CellCycle98.txt
+/vignettes/CellCycle98.xls
+/vignettes/orf800.txt
+/vignettes/KnownGenes.txt
+/vignettes/consistentFHCRC.csv
+/vignettes/createYeastCC.R
+/vignettes/Spellmanetal.pdf
+/vignettes/KnownGenes.doc
+/inst/txt/B1.txt
+/inst/txt/B3.txt
+/inst/txt/B2.txt

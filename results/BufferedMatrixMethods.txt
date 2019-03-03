@@ -1,0 +1,15 @@
+#package: BufferedMatrixMethods 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/BufferedMatrixMethods_1.44.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/BM_justRMA.R
+/R/BM_Preprocess.R
+/R/BM_affyDataInput.R
+/R/init_fns.R
+/man/BM_readcelfiles.Rd
+/man/BM_justRMA.Rd
+/man/BM_affyDataInput.Rd
+/man/rmapreprocess.bufferedmatrix.Rd
+/src/preprocess_bm.c
+/src/init_package.c

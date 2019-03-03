@@ -1,0 +1,14 @@
+#package: FileDirUtil-v0.03 
+#url: https://cpan.metacpan.org/authors/id/M/MT/MTW/FileDirUtil-v0.03.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/manifest.t
+/t/pod.t
+/t/FileDirUtil.t
+/t/pod-coverage.t
+/lib/FileDirUtil.pm

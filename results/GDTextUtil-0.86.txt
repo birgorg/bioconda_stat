@@ -1,0 +1,18 @@
+#package: GDTextUtil-0.86 
+#url: http://cpan.metacpan.org/authors/id/M/MV/MVERB/GDTextUtil-0.86.tar.gz
+ 
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Text.pm
+/Dustismo.LICENSE
+/Dustismo_Sans.ttf
+/t/align.t
+/t/lib.pl
+/t/wrap.t
+/t/text.t
+/demo/GDWrap.ref.png
+/demo/GDWrap.pl
+/Text/Align.pm
+/Text/Wrap.pm

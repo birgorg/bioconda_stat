@@ -1,0 +1,10 @@
+#package: vcf-annotator-0.5 
+#url: https://github.com/rpetit3/vcf-annotator/archive/v0.5.tar.gz
+ 
+/README.md
+/vcf-annotator.py
+/LICENSE
+/requirements.txt
+/.gitignore
+/example-data/example.gb
+/example-data/example.vcf

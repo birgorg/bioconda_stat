@@ -1,0 +1,16 @@
+#package: MBAmethyl 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/MBAmethyl_1.14.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/MBAmethyl-internal.R
+/R/MBAmethyl.R
+/man/MBAmethyl-package.Rd
+/man/MBAmethyl.Rd
+/vignettes/MBAmethyl.Rnw
+/build/vignette.rds
+/inst/NEWS.Rd
+/inst/CITATION
+/inst/doc/MBAmethyl.pdf
+/inst/doc/MBAmethyl.R
+/inst/doc/MBAmethyl.Rnw

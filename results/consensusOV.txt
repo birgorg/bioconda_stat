@@ -1,0 +1,31 @@
+#package: consensusOV 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/consensusOV_1.2.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/appveyor.yml
+/DESCRIPTION
+/R/dataset.merging.R
+/R/get.helland.subtypes.R
+/R/get.subtypes.R
+/R/get.bentink.subtypes.R
+/R/get.konecny.subtypes.R
+/R/get.consensus.subtypes.R
+/R/sysdata.rda
+/R/get.verhaak.subtypes.R
+/R/data.R
+/data/GSE14764.eset.RData
+/man/get.bentink.subtypes.Rd
+/man/get.verhaak.subtypes.Rd
+/man/get.subtypes.Rd
+/man/GSE14764.eset.Rd
+/man/get.helland.subtypes.Rd
+/man/dataset.merging.Rd
+/man/get.konecny.subtypes.Rd
+/man/get.consensus.subtypes.Rd
+/vignettes/consensusOV.Rmd
+/vignettes/bibliography.bib
+/build/vignette.rds
+/inst/doc/consensusOV.R
+/inst/doc/consensusOV.Rmd
+/inst/doc/consensusOV.html

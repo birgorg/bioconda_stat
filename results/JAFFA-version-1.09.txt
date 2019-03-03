@@ -1,0 +1,29 @@
+#package: JAFFA-version-1.09 
+#url: https://github.com/Oshlack/JAFFA/releases/download/version-1.09/JAFFA-version-1.09.tar.gz
+ 
+/README.md
+/get_spanning_reads.R
+/assemble.sh
+/LICENSE
+/README
+/JAFFA_hybrid.groovy
+/get_spanning_reads_for_direct_2.R
+/process_transcriptome_blat_table.R
+/make_final_table.R
+/JAFFA_direct.groovy
+/JAFFA_stages.groovy
+/JAFFA_assembly.groovy
+/compile_results.R
+/install_linux64.sh
+/COPYING
+/get_spanning_reads_for_direct_1.R
+/known_fusions.txt
+/cwl/converter.cwl
+/cwl/smcFusion-jaffa-workflow.cwl
+/cwl/jaffa.cwl
+/cwl/tar.cwl
+/cwl/twoBitToFa.cwl
+/docker/gradle.properties
+/docker/tools.groovy
+/docker/convert_jaffa_to_bedpe.py
+/docker/Dockerfile

@@ -1,0 +1,19 @@
+#package: svim-0.4.2 
+#url: https://github.com/eldariont/svim/archive/v0.4.2.tar.gz
+ 
+/LICENSE
+/README.rst
+/setup.py
+/.gitignore
+/docs/SVclasses.png
+/src/svim/SVIM_splitread.py
+/src/svim/SVIM_fullread.py
+/src/svim/SVCandidate.py
+/src/svim/SVIM_COMBINE.py
+/src/svim/SVIM_clustering.py
+/src/svim/__init__.py
+/src/svim/svim
+/src/svim/SVIM_CLUSTER.py
+/src/svim/SVIM_COLLECT.py
+/src/svim/SVIM_merging.py
+/src/svim/SVSignature.py

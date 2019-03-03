@@ -1,0 +1,28 @@
+#package: MuSE-1.0-rc 
+#url: https://github.com/danielfan/MuSE/archive/v1.0-rc.tar.gz
+ 
+/README.md
+/khash.h
+/kstring.c
+/kseq.h
+/sample.h
+/LICENSE
+/razf.c
+/sample.cpp
+/Makefile
+/index.c
+/kprobaln.h
+/faidx.c
+/fet.cpp
+/bam.h
+/tabix.h
+/MuSE.cpp
+/kstring.h
+/razf.h
+/ksort.h
+/bgzf.c
+/kprobaln.c
+/bgzf.h
+/bam.cpp
+/faidx.h
+/bam_supplement.cpp

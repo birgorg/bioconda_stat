@@ -1,0 +1,22 @@
+#package: PECA 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/PECA_1.16.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/calculateSI.R
+/R/tukey.R
+/R/flattenCellIndices.R
+/R/PECA.R
+/R/psim.R
+/R/filterROTS.R
+/R/PECASI.R
+/man/PECA.Rd
+/man/PECASI.Rd
+/vignettes/diagram_peca.pdf
+/vignettes/PECA.Rnw
+/build/vignette.rds
+/inst/NEWS
+/inst/doc/PECA.R
+/inst/doc/PECA.pdf
+/inst/doc/PECA.Rnw
+/inst/extdata/peptides.tsv

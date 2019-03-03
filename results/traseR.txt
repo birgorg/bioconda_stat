@@ -1,0 +1,29 @@
+#package: traseR 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/traseR_1.10.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/plots.R
+/R/querys.R
+/R/traseR.R
+/data/Tcell.RData
+/data/taSNPLD.RData
+/data/taSNP.RData
+/data/CEU.RData
+/data/datalist
+/man/plots.Rd
+/man/traseR.Rd
+/man/querys.Rd
+/man/print.traseR.Rd
+/man/taSNPLD.Rd
+/man/traseR-package.Rd
+/man/Tcell.Rd
+/man/CEU.Rd
+/man/taSNP.Rd
+/vignettes/traseR.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/doc/traseR.pdf
+/inst/doc/traseR.R
+/inst/doc/traseR.Rnw
+/inst/unitTests/test_traseR.R

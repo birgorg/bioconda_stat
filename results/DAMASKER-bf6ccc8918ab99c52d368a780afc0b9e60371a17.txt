@@ -1,0 +1,18 @@
+#package: DAMASKER-bf6ccc8918ab99c52d368a780afc0b9e60371a17 
+#url: https://github.com/thegenemyers/DAMASKER/archive/bf6ccc8918ab99c52d368a780afc0b9e60371a17.tar.gz
+ 
+/README.md
+/QV.c
+/tandem.h
+/QV.h
+/Makefile
+/datander.c
+/HPC.TANmask.c
+/DB.h
+/TANmask.c
+/align.h
+/HPC.REPmask.c
+/DB.c
+/align.c
+/REPmask.c
+/tandem.c

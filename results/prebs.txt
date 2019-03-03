@@ -1,0 +1,16 @@
+#package: prebs 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/prebs_1.20.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/PREBS.R
+/man/calc_prebs.Rd
+/man/prebs.Rd
+/vignettes/my_references.bib
+/vignettes/prebs.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/prebs.Rnw
+/inst/doc/prebs.R
+/inst/doc/prebs.pdf

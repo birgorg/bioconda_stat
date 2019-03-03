@@ -1,0 +1,9 @@
+#package: XML-Filter-BufferText-1.01 
+#url: http://cpan.metacpan.org/authors/id/R/RB/RBERJON/XML-Filter-BufferText-1.01.tar.gz
+ 
+/README
+/Makefile.PL
+/MANIFEST
+/BufferText.pm
+/Changes
+/t/05basic.t

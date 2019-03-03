@@ -1,0 +1,30 @@
+#package: fastseg 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/fastseg_1.26.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/segPlot.R
+/R/toDnaCopy.R
+/R/roxygen.R
+/R/fastseg.R
+/data/fastsegData.rda
+/data/coriell.rda
+/man/toDNAcopyObj.Rd
+/man/segPlot.Rd
+/man/fastseg.Rd
+/man/fastsegData.Rd
+/man/coriell.Rd
+/vignettes/fastseg.Rnw
+/vignettes/fastseg.bib
+/vignettes/bioinf-bar.png
+/vignettes/bioinf.cls
+/vignettes/bioinf-article.txi
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/fastseg.pdf
+/inst/doc/fastseg.Rnw
+/inst/doc/fastseg.R
+/src/R_init_fastseg.c
+/src/fastseg.h
+/src/segmentCyberT.cpp
+/src/segment.cpp

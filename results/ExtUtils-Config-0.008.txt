@@ -1,0 +1,17 @@
+#package: ExtUtils-Config-0.008 
+#url: https://cpan.metacpan.org/authors/id/L/LE/LEONT/ExtUtils-Config-0.008.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/INSTALL
+/t/release-pod-coverage.t
+/t/release-pod-syntax.t
+/t/basics.t
+/t/00-compile.t
+/lib/ExtUtils/Config.pm

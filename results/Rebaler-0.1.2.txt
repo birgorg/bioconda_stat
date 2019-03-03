@@ -1,0 +1,16 @@
+#package: Rebaler-0.1.2 
+#url: https://github.com/rrwick/Rebaler/archive/v0.1.2.tar.gz
+ 
+/README.md
+/LICENSE
+/rebaler-runner.py
+/setup.py
+/.gitignore
+/misc/diagram.png
+/rebaler/unitig_graph.py
+/rebaler/log.py
+/rebaler/rebaler.py
+/rebaler/__init__.py
+/rebaler/alignment.py
+/rebaler/misc.py
+/rebaler/__main__.py

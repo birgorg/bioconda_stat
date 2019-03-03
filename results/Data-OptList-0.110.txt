@@ -1,0 +1,18 @@
+#package: Data-OptList-0.110 
+#url: https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Data-OptList-0.110.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/hash.t
+/t/mkopt.t
+/t/00-report-prereqs.dd
+/t/00-report-prereqs.t
+/lib/Data/OptList.pm
+/xt/release/changes_has_content.t
+/xt/author/pod-syntax.t

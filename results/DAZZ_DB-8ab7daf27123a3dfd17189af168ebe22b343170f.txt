@@ -1,0 +1,29 @@
+#package: DAZZ_DB-8ab7daf27123a3dfd17189af168ebe22b343170f 
+#url: https://github.com/thegenemyers/DAZZ_DB/archive/8ab7daf27123a3dfd17189af168ebe22b343170f.tar.gz
+ 
+/README.md
+/QV.c
+/fasta2DAM.c
+/DBdust.c
+/LICENSE
+/arrow2DB.c
+/QV.h
+/DBstats.c
+/DBrm.c
+/DBshow.c
+/DBtrim.c
+/DBwipe.c
+/quiva2DB.c
+/DAM2fasta.c
+/Makefile
+/DB2fasta.c
+/simulator.c
+/DB2arrow.c
+/DB.h
+/Catrack.c
+/fasta2DB.c
+/rangen.c
+/DB.c
+/DB2quiva.c
+/DBdump.c
+/DBsplit.c

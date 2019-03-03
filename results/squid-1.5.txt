@@ -1,0 +1,37 @@
+#package: squid-1.5 
+#url: https://github.com/Kingsford-Group/squid/archive/v1.5.tar.gz
+ 
+/README.md
+/LICENSE
+/Makefile
+/doc/Installation_mac.md
+/doc/Installation_linux.md
+/example/STARnSQUIDcommand.sh
+/utils/GenerateBED.cpp
+/utils/SVTranscript.cpp
+/utils/BP.h
+/utils/GtfInterval.h
+/utils/Reads2Remap.py
+/utils/SV2newpos.cpp
+/utils/SV.h
+/utils/RSVsim_path.cpp
+/utils/GenerateNewGenome.cpp
+/utils/JunctionSequence.cpp
+/utils/SimpleSV.h
+/utils/GtfTrans.h
+/utils/TRA.h
+/utils/SimpleSV.cpp
+/utils/TRA.cpp
+/utils/GtfTrans.cpp
+/src/SegmentGraph.cpp
+/src/WriteIO.cpp
+/src/main.cpp
+/src/Config.h
+/src/BPNode.h
+/src/ReadRec.h
+/src/SingleBamRec.h
+/src/SegmentGraph.h
+/src/BPEdge.h
+/src/Config.cpp
+/src/WriteIO.h
+/src/ReadRec.cpp

@@ -1,0 +1,35 @@
+#package: DWGSIM-dwgsim.0.1.11 
+#url: https://github.com/nh13/DWGSIM/archive/dwgsim.0.1.11.tar.gz
+ 
+/LICENSE
+/README
+/Makefile
+/INSTALL
+/.gitmodules
+/scripts/dwgsim_mut_to_vcf.pl
+/scripts/dwgsim_pileup_eval.pl
+/scripts/dwgsim_eval_plot.py
+/scripts/galaxy/dwgsim_wrapper.py
+/scripts/galaxy/dwgsim_eval_wrapper.xml
+/scripts/galaxy/dwgsim_wrapper.xml
+/scripts/galaxy/dwgsim_eval_wrapper.py
+/src/dwgsim_opt.c
+/src/contigs.c
+/src/mut.h
+/src/mut.c
+/src/mut_vcf.c
+/src/dwgsim_opt.h
+/src/mut_bed.h
+/src/regions_bed.c
+/src/mut_vcf.h
+/src/mut_input.c
+/src/dwgsim.c
+/src/dwgsim_eval.h
+/src/mut_input.h
+/src/dwgsim_eval.c
+/src/contigs.h
+/src/mut_txt.h
+/src/regions_bed.h
+/src/mut_bed.c
+/src/mut_txt.c
+/src/dwgsim.h

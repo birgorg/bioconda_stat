@@ -1,0 +1,10 @@
+#package: Array-Utils-0.5 
+#url: https://cpan.metacpan.org/authors/id/Z/ZM/ZMIJ/Array/Array-Utils-0.5.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Utils.pm
+/Changes
+/t/array-utils.t

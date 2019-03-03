@@ -1,0 +1,36 @@
+#package: bamsignals 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/bamsignals_1.12.1.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/scripts/generateCode.R
+/R/zzzCountSignals.R
+/R/wrappers.R
+/R/RcppExports.R
+/man/CountSignals-class.Rd
+/man/bamsignals-methods.Rd
+/man/as.list.CountSignals.Rd
+/man/bamsignals.Rd
+/vignettes/bamsignals.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_CountSignals.R
+/tests/testthat/randomReads.RData
+/tests/testthat/utils.R
+/tests/testthat/test_methods.R
+/inst/examples/class_example.R
+/inst/examples/methods_example.R
+/inst/doc/bamsignals.html
+/inst/doc/bamsignals.R
+/inst/doc/bamsignals.Rmd
+/inst/extdata/randomAnnot.Rdata
+/inst/extdata/randomBam.bam.bai
+/inst/extdata/randomBam.bam
+/src/bamsignals_init.c
+/src/bamsignals.cpp
+/src/CountSignals.cpp
+/src/RcppExports.cpp
+/src/Makevars.win
+/src/Makevars

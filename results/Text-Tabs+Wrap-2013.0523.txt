@@ -1,0 +1,30 @@
+#package: Text-Tabs+Wrap-2013.0523 
+#url: http://cpan.metacpan.org/authors/id/M/MU/MUIR/modules/Text-Tabs+Wrap-2013.0523.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/CHANGELOG
+/lib.modern/Text/Tabs.pm
+/lib.modern/Text/Wrap.pm
+/t/tabs.t
+/t/Jochen.t
+/t/Wrap-JLB.t
+/t/Jacobson2.t
+/t/Jacobson.t
+/t/Tabs-ElCid.t
+/t/fill.t
+/t/dandv.t
+/t/sep2.t
+/t/wrap_separator2.t
+/t/belg4mit.t
+/t/sep.t
+/t/wrap.t
+/t/37000.t
+/t/79766.t
+/t/dnsparks.t
+/t/39548.t
+/lib.old/Text/Tabs.pm
+/lib.old/Text/Wrap.pm

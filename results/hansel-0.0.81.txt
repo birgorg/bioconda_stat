@@ -1,0 +1,23 @@
+#package: hansel-0.0.81 
+#url: https://github.com/SamStudio8/hansel/archive/v0.0.81.tar.gz
+ 
+/LICENSE
+/Makefile
+/README.rst
+/CHANGELOG.rst
+/setup.py
+/.gitignore
+/docs/make.bat
+/docs/conf.py
+/docs/about.rst
+/docs/Makefile
+/docs/readme.rst
+/docs/changelog.rst
+/docs/requirements.txt
+/docs/usage.rst
+/docs/index.rst
+/docs/source/hansel.rst
+/docs/source/modules.rst
+/docs/figures/hansel.png
+/hansel/__init__.py
+/hansel/hansel.py

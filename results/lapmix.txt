@@ -1,0 +1,20 @@
+#package: lapmix 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/lapmix_1.46.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/lp.marginals.R
+/R/lp.estimates.R
+/R/lap.volcanoplot.R
+/R/post.odds.R
+/R/laptopTable.R
+/R/lapmix.Fit.R
+/man/lapmix.Fit.Rd
+/man/laptopTable.Rd
+/man/lapmix-internal.Rd
+/man/lap.volcanoplot.Rd
+/vignettes/lapmix-example.Rnw
+/build/vignette.rds
+/inst/doc/lapmix-example.R
+/inst/doc/lapmix-example.Rnw
+/inst/doc/lapmix-example.pdf

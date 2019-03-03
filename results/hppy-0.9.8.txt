@@ -1,0 +1,8 @@
+#package: hppy-0.9.8 
+#url: https://github.com/veg/hppy/archive/0.9.8.tar.gz
+ 
+/README.md
+/setup.py
+/lib/hppy/__init__.py
+/lib/hppy/_hyphymap.py
+/lib/hppy/_hyphyinterface.py

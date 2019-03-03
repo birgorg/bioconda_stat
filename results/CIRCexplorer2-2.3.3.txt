@@ -1,0 +1,32 @@
+#package: CIRCexplorer2-2.3.3 
+#url: https://files.pythonhosted.org/packages/e7/00/1ca9d5fcda9be5a5d489968879750211799dba6de1936bd4556d568ef754/CIRCexplorer2-2.3.3.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/test/test_denovo.py
+/test/test_parse.py
+/test/__init__.py
+/test/test_annotate.py
+/test/utils.py
+/CIRCexplorer2.egg-info/entry_points.txt
+/CIRCexplorer2.egg-info/top_level.txt
+/CIRCexplorer2.egg-info/SOURCES.txt
+/CIRCexplorer2.egg-info/PKG-INFO
+/CIRCexplorer2.egg-info/dependency_links.txt
+/CIRCexplorer2.egg-info/requires.txt
+/circ2/fast_circ.py
+/circ2/align.py
+/circ2/command_parse.py
+/circ2/__init__.py
+/circ2/denovo.py
+/circ2/parser.py
+/circ2/fetch_ucsc.py
+/circ2/genomic_interval.py
+/circ2/assemble.py
+/circ2/annotate.py
+/circ2/parse.py
+/circ2/dir_func.py
+/circ2/version.py
+/circ2/helper.py

@@ -1,0 +1,8 @@
+#package: CuReSim1.3 
+#url: http://www.pegase-biosciences.com/wp-content/uploads/2015/08/CuReSim1.3.zip
+ 
+/manual.pdf
+/CuReSim.jar
+/CuReSim_galaxy/README.txt
+/CuReSim_galaxy/CuReSim.xml
+/CuReSim_galaxy/CuReSim.sh

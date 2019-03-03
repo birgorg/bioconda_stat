@@ -1,0 +1,12 @@
+#package: berokka-0.2 
+#url: https://github.com/tseemann/berokka/archive/v0.2.tar.gz
+ 
+/README.md
+/LICENSE
+/.gitignore
+/.travis.yml
+/test/Makefile
+/test/test.fa
+/bin/berokka
+/db/dnaA.fna
+/db/controls.fna

@@ -1,0 +1,19 @@
+#package: dcGSA 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/dcGSA_1.8.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/readGMT.R
+/R/dcGSAtest.R
+/R/dcGSA.R
+/R/LDcov.R
+/data/dcGSAtest.rda
+/man/LDcov.Rd
+/man/readGMT.Rd
+/man/dcGSAtest.Rd
+/man/dcGSA.Rd
+/vignettes/dcGSA.Rmd
+/vignettes/dcGSA.bib
+/inst/NEWS.Rd
+/inst/CITATION
+/inst/extdata/sample.gmt.txt

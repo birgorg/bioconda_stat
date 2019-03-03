@@ -1,0 +1,22 @@
+#package: dbeisser-taxmapper-e2c91aa82924 
+#url: https://bitbucket.org/dbeisser/taxmapper/get/taxmapper-1.0.2.tar.gz
+ 
+/README.md
+/environment.yaml
+/contributors.txt
+/CHANGELOG.md
+/LICENSE.md
+/setup.py
+/.gitignore
+/taxmapper/count_tax.py
+/taxmapper/__init__.py
+/taxmapper/plot_tax.py
+/taxmapper/filter_tax.py
+/taxmapper/initialize.py
+/taxmapper/map_tax.py
+/taxmapper/version.py
+/taxmapper/search_tax.py
+/taxmapper/tests/__init__.py
+/taxmapper/tests/test_example.py
+/bioconda-recipe/taxmapper/build.sh
+/bioconda-recipe/taxmapper/meta.yaml

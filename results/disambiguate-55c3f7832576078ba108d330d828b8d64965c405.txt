@@ -1,0 +1,35 @@
+#package: disambiguate-55c3f7832576078ba108d330d828b8d64965c405 
+#url: https://github.com/AstraZeneca-NGS/disambiguate/archive/55c3f78.tar.gz
+ 
+/README.md
+/dismain.cpp
+/LICENSE.txt
+/disambiguate.py
+/setup.py
+/test/human.bam
+/test/mouse.bam
+/tclap/ValueArg.h
+/tclap/StandardTraits.h
+/tclap/SwitchArg.h
+/tclap/UnlabeledMultiArg.h
+/tclap/ValuesConstraint.h
+/tclap/DocBookOutput.h
+/tclap/VersionVisitor.h
+/tclap/StdOutput.h
+/tclap/CmdLineInterface.h
+/tclap/Arg.h
+/tclap/MultiArg.h
+/tclap/Constraint.h
+/tclap/OptionalUnlabeledTracker.h
+/tclap/ArgException.h
+/tclap/ZshCompletionOutput.h
+/tclap/CmdLine.h
+/tclap/IgnoreRestVisitor.h
+/tclap/UnlabeledValueArg.h
+/tclap/MultiSwitchArg.h
+/tclap/COPYING
+/tclap/Visitor.h
+/tclap/CmdLineOutput.h
+/tclap/ArgTraits.h
+/tclap/XorHandler.h
+/tclap/HelpVisitor.h

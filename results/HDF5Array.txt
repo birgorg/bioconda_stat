@@ -1,0 +1,24 @@
+#package: HDF5Array 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/HDF5Array_1.8.1.tar.gz
+ 
+/NAMESPACE
+/NOTES
+/TODO
+/DESCRIPTION
+/.BBSoptions
+/R/zzz.R
+/R/saveHDF5SummarizedExperiment.R
+/R/utils.R
+/R/dump-management.R
+/R/HDF5Array-class.R
+/R/writeHDF5Array.R
+/man/saveHDF5SummarizedExperiment.Rd
+/man/HDF5Array-class.Rd
+/man/dump-management.Rd
+/man/writeHDF5Array.Rd
+/tests/run_unitTests.R
+/inst/unitTests/test_HDF5Array-class.R
+/inst/extdata/toy.h5
+/longtests/fake_test1.R
+/longtests/fake_test2.R
+/longtests/fake_test3.R

@@ -1,0 +1,35 @@
+#package: org.Hs.eg.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/org.Hs.eg.db_3.6.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/org.Hs.egUNIPROT.Rd
+/man/org.Hs.egMAPCOUNTS.Rd
+/man/org.Hs.egENSEMBLTRANS.Rd
+/man/org.Hs.egPROSITE.Rd
+/man/org.Hs.egOMIM.Rd
+/man/org.Hs.egBASE.Rd
+/man/org.Hs.egENSEMBL.Rd
+/man/org.Hs.eg_dbconn.Rd
+/man/org.Hs.egENSEMBLPROT.Rd
+/man/org.Hs.egCHR.Rd
+/man/org.Hs.egUCSCKG.Rd
+/man/org.Hs.egPMID.Rd
+/man/org.Hs.egMAP.Rd
+/man/org.Hs.egALIAS2EG.Rd
+/man/org.Hs.egPATH.Rd
+/man/org.Hs.egGO.Rd
+/man/org.Hs.egUNIGENE.Rd
+/man/org.Hs.egCHRLENGTHS.Rd
+/man/org.Hs.egGENENAME.Rd
+/man/org.Hs.egENZYME.Rd
+/man/org.Hs.egSYMBOL.Rd
+/man/org.Hs.egPFAM.Rd
+/man/org.Hs.egACCNUM.Rd
+/man/org.Hs.egREFSEQ.Rd
+/man/org.Hs.egCHRLOC.Rd
+/man/org.Hs.egORGANISM.Rd
+/tests/runalltests.R
+/tests/unit/test.R
+/inst/extdata/org.Hs.eg.sqlite

@@ -1,0 +1,35 @@
+#package: RTopper 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/RTopper_1.26.0.tar.gz
+ 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/functions.R
+/data/intScores.rda
+/data/fgsList.rda
+/data/exampleData.rda
+/data/gseResultsSep.rda
+/data/sepScores.rda
+/data/datalist
+/man/pheno.Rd
+/man/runBatchGSE.Rd
+/man/RTopper-package.Rd
+/man/adjustPvalGSE.Rd
+/man/combineGSE.Rd
+/man/intScores.Rd
+/man/computeDrStat.Rd
+/man/dat.Rd
+/man/gseResultsSep.Rd
+/man/fgsList.Rd
+/man/convertToDr.Rd
+/man/sepScores.Rd
+/vignettes/RTopper.Rnw
+/vignettes/preamble.tex
+/vignettes/subfigure.sty
+/vignettes/vmargin.sty
+/vignettes/RTopper.bib
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/RTopper.Rnw
+/inst/doc/RTopper.R
+/inst/doc/RTopper.pdf

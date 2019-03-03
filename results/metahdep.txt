@@ -1,0 +1,37 @@
+#package: metahdep 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/metahdep_1.38.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/metahdep.other.R
+/R/ES.obj.R
+/R/metahdep.REMA.R
+/R/metahdep.FEMA.R
+/R/metahdep.R
+/R/getPLM.es.R
+/R/metahdep.format.R
+/R/metaprep.R
+/R/metahdep.HBLM.R
+/data/HGU.newnames.rda
+/data/HGU.DifExp.list.rda
+/data/gloss.rda
+/data/HGU.prep.list.rda
+/man/metaprep-class.Rd
+/man/metahdep.HBLM.Rd
+/man/gloss.Rd
+/man/metahdep.other.Rd
+/man/metahdep.FEMA.Rd
+/man/HGU.prep.list.Rd
+/man/metahdep.REMA.Rd
+/man/metahdep.Rd
+/man/ES.obj-class.Rd
+/man/metahdep.format.Rd
+/man/HGU.DifExp.list.Rd
+/man/getPLM.es.Rd
+/man/HGU.newnames.Rd
+/vignettes/metahdep.Rnw
+/build/vignette.rds
+/inst/doc/metahdep.R
+/inst/doc/metahdep.pdf
+/inst/doc/metahdep.Rnw
+/src/metahdep.c

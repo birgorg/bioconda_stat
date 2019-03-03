@@ -1,0 +1,29 @@
+#package: MethTargetedNGS 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/MethTargetedNGS_1.12.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/sequenceAlignment.R
+/R/bisulfiteConversion.R
+/R/hmmer.R
+/man/nhmmer.Rd
+/man/methEntropy.Rd
+/man/methHeatmap.Rd
+/man/methAvg.Rd
+/man/bconv.Rd
+/man/hmmbuild.Rd
+/man/methAlign.Rd
+/man/fishertest_cpg.Rd
+/man/compare_samples.Rd
+/man/odd_ratio.Rd
+/man/MethTargetedNGS-package.Rd
+/vignettes/MethTargetedNGS.Rnw
+/build/vignette.rds
+/inst/doc/MethTargetedNGS.pdf
+/inst/doc/MethTargetedNGS.R
+/inst/doc/MethTargetedNGS.Rnw
+/inst/extdata/Reference.fasta
+/inst/extdata/msa.fasta
+/inst/extdata/Healthy.fasta
+/inst/extdata/bisulfite.fasta
+/inst/extdata/Tumor.fasta

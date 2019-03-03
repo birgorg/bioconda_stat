@@ -1,0 +1,25 @@
+#package: JSON-MaybeXS-1.004000 
+#url: https://cpan.metacpan.org/authors/id/H/HA/HAARG/JSON-MaybeXS-1.004000.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/preload_cpanel.t
+/t/pp.t
+/t/legacy.t
+/t/cpanel.t
+/t/xs.t
+/t/preload_xs.t
+/t/new.t
+/t/none.t
+/t/lib/is_bool.pm
+/lib/JSON/MaybeXS.pm
+/maint/Makefile.PL.include
+/xt/json_pm_legacy.t
+/xt/json_xs_legacy.t
+/xt/json_pm.t
+/xt/json_pp_legacy.t
+/inc/ExtUtils/HasCompiler.pm

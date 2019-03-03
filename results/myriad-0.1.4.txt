@@ -1,0 +1,14 @@
+#package: myriad-0.1.4 
+#url: https://files.pythonhosted.org/packages/93/6a/89cc3d04157c38625786956d22e39f2fcd322754d4812abefa3997306bfd/myriad-0.1.4.zip
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/myriad.egg-info/entry_points.txt
+/myriad.egg-info/top_level.txt
+/myriad.egg-info/SOURCES.txt
+/myriad.egg-info/PKG-INFO
+/myriad.egg-info/dependency_links.txt
+/myriad/components.py
+/myriad/__init__.py
+/myriad/managers.py

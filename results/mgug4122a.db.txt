@@ -1,0 +1,33 @@
+#package: mgug4122a.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/mgug4122a.db_3.2.3.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/mgug4122aPATH.Rd
+/man/mgug4122aGENENAME.Rd
+/man/mgug4122aMAPCOUNTS.Rd
+/man/mgug4122aCHRLENGTHS.Rd
+/man/mgug4122aENSEMBL.Rd
+/man/mgug4122a_dbconn.Rd
+/man/mgug4122aREFSEQ.Rd
+/man/mgug4122aBASE.Rd
+/man/mgug4122aPROSITE.Rd
+/man/mgug4122aMGI.Rd
+/man/mgug4122aPMID.Rd
+/man/mgug4122aENTREZID.Rd
+/man/mgug4122aORGANISM.Rd
+/man/mgug4122aALIAS2PROBE.Rd
+/man/mgug4122aUNIGENE.Rd
+/man/mgug4122aUNIPROT.Rd
+/man/mgug4122aPFAM.Rd
+/man/mgug4122aCHR.Rd
+/man/mgug4122aCHRLOC.Rd
+/man/mgug4122aSYMBOL.Rd
+/man/mgug4122aENZYME.Rd
+/man/mgug4122aGO.Rd
+/man/mgug4122aACCNUM.Rd
+/tests/runalltests.R
+/tests/runalltests.Rout.save
+/tests/unit/test.R
+/inst/extdata/mgug4122a.sqlite

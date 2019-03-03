@@ -1,0 +1,34 @@
+#package: occugene 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/occugene_1.40.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/website_description.txt
+/R/cloneFunc.R
+/R/multOccup.R
+/R/insertFunc.R
+/R/formatManip.R
+/data/sampleAnnotation.txt
+/data/sampleInsertions.txt
+/man/checkFormat.Rd
+/man/varMult.Rd
+/man/sampleAnnotation.Rd
+/man/binInsert.Rd
+/man/fCumul.Rd
+/man/delta0.Rd
+/man/sampleInsertions.Rd
+/man/occup2Negenes.Rd
+/man/unbiasB0.Rd
+/man/etDelta.Rd
+/man/loadInsertions.Rd
+/man/binInsertHist.Rd
+/man/loadAnnotation.Rd
+/man/unbiasDelta0.Rd
+/man/binHist.Rd
+/man/eMult.Rd
+/man/fFit.Rd
+/vignettes/occugene.Rnw
+/build/vignette.rds
+/inst/doc/occugene.Rnw
+/inst/doc/occugene.R
+/inst/doc/occugene.pdf

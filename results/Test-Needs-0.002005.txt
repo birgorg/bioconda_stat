@@ -1,0 +1,16 @@
+#package: Test-Needs-0.002005 
+#url: https://cpan.metacpan.org/authors/id/H/HA/HAARG/Test-Needs-0.002005.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/find_missing.t
+/t/basic.t
+/t/lib/BrokenModule.pm
+/t/lib/ModuleWithVersion.pm
+/t/lib/TestScript.pm
+/lib/Test/Needs.pm
+/maint/Makefile.PL.include

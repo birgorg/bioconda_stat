@@ -1,0 +1,23 @@
+#package: RmiR 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/RmiR_1.36.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/RmiR.R
+/R/RmiRtc.R
+/R/read.mir.R
+/R/readRmiRtc.R
+/R/classes.R
+/data/RmiR.rda
+/man/data.Rd
+/man/RmiR.Rd
+/man/plotRmiRtc.Rd
+/man/RmiRtc.Rd
+/vignettes/RmiR.Rnw
+/vignettes/res1_351.jpg
+/vignettes/RmiRtc_351.jpg
+/vignettes/RmiR.bib
+/build/vignette.rds
+/inst/doc/RmiR.Rnw
+/inst/doc/RmiR.R
+/inst/doc/RmiR.pdf

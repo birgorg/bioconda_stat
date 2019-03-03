@@ -1,0 +1,28 @@
+#package: coGPS 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/coGPS_1.24.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/coGPS.R
+/data/CNV_classlab_matched.txt.gz
+/data/Methy_classlab_matched.txt.gz
+/data/Exon_exprs_matched.txt.gz
+/data/Exon_classlab_matched.txt.gz
+/data/CNV_exprs_matched.txt.gz
+/data/human_c1.rdata
+/data/Methy_exprs_matched.txt.gz
+/data/datalist
+/man/PatientSpecificGeneList.Rd
+/man/PlotTopPCOPA.Rd
+/man/PCOPA.Rd
+/man/SampleData.Rd
+/man/coGPS-package.Rd
+/man/coGPS-internal.Rd
+/man/permCOPA.Rd
+/vignettes/coGPS.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/coGPS.R
+/inst/doc/coGPS.pdf
+/inst/doc/coGPS.Rnw

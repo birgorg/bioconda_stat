@@ -1,0 +1,8 @@
+#package: Math-VecStat-0.08 
+#url: http://cpan.metacpan.org/authors/id/A/AS/ASPINELLI/Math-VecStat-0.08.tar.gz
+ 
+/VecStat.pm
+/README
+/Makefile.PL
+/MANIFEST
+/t/VecStat.t

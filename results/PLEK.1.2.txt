@@ -1,0 +1,33 @@
+#package: PLEK.1.2 
+#url: https://sourceforge.net/projects/plek/files/PLEK.1.2.tar.gz
+ 
+/PLEK_setup.py
+/PLEK_test.fa
+/PLEKModelling.py
+/svm-scale.c
+/PLEK.model
+/svm_grid_modelling_singlet.py
+/PLEK_recommendation.txt
+/PLEK.range
+/PLEK_generate_scripts.R
+/svm_grid_modelling.py
+/svm.cpp
+/PLEK_mRNAs.fa
+/PLEK.1.2.readme.txt
+/PLEK_howto_generate_scripts.txt
+/PLEK_kmer.h
+/svm-easy.py
+/PLEK_howto_generate_scripts.pdf
+/PLEK.py
+/PLEK_main.c
+/PLEK_lib.h
+/PLEK_howto_generate_scripts.doc
+/svm-subset.py
+/PLEK_spsn.c
+/PLEK_known_bugs.txt
+/PLEK_lncRNAs.fa
+/PLEK_fastafile.h
+/PLEK_release_notes.txt
+/svm-train.c
+/svm-predict.c
+/svm.h

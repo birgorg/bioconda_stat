@@ -1,0 +1,18 @@
+#package: panp 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/panp_1.50.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/pa.calls.R
+/data/NSMPnames.hgu133a.rda
+/data/NSMPnames.hgu133plus2.rda
+/data/gcrma.ExpressionSet.rda
+/man/NSMPnames.hgu133a.Rd
+/man/NSMPnames.hgu133plus2.Rd
+/man/gcrma.ExpressionSet.Rd
+/man/pa.calls.Rd
+/vignettes/panp.Rnw
+/build/vignette.rds
+/inst/doc/panp.R
+/inst/doc/panp.Rnw
+/inst/doc/panp.pdf

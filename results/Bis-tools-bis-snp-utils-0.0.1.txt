@@ -1,0 +1,20 @@
+#package: Bis-tools-bis-snp-utils-0.0.1 
+#url: https://github.com/karl616/Bis-tools/archive/bis-snp-utils-0.0.1.tar.gz
+ 
+/.project
+/.gitignore
+/utils/vcf2bed.pl
+/utils/annotateBed_2way.pl
+/utils/mergeBamWithSameSM.pl
+/utils/sep_line_by_name.pl
+/utils/uniqLine.pl
+/utils/vcf2bed6plus2.pl
+/utils/gtf2bed.pl
+/utils/vcf2bed.NOME.pl
+/utils/vcf2coverage.pl
+/utils/vcf2wig.pl
+/utils/vcf2bed6plus2.strand.pl
+/utils/vcf2wig_ct_coverage.pl
+/utils/vcf2bedGraph.pl
+/utils/vcf4ToRod_in_specific_pos.pl
+/utils/sortByRefAndCor.pl

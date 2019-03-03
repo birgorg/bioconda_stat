@@ -1,0 +1,37 @@
+#package: ExiMiR 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ExiMiR_2.22.0.tar.gz
+ 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS
+/R/NormiR.R
+/R/createAB.R
+/R/NormiR.methods.R
+/R/make.gal.env.R
+/R/read.exi.R
+/data/GSE19183.rda
+/data/galenv.rda
+/data/GSE20122.rda
+/man/NormiR.Rd
+/man/GSE19183.Rd
+/man/ReadExi.Rd
+/man/bg.correct.miR.Rd
+/man/GSE20122.Rd
+/man/make.gal.env.Rd
+/man/createAB.Rd
+/man/NormiR.methods.Rd
+/man/summarize.miR.Rd
+/man/norm.miR.Rd
+/man/galenv.Rd
+/man/ExiMiR-package.Rd
+/vignettes/ExiMiR-vignette.Rnw
+/vignettes/fig1.png
+/vignettes/samplesinfo.txt
+/vignettes/fig0.png
+/vignettes/fig3.png
+/vignettes/fig2.png
+/build/vignette.rds
+/inst/doc/ExiMiR-vignette.Rnw
+/inst/doc/ExiMiR-vignette.pdf
+/inst/doc/ExiMiR-vignette.R

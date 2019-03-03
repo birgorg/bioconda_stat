@@ -1,0 +1,22 @@
+#package: MeasurementError.cor 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/MeasurementError.cor_1.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/fcn.uncons.R
+/R/cor.me.matrix.R
+/R/TransformUncon2Con.R
+/R/gradient.uncons.R
+/R/cor.me.vector.R
+/R/fcn.R
+/R/gradient.R
+/R/CalcInitials.R
+/R/TransformCon2Uncon.R
+/man/cor.me.vector.Rd
+/man/cor.me.matrix.Rd
+/vignettes/MeasurementError.cor.Rnw
+/vignettes/MeasurementError.cor.bib
+/build/vignette.rds
+/inst/doc/MeasurementError.cor.Rnw
+/inst/doc/MeasurementError.cor.R
+/inst/doc/MeasurementError.cor.pdf

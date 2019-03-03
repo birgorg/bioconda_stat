@@ -1,0 +1,21 @@
+#package: Set-IntervalTree-0.11 
+#url: https://cpan.metacpan.org/authors/id/S/SL/SLOYD/Set-IntervalTree-0.11.tar.gz
+ 
+/META.yml
+/ppport.h
+/IntervalTree.xs
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/interval_tree.h
+/META.json
+/MANIFEST.SKIP
+/typemap
+/perlobject.map
+/t/author-pod-syntax.t
+/t/Set-IntervalTree.t
+/t/fetch-nearest.t
+/lib/Set/IntervalTree.pm

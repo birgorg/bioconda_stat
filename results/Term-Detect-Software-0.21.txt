@@ -1,0 +1,18 @@
+#package: Term-Detect-Software-0.21 
+#url: https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/Term-Detect-Software-0.21.tar.gz
+ 
+/META.yml
+/LICENSE
+/TODO.md
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/weaver.ini
+/t/release-pod-coverage.t
+/t/release-pod-syntax.t
+/t/release-rinci.t
+/t/00-compile.t
+/lib/Term/Detect/Software.pm

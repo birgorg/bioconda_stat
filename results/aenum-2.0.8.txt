@@ -1,0 +1,20 @@
+#package: aenum-2.0.8 
+#url: https://pypi.io/packages/source/a/aenum/aenum-2.0.8.tar.gz
+ 
+/README
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/aenum.egg-info/top_level.txt
+/aenum.egg-info/SOURCES.txt
+/aenum.egg-info/PKG-INFO
+/aenum.egg-info/dependency_links.txt
+/aenum/LICENSE
+/aenum/README
+/aenum/__init__.py
+/aenum/CHANGES
+/aenum/test.py
+/aenum/test_v3.py
+/aenum/doc/aenum.rst
+/aenum/doc/aenum.pdf

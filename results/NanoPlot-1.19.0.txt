@@ -1,0 +1,22 @@
+#package: NanoPlot-1.19.0 
+#url: https://pypi.io/packages/source/n/nanoplot/NanoPlot-1.19.0.tar.gz
+ 
+/README.md
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/scripts/test.sh
+/nanoplot/filteroptions.py
+/nanoplot/__init__.py
+/nanoplot/version.py
+/nanoplot/NanoPlot.py
+/nanoplot/utils.py
+/NanoPlot.egg-info/entry_points.txt
+/NanoPlot.egg-info/top_level.txt
+/NanoPlot.egg-info/SOURCES.txt
+/NanoPlot.egg-info/PKG-INFO
+/NanoPlot.egg-info/dependency_links.txt
+/NanoPlot.egg-info/requires.txt
+/extra/color_options.txt

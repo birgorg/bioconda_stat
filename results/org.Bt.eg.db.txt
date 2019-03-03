@@ -1,0 +1,32 @@
+#package: org.Bt.eg.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/org.Bt.eg.db_3.6.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/org.Bt.egUNIGENE.Rd
+/man/org.Bt.egENSEMBLTRANS.Rd
+/man/org.Bt.egACCNUM.Rd
+/man/org.Bt.egCHRLENGTHS.Rd
+/man/org.Bt.egUNIPROT.Rd
+/man/org.Bt.egCHR.Rd
+/man/org.Bt.egBASE.Rd
+/man/org.Bt.egMAPCOUNTS.Rd
+/man/org.Bt.egCHRLOC.Rd
+/man/org.Bt.eg_dbconn.Rd
+/man/org.Bt.egORGANISM.Rd
+/man/org.Bt.egPFAM.Rd
+/man/org.Bt.egREFSEQ.Rd
+/man/org.Bt.egALIAS2EG.Rd
+/man/org.Bt.egGO.Rd
+/man/org.Bt.egENZYME.Rd
+/man/org.Bt.egSYMBOL.Rd
+/man/org.Bt.egPROSITE.Rd
+/man/org.Bt.egGENENAME.Rd
+/man/org.Bt.egENSEMBLPROT.Rd
+/man/org.Bt.egENSEMBL.Rd
+/man/org.Bt.egPATH.Rd
+/man/org.Bt.egPMID.Rd
+/tests/runalltests.R
+/tests/unit/test.R
+/inst/extdata/org.Bt.eg.sqlite

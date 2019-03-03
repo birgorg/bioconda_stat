@@ -1,0 +1,26 @@
+#package: rGREAT 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/rGREAT_1.12.1.tar.gz
+ 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS
+/R/great.R
+/R/00_S4_generic_methods.R
+/R/global.R
+/man/plotRegionGeneAssociationGraphs-GreatJob-method.rd
+/man/submitGreatJob.rd
+/man/getEnrichmentTables-GreatJob-method.rd
+/man/availableOntologies-GreatJob-method.rd
+/man/GreatJob-class.rd
+/man/availableCategories-GreatJob-method.rd
+/vignettes/rGREAT.Rmd
+/vignettes/custom.css
+/build/vignette.rds
+/tests/test-all.R
+/tests/testthat/test_great.R
+/tests/testthat/test_available.R
+/inst/doc/rGREAT.Rmd
+/inst/doc/rGREAT.html
+/inst/doc/rGREAT.R
+/inst/extdata/job.rds

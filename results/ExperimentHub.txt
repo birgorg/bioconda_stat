@@ -1,0 +1,23 @@
+#package: ExperimentHub 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ExperimentHub_1.6.1.tar.gz
+ 
+/NAMESPACE
+/TODO
+/DESCRIPTION
+/NEWS
+/R/ExperimentHub-option.R
+/R/utilities.R
+/R/zzz.R
+/R/ExperimentHub-class.R
+/man/ExperimentHub-class.Rd
+/man/getExperimentHubOption.Rd
+/man/listResources.Rd
+/vignettes/ExperimentHub.Rmd
+/vignettes/CreateAnExperimentHubPackage.Rmd
+/build/vignette.rds
+/inst/doc/ExperimentHub.html
+/inst/doc/ExperimentHub.R
+/inst/doc/CreateAnExperimentHubPackage.R
+/inst/doc/CreateAnExperimentHubPackage.html
+/inst/doc/ExperimentHub.Rmd
+/inst/doc/CreateAnExperimentHubPackage.Rmd

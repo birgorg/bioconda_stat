@@ -1,0 +1,25 @@
+#package: GO.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/GO.db_3.6.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/GOBPANCESTOR.Rd
+/man/GOTERM.Rd
+/man/GOCCOFFSPRING.Rd
+/man/GOMAPCOUNTS.Rd
+/man/GOMFANCESTOR.Rd
+/man/GOBPPARENTS.Rd
+/man/GO_dbconn.Rd
+/man/GOSYNONYM.Rd
+/man/GOBPOFFSPRING.Rd
+/man/GOCCPARENTS.Rd
+/man/GOMFPARENTS.Rd
+/man/GOCCANCESTOR.Rd
+/man/GOBASE.Rd
+/man/GOMFCHILDREN.Rd
+/man/GOOBSOLETE.Rd
+/man/GOCCCHILDREN.Rd
+/man/GOMFOFFSPRING.Rd
+/man/GOBPCHILDREN.Rd
+/inst/extdata/GO.sqlite

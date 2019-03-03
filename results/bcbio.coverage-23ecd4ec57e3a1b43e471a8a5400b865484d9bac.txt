@@ -1,0 +1,32 @@
+#package: bcbio.coverage-23ecd4ec57e3a1b43e471a8a5400b865484d9bac 
+#url: https://github.com/lpantano/bcbio.coverage/archive/23ecd4ec57e3a1b43e471a8a5400b865484d9bac.tar.gz
+ 
+/README.md
+/README.txt
+/LICENSE
+/requirements.txt
+/MANIFEST.in
+/setup.py
+/.gitignore
+/data/sample1.bam.bai
+/data/sample1.bam
+/data/sample1.vcf.gz.tbi
+/data/regions.bed
+/data/regions-sample.bed
+/data/sample1.vcf.gz
+/data/run.sh
+/data/final/sample1/sample1-ready.bam.bai
+/data/final/sample1/sample1-gatk.vcf.gz
+/data/final/sample1/sample1.bam.bai
+/data/final/sample1/sample1-ready.bam
+/data/final/sample1/sample1-gatk.vcf.gz.tbi
+/data/final/sample1/qc/fastqc/fastqc_data.txt
+/data/final/2015-01-01_test/project-summary.yaml
+/bcbreport/variants.Rmd
+/bcbreport/qsignature.Rmd
+/bcbreport/bcbioReport.Rmd
+/bcbreport/qc.Rmd
+/bcbreport/__init__.py
+/bcbreport/header.Rmd
+/bcbreport/regions.Rmd
+/bcbreport/prepare.py

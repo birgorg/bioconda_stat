@@ -1,0 +1,43 @@
+#package: mashtree-0.35.4 
+#url: https://github.com/lskatz/mashtree/archive/v0.35.4.tar.gz
+ 
+/README.md
+/LICENSE
+/Makefile.PL
+/MANIFEST
+/CHANGES
+/.travis.yml
+/misc/mashtree ASM NGS.pptx
+/misc/.dummy
+/plugins/README.md
+/plugins/mashtree_optimize.pl
+/docs/SQL.md
+/t/10_sqlite.t
+/t/01_filetypes.t
+/t/02_lambda.t
+/t/00_env.t
+/t/03_subsample.t
+/t/lambda/sample3.fastq.gz
+/t/lambda/sample4.fastq.gz
+/t/lambda/sample1.fastq.gz
+/t/lambda/mashtree.dnd
+/t/lambda/sample2.fastq.gz
+/t/filetypes/CFSAN000189.ref.fasta.gz
+/t/filetypes/CFSAN001140_1.fastq.gz
+/t/filetypes/CFSAN000968.ref.fasta.gz
+/t/filetypes/CFSAN000211.gbk.gz
+/t/filetypes/CFSAN001115.ref.fasta.bz2
+/t/filetypes/CFSAN000191.ref.fasta.gz
+/t/filetypes/CFSAN000961.gbk.gz
+/t/filetypes/CFSAN001112.ref.fasta.gz
+/t/filetypes/CFSAN000189.gbk.gz
+/lib/Mashtree.pm
+/lib/Bio/Kmer.pm
+/lib/Mashtree/Db.pm
+/lib/Mashtree/Mash.pm
+/bin/mashtree_wrapper.pl
+/bin/cpanm
+/bin/min_abundance_finder.pl
+/bin/mashtree_cluster.pl
+/bin/mashtree_init.pl
+/bin/mashtree

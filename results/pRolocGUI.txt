@@ -1,0 +1,36 @@
+#package: pRolocGUI 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/pRolocGUI_1.14.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/pRolocVis.R
+/R/pRolocVis_compare.R
+/R/pRolocVis_pca.R
+/R/zzz.R
+/R/utils.R
+/R/pRolocVis_aggregation.R
+/R/pRolocVis_classify.R
+/man/pRolocVis-apps.Rd
+/vignettes/pRolocGUI.Rmd
+/vignettes/figures/SS_Classify1.jpg
+/vignettes/figures/SS_PCA3.jpg
+/vignettes/figures/SS_PCA1.jpg
+/vignettes/figures/SS_Compare5.jpg
+/vignettes/figures/SS_PCA2.jpg
+/vignettes/figures/SS_Compare2.jpg
+/vignettes/figures/SS_Compare3.jpg
+/vignettes/figures/SS_PCA7.jpg
+/vignettes/figures/SS_Classify2.jpg
+/vignettes/figures/SS_PCA5.jpg
+/vignettes/figures/SS_PCA6.jpg
+/vignettes/figures/SS_PCA8.jpg
+/vignettes/figures/SS_PCA4.jpg
+/vignettes/figures/SS_Compare4.jpg
+/vignettes/figures/SS_Compare1.jpg
+/vignettes/figures/SS_Compare6.jpg
+/vignettes/figures/SS_Compare7.jpg
+/build/vignette.rds
+/inst/doc/pRolocGUI.Rmd
+/inst/doc/pRolocGUI.R
+/inst/doc/pRolocGUI.html

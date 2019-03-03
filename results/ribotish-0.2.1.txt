@@ -1,0 +1,30 @@
+#package: ribotish-0.2.1 
+#url: https://github.com/zhpn1024/ribotish/archive/v0.2.1.tar.gz
+ 
+/LICENSE
+/INSTALL.rst
+/README.rst
+/CHANGELOG
+/setup.py
+/.gitignore
+/scripts/tisdiff_DESeq2.r
+/scripts/tisdiff_edgeR.r
+/bin/ribotish
+/src/__init__.py
+/src/run/quality.py
+/src/run/__init__.py
+/src/run/predict.py
+/src/run/tisdiff.py
+/src/zbio/tools.py
+/src/zbio/gtf.py
+/src/zbio/ribo.py
+/src/zbio/bed.py
+/src/zbio/__init__.py
+/src/zbio/plot.py
+/src/zbio/interval.py
+/src/zbio/bam.py
+/src/zbio/fa.py
+/src/zbio/stat.py
+/src/zbio/orf.py
+/src/zbio/exp.py
+/src/zbio/io.py

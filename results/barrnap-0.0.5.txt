@@ -1,0 +1,29 @@
+#package: barrnap-0.0.5 
+#url: https://pypi.io/packages/source/b/barrnap/barrnap-0.0.5.tar.gz
+ 
+/README.md
+/LICENSE
+/LICENSE.SILVA
+/PKG-INFO
+/MANIFEST.in
+/LICENSE.Rfam
+/setup.py
+/setup.cfg
+/barrnap.egg-info/top_level.txt
+/barrnap.egg-info/SOURCES.txt
+/barrnap.egg-info/PKG-INFO
+/barrnap.egg-info/dependency_links.txt
+/barrnap/barrnap.py
+/barrnap/examples/null.fna
+/barrnap/examples/bacteria.fna
+/barrnap/examples/empty.fna
+/barrnap/examples/small.fna
+/barrnap/examples/protein.fna
+/barrnap/examples/archaea.fna
+/barrnap/examples/nohits.fna
+/barrnap/examples/fungus.fna
+/barrnap/examples/mitochondria.fna
+/barrnap/db/mito.hmm
+/barrnap/db/euk.hmm
+/barrnap/db/bac.hmm
+/barrnap/db/arc.hmm

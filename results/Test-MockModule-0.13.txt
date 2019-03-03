@@ -1,0 +1,17 @@
+#package: Test-MockModule-0.13 
+#url: https://cpan.metacpan.org/authors/id/G/GF/GFRANKS/Test-MockModule-0.13.tar.gz
+ 
+/README.md
+/META.yml
+/LICENSE
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/Build.PL
+/t/pod_coverage.t
+/t/pod.t
+/t/mockmodule.t
+/t/inheritance.t
+/t/lib/ExampleModule.pm
+/lib/Test/MockModule.pm

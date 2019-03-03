@@ -1,0 +1,28 @@
+#package: rTRMui 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/rTRMui_1.18.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/func.R
+/man/runTRM.Rd
+/man/rTRMui-package.Rd
+/vignettes/rTRMui.Rnw
+/vignettes/figure1.pdf
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/rTRMui.Rnw
+/inst/doc/rTRMui.R
+/inst/doc/rTRMui.pdf
+/inst/shiny/ui.R
+/inst/shiny/server.R
+/inst/shiny/www/data/sox2_motifs.txt
+/inst/shiny/www/data/esc_expressed.txt
+/inst/shiny/www/doc/tutorial.html
+/inst/shiny/www/doc/index.html
+/inst/shiny/www/pic/fig1.png
+/inst/shiny/www/pic/fig4.png
+/inst/shiny/www/pic/fig5.png
+/inst/shiny/www/pic/fig3.png
+/inst/shiny/www/pic/logo.png
+/inst/shiny/www/pic/fig2.png

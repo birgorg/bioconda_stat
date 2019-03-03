@@ -1,0 +1,34 @@
+#package: hgu133a.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/hgu133a.db_3.2.3.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/hgu133aUNIPROT.Rd
+/man/hgu133aBASE.Rd
+/man/hgu133aCHR.Rd
+/man/hgu133aENSEMBL.Rd
+/man/hgu133aENZYME.Rd
+/man/hgu133aUNIGENE.Rd
+/man/hgu133aGO.Rd
+/man/hgu133aPROSITE.Rd
+/man/hgu133aCHRLENGTHS.Rd
+/man/hgu133aALIAS2PROBE.Rd
+/man/hgu133aMAP.Rd
+/man/hgu133aOMIM.Rd
+/man/hgu133aACCNUM.Rd
+/man/hgu133aORGANISM.Rd
+/man/hgu133aPATH.Rd
+/man/hgu133aCHRLOC.Rd
+/man/hgu133aMAPCOUNTS.Rd
+/man/hgu133a_dbconn.Rd
+/man/hgu133aPFAM.Rd
+/man/hgu133aREFSEQ.Rd
+/man/hgu133aPMID.Rd
+/man/hgu133aSYMBOL.Rd
+/man/hgu133aGENENAME.Rd
+/man/hgu133aENTREZID.Rd
+/tests/runalltests.R
+/tests/runalltests.Rout.save
+/tests/unit/test.R
+/inst/extdata/hgu133a.sqlite

@@ -1,0 +1,19 @@
+#package: biobb_io-0.1.0 
+#url: https://pypi.io/packages/source/b/biobb_io/biobb_io-0.1.0.tar.gz
+ 
+/README.md
+/PKG-INFO
+/setup.py
+/setup.cfg
+/biobb_io.egg-info/top_level.txt
+/biobb_io.egg-info/SOURCES.txt
+/biobb_io.egg-info/PKG-INFO
+/biobb_io.egg-info/dependency_links.txt
+/biobb_io.egg-info/requires.txt
+/biobb_io/__init__.py
+/biobb_io/test/__init__.py
+/biobb_io/mmb_api/pdb_cluster_zip.py
+/biobb_io/mmb_api/common.py
+/biobb_io/mmb_api/__init__.py
+/biobb_io/mmb_api/pdb_variants.py
+/biobb_io/mmb_api/pdb.py

@@ -1,0 +1,9 @@
+#package: FIs 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/FIs_1.8.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/FIs.rda
+/data/datalist
+/man/FIs.Rd

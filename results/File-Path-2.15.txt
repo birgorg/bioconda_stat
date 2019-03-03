@@ -1,0 +1,19 @@
+#package: File-Path-2.15 
+#url: https://cpan.metacpan.org/authors/id/J/JK/JKEENAN/File-Path-2.15.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/t/Path-Class.t
+/t/FilePathTest.pm
+/t/Path_root.t
+/t/Path_win32.t
+/t/Path.t
+/t/taint.t
+/lib/File/Path.pm
+/xt/setup_tests.pl
+/xt/extra.t

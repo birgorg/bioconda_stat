@@ -1,0 +1,17 @@
+#package: Data-Munge-0.097 
+#url: https://cpan.metacpan.org/authors/id/M/MA/MAUKE/Data-Munge-0.097.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/Makefile_PL_settings
+/t/torgox.t
+/t/eval.t
+/t/01-compile.t
+/t/00-load.t
+/lib/Data/Munge.pm
+/xt/pod.t

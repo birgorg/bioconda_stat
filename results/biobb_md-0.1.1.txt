@@ -1,0 +1,25 @@
+#package: biobb_md-0.1.1 
+#url: https://pypi.io/packages/source/b/biobb_md/biobb_md-0.1.1.tar.gz
+ 
+/README.md
+/PKG-INFO
+/setup.py
+/setup.cfg
+/biobb_md.egg-info/top_level.txt
+/biobb_md.egg-info/SOURCES.txt
+/biobb_md.egg-info/PKG-INFO
+/biobb_md.egg-info/dependency_links.txt
+/biobb_md.egg-info/requires.txt
+/biobb_md/__init__.py
+/biobb_md/gromacs_extra/ndx2resttop.py
+/biobb_md/gromacs_extra/__init__.py
+/biobb_md/test/__init__.py
+/biobb_md/gromacs/solvate.py
+/biobb_md/gromacs/genrestr.py
+/biobb_md/gromacs/pdb2gmx.py
+/biobb_md/gromacs/__init__.py
+/biobb_md/gromacs/mdrun.py
+/biobb_md/gromacs/genion.py
+/biobb_md/gromacs/grompp.py
+/biobb_md/gromacs/make_ndx.py
+/biobb_md/gromacs/editconf.py

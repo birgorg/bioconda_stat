@@ -1,0 +1,23 @@
+#package: SigFuge 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/SigFuge_1.18.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/SFnormalize.R
+/R/SFlabels.R
+/R/SFpval.R
+/R/SFfigure.R
+/data/geneAnnot.rda
+/data/geneDepth.rda
+/man/SFnormalize.Rd
+/man/SFlabels.Rd
+/man/SFfigure.Rd
+/man/SFpval.Rd
+/man/SigFuge-package.Rd
+/man/geneDepth.Rd
+/man/geneAnnot.Rd
+/vignettes/SigFuge.Rnw
+/build/vignette.rds
+/inst/doc/SigFuge.R
+/inst/doc/SigFuge.Rnw
+/inst/doc/SigFuge.pdf

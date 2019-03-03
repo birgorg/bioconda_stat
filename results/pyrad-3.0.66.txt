@@ -1,0 +1,33 @@
+#package: pyrad-3.0.66 
+#url: https://github.com/dereneaton/pyrad/archive/3.0.66.tar.gz
+ 
+/tox.ini
+/LICENSE
+/README.rst
+/setup.py
+/.gitignore
+/pyrad/sortandcheck2.py
+/pyrad/potpour.py
+/pyrad/createfile.py
+/pyrad/loci2phynex.py
+/pyrad/consensdp.py
+/pyrad/__init__.py
+/pyrad/loci2treemix.py
+/pyrad/loci2mig.py
+/pyrad/H_err_dp.py
+/pyrad/consens_pairs.py
+/pyrad/editraw_merges.py
+/pyrad/overlapcheck.py
+/pyrad/cluster_cons7_shuf.py
+/pyrad/tier2clust.py
+/pyrad/cluster7dp.py
+/pyrad/loci2SNP.py
+/pyrad/loci2gphocs.py
+/pyrad/editraw_pairs.py
+/pyrad/Dtest_5.py
+/pyrad/editraw_rads.py
+/pyrad/Dtest_foil.py
+/pyrad/pyRAD.py
+/pyrad/alignable.py
+/pyrad/Dtest.py
+/pyrad/loci2vcf.py

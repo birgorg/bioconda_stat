@@ -1,0 +1,22 @@
+#package: NTLM-1.09 
+#url: http://cpan.metacpan.org/authors/id/N/NB/NBEBOUT/NTLM-1.09.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/COPYING-GPL
+/COPYING-Artistic
+/NTLM.pm
+/MD4/MD4.pm
+/MD4/Makefile.PL
+/MD4/Makefile.old
+/t/01_load.t
+/t/04_v2.t
+/t/02_ntlm.t
+/t/03_oo.t
+/t/99_pod.t
+/DES/Makefile.PL
+/DES/DES.pm
+/DES/Makefile.old

@@ -1,0 +1,7 @@
+#package: PMDtools-0.60 
+#url: https://github.com/pontussk/PMDtools/archive/0.60.tar.gz
+ 
+/README.md
+/LICENSE
+/plotPMD.v2.R
+/pmdtools.0.60.py

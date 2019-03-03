@@ -1,0 +1,21 @@
+#package: FLASH2-2.2.00 
+#url: https://github.com/dstreett/FLASH2/archive/2.2.00.tar.gz
+ 
+/iostream.c
+/README
+/read_io.c
+/util.h
+/flash2.c
+/iostream.h
+/Makefile
+/read_util.c
+/read.h
+/read_queue.c
+/util.c
+/COPYING
+/.gitignore
+/read_io.h
+/read_queue.h
+/combine_reads.c
+/combine_reads.h
+/test_suite/tmp.txt

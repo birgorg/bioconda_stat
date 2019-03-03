@@ -1,0 +1,12 @@
+#package: Test-Fork-0.02 
+#url: https://cpan.metacpan.org/authors/id/M/MS/MSCHWERN/Test-Fork-0.02.tar.gz
+ 
+/META.yml
+/MANIFEST
+/Changes
+/SIGNATURE
+/Build.PL
+/t/failed_fork.t
+/t/fork.t
+/t/fork_ok_return.t
+/lib/Test/Fork.pm

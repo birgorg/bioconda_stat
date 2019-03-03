@@ -1,0 +1,22 @@
+#package: sqlalchemy-datatables-0.3.0 
+#url: https://pypi.python.org/packages/source/s/sqlalchemy-datatables/sqlalchemy-datatables-0.3.0.tar.gz
+ 
+/LICENSE
+/README.rst
+/.bumpversion.cfg
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/datatables/__init__.py
+/sqlalchemy_datatables.egg-info/top_level.txt
+/sqlalchemy_datatables.egg-info/not-zip-safe
+/sqlalchemy_datatables.egg-info/SOURCES.txt
+/sqlalchemy_datatables.egg-info/PKG-INFO
+/sqlalchemy_datatables.egg-info/dependency_links.txt
+/sqlalchemy_datatables.egg-info/requires.txt
+/tests/test_datatables_legacy.py
+/tests/__init__.py
+/tests/models.py
+/tests/test_datatables.py
+/tests/test_columns.py

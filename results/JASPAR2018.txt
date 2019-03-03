@@ -1,0 +1,11 @@
+#package: JASPAR2018 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/JASPAR2018_1.1.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/zzz.R
+/R/AllClasses.R
+/man/JASPAR2018-package.Rd
+/man/JASPAR2018-class.Rd
+/inst/extdata/JASPAR2018.sqlite

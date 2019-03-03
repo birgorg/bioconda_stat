@@ -1,0 +1,34 @@
+#package: GraphAT 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/GraphAT_1.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/getpvalue.R
+/R/clust2Mat.R
+/R/permPower.R
+/R/makeClustM.R
+/R/permNodesM2M.R
+/R/mat2UndirG.R
+/R/permEdgesM2M.R
+/data/mRNAclusters.rda
+/data/giaever.rda
+/data/depthmatMF.rda
+/data/Phenoclusters.rda
+/data/depthmatBP.rda
+/data/nNamescc.rda
+/data/causton.rda
+/data/ccCM.rda
+/data/depthmatCC.rda
+/data/datalist
+/man/clust2Mat.Rd
+/man/perms.Rd
+/man/mat2UndirG.Rd
+/man/getpvalue.Rd
+/man/makeClustM.Rd
+/man/giaever.Rd
+/man/cellcycle.Rd
+/man/Phenoclusters.Rd
+/man/causton.Rd
+/man/mRNAclusters.Rd
+/man/permPower.Rd
+/man/depthmat.Rd

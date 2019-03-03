@@ -1,0 +1,21 @@
+#package: iASeq 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/iASeq_1.24.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/iASeq.R
+/data/sampleASE.RData
+/man/plotBIC.Rd
+/man/ASErawfit.Rd
+/man/plotMotif.Rd
+/man/singleEMfit.Rd
+/man/sampleASE.Rd
+/man/iASeq-package.Rd
+/man/iASeq-internal.Rd
+/man/iASeqmotif.Rd
+/vignettes/iASeqVignette.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/iASeqVignette.Rnw
+/inst/doc/iASeqVignette.pdf
+/inst/doc/iASeqVignette.R

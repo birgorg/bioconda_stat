@@ -1,0 +1,12 @@
+#package: hts-nim-tools-e4249bf37a521759e9c99caded45f0a8fa99e581 
+#url: https://github.com/brentp/hts-nim-tools/archive/e4249bf.tar.gz
+ 
+/README.md
+/hts_nim_tools.nimble
+/LICENSE
+/.gitignore
+/src/bam_filter.nim
+/src/version.nim
+/src/vcf_check.nim
+/src/hts_nim_tools.nim
+/src/count_reads.nim

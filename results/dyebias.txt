@@ -1,0 +1,27 @@
+#package: dyebias 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/dyebias_1.40.0.tar.gz
+ 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/plotfunctions.R
+/R/dyebias.R
+/man/dyebias.rgplot.Rd
+/man/dyebias.monotonicity.Rd
+/man/dyebias-package.Rd
+/man/dyebias.application.subset.Rd
+/man/dyebias.estimate.iGSDBs.Rd
+/man/dyebias.boxplot.Rd
+/man/dyebias.monotonicityplot.Rd
+/man/dyebias.trendplot.Rd
+/man/dyebias.apply.correction.Rd
+/vignettes/dyebias.bib
+/vignettes/gassco.pdf
+/vignettes/dyebias-vignette.Rnw
+/vignettes/ChangeLog
+/vignettes/dyebiasCompleteVignette.pdf
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/dyebias-vignette.pdf
+/inst/doc/dyebias-vignette.Rnw
+/inst/doc/dyebias-vignette.R

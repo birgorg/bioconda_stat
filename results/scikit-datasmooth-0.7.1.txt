@@ -1,0 +1,16 @@
+#package: scikit-datasmooth-0.7.1 
+#url: https://github.com/jjstickel/scikit-datasmooth/releases/download/v0.7.1/scikit-datasmooth-0.7.1.tar.gz
+ 
+/README.txt
+/LICENSE.txt
+/MANIFEST.in
+/setup.py
+/NEWS
+/scikits/__init__.py
+/scikits/datasmooth/__init__.py
+/scikits/datasmooth/regularsmooth.py
+/examples/smoothing_scattered.py
+/examples/smoothing_ordered.py
+/examples/smoothing_constrained.py
+/docs/regularsmooth.html
+/docs/index.html

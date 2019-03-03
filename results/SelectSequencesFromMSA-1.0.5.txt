@@ -1,0 +1,11 @@
+#package: SelectSequencesFromMSA-1.0.5 
+#url: https://github.com/eggzilla/SelectSequencesFromMSA/archive/1.0.5.tar.gz
+ 
+/README.md
+/stack.yaml
+/LICENSE
+/changelog
+/SelectSequencesFromMSA.cabal
+/.travis.yml
+/src/Bio/SelectSequences.hs
+/src/Bio/SelectSequencesLibrary.hs

@@ -1,0 +1,31 @@
+#package: deeptoolsintervals-0.1.7 
+#url: https://pypi.io/packages/source/d/deeptoolsintervals/deeptoolsintervals-0.1.7.tar.gz
+ 
+/README.md
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/deeptoolsintervals/__init__.py
+/deeptoolsintervals/parse.py
+/deeptoolsintervals/enrichment.py
+/deeptoolsintervals/test/GRCh38.84.labels.bed
+/deeptoolsintervals/test/GRCh38.84.bed6
+/deeptoolsintervals/test/GRCh38.84.bed12.bz2
+/deeptoolsintervals/test/GRCh38.84.gtf.gz
+/deeptoolsintervals/test/GRCh38.84.bed2
+/deeptoolsintervals/test/GRCh38.84.bed
+/deeptoolsintervals/test/GRCh38.84.2.gtf.gz
+/deeptoolsintervals/test/strands.bed
+/deeptoolsintervals/test/noOverlaps.bed
+/deeptoolsintervals/tree/kseq.h
+/deeptoolsintervals/tree/hashTable.c
+/deeptoolsintervals/tree/tree.h
+/deeptoolsintervals/tree/murmur3.h
+/deeptoolsintervals/tree/gtf.h
+/deeptoolsintervals/tree/gtf.c
+/deeptoolsintervals/tree/tree.c
+/deeptoolsintervals/tree/murmur3.c
+/deeptoolsintervals/tree/kstring.h
+/deeptoolsintervals/tree/findOverlaps.c
+/deeptoolsintervals.egg-info/SOURCES.txt

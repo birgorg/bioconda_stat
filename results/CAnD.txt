@@ -1,0 +1,35 @@
+#package: CAnD 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/CAnD_1.12.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/plotPvals.R
+/R/CAnD-internal.R
+/R/barPlotAncest.R
+/R/CAnDResult-accessors.R
+/R/AllClasses.R
+/R/show-methods.R
+/R/CAnD.R
+/R/AllGenerics.R
+/R/getDiffMatrices.R
+/R/calc_combP.R
+/data/ancestries.rda
+/man/overallStatistic-method.Rd
+/man/calc_combP.Rd
+/man/barPlotAncest.Rd
+/man/overallpValue-method.Rd
+/man/BonfCorr-method.Rd
+/man/getDiffMatrices.Rd
+/man/ancestries.Rd
+/man/CAnD.Rd
+/man/pValues-method.Rd
+/man/CAnDResult-class.Rd
+/man/test-method.Rd
+/man/plotPvals.Rd
+/vignettes/CAnD.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/doc/CAnD.pdf
+/inst/doc/CAnD.Rnw
+/inst/doc/CAnD.R
+/inst/unitTests/test_CAnD.R

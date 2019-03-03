@@ -1,0 +1,12 @@
+#package: hom.Hs.inp.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/hom.Hs.inp.db_3.1.2.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/hom.Hs.inpMAPCOUNTS.Rd
+/man/hom.Hs.inpORGANISM.Rd
+/man/hom.Hs.inp_dbconn.Rd
+/man/hom.Hs.inpORGVSORGMAP.Rd
+/man/hom.Hs.inpBASE.Rd
+/inst/extdata/hom.Hs.inp.sqlite

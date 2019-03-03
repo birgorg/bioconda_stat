@@ -1,0 +1,9 @@
+#package: Slurp-0.4 
+#url: https://cpan.metacpan.org/authors/id/R/RO/ROBAU/Slurp-0.4.tar.gz
+ 
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/slurp.t
+/lib/Slurp.pm

@@ -1,0 +1,22 @@
+#package: Bloom-Faster-1.7 
+#url: http://cpan.metacpan.org/authors/id/P/PA/PALVARO/Bloom-Faster-1.7.tar.gz
+ 
+/META.yml
+/tester.plx
+/ppport.h
+/bloom.h
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/suggestions.c
+/bloom.c
+/hashes.h
+/INSTALL
+/typemap
+/Faster.xs
+/jenkins.c
+/t/Bloom.t
+/lib/Bloom/Faster.pm
+/fallback/const-xs.inc
+/fallback/const-c.inc

@@ -1,0 +1,22 @@
+#package: Business-ISBN-Data-20140910.003 
+#url: https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Business-ISBN-Data-20140910.003.tar.gz
+ 
+/META.yml
+/LICENSE
+/Makefile.PL
+/MANIFEST
+/Changes
+/INSTALL.SKIP
+/META.json
+/README.pod
+/MANIFEST.SKIP
+/make_data.pl
+/examples/README
+/t/pod_coverage.t
+/t/pod.t
+/t/check_data_structure.t
+/t/test_manifest
+/t/load.t
+/lib/Business/ISBN/RangeMessage.xml
+/lib/Business/ISBN/Data.pm
+/xt/changes.t

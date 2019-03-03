@@ -1,0 +1,36 @@
+#package: DrugVsDisease 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/DrugVsDisease_2.22.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/classifyprofile.R
+/R/selectrankedlists.R
+/R/generateprofiles.R
+/R/DrugVsDisease-internal.R
+/R/combineProfiles.R
+/data/customClust.rda
+/data/customedge.rda
+/data/selprofile.rda
+/data/profiles.rda
+/data/customsif.rda
+/data/customDB.rda
+/data/datalist
+/man/DrugVsDisease-package.Rd
+/man/customClust.rd
+/man/customsif.rd
+/man/selectrankedlists.Rd
+/man/profiles.Rd
+/man/generateprofiles.Rd
+/man/customdb.rd
+/man/combineProfiles.Rd
+/man/customedge.rd
+/man/classifyprofile.Rd
+/man/selprofile.Rd
+/vignettes/DrugVsDisease.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/doc/DrugVsDisease.R
+/inst/doc/DrugVsDisease.pdf
+/inst/doc/DrugVsDisease.Rnw
+/inst/unitTests/test_.KS.drug.disease.R
+/inst/unitTests/test_.getESscores.R

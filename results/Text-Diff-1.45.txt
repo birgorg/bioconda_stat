@@ -1,0 +1,22 @@
+#package: Text-Diff-1.45 
+#url: https://cpan.metacpan.org/authors/id/N/NE/NEILB/Text-Diff-1.45.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/97_meta.t
+/t/98_pod.t
+/t/ext_format.t
+/t/inputs.t
+/t/general.t
+/t/table.t
+/t/outputs.t
+/t/99_pmv.t
+/t/keygen.t
+/lib/Text/Diff.pm
+/lib/Text/Diff/Config.pm
+/lib/Text/Diff/Table.pm

@@ -1,0 +1,5 @@
+#package: vcflatten-0.5.2 
+#url: https://github.com/downloads/innovativemedicine/vcfimp/vcflatten-0.5.2.zip
+ 
+/lib/vcflatten-assembly-0.5.2.jar
+/bin/vcflatten

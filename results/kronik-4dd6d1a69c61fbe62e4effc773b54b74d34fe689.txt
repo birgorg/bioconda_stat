@@ -1,0 +1,9 @@
+#package: kronik-4dd6d1a69c61fbe62e4effc773b54b74d34fe689 
+#url: https://github.com/mhoopmann/kronik/archive/4dd6d1a69c61fbe62e4effc773b54b74d34fe689.tar.gz
+ 
+/Kronik.cpp
+/README.md
+/LICENSE
+/Makefile
+/CKronik.cpp
+/CKronik.h

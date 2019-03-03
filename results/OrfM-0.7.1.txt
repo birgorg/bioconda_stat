@@ -1,0 +1,18 @@
+#package: OrfM-0.7.1 
+#url: https://github.com/wwood/OrfM/archive/v0.7.1.tar.gz
+ 
+/README.md
+/configure.ac
+/autogen.sh
+/LICENSE.txt
+/Makefile.am
+/.rspec
+/.gitmodules
+/.gitignore
+/ext/ac.h
+/ext/ac.c
+/test/orfm_spec.rb
+/test/20_random100bp.fna
+/codon_tables/convert_ncbi_text_to_C_code.rb
+/codon_tables/copy_from_ncbi.txt
+/src/orfm.c

@@ -1,0 +1,34 @@
+#package: epivizrServer 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/epivizrServer_1.8.1.tar.gz
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS.md
+/R/Queue-class.R
+/R/zzz.R
+/R/middleware-plus-supporting.R
+/R/utils.R
+/R/dummyTestPage.R
+/R/createServer.R
+/R/IndexedArray-class.R
+/R/EpivizServer-class.R
+/man/IndexedArray-class.Rd
+/man/EpivizServer-class.Rd
+/man/Queue-class.Rd
+/man/createServer.Rd
+/man/json_writer.Rd
+/vignettes/epivizrServer.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test-server.R
+/tests/testthat/helper-phantomjs.R
+/tests/testthat/test-messages.R
+/tests/testthat/test-indexed_array.R
+/tests/testthat/index.html
+/tests/testthat/test-queue.R
+/tests/testthat/helper-wait_until.R
+/inst/NEWS.Rd
+/inst/doc/epivizrServer.Rmd
+/inst/doc/epivizrServer.html

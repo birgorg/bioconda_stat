@@ -1,0 +1,17 @@
+#package: goTools 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/goTools_1.54.0.tar.gz
+ 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/goTools.R
+/data/probeID.RData
+/man/goTools-internal.Rd
+/man/ontoCompare.Rd
+/man/probeID.Rd
+/man/EndNodeList.Rd
+/vignettes/goTools.Rnw
+/build/vignette.rds
+/inst/doc/goTools.R
+/inst/doc/goTools.pdf
+/inst/doc/goTools.Rnw

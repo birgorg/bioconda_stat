@@ -1,0 +1,36 @@
+#package: ChIPComp 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ChIPComp_1.10.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/utils.R
+/R/ChIPComp.R
+/R/makeCountSet.R
+/data/seqData.rda
+/man/seqData.Rd
+/man/plot.Rd
+/man/ChIPComp-package.Rd
+/man/makeCountSet.Rd
+/man/ChIPComp.Rd
+/man/print.Rd
+/man/makeConf.Rd
+/vignettes/ChIPComp.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/CITATION
+/inst/NEWS
+/inst/doc/ChIPComp.R
+/inst/doc/ChIPComp.Rnw
+/inst/doc/ChIPComp.pdf
+/inst/unitTests/test_ChIPComp.R
+/inst/extdata/Helas3.ip2.bed
+/inst/extdata/conf.csv
+/inst/extdata/Helas3.peak.bed
+/inst/extdata/K562.ip2.bed
+/inst/extdata/Helas3.ip1.bed
+/inst/extdata/K562.ct.bed
+/inst/extdata/K562.peak.bed
+/inst/extdata/K562.ip1.bed
+/inst/extdata/Helas3.ct.bed
+/src/mva.c
+/src/Makevars.win

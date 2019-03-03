@@ -1,0 +1,9 @@
+#package: ushuffle-1.2.2 
+#url: https://github.com/s-will/ushuffle/archive/v1.2.2.tar.gz
+ 
+/README.md
+/main.c
+/ushuffle.c
+/ushuffle.h
+/setup.py
+/ushufflemodule.c

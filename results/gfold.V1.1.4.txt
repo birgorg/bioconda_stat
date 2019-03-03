@@ -1,0 +1,15 @@
+#package: gfold.V1.1.4 
+#url: https://bitbucket.org/feeldead/gfold/downloads/gfold.V1.1.4.tar.gz
+ 
+/GeneInfo.hpp
+/DataProcessor.hpp
+/README
+/Makefile
+/main.cc
+/Utility.hpp
+/GFOLD.hpp
+/doc/gfold.css
+/doc/gfold.png
+/doc/gfold.pod
+/doc/gfold.html
+/doc/gfold.man

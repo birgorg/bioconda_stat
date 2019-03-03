@@ -1,0 +1,27 @@
+#package: fastq-multx-1.3.1 
+#url: https://github.com/brwnj/fastq-multx/archive/v1.3.1.tar.gz
+ 
+/README.md
+/Makefile
+/fastq-multx
+/fastq-lib.cpp
+/fastq-multx.cpp
+/fastq-lib.h
+/recipe/build.sh
+/recipe/meta.yaml
+/tests/multx.t
+/tests/test-prep.pl
+/tests/out/multx/test4.err
+/tests/out/multx/test1.out
+/tests/out/multx/test3.err
+/tests/out/multx/test4.out
+/tests/out/multx/test2.err
+/tests/out/multx/test3.out
+/tests/out/multx/test2.out
+/tests/out/multx/test1.err
+/tests/in/multx/mxtest_1.fastq
+/tests/in/multx/master-barcodes.txt
+/tests/in/multx/mxtest_3.fastq
+/tests/in/multx/mxtest-h_2.fastq
+/tests/in/multx/mxtest_2.fastq
+/tests/in/multx/mxtest-h_1.fastq

@@ -1,0 +1,16 @@
+#package: MRO-Compat-0.13 
+#url: https://cpan.metacpan.org/authors/id/H/HA/HAARG/MRO-Compat-0.13.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/20mros.t
+/t/15pkg_gen.t
+/t/10basic.t
+/lib/MRO/Compat.pm
+/maint/Makefile.PL.include
+/xt/pod_coverage.t
+/xt/pod.t

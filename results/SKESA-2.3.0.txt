@@ -1,0 +1,25 @@
+#package: SKESA-2.3.0 
+#url: https://github.com/ncbi/SKESA/archive/v2.3.0.tar.gz
+ 
+/README.md
+/KmerInit.hpp
+/LargeInt1.hpp
+/assembler.hpp
+/LICENSE
+/Integer.hpp
+/concurrenthash.hpp
+/Makefile.nongs
+/Makefile
+/Model.hpp
+/ngs_includes.hpp
+/config.hpp
+/graphdigger.hpp
+/LargeInt2.hpp
+/skesa.cpp
+/LargeInt.hpp
+/readsgetter.hpp
+/common_util.hpp
+/DBGraph.hpp
+/glb_align.hpp
+/counter.hpp
+/glb_align.cpp

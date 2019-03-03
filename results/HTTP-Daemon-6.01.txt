@@ -1,0 +1,15 @@
+#package: HTTP-Daemon-6.01 
+#url: http://cpan.metacpan.org/authors/id/G/GA/GAAS/HTTP-Daemon-6.01.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/chunked.t
+/t/misc/httpd
+/t/misc/httpd_term.pl
+/t/local/http.t
+/t/robot/ua.t
+/t/robot/ua-get.t
+/lib/HTTP/Daemon.pm

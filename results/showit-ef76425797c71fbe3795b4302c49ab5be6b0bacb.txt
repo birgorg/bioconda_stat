@@ -1,0 +1,15 @@
+#package: showit-ef76425797c71fbe3795b4302c49ab5be6b0bacb 
+#url: https://github.com/freeman-lab/showit/archive/ef76425797c71fbe3795b4302c49ab5be6b0bacb.zip
+ 
+/README.md
+/LICENSE
+/requirements.txt
+/MANIFEST.in
+/setup.py
+/.gitignore
+/setup.cfg
+/.travis.yml
+/test/test_main.py
+/showit/__init__.py
+/showit/showit.py
+/showit/VERSION

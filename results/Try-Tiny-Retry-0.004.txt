@@ -1,0 +1,31 @@
+#package: Try-Tiny-Retry-0.004 
+#url: https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Try-Tiny-Retry-0.004.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/CONTRIBUTING
+/META.json
+/cpanfile
+/tidyall.ini
+/perlcritic.rc
+/t/basic.t
+/t/api.t
+/t/conditional.t
+/t/delay.t
+/t/00-report-prereqs.t
+/t/context.t
+/lib/Try/Tiny/Retry.pm
+/xt/release/portability.t
+/xt/release/minimum-version.t
+/xt/release/test-version.t
+/xt/release/distmeta.t
+/xt/release/pod-syntax.t
+/xt/release/pod-coverage.t
+/xt/author/critic.t
+/xt/author/pod-spell.t
+/xt/author/00-compile.t

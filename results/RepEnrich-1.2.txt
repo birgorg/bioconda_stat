@@ -1,0 +1,6 @@
+#package: RepEnrich-1.2 
+#url: https://github.com/nskvir/RepEnrich/archive/v1.2.tar.gz
+ 
+/README.md
+/RepEnrich_setup.py
+/RepEnrich.py

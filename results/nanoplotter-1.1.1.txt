@@ -1,0 +1,22 @@
+#package: nanoplotter-1.1.1 
+#url: https://pypi.io/packages/source/n/nanoplotter/nanoplotter-1.1.1.tar.gz
+ 
+/README.md
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/nanoplotter.egg-info/top_level.txt
+/nanoplotter.egg-info/SOURCES.txt
+/nanoplotter.egg-info/PKG-INFO
+/nanoplotter.egg-info/dependency_links.txt
+/nanoplotter.egg-info/requires.txt
+/scripts/test.sh
+/nanoplotter/spatial_heatmap.py
+/nanoplotter/__init__.py
+/nanoplotter/timeplots.py
+/nanoplotter/nanoplotter_main.py
+/nanoplotter/plot.py
+/nanoplotter/compplots.py
+/nanoplotter/version.py

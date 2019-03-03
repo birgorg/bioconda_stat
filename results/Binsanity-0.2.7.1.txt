@@ -1,0 +1,23 @@
+#package: Binsanity-0.2.7.1 
+#url: https://pypi.io/packages/source/b/binsanity/Binsanity-0.2.7.1.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/Binsanity.egg-info/top_level.txt
+/Binsanity.egg-info/SOURCES.txt
+/Binsanity.egg-info/PKG-INFO
+/Binsanity.egg-info/dependency_links.txt
+/Binsanity.egg-info/requires.txt
+/bin/Binsanity
+/bin/Binsanity-profile
+/bin/Binsanity-refine
+/bin/Binsanity-wf
+/test-scripts/Binsanity-lc
+/utils/checkm_analysis
+/utils/get-ids
+/utils/bin_evaluation
+/utils/concat
+/utils/simplify-fasta
+/utils/transform-coverage-profile

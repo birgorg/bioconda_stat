@@ -1,0 +1,34 @@
+#package: meshes 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/meshes_1.6.1.tar.gz
+ 
+/README.md
+/NAMESPACE
+/README.Rmd
+/DESCRIPTION
+/NEWS
+/R/gseMeSH.R
+/R/geneSim.R
+/R/utilities.R
+/R/zzz.R
+/R/meshes.R
+/R/meshSim.R
+/R/enrichMeSH.R
+/R/DOSE.R
+/R/enrichplot.R
+/data/hsamd.rda
+/data/meshtbl.rda
+/man/meshSim.Rd
+/man/reexports.Rd
+/man/gseMeSH.Rd
+/man/geneSim.Rd
+/man/mesh_term_table.Rd
+/man/meshdata.Rd
+/man/enrichMeSH.Rd
+/vignettes/meshes.bib
+/vignettes/meshes.Rmd
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/meshes.R
+/inst/doc/meshes.Rmd
+/inst/doc/meshes.html
+/inst/extdata/build_meshtbl.R

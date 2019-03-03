@@ -1,0 +1,17 @@
+#package: mergevcf-0ac3e639397843e365c35df2cb082240b605a504 
+#url: https://github.com/ljdursi/mergevcf/archive/0ac3e63.tar.gz
+ 
+/DESCRIPTION.rst
+/LICENSE
+/README.rst
+/MANIFEST.in
+/setup.py
+/.gitignore
+/setup.cfg
+/mergevcf/vcftobreakpoints.py
+/mergevcf/mergedfile.py
+/mergevcf/__init__.py
+/mergevcf/variantdict.py
+/mergevcf/locations.py
+/tests/__init__.py
+/tests/test_pymergevcfs.py

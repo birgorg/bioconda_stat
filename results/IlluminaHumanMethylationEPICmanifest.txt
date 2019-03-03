@@ -1,0 +1,10 @@
+#package: IlluminaHumanMethylationEPICmanifest 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/IlluminaHumanMethylationEPICmanifest_0.3.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/data/IlluminaHumanMethylationEPICmanifest.rda
+/data/datalist
+/man/IlluminaHumanMethylationEPICmanifest.Rd
+/inst/scripts/manifest.R
+/inst/scripts/manifest.Rout

@@ -1,0 +1,35 @@
+#package: eudysbiome 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/eudysbiome_1.10.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/microAnnotate.R
+/R/contingencyTest.R
+/R/tableSpecies.R
+/R/assignTax.R
+/R/eudysbiome.R
+/R/Cartesian.R
+/R/contingencyCount.R
+/data/diffGenera.rda
+/data/microCount.rda
+/data/microDiff.rda
+/data/harmGenera.rda
+/man/microDiff.Rd
+/man/tableSpecies.Rd
+/man/eudysbiome.Rd
+/man/harmGenera.Rd
+/man/contingencyCount.Rd
+/man/diffGenera.Rd
+/man/microCount.Rd
+/man/contingencyTest.Rd
+/man/Cartesian.Rd
+/man/assignTax.Rd
+/man/microAnnotate.Rd
+/vignettes/eudysbiome.Rnw
+/build/vignette.rds
+/inst/NEWS
+/inst/doc/eudysbiome.R
+/inst/doc/eudysbiome.Rnw
+/inst/doc/eudysbiome.pdf
+/inst/Rep/Silva_119_rep_set97_taxonomy.txt.bz2

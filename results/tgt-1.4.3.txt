@@ -1,0 +1,15 @@
+#package: tgt-1.4.3 
+#url: https://files.pythonhosted.org/packages/f2/ea/0f5365fb63ab40da7f4b2064f87fcae8a802b0a3b66e16362fc2e34ed422/tgt-1.4.3.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/scripts/tgt-shift-boundaries.py
+/scripts/tgt-extract-part.py
+/scripts/tgt-print-tiernames.py
+/scripts/tgt-concatenate-textgrids.py
+/tgt/agreement.py
+/tgt/core.py
+/tgt/__init__.py
+/tgt/io3.py
+/tgt/util.py
+/tgt/io.py

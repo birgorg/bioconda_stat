@@ -1,0 +1,27 @@
+#package: IO-stringy-2.111 
+#url: https://cpan.metacpan.org/authors/id/D/DS/DSKOLL/IO-stringy-2.111.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/COPYING
+/examples/IO_Scalar_synopsis
+/t/IO_WrapTie.t
+/t/IO_Lines.t
+/t/simple.t
+/t/two.t
+/t/IO_Scalar.t
+/t/IO_ScalarArray.t
+/t/IO_InnerFile.t
+/t/Common.pm
+/t/ExtUtils/TBone.pm
+/lib/IO/Lines.pm
+/lib/IO/Stringy.pm
+/lib/IO/AtomicFile.pm
+/lib/IO/WrapTie.pm
+/lib/IO/Scalar.pm
+/lib/IO/ScalarArray.pm
+/lib/IO/Wrap.pm
+/lib/IO/InnerFile.pm
+/contrib/Clever.pm

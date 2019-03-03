@@ -1,0 +1,22 @@
+#package: ARRmNormalization 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ARRmNormalization_1.20.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/NormalizeARRm.R
+/data/ProbesType.rda
+/man/getBackground.Rd
+/man/getDesignInfo.Rd
+/man/normalizeARRm.Rd
+/man/getCoefficients.Rd
+/man/ARRmNormalization-internal.Rd
+/man/getQuantiles.Rd
+/man/quantilePlots.Rd
+/man/ProbesType.Rd
+/man/positionPlots.Rd
+/man/ARRmNormalization-package.Rd
+/vignettes/ARRmNormalization.Rnw
+/build/vignette.rds
+/inst/doc/ARRmNormalization.R
+/inst/doc/ARRmNormalization.pdf
+/inst/doc/ARRmNormalization.Rnw

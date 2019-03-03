@@ -1,0 +1,32 @@
+#package: ctc 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ctc_1.54.0.tar.gz
+ 
+/NAMESPACE
+/Changes
+/DESCRIPTION
+/R/hclust2treeview.R
+/R/r2gtr.R
+/R/xcluster2r.R
+/R/zzz.R
+/R/r2cluster.R
+/R/hc2Newick.R
+/R/read.eisen.R
+/R/r2cdt.R
+/R/xcluster.R
+/R/r2xcluster.R
+/man/hc2Newick.Rd
+/man/xcluster.Rd
+/man/r2xcluster.Rd
+/man/r2cluster.Rd
+/man/xcluster2r.Rd
+/man/r2gtr.Rd
+/man/read.eisen.Rd
+/man/hclust2treeview.Rd
+/exec/ctc.php
+/demo/00Index
+/demo/ctc.R
+/vignettes/ctc.Rnw
+/build/vignette.rds
+/inst/doc/ctc.pdf
+/inst/doc/ctc.R
+/inst/doc/ctc.Rnw

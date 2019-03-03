@@ -1,0 +1,17 @@
+#package: gffcompare-0.10.6 
+#url: https://github.com/gpertea/gffcompare/archive/v0.10.6.tar.gz
+ 
+/README.md
+/gtf_tracking.cpp
+/LICENSE
+/Makefile
+/trmap.cpp
+/TStack.hh
+/tag_git.sh
+/prep_mac.sh
+/GIntervalTree.h
+/prep_linux.sh
+/prep_source.sh
+/GIntervalTree.cpp
+/gtf_tracking.h
+/gffcompare.cpp

@@ -1,0 +1,21 @@
+#package: Lace-1.00 
+#url: https://github.com/Oshlack/Lace/archive/v1.00.tar.gz
+ 
+/README.md
+/BuildSuperTranscript.py
+/LICENSE
+/STViewer.py
+/environment.yml
+/Checker.py
+/COPYING
+/Lace.py
+/Mobius.py
+/WikiFigs/fig1.png
+/WikiFigs/Software_flow_v2.png
+/WikiFigs/Top_Cluster.png
+/WikiFigs/Vis.png
+/WikiFigs/DTU.png
+/WikiFigs/logo.png
+/WikiFigs/CycleBreak.png
+/Example/clusters.txt
+/Example/Example_Genome.fasta

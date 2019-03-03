@@ -1,0 +1,14 @@
+#package: sprinkles-0.4.6 
+#url: https://pypi.python.org/packages/source/s/sprinkles/sprinkles-0.4.6.tar.gz
+ 
+/README.txt
+/sprinkles.py
+/INSTALL.txt
+/LICENSE.txt
+/CHANGELOG.txt
+/PKG-INFO
+/setup.py
+/test.py
+/test/test_export.py
+/test/test_noexport.py
+/test/__init__.py

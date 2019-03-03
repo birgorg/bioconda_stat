@@ -1,0 +1,36 @@
+#package: XYalign-1.1.5 
+#url: https://pypi.io/packages/source/x/xyalign/XYalign-1.1.5.tar.gz
+ 
+/README.md
+/PKG-INFO
+/setup.py
+/setup.cfg
+/XYalign.egg-info/entry_points.txt
+/XYalign.egg-info/top_level.txt
+/XYalign.egg-info/SOURCES.txt
+/XYalign.egg-info/PKG-INFO
+/XYalign.egg-info/dependency_links.txt
+/XYalign.egg-info/requires.txt
+/xyalign/reftools.py
+/xyalign/__init__.py
+/xyalign/_version.py
+/xyalign/xyalign.py
+/xyalign/assemble.py
+/xyalign/variants.py
+/xyalign/__main__.py
+/xyalign/bam.py
+/xyalign/ploidy.py
+/xyalign/utils.py
+/xyalign/scripts/plot_window_differences.py
+/xyalign/scripts/plot_count_stats.py
+/xyalign/scripts/compare_vcfs.py
+/xyalign/scripts/__init__.py
+/xyalign/scripts/explore_thresholds.py
+/xyalign/test/test_utils.py
+/xyalign/test/test_bam.py
+/xyalign/test/__init__.py
+/xyalign/test/test_ploidy.py
+/xyalign/test/test_variants.py
+/xyalign/test/test_reftools.py
+/xyalign/test/test_xyalign.py
+/xyalign/test/test_assemble.py

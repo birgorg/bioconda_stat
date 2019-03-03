@@ -1,0 +1,21 @@
+#package: HTML-Entities-Numbered-0.04 
+#url: http://cpan.metacpan.org/authors/id/T/TA/TANIGUCHI/HTML-Entities-Numbered-0.04.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/01_name2decimal.t
+/t/entities.txt
+/t/02_name2hex.t
+/t/05_hex2name_lc.t
+/t/08_name2decimal_xml.t
+/t/04_hex2name.t
+/t/00_compile.t
+/t/09_name2hex_xml.t
+/t/07_cross.t
+/t/03_decimal2name.t
+/t/06_invalid.t
+/lib/HTML/Entities/Numbered.pm
+/lib/HTML/Entities/Numbered/Table.pm

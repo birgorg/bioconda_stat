@@ -1,0 +1,25 @@
+#package: qfilt-0.0.1 
+#url: https://github.com/veg/qfilt/archive/0.0.1.tar.gz
+ 
+/README.md
+/VERSION.txt
+/astyle.txt
+/CMakeLists.txt
+/.gitignore
+/.travis.yml
+/data/test.fna
+/data/test.qual.dos
+/data/test.fastq
+/data/test.fna.dos
+/data/test.fastq.dos
+/data/test.qual
+/src/ifile.cpp
+/src/argparse.hpp
+/src/strtok.hpp
+/src/ifile.hpp
+/src/argparse.cpp
+/src/main.cpp
+/src/seq.hpp
+/src/common.hpp
+/src/strtok.cpp
+/src/seq.cpp

@@ -1,0 +1,28 @@
+#package: BiocFileCache 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/BiocFileCache_1.4.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/sql_migration.R
+/R/httr.R
+/R/BiocFileCache-class.R
+/R/utilities.R
+/R/makeBiocFileCacheFromDataFrame.R
+/R/sql.R
+/man/makeBiocFileCacheFromDataFrame.Rd
+/man/BiocFileCache-class.Rd
+/vignettes/BiocFileCache.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_BiocFileCache_class.R
+/tests/testthat/test_sql.R
+/tests/testthat/test_makeBiocFileCacheFromDataFrame.R
+/tests/testthat/test_utility.R
+/tests/testthat/test_httr.R
+/tests/testthat/test_sql_migration.R
+/inst/schema/BiocFileCache.sql
+/inst/doc/BiocFileCache.R
+/inst/doc/BiocFileCache.html
+/inst/doc/BiocFileCache.Rmd

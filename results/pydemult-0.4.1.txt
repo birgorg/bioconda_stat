@@ -1,0 +1,21 @@
+#package: pydemult-0.4.1 
+#url: https://pypi.io/packages/source/p/pydemult/pydemult-0.4.1.tar.gz
+ 
+/README.md
+/LICENSE
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/pydemult/worker.py
+/pydemult/__init__.py
+/pydemult/buffered_reader.py
+/pydemult/mutationhash.py
+/pydemult/pydemult.py
+/pydemult.egg-info/entry_points.txt
+/pydemult.egg-info/top_level.txt
+/pydemult.egg-info/not-zip-safe
+/pydemult.egg-info/SOURCES.txt
+/pydemult.egg-info/PKG-INFO
+/pydemult.egg-info/dependency_links.txt
+/pydemult.egg-info/requires.txt

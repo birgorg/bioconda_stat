@@ -1,0 +1,37 @@
+#package: SCAN.UPC 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/SCAN.UPC_2.22.0.tar.gz
+ 
+/svnignore.txt
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/quantileNormalize.R
+/R/OneColor.R
+/R/readAgilentData.R
+/R/channelNormalize.R
+/R/normalizeArray.R
+/R/UPC_Models.R
+/R/Helper.R
+/R/iglNormalize.R
+/R/TwoColor.R
+/R/RNASeq.R
+/R/madNormalize.R
+/man/UPC_RNASeq.Rd
+/man/InstallBrainArrayPackage.Rd
+/man/SCAN.Rd
+/man/SCAN_TwoColor.Rd
+/man/UPC_RNASeq_Single.Rd
+/man/UPC_Generic.Rd
+/man/ParseMetaFromGtfFile.Rd
+/man/UPC_TwoColor.Rd
+/man/BatchAdjust.Rd
+/man/BatchAdjustFromFile.Rd
+/man/UPC_Generic_ExpressionSet.Rd
+/vignettes/SCAN.vignette.Rnw
+/vignettes/SCAN.vignette.bib
+/vignettes/BrainArray.png
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/SCAN.vignette.Rnw
+/inst/doc/SCAN.vignette.R
+/inst/doc/SCAN.vignette.pdf

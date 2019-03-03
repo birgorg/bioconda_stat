@@ -1,0 +1,13 @@
+#package: xmlbuilder-1.0 
+#url: https://pypi.python.org/packages/ab/50/7d5482347973e449432c7a09385a5d6769db63c95ef98590caa82d0792ae/xmlbuilder-1.0.tar.gz
+ 
+/README.txt
+/PKG-INFO
+/setup.py
+/setup.cfg
+/xmlbuilder.egg-info/top_level.txt
+/xmlbuilder.egg-info/SOURCES.txt
+/xmlbuilder.egg-info/PKG-INFO
+/xmlbuilder.egg-info/dependency_links.txt
+/xmlbuilder/__init__.py
+/xmlbuilder/test.py

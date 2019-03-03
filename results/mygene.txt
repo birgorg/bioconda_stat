@@ -1,0 +1,21 @@
+#package: mygene 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/mygene_1.16.2.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/mygene.R
+/R/utils.R
+/man/queryMany.Rd
+/man/query.Rd
+/man/getGenes.Rd
+/man/MyGene-class.Rd
+/man/MyGene.Rd
+/man/makeTxDbFromMyGene.Rd
+/man/metadata.Rd
+/man/getGene.Rd
+/man/mygene-package.Rd
+/vignettes/mygene.Rnw
+/build/vignette.rds
+/inst/doc/mygene.R
+/inst/doc/mygene.Rnw
+/inst/doc/mygene.pdf

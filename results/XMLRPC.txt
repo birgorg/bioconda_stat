@@ -1,0 +1,13 @@
+#package: XMLRPC 
+#url: http://download.r-forge.r-project.org/src/contrib/XMLRPC_0.2-4.tar.gz
+ 
+/NAMESPACE
+/Changes
+/DESCRIPTION
+/R/serialize.R
+/man/xml.rpc.Rd
+/tests/types.R
+/tests/pingomatic.R
+/tests/xmlrpcTypes.xml
+/Web/index.html.in
+/Web/GNUmakefile

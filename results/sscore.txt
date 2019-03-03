@@ -1,0 +1,36 @@
+#package: sscore 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/sscore_1.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/OneStepBiweightAlgorithm.R
+/R/computeZonenoise.R
+/R/computeZoneIInfo.R
+/R/computeAffxSFandSDT.R
+/R/computeOutlier.R
+/R/computeSFandSDT.R
+/R/computeRawQ.R
+/R/SScore.R
+/R/SScoreBatch.R
+/R/computeAffxRawQ.R
+/R/trimMean.R
+/man/computeOutlier.Rd
+/man/OneStepBiweightAlgorithm.Rd
+/man/computeZoneIInfo.Rd
+/man/computeAffxRawQ.Rd
+/man/computeZonenoise.Rd
+/man/SScore.Rd
+/man/computeSFandSDT.Rd
+/man/computeAffxSFandSDT.Rd
+/man/trimMean.Rd
+/man/SScoreBatch.Rd
+/man/computeRawQ.Rd
+/vignettes/sscore.Rnw
+/vignettes/20A
+/vignettes/sscore.bib
+/vignettes/20B
+/vignettes/10A
+/build/vignette.rds
+/inst/doc/sscore.Rnw
+/inst/doc/sscore.pdf
+/inst/doc/sscore.R

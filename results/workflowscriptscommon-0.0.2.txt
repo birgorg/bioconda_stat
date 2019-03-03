@@ -1,0 +1,15 @@
+#package: workflowscriptscommon-0.0.2 
+#url: https://github.com/ebi-gene-expression-group/workflowscriptscommon/archive/v0.0.2.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/string_processing.R
+/R/sc_checks.R
+/R/arguments.R
+/man/parse_numeric.Rd
+/man/hello.Rd
+/man/check_cells.Rd
+/man/split_string.Rd
+/man/gwc_parse_args.Rd
+/man/check_metadata.Rd

@@ -1,0 +1,35 @@
+#package: TEPID-0.8 
+#url: https://github.com/ListerLab/TEPID/archive/0.8.tar.gz
+ 
+/README.md
+/LICENSE
+/.gitattributes
+/requirements.txt
+/versioneer.py
+/setup.py
+/.gitignore
+/setup.cfg
+/tepid/__init__.py
+/tepid/_version.py
+/tepid/tepid.py
+/Annotation/Arabidopsis/TAIR9_TE.bed.gz
+/Annotation/Human/hg19.bed.gz
+/Annotation/Brachypodium/Brachy_TE_v2.2.bed.gz
+/tests/conc.bam.bai
+/tests/__init__.py
+/tests/deletion_reads_test.txt
+/tests/split.bam
+/tests/tepid_test.py
+/tests/deletions_test.bed
+/tests/insertion_reads_test.txt
+/tests/tepid_discover_log_test.txt
+/tests/conc.bam
+/tests/insertions_test.bed
+/Scripts/tepid-discover
+/Scripts/tepid-map
+/Scripts/flip_deletions.py
+/Scripts/merge_insertions.py
+/Scripts/genotype.py
+/Scripts/merge_deletions.py
+/Scripts/tepid-refine
+/Scripts/tepid-map-se

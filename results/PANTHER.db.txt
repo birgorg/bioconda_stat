@@ -1,0 +1,24 @@
+#package: PANTHER.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/PANTHER.db_1.0.4.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/zzz.R
+/R/test_PANTHER.db.R
+/R/PANTHER.db_AllMethods.R
+/R/PANTHER.db_AllClasses.R
+/R/PANTHER.db_AllGenerics.R
+/man/PANTHERDB-class.Rd
+/vignettes/framed.sty
+/vignettes/PANTHER.db-concordance.tex
+/vignettes/PANTHER.db.Rnw
+/build/vignette.rds
+/tests/PANTHER.db_unit_tests.R
+/inst/doc/PANTHER.db.R
+/inst/doc/PANTHER.db.pdf
+/inst/doc/PANTHER.db.Rnw
+/inst/script/build_sqlite_denorm.R
+/inst/unitTests/test_select.R
+/inst/extdata/PANTHER.db.sqlite
+/inst/extdata/PANTHER_DB.sql

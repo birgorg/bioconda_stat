@@ -1,0 +1,14 @@
+#package: snpiphy-0.2 
+#url: https://github.com/bogemad/snpiphy/archive/v0.2.tar.gz
+ 
+/README.md
+/LICENSE
+/requirements.txt
+/setup.py
+/bin/snpiphy
+/snpiphy/snpiphy.py
+/snpiphy/ns_to_gaps.py
+/snpiphy/__init__.py
+/snpiphy/count_snps.py
+/snpiphy/remove_degenerates.py
+/snpiphy/utils.py

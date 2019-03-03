@@ -1,0 +1,13 @@
+#package: SparseAssembler-7ce06016160de6dc0e245530689cefed8d5db19f 
+#url: https://github.com/yechengxi/SparseAssembler/archive/7ce06016160de6dc0e245530689cefed8d5db19f.tar.gz
+ 
+/README.md
+/SparseAssembler.cpp
+/ScaffoldingDataStructure.h
+/ReadsCorrection.h
+/BuildContigs.h
+/GraphSimplification.h
+/BasicDataStructure.h
+/GraphConstruction.h
+/ReadsOperation.h
+/compiled/SparseAssembler

@@ -1,0 +1,36 @@
+#package: Rhdf5lib 
+#url: https://bioconductor.org/packages/3.8/bioc/src/contrib/Rhdf5lib_1.4.2.tar.gz
+ 
+/README.md
+/configure.ac
+/cleanup
+/NAMESPACE
+/cleanup.win
+/DESCRIPTION
+/configure
+/configure.win
+/NEWS
+/R/zzz.R
+/R/Rhdf5lib.R
+/man/getHdf5Version.Rd
+/man/pkgconfig.Rd
+/man/Rhdf5lib.Rd
+/vignettes/README.md
+/vignettes/de.NBI-Logo.PNG
+/vignettes/Rhdf5lib.Rmd
+/build/vignette.rds
+/inst/doc/Rhdf5lib.R
+/inst/doc/Rhdf5lib.Rmd
+/inst/doc/Rhdf5lib.html
+/src/Makevars.in
+/src/hdf5small_cxx_1.10.3.tar.gz
+/src/Makevars.win
+/src/Rhdf5lib.c
+/src/winlib/hdf5_headers_1.10.3.tar.gz
+/src/winlib/COPYING
+/src/winlib/x64/libhdf5_cpp.a
+/src/winlib/x64/libhdf5.a
+/src/winlib/x64/libszip.a
+/src/winlib/i386/libhdf5_cpp.a
+/src/winlib/i386/libhdf5.a
+/src/winlib/i386/libszip.a

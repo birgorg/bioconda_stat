@@ -1,0 +1,35 @@
+#package: Test-Output-1.031 
+#url: https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-Output-1.031.tar.gz
+ 
+/META.yml
+/LICENSE
+/Makefile.PL
+/MANIFEST
+/Changes
+/INSTALL.SKIP
+/META.json
+/README.pod
+/MANIFEST.SKIP
+/t/combined_unlike.t
+/t/output_unlike.t
+/t/stdout_is.t
+/t/combined_is.t
+/t/stdout_like.t
+/t/stdout_isnt.t
+/t/pod.t
+/t/stderr_is.t
+/t/binmode.t
+/t/output_is.t
+/t/stderr_like.t
+/t/combined_like.t
+/t/stderr_isnt.t
+/t/00.load.t
+/t/carp-5.6.t
+/t/pod-coverage.t
+/t/combined_isnt.t
+/t/stdout_unlike.t
+/t/output_like.t
+/t/stderr_unlike.t
+/t/output_isnt.t
+/lib/Test/Output.pm
+/xt/changes.t

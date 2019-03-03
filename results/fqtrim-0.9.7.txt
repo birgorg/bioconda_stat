@@ -1,0 +1,22 @@
+#package: fqtrim-0.9.7 
+#url: http://ccb.jhu.edu/software/fqtrim/dl/fqtrim-0.9.7.tar.gz
+ 
+/LICENSE
+/README
+/Makefile
+/fqtrim.cpp
+/gclib/GStr.cpp
+/gclib/GThreads.h
+/gclib/GAlnExtend.cpp
+/gclib/GBase.cpp
+/gclib/gdna.cpp
+/gclib/GStr.h
+/gclib/GList.hh
+/gclib/GVec.hh
+/gclib/gdna.h
+/gclib/GAlnExtend.h
+/gclib/GBase.h
+/gclib/GArgs.cpp
+/gclib/GThreads.cpp
+/gclib/GArgs.h
+/gclib/GHash.hh

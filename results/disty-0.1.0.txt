@@ -1,0 +1,22 @@
+#package: disty-0.1.0 
+#url: https://github.com/c2-d2/disty/archive/0.1.0.tar.gz
+ 
+/LICENSE
+/Makefile
+/readme.md
+/.gitignore
+/disty.xcodeproj/project.pbxproj
+/disty.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/tests/test2.fa
+/tests/exp.test2.0.txt
+/tests/exp.test1.0.txt
+/tests/Makefile
+/tests/test1.fa
+/tests/view_test.sh
+/tests/exp.test3.2.txt
+/tests/test3.fa
+/tests/.gitignore
+/tests/exp.test3.3.txt
+/tests/exp.test2.2.txt
+/src/kseq.h
+/src/main.cpp

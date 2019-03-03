@@ -1,0 +1,15 @@
+#package: pytest-marks-0.4 
+#url: https://pypi.python.org/packages/72/b6/9c9dce170c70998a89a95d7ab9706ba7da9b82d0ca5736843d2f60c6b977/pytest-marks-0.4.tar.gz
+ 
+/README.txt
+/PKG-INFO
+/setup.py
+/setup.cfg
+/pytest_marks.egg-info/entry_points.txt
+/pytest_marks.egg-info/top_level.txt
+/pytest_marks.egg-info/SOURCES.txt
+/pytest_marks.egg-info/PKG-INFO
+/pytest_marks.egg-info/dependency_links.txt
+/pytest_marks.egg-info/requires.txt
+/marks/marks.py
+/marks/__init__.py

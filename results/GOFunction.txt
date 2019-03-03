@@ -1,0 +1,29 @@
+#package: GOFunction 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/GOFunction_1.28.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/enrichmentFunction.R
+/R/GOFunction.R
+/R/localRedundancy.R
+/R/zzz.R
+/R/createGODAG.R
+/R/globalRedundancy.R
+/R/showSigNodes.R
+/data/exampledata.rda
+/man/createGODAG.Rd
+/man/globalRedundancy.Rd
+/man/interestGenes.Rd
+/man/GOFunction.Rd
+/man/GOFunction-package.Rd
+/man/enrichmentFunction.Rd
+/man/showSigNodes.Rd
+/man/refGenes.Rd
+/man/localRedundancy.Rd
+/vignettes/GOFunction.Rnw
+/vignettes/GOFunction.bib
+/vignettes/sigTerm.jpg
+/build/vignette.rds
+/inst/doc/GOFunction.Rnw
+/inst/doc/GOFunction.R
+/inst/doc/GOFunction.pdf

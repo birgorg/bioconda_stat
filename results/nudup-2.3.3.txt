@@ -1,0 +1,9 @@
+#package: nudup-2.3.3 
+#url: https://github.com/nugentechnologies/nudup/archive/2.3.3.tar.gz
+ 
+/README.md
+/_config.yml
+/nudup.py
+/LICENSE.md
+/Dockerfile
+/test.py

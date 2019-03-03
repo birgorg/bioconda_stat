@@ -1,0 +1,24 @@
+#package: RefPlus 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/RefPlus_1.50.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/colMedians.R
+/R/rma.para.R
+/R/rmaplus.R
+/R/normalize.quantiles2.R
+/R/rmaref.predict.R
+/man/colMedians.Rd
+/man/rmaref.predict.Rd
+/man/RefPlus-package.Rd
+/man/rma.para.Rd
+/man/normalize.quantiles2.Rd
+/man/rmaplus.Rd
+/vignettes/Extensions_to_RMA_Algorithm.pdf
+/vignettes/RefPlus.Rnw
+/vignettes/An_Exploration_of_Extensions_to_the_RMA_Algorithm.pdf
+/vignettes/index.html
+/build/vignette.rds
+/inst/doc/RefPlus.R
+/inst/doc/RefPlus.pdf
+/inst/doc/RefPlus.Rnw

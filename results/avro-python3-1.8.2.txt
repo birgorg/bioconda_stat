@@ -1,0 +1,25 @@
+#package: avro-python3-1.8.2 
+#url: https://pypi.python.org/packages/63/b4/7a81640bb69c844c912987007ba36276c29690d6fde2cd41fec16cd24c3b/avro-python3-1.8.2.tar.gz
+ 
+/README.txt
+/PKG-INFO
+/setup.py
+/setup.cfg
+/scripts/avro
+/avro_python3.egg-info/top_level.txt
+/avro_python3.egg-info/SOURCES.txt
+/avro_python3.egg-info/PKG-INFO
+/avro_python3.egg-info/dependency_links.txt
+/avro/HandshakeRequest.avsc
+/avro/HandshakeResponse.avsc
+/avro/LICENSE
+/avro/datafile.py
+/avro/NOTICE
+/avro/__init__.py
+/avro/protocol.py
+/avro/VERSION.txt
+/avro/tool.py
+/avro/ipc.py
+/avro/txipc.py
+/avro/io.py
+/avro/schema.py

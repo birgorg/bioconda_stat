@@ -1,0 +1,19 @@
+#package: hic2cool-0.4.2 
+#url: https://github.com/4dn-dcic/hic2cool/archive/0.4.2.tar.gz
+ 
+/README.md
+/LICENSE.txt
+/run_hic2cool.py
+/requirements.txt
+/setup.py
+/test.py
+/.gitignore
+/setup.cfg
+/.travis.yml
+/hic2cool_extractnorms.py
+/test_data/test_hic.hic
+/test_data/test_hic_no_norms.hic
+/hic2cool/__init__.py
+/hic2cool/hic2cool_utils.py
+/hic2cool/_version.py
+/hic2cool/__main__.py

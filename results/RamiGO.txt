@@ -1,0 +1,36 @@
+#package: RamiGO 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/RamiGO_1.28.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/.BBSoptions
+/NEWS
+/R/AmigoDot-Class.R
+/R/adjM2gml.R
+/R/AmigoDot.to.graphAM.R
+/R/exportCytoGML.R
+/R/readAmigoDot.R
+/R/AmigoDot.to.graphNEL.R
+/R/AmigoDot.to.Cyto.R
+/R/getAmigoTree.R
+/data/c5.go.mapping.rda
+/man/AmigoDot.Rd
+/man/RamiGO-package.Rd
+/man/AmigoDot.to.Cyto.Rd
+/man/igraph-class.Rd
+/man/AmigoDot.to.graphAM.Rd
+/man/c5.go.mapping.Rd
+/man/readAmigoDot.Rd
+/man/AmigoDot.to.graphNEL.Rd
+/man/getAmigoTree.Rd
+/man/AmigoDot-class.Rd
+/man/exportCytoGML.Rd
+/man/adjM2gml.Rd
+/vignettes/cyto.png
+/vignettes/RamiGO.Rnw
+/build/RamiGO.pdf
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/RamiGO.R
+/inst/doc/RamiGO.pdf
+/inst/doc/RamiGO.Rnw

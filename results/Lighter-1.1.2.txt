@@ -1,0 +1,19 @@
+#package: Lighter-1.1.2 
+#url: https://github.com/mourisl/Lighter/archive/v1.1.2.tar.gz
+ 
+/README.md
+/bloom_filter.hpp
+/Reads.h
+/KmerCode.h
+/File.h
+/ErrorCorrection.h
+/LICENSE
+/utils.h
+/GetKmers.h
+/main.cpp
+/Makefile
+/old_bloom_filter.hpp
+/GetKmers.cpp
+/Store.h
+/ErrorCorrection.cpp
+/.gitignore

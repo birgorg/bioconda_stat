@@ -1,0 +1,15 @@
+#package: XML-NamespaceSupport-1.12 
+#url: https://cpan.metacpan.org/authors/id/P/PE/PERIGRIN/XML-NamespaceSupport-1.12.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/cpanfile
+/weaver.ini
+/t/00base.t
+/lib/XML/NamespaceSupport.pm

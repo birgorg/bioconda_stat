@@ -1,0 +1,15 @@
+#package: SNAGEE 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/SNAGEE_1.20.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/SNAGEE.R
+/man/SNAGEE-package.Rd
+/man/toSnageeFormat.Rd
+/man/qualSample.Rd
+/man/qualStudy.Rd
+/vignettes/SNAGEE.Rnw
+/build/vignette.rds
+/inst/doc/SNAGEE.Rnw
+/inst/doc/SNAGEE.R
+/inst/doc/SNAGEE.pdf

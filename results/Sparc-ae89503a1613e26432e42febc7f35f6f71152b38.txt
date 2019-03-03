@@ -1,0 +1,14 @@
+#package: Sparc-ae89503a1613e26432e42febc7f35f6f71152b38 
+#url: https://github.com/yechengxi/Sparc/archive/ae89503a1613e26432e42febc7f35f6f71152b38.tar.gz
+ 
+/README.md
+/Align.h
+/Sparc.cpp
+/GraphSimplification.h
+/BasicDataStructure.h
+/GraphConstruction.h
+/compiled/Sparc
+/utility/RunSparcConsensus.txt
+/utility/split_reads_by_backbone.py
+/utility/SeqIO.py
+/utility/split_and_run_sparc.sh

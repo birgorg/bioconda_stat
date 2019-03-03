@@ -1,0 +1,13 @@
+#package: vcf2db-03a31a6853cf469813590b0b8e1e7c2d7768e007 
+#url: https://github.com/quinlan-lab/vcf2db/archive/03a31a6.tar.gz
+ 
+/README.md
+/vcf2db.py
+/requirements.txt
+/.gitignore
+/.travis.yml
+/tests/test.vcf
+/tests/error_test.vcf.gz
+/tests/test.ped
+/tests/error_test.ped
+/tests/test.py

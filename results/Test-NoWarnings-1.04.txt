@@ -1,0 +1,22 @@
+#package: Test-NoWarnings-1.04 
+#url: http://cpan.metacpan.org/authors/id/A/AD/ADAMK/Test-NoWarnings-1.04.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MYMETA.json
+/t/04_no_tests.t
+/t/01_compile.t
+/t/02_none.t
+/t/05_no_end.t
+/t/06_fork.t
+/t/03_end.t
+/lib/Test/NoWarnings.pm
+/lib/Test/NoWarnings/Warning.pm
+/xt/pod.t
+/xt/meta.t
+/xt/pmv.t

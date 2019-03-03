@@ -1,0 +1,13 @@
+#package: Scope-Guard-0.21 
+#url: https://cpan.metacpan.org/authors/id/C/CH/CHOCOLATE/Scope-Guard-0.21.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/guard.t
+/t/scope_guard.t
+/t/new.t
+/lib/Scope/Guard.pm

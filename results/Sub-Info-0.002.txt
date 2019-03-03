@@ -1,0 +1,14 @@
+#package: Sub-Info-0.002 
+#url: https://cpan.metacpan.org/authors/id/E/EX/EXODIST/Sub-Info-0.002.tar.gz
+ 
+/README.md
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/cpanfile
+/t/Sub.t
+/lib/Sub/Info.pm

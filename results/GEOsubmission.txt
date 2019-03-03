@@ -1,0 +1,24 @@
+#package: GEOsubmission 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/GEOsubmission_1.32.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/R/microarray2soft.R
+/man/sample2.Rd
+/man/sample1.Rd
+/man/microarray2soft.Rd
+/man/seriesInfo.Rd
+/man/expresssionNormalized.Rd
+/man/sampleInfo.Rd
+/vignettes/GEOsubmission.bib
+/vignettes/GEOsubmission.Rnw
+/build/vignette.rds
+/inst/doc/GEOsubmission.R
+/inst/doc/GEOsubmission.Rnw
+/inst/doc/GEOsubmission.pdf
+/inst/extdata/seriesInfo.txt
+/inst/extdata/sample2.CEL
+/inst/extdata/sample1.CEL
+/inst/extdata/sampleInfo.txt
+/inst/extdata/expressionNormalized.txt

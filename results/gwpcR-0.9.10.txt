@@ -1,0 +1,37 @@
+#package: gwpcR-0.9.10 
+#url: https://github.com/Cibiv/gwpcR/archive/v0.9.10.tar.gz
+ 
+/README.md
+/NAMESPACE
+/make-release.sh
+/gwpcR.Rproj
+/DESCRIPTION
+/.Rbuildignore
+/COPYING
+/.gitignore
+/.travis.yml
+/R/density.R
+/R/compatibility.R
+/R/sysdata.rda
+/R/gwpcr.R
+/R/estimate.R
+/R/utility.R
+/R/gwpcrpois.R
+/man/gwpcrpois.mom.groupwise.Rd
+/man/gwpcrpois.groupest.Rd
+/man/gwpcrpois.mom.Rd
+/man/gwpcrpois.est.Rd
+/man/gwpcr.Rd
+/man/gwpcr.molecules.precompute.Rd
+/man/gwpcrpois.mle.Rd
+/man/gwpcr.sd.Rd
+/man/gwpcrpois.Rd
+/man/gwpcr.mixture.Rd
+/data-raw/sysdata.R
+/tests/testthat.R
+/tests/testthat/test_gwpcrpois.R
+/tests/testthat/test_groupest.R
+/tests/testthat/test_gwpcr.R
+/tests/testthat/test_est.R
+/src/refine.c
+/src/simulate.c

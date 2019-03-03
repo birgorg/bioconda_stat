@@ -1,0 +1,10 @@
+#package: samblaster-v.0.1.24 
+#url: https://github.com/GregoryFaust/samblaster/releases/download/v.0.1.24/samblaster-v.0.1.24.tar.gz
+ 
+/README.md
+/sbhash.cpp
+/LICENSE.txt
+/Makefile
+/sbhash.h
+/SAMBLASTER_Supplemental.pdf
+/samblaster.cpp

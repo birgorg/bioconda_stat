@@ -1,0 +1,14 @@
+#package: var-agg-0.1.1 
+#url: https://github.com/bihealth/var-agg/archive/v0.1.1.tar.gz
+ 
+/README.md
+/Cargo.toml
+/HISTORY.md
+/LICENSE
+/Cargo.lock
+/.gitignore
+/src/pedigree.rs
+/src/cli.yaml
+/src/main.rs
+/src/bcf_utils.rs
+/src/options.rs

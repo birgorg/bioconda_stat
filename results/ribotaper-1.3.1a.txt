@@ -1,0 +1,33 @@
+#package: ribotaper-1.3.1a 
+#url: https://ohlerlab.mdc-berlin.de/files/RiboTaper/RiboTaper-1.3.1a.tar.gz
+ 
+/aclocal.m4
+/configure.ac
+/README
+/Makefile.in
+/Makefile.am
+/configure
+/scripts/create_protein_db.R.in
+/scripts/P_sites_RNA_sites_calc.bash.in
+/scripts/genes_coor.R.in
+/scripts/write_startstops.R.in
+/scripts/ORF_final_results.R.in
+/scripts/create_metaplots_nodo.bash.in
+/scripts/gtf_to_start_stop_tr.R.in
+/scripts/quality_check.R.in
+/scripts/include_multi_nomerge.R.in
+/scripts/functions.R
+/scripts/create_annotations_files.bash.in.in
+/scripts/NONCCDS_orf_finder.R.in.in
+/scripts/CCDS_orf_finder.R.in.in
+/scripts/annotate_exons.R.in.in
+/scripts/metag.R.in
+/scripts/Ribotaper.sh.in.in
+/scripts/create_metaplots.bash.in.in
+/scripts/Ribotaper_ORF_find.sh.in.in
+/scripts/tracks_analysis.R.in.in
+/scripts/create_tracks.bash.in
+/scripts/analyze_multi_clust.bash.in
+/m4/ax_compare_version.m4
+/build-aux/missing
+/build-aux/install-sh

@@ -1,0 +1,28 @@
+#package: prophasm-0.1.0 
+#url: https://github.com/prophyle/prophasm/archive/0.1.0.tar.gz
+ 
+/README.md
+/LICENSE
+/Makefile
+/.gitignore
+/.travis.yml
+/figures/greedy_assembly.png
+/figures/greedy_assembly.pdf
+/figures/Makefile
+/figures/subtraction.png
+/figures/subtraction.pdf
+/tests/test2.fa
+/tests/Makefile
+/tests/test1.fa
+/tests/conf.mk
+/tests/.gitignore
+/tests/01_basic/test_run.sh
+/tests/01_basic/Makefile
+/tests/tools/fa_norm.py
+/tests/tools/fa_to_kmers.py
+/tests/tools/verify_output.py
+/src/kseq.h
+/src/Makefile
+/src/version.h
+/src/prophasm.cpp
+/src/run.sh

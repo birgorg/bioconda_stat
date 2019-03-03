@@ -1,0 +1,11 @@
+#package: bioconductor-singlecellexperiment-scripts-0.0.3 
+#url: https://github.com/ebi-gene-expression-group/bioconductor-singlecellexperiment-scripts/archive/v0.0.3.tar.gz
+ 
+/README.md
+/singlecellexperiment-get-random-genes.R
+/bioconductor-singlecellexperiment-scripts-post-install-tests.sh
+/singlecellexperiment-get-random-cells.R
+/bioconductor-singlecellexperiment-scripts-post-install-tests.bats
+/VERSION
+/singlecellexperiment-create-single-cell-experiment.R
+/.travis.yml

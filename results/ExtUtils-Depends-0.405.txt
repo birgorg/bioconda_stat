@@ -1,0 +1,25 @@
+#package: ExtUtils-Depends-0.405 
+#url: https://cpan.metacpan.org/authors/id/X/XA/XAOC/ExtUtils-Depends-0.405.tar.gz
+ 
+/META.yml
+/perl-ExtUtils-Depends.spec.in
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/t/04_extra_libs.t
+/t/01_load.t
+/t/03_deps.t
+/t/02_save_load.t
+/t/lib/TestHelper.pm
+/t/inc/DepTest/DepTest.dll
+/t/inc/DepTest/libDepTest.dll.a
+/t/inc/DepTest/DepTest.lib
+/t/inc/DepTest/PL_DepTest.so
+/t/inc/DepTest/PL_libDepTest.dll.a
+/t/inc/DepTest/PL_DepTest.lib
+/t/inc/DepTest/PL_DepTest.dll
+/t/inc/DepTest/Install/.keep
+/lib/ExtUtils/Depends.pm

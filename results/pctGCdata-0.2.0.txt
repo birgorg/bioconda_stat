@@ -1,0 +1,22 @@
+#package: pctGCdata-0.2.0 
+#url: https://github.com/mskcc/pctGCdata/archive/v0.2.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/.Rbuildignore
+/R/getGCpct.R
+/data/hg38.rda
+/data/mm9.rda
+/data/hg19.rda
+/data/mm10.rda
+/data/hg18.rda
+/data/datalist
+/man/mm9.Rd
+/man/pctGCdata-package.Rd
+/man/getGCpct.Rd
+/man/hg38.Rd
+/man/hg18.Rd
+/man/hg19.Rd
+/man/mm10.Rd
+/build/partial.rdb

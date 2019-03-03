@@ -1,0 +1,31 @@
+#package: FaQCs-2.09 
+#url: https://github.com/LANL-Bioinformatics/FaQCs/archive/2.09.tar.gz
+ 
+/README.md
+/seq_overlap.h
+/seq_overlap.cpp
+/LICENSE
+/VTrim.cpp
+/ChangeLog.txt
+/Makefile
+/FaQCs.h
+/matrix.h
+/trim.cpp
+/plot.cpp
+/fastq.h
+/options.cpp
+/FaQCs.cpp
+/shave.h
+/file_util.h
+/file_util.cpp
+/fastq.cpp
+/bin/MacOSX_x86_64/FaQCs
+/bin/Linux_x86_64_static/FaQCs
+/example/output/QC.2.trimmed.fastq
+/example/output/QC.stats.txt
+/example/output/QC.1.trimmed.fastq
+/example/output/QC_qc_report.pdf
+/example/output/QC.unpaired.trimmed.fastq
+/example/input/reads2.fastq
+/example/input/adapter.txt
+/example/input/reads1.fastq

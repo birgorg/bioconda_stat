@@ -1,0 +1,13 @@
+#package: Env-Path-0.19 
+#url: https://cpan.metacpan.org/authors/id/D/DS/DSB/Env-Path-0.19.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/envpath
+/Changes
+/test.pl
+/Path.pm
+/examples/Whence
+/examples/Whence.bat

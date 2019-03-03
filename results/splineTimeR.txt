@@ -1,0 +1,25 @@
+#package: splineTimeR 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/splineTimeR_1.8.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/splineNetRecon.R
+/R/splinePlot.R
+/R/pathEnrich.R
+/R/splineDiffExprs.R
+/R/networkProperties.R
+/data/TCsimData.rda
+/data/datalist
+/man/splineDiffExprs.Rd
+/man/pathEnrich.Rd
+/man/splineNetRecon.Rd
+/man/TCsimData.Rd
+/man/networkProperties.Rd
+/man/splinePlot.Rd
+/vignettes/splineTimeR.bib
+/vignettes/splineTimeR.Rnw
+/build/vignette.rds
+/inst/doc/splineTimeR.pdf
+/inst/doc/splineTimeR.Rnw
+/inst/doc/splineTimeR.R
+/inst/extdata/c2.cp.kegg.v5.0.symbols.gmt

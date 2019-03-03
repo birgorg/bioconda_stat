@@ -1,0 +1,9 @@
+#package: MethylExtract_1.9.1 
+#url: http://bioinfo2.ugr.es/MethylExtract/downloads/MethylExtract.tar.gz
+ 
+/readme.txt
+/license.txt
+/Manual_MethylExtract_v1.9.pdf
+/MethylExtractBSPvalue.pl
+/MethylExtract.pl
+/MethylExtractBSCR.pl

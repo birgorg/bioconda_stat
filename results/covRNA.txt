@@ -1,0 +1,25 @@
+#package: covRNA 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/covRNA_1.6.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/ord.R
+/R/stat.R
+/R/vis.R
+/R/plot.ord.R
+/R/plot.stat.R
+/data/Baca.rda
+/man/ord.Rd
+/man/Baca.Rd
+/man/plot.stat.Rd
+/man/vis.Rd
+/man/covRNA.Rd
+/man/stat.Rd
+/man/plot.ord.Rd
+/vignettes/covRNA.Rmd
+/build/vignette.rds
+/inst/NEWS
+/inst/doc/covRNA.R
+/inst/doc/covRNA.html
+/inst/doc/covRNA.Rmd

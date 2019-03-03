@@ -1,0 +1,21 @@
+#package: textinput-0.2.0 
+#url: https://files.pythonhosted.org/packages/f5/38/4bd1617eabd04154b465d6ce4b94e2f47b8168bc1ac7a33c437000bbb3bf/textinput-0.2.0.tar.gz
+ 
+/README
+/PKG-INFO
+/setup.py
+/setup.cfg
+/scripts/innerjoin
+/scripts/intersect
+/scripts/hidehead
+/scripts/filter
+/scripts/mean
+/scripts/nohead
+/lib/textinput.py
+/lib/tabdelim.py
+/lib/textinput.egg-info/zip-safe
+/lib/textinput.egg-info/top_level.txt
+/lib/textinput.egg-info/SOURCES.txt
+/lib/textinput.egg-info/PKG-INFO
+/lib/textinput.egg-info/dependency_links.txt
+/test/test_tabdelim.py

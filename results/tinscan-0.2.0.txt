@@ -1,0 +1,20 @@
+#package: tinscan-0.2.0 
+#url: https://pypi.python.org/packages/c9/99/d6e16cb82532feb854e9e4fd403567d6c3fa462ff3a506685cfa4d545ba3/tinscan-0.2.0.tar.gz
+ 
+/README.md
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/tinscan.egg-info/entry_points.txt
+/tinscan.egg-info/top_level.txt
+/tinscan.egg-info/not-zip-safe
+/tinscan.egg-info/SOURCES.txt
+/tinscan.egg-info/PKG-INFO
+/tinscan.egg-info/dependency_links.txt
+/tinscan.egg-info/requires.txt
+/tinscan/run_align.py
+/tinscan/run_prep.py
+/tinscan/__init__.py
+/tinscan/run_scan.py
+/tinscan/LASTZ_wrapper.py

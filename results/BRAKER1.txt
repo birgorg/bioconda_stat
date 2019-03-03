@@ -1,0 +1,10 @@
+#package: BRAKER1 
+#url: http://exon.gatech.edu/genemark/Braker/BRAKER1.tar.gz
+ 
+/filterGenemark.pl
+/README.braker
+/filterIntronsFindStrand.pl
+/licence.txt
+/list_of_changes
+/braker.pl
+/helpMod.pm

@@ -1,0 +1,19 @@
+#package: multiscan 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/multiscan_1.40.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/R/multiscan.R
+/R/print.multiscan.R
+/R/plot.multiscan.R
+/data/murine.txt
+/man/murine.Rd
+/man/plot.multiscan.Rd
+/man/multiscan.Rd
+/vignettes/multiscan.Rnw
+/build/vignette.rds
+/inst/doc/multiscan.pdf
+/inst/doc/multiscan.Rnw
+/inst/doc/multiscan.R
+/src/multiscan.c

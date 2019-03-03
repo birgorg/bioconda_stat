@@ -1,0 +1,26 @@
+#package: SUPER-FOCUS-0.32 
+#url: https://github.com/metageni/SUPER-FOCUS/archive/0.32.tar.gz
+ 
+/README.md
+/CHANGELOG
+/setup.py
+/COPYING
+/.gitignore
+/STAMP_input_example/profile_file.txt
+/STAMP_input_example/metadata.txt
+/tests/test_superfocus.py
+/tests/test_do_alignment.py
+/tests/__pycache__/test_superfocus.cpython-36-PYTEST.pyc
+/logo/superfocus_logo_small.png
+/superfocus_app/superfocus_downloadDB.py
+/superfocus_app/do_alignment.py
+/superfocus_app/superfocus.py
+/superfocus_app/db/organisms2subsystem.txt
+/superfocus_app/db/database_PKs.txt
+/superfocus_app/db/tmp/.gitignore
+/superfocus_app/db/static/diamond/.gitignore
+/superfocus_app/db/static/rapsearch2/.gitignore
+/superfocus_app/db/static/blast/.gitignore
+/superfocus_app/db/focus_reduction/diamond/.gitignore
+/superfocus_app/db/focus_reduction/rapsearch2/.gitignore
+/superfocus_app/db/focus_reduction/blast/.gitignore

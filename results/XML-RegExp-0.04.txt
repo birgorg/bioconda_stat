@@ -1,0 +1,10 @@
+#package: XML-RegExp-0.04 
+#url: http://cpan.metacpan.org/authors/id/T/TJ/TJMATHER/XML-RegExp-0.04.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/test.pl
+/lib/XML/RegExp.pm

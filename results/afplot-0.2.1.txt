@@ -1,0 +1,26 @@
+#package: afplot-0.2.1 
+#url: https://pypi.io/packages/source/a/afplot/afplot-0.2.1.tar.gz
+ 
+/README.md
+/LICENSE
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/afplot.egg-info/entry_points.txt
+/afplot.egg-info/top_level.txt
+/afplot.egg-info/SOURCES.txt
+/afplot.egg-info/PKG-INFO
+/afplot.egg-info/dependency_links.txt
+/afplot.egg-info/requires.txt
+/test/test_utils.py
+/test/test_variation.py
+/test/test_cli.py
+/afplot/cli.py
+/afplot/whole_genome.py
+/afplot/__init__.py
+/afplot/variation.py
+/afplot/region.py
+/afplot/utils.py
+/afplot/afplot.py

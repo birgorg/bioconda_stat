@@ -1,0 +1,25 @@
+#package: cnvGSA 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/cnvGSA_1.24.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/cnvGSAviz.R
+/R/AllClasses.R
+/R/cnvGSA.R
+/R/enrFiles.R
+/man/cnvGSAgsTables.Rd
+/man/cnvGSAlogRegTest.Rd
+/man/f.readConfig.Rd
+/man/cnvGSA-package.Rd
+/man/CnvGSAInput-class.Rd
+/man/CnvGSAOutput-class.Rd
+/man/f.makeViz.Rd
+/man/cnvGSAIn.Rd
+/man/f.enrFiles.Rd
+/vignettes/cnvGSA-vignette.Rnw
+/build/vignette.rds
+/inst/doc/cnvGSA-vignette.pdf
+/inst/doc/cnvGSAUsersGuide.pdf
+/inst/doc/cnvGSA-vignette.Rnw
+/inst/extdata/configFile.txt

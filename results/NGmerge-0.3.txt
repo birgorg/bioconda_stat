@@ -1,0 +1,12 @@
+#package: NGmerge-0.3 
+#url: https://github.com/harvardinformatics/NGmerge/archive/v0.3.tar.gz
+ 
+/README.md
+/UserGuide.pdf
+/qual_profile.txt
+/LICENSE
+/NGmerge.c
+/Makefile
+/NGmerge.h
+/VERSION
+/.gitignore

@@ -1,0 +1,20 @@
+#package: Class-Accessor-0.34 
+#url: http://cpan.metacpan.org/authors/id/K/KA/KASEI/Class-Accessor-0.34.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/INSTALL
+/examples/benchmark
+/t/aliases.t
+/t/bestpractice.t
+/t/accessors.t
+/t/caller.t
+/t/antlers.t
+/t/croak.t
+/t/getset.t
+/lib/Class/Accessor.pm
+/lib/Class/Accessor/Faster.pm
+/lib/Class/Accessor/Fast.pm

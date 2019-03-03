@@ -1,0 +1,33 @@
+#package: subSeq 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/subSeq_1.10.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS
+/R/subsample.R
+/R/hammer-data.R
+/R/handlers.R
+/R/combineSubsamples.R
+/R/summary.subsamples.R
+/R/generateSubsampledMatrix.R
+/R/plot.summary.subsamples.R
+/data/hammer.rda
+/data/datalist
+/data/ss.rda
+/man/hammer.Rd
+/man/plot.subsamples.Rd
+/man/plot.summary.subsamples.Rd
+/man/getSeed.Rd
+/man/subsample.Rd
+/man/summary.subsamples.Rd
+/man/ss.Rd
+/man/generateSubsampledMatrix.Rd
+/man/combineSubsamples.Rd
+/vignettes/subSeq.Rnw
+/vignettes/refs.bib
+/build/vignette.rds
+/inst/doc/subSeq.pdf
+/inst/doc/subSeq.Rnw
+/inst/doc/subSeq.R

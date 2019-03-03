@@ -1,0 +1,36 @@
+#package: VegaMC 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/VegaMC_3.18.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/vegaMC.R
+/R/createHTML.R
+/R/qvalue.R
+/R/sortData.R
+/R/getGenes.R
+/man/sortData.Rd
+/man/vegaMC-methods.Rd
+/man/VegaMC-package.Rd
+/vignettes/VegaMC.Rnw
+/build/vignette.rds
+/inst/scripts/sorttable.js
+/inst/doc/VegaMC.pdf
+/inst/doc/VegaMC.R
+/inst/doc/VegaMC.Rnw
+/inst/template/HeaderTableAllRegions.html
+/inst/template/AberrantGeneTableRow.html
+/inst/template/InputParameters.html
+/inst/template/Footer.html
+/inst/template/HeaderRegions.html
+/inst/template/HeaderTableAberrantGenes.html
+/inst/template/HeaderTableAberrantRegions.html
+/inst/template/FooterTable.html
+/inst/template/AberrantRegionTableRow.html
+/inst/template/HeaderGenes.html
+/inst/template/AllRegionTableRow.html
+/inst/template/image/ensemblicon.gif
+/inst/template/image/bioinfologo.png
+/inst/example/breast_Affy500K.txt
+/src/run_vegaMC.c
+/src/sort_data.c
+/src/vegaMC.c

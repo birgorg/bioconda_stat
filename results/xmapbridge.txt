@@ -1,0 +1,31 @@
+#package: xmapbridge 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/xmapbridge_1.38.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/xmapbridge.R
+/R/zzz.R
+/data/xmapbridge.rda
+/man/exon.data.Rd
+/man/xmapbridge-package.Rd
+/man/xmapbridge-internal.Rd
+/man/xmap.col.Rd
+/man/xmap.plot.Rd
+/man/xmap.files.Rd
+/vignettes/figure1.png
+/vignettes/coloursandalpha.png
+/vignettes/xmapbridge.Rnw
+/vignettes/multiple.png
+/vignettes/figure3.png
+/vignettes/figure.png
+/vignettes/bridge.png
+/vignettes/diffstyles.png
+/build/vignette.rds
+/tests/doRUnit.R
+/tests/xmapbridge_test.R
+/inst/CITATION
+/inst/doc/xmapbridge.R
+/inst/doc/xmapbridge.pdf
+/inst/doc/xmapbridge.Rnw
+/inst/unitTests/Makefile
+/inst/unitTests/runit.bridgeTests.R

@@ -1,0 +1,28 @@
+#package: CellMapper 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/CellMapper_1.6.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/.BBSoptions
+/R/CMsearch.R
+/R/CM.utilities.R
+/R/ReplicateManuscript.R
+/R/CMprep.R
+/R/CellMapperList-class.R
+/R/CM.inputchecks.R
+/data/PositiveControlGenes.rda
+/data/NegativeControlGenes.rda
+/data/ExampleQueryGenes.rda
+/man/CellMapperList-class.Rd
+/man/ReplicateManuscript.Rd
+/man/CMsearch.Rd
+/man/CMprep.Rd
+/man/ExampleGeneLists.Rd
+/vignettes/bibliography.bib
+/vignettes/CellMapper.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/CellMapper.R
+/inst/doc/CellMapper.Rnw
+/inst/doc/CellMapper.pdf

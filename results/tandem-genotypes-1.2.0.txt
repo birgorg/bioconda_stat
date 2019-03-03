@@ -1,0 +1,12 @@
+#package: tandem-genotypes-1.2.0 
+#url: https://github.com/mcfrith/tandem-genotypes/archive/1.2.0.tar.gz
+ 
+/README.md
+/LICENSE
+/tandem-genotypes-plot
+/.gitattributes
+/tandem-genotypes
+/tandem-genotypes-join
+/hg19-disease-tr.txt
+/setup.py
+/hg38-disease-tr.txt

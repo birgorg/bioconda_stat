@@ -1,0 +1,15 @@
+#package: ra-integrate-0.1 
+#url: https://github.com/mariokostelac/ra-integrate/archive/v0.1.tar.gz
+ 
+/README.md
+/Makefile
+/Dockerfile
+/.gitmodules
+/.gitignore
+/scripts/run
+/docker-build/setup.sh
+/docker-build/build_ruby.sh
+/docs/pacbio-ecoli-contigs_fast.png
+/docs/nanopore-ecoli-contigs_fast.png
+/docs/nanopore-ecoli-genome.png
+/build_logs/git.keep

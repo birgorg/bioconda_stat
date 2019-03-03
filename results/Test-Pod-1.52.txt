@@ -1,0 +1,33 @@
+#package: Test-Pod-1.52 
+#url: https://cpan.metacpan.org/authors/id/E/ET/ETHER/Test-Pod-1.52.tar.gz
+ 
+/META.yml
+/.mailmap
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/.ackrc
+/MANIFEST.SKIP
+/.travis.yml
+/t/unknown-directive.pod
+/t/missing-file.t
+/t/item-ordering.t
+/t/cut-outside-block.t
+/t/selftest.t
+/t/cut-outside-block.pod
+/t/spaced-directives.t
+/t/item-ordering.pod
+/t/spaced-directives.pod
+/t/00-load.t
+/t/unknown-directive.t
+/t/empty-file.pod
+/t/good.t
+/t/all_pod_files.t
+/t/load.t
+/t/pod/good.pod
+/t/pod/good-pod-script
+/t/pod/no_pod.pod
+/t/pod/good-pod-script.bat
+/lib/Test/Pod.pm

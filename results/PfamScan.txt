@@ -1,0 +1,15 @@
+#package: PfamScan 
+#url: http://ftp.ebi.ac.uk/pub/databases/Pfam/Tools/PfamScan.tar.gz
+ 
+/README
+/pfam_scan.pl
+/ChangeLog
+/Bio/Pfam/HMM/HMMSequence.pm
+/Bio/Pfam/HMM/HMMMatch.pm
+/Bio/Pfam/HMM/HMMResultsIO.pm
+/Bio/Pfam/HMM/HMMIO.pm
+/Bio/Pfam/HMM/HMM.pm
+/Bio/Pfam/HMM/HMMUnit.pm
+/Bio/Pfam/HMM/HMMResults.pm
+/Bio/Pfam/Scan/Seq.pm
+/Bio/Pfam/Scan/PfamScan.pm

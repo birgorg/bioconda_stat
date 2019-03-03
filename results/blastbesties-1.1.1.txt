@@ -1,0 +1,17 @@
+#package: blastbesties-1.1.1 
+#url: https://pypi.python.org/packages/86/61/b71bc19d93ac15bf69f2d883ec50ac36b351366d26b81761880ca2775587/blastbesties-1.1.1.tar.gz
+ 
+/README.md
+/LICENSE.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/blastbesties/__init__.py
+/blastbesties/cmd_rbb.py
+/blastbesties.egg-info/entry_points.txt
+/blastbesties.egg-info/top_level.txt
+/blastbesties.egg-info/not-zip-safe
+/blastbesties.egg-info/SOURCES.txt
+/blastbesties.egg-info/PKG-INFO
+/blastbesties.egg-info/dependency_links.txt

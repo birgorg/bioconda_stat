@@ -1,0 +1,28 @@
+#package: picopore-1.2.0 
+#url: https://files.pythonhosted.org/packages/98/e6/2431eebb5370c84e4071475206be805f7059d83ead8c53ba509ecf6e25d6/picopore-1.2.0.zip
+ 
+/README.rst
+/requirements.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/picopore.egg-info/entry_points.txt
+/picopore.egg-info/top_level.txt
+/picopore.egg-info/SOURCES.txt
+/picopore.egg-info/PKG-INFO
+/picopore.egg-info/dependency_links.txt
+/picopore.egg-info/desktop.ini
+/picopore.egg-info/requires.txt
+/test/test.py
+/picopore/runner.py
+/picopore/__init__.py
+/picopore/realtime.py
+/picopore/multiprocess.py
+/picopore/parse_args.py
+/picopore/__main__.py
+/picopore/util.py
+/picopore/version.py
+/picopore/test.py
+/picopore/compress.py
+/picopore/rename.py

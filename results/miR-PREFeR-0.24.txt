@@ -1,0 +1,23 @@
+#package: miR-PREFeR-0.24 
+#url: https://github.com/hangelwen/miR-PREFeR/archive/v0.24.tar.gz
+ 
+/README.md
+/README.html
+/FAQ.txt
+/LICENSE
+/GPL.txt
+/miR_PREFeR.py
+/.gitignore
+/HOW_TO_RUN_EXAMPLE.txt
+/scripts/bowtie-align-reads.py
+/scripts/README-SCRIPTS.txt
+/scripts/convert-readcount-file.py
+/scripts/process-reads-fasta.py
+/scripts/convert-mirdeep2-fasta.py
+/example/exampledata.tar.gz
+/dependency/Linux/x64/RNALfold
+/dependency/Linux/x64/samtools
+/dependency/Linux/x32/RNALfold
+/dependency/Mac/osx-10.9/RNALfold-2.1.2
+/dependency/Mac/osx-10.9/samtools
+/dependency/Mac/osx-10.6.4/RNALfold-1.8.4

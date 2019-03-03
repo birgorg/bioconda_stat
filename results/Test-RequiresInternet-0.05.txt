@@ -1,0 +1,20 @@
+#package: Test-RequiresInternet-0.05 
+#url: https://cpan.metacpan.org/authors/id/M/MA/MALLEN/Test-RequiresInternet-0.05.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/weaver.ini
+/t/03_badhost.t
+/t/02_multiple_hosts.t
+/t/05_badarg.t
+/t/06_badport.t
+/t/00_load.t
+/t/04_env.t
+/t/01_getserv.t
+/lib/Test/RequiresInternet.pm

@@ -1,0 +1,24 @@
+#package: DALIGNER-381fa920935a6bb469353cfc5c83d301579b5e04 
+#url: https://github.com/thegenemyers/DALIGNER/archive/381fa920935a6bb469353cfc5c83d301579b5e04.tar.gz
+ 
+/README.md
+/HPC.daligner.c
+/QV.c
+/LAdump.c
+/filter.c
+/LICENSE
+/QV.h
+/LAsplit.c
+/LAmerge.c
+/LAindex.c
+/Makefile
+/DB.h
+/LAshow.c
+/daligner.c
+/filter.h
+/align.h
+/DB.c
+/align.c
+/LAcheck.c
+/LAsort.c
+/LAcat.c

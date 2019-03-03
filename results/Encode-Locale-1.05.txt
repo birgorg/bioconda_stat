@@ -1,0 +1,15 @@
+#package: Encode-Locale-1.05 
+#url: https://cpan.metacpan.org/authors/id/G/GA/GAAS/Encode-Locale-1.05.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/warn_once.t
+/t/tain.t
+/t/alias.t
+/t/arg.t
+/t/env.t
+/lib/Encode/Locale.pm

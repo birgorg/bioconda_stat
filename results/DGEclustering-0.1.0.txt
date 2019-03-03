@@ -1,0 +1,23 @@
+#package: DGEclustering-0.1.0 
+#url: https://github.com/reneechou123/DGEclustering/archive/v0.1.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DGEclustering.Rproj
+/LICENSE
+/DESCRIPTION
+/.Rbuildignore
+/.gitignore
+/R/annotate.genes.R
+/R/automation.R
+/R/DGE.clust.R
+/R/cluster.plot.R
+/R/cluster.bar.plot.R
+/R/multidim.plot.R
+/R/cluster.sim.plot.R
+/R/cluster.enrich.R
+/vignettes/DGE_downstream.Rmd
+/inst/cluster_plot.py
+/inst/plotting.py
+/inst/automation.py
+/inst/multidim_plot.py

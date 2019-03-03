@@ -1,0 +1,31 @@
+#package: webbioc 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/webbioc_1.52.0.tar.gz
+ 
+/WINDOWSPORT
+/NAMESPACE
+/DESCRIPTION
+/COPYING
+/R/install.R
+/R/multtest.R
+/man/installReps.Rd
+/man/mt.wrapper.Rd
+/vignettes/webbioc.Rnw
+/vignettes/demoscript.Rnw
+/build/vignette.rds
+/inst/doc/webbioc.Rnw
+/inst/doc/webbioc.pdf
+/inst/doc/demoscript.pdf
+/inst/doc/demoscript.Rnw
+/inst/cgi/cancel.cgi
+/inst/cgi/annaffy.cgi
+/inst/cgi/affy.cgi
+/inst/cgi/FileManager.pm
+/inst/cgi/Batch.pm
+/inst/cgi/annaffysearch.cgi
+/inst/cgi/BioC.pm
+/inst/cgi/Site.pm
+/inst/cgi/upload.cgi
+/inst/cgi/multtest.cgi
+/inst/cgi/job.cgi
+/inst/cgi/log.cgi
+/inst/www/index.html

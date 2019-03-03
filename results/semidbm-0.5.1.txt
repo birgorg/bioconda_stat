@@ -1,0 +1,22 @@
+#package: semidbm-0.5.1 
+#url: https://pypi.python.org/packages/source/s/semidbm/semidbm-0.5.1.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/COPYING
+/setup.cfg
+/semidbm/win32.py
+/semidbm/__init__.py
+/semidbm/compat.py
+/semidbm/exceptions.py
+/semidbm/db.py
+/semidbm/loaders/mmapload.py
+/semidbm/loaders/__init__.py
+/semidbm/loaders/simpleload.py
+/semidbm.egg-info/top_level.txt
+/semidbm.egg-info/not-zip-safe
+/semidbm.egg-info/SOURCES.txt
+/semidbm.egg-info/PKG-INFO
+/semidbm.egg-info/dependency_links.txt

@@ -1,0 +1,21 @@
+#package: bpipe-0.9.9.6 
+#url: http://download.bpipe.org/versions/bpipe-0.9.9.6.tar.gz
+ 
+/bpipe.config
+/lib/bpipe.jar
+/html/checks.html
+/html/softwareschedule.html
+/html/index.html
+/bin/bpipe-pbspro.sh
+/bin/bpipe
+/bin/bpipe-slurm.sh
+/bin/bpipe-utils.sh
+/bin/bg-bpipe
+/bin/bpipe-torque.sh
+/templates/email.template.html
+/templates/xmpp.template.txt
+/templates/email.template.txt
+/templates/file.template.txt
+/templates/executor/local-command.template.sh
+/templates/executor/pool-command.template.sh
+/templates/executor/sge-command.template.sh

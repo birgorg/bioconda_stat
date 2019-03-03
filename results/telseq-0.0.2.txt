@@ -1,0 +1,24 @@
+#package: telseq-0.0.2 
+#url: https://github.com/zd1/telseq/archive/v0.0.2.tar.gz
+ 
+/README.md
+/LICENSE
+/Dockerfile
+/bin/mac/telseq
+/bin/ubuntu/telseq
+/src/configure.ac
+/src/autogen.sh
+/src/config.h
+/src/Makefile.am
+/src/Test/test.3.bam
+/src/Test/bamlist_short
+/src/Test/test.1.bam
+/src/Test/test.2.bam
+/src/Telseq/Makefile.am
+/src/Telseq/telseq.h
+/src/Telseq/telseq.cpp
+/src/Util/Util.h
+/src/Util/Makefile.am
+/src/Util/prettyprint.h
+/src/Util/Timer.h
+/src/Util/Util.cpp

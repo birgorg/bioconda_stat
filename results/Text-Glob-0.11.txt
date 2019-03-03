@@ -1,0 +1,11 @@
+#package: Text-Glob-0.11 
+#url: https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Text-Glob-0.11.tar.gz
+ 
+/META.yml
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/Text-Glob.t
+/t/Text-Glob_Sep.t
+/lib/Text/Glob.pm

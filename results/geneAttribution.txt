@@ -1,0 +1,20 @@
+#package: geneAttribution 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/geneAttribution_1.6.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/geneAttribution.R
+/man/loadBed.Rd
+/man/normP.Rd
+/man/geneModels.Rd
+/man/geneAttribution.Rd
+/vignettes/geneAttribution.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/testGeneAttribution.R
+/inst/NEWS
+/inst/doc/geneAttribution.html
+/inst/doc/geneAttribution.Rmd
+/inst/extdata/eqtlHaplotypeBlocks.b38.bed
+/inst/extdata/hiCRegions.b38.bed

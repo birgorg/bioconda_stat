@@ -1,0 +1,37 @@
+#package: ACME 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ACME_2.36.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/do.aGFF.calc.R
+/R/findRegions.R
+/R/write.sgr.R
+/R/findClosestGene.R
+/R/write.bedGraph.R
+/R/Classes.R
+/R/getRefflat.R
+/R/read.resultsGFF.R
+/data/example.agff.rda
+/data/datalist
+/man/getRefflat.Rd
+/man/write.bedGraph.Rd
+/man/generics.Rd
+/man/ACMESet-class.Rd
+/man/findRegions.Rd
+/man/aGFF-class.Rd
+/man/read.resultsGFF.Rd
+/man/do.aGFF.calc.Rd
+/man/example.agff.Rd
+/man/ACMECalcSet-class.Rd
+/man/findClosestGene.Rd
+/man/aGFFCalc-class.Rd
+/man/write.sgr.Rd
+/vignettes/ACME.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/ACME.R
+/inst/doc/ACME.Rnw
+/inst/doc/ACME.pdf
+/inst/extdata/testsamp1.gff
+/inst/extdata/testsamp2.gff
+/src/windowChisq.c

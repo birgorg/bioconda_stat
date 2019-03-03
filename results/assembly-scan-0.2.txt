@@ -1,0 +1,8 @@
+#package: assembly-scan-0.2 
+#url: https://github.com/rpetit3/assembly-scan/archive/v0.2.tar.gz
+ 
+/README.md
+/LICENSE
+/assembly-scan.py
+/example-data/phiX174.fna
+/example-data/saureus.fasta.gz

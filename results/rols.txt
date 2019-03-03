@@ -1,0 +1,34 @@
+#package: rols 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/rols_2.8.2.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/methods-Properties.R
+/R/methods-Terms.R
+/R/zzz.R
+/R/AllClasses.R
+/R/cvparam.R
+/R/methods-OlsSearch.R
+/R/utils.R
+/R/methods-Ontologies.R
+/R/AllGenerics.R
+/man/CVParam-class.Rd
+/man/OlsSearch-class.Rd
+/man/Ontology-class.Rd
+/man/Term-class.Rd
+/man/Properties-class.Rd
+/vignettes/rols.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_OlsSearch.R
+/tests/testthat/test_Properties.R
+/tests/testthat/test_utils.R
+/tests/testthat/test_CVParam.R
+/tests/testthat/test_Terms.R
+/tests/testthat/test_queries.R
+/tests/testthat/test_Onologies.R
+/inst/scripts/misc.R
+/inst/doc/rols.R
+/inst/doc/rols.Rmd
+/inst/doc/rols.html

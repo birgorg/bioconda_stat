@@ -1,0 +1,25 @@
+#package: minimap-1cd6ae3bc7c7a6f9e7c03c0b7a93a12647bba244 
+#url: https://github.com/lh3/minimap/archive/1cd6ae3bc7c7a6f9e7c03c0b7a93a12647bba244.tar.gz
+ 
+/README.md
+/khash.h
+/kseq.h
+/main.c
+/misc.c
+/sdust.c
+/example.c
+/sketch.c
+/LICENSE.txt
+/Makefile
+/index.c
+/bseq.c
+/sdust.h
+/kdq.h
+/minimap.h
+/map.c
+/ksort.h
+/minimap.1
+/.gitignore
+/kthread.c
+/kvec.h
+/bseq.h

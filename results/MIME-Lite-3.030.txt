@@ -1,0 +1,36 @@
+#package: MIME-Lite-3.030 
+#url: http://cpan.metacpan.org/authors/id/R/RJ/RJBS/MIME-Lite-3.030.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/changes.pod
+/INSTALLING
+/COPYING
+/examples/mime_postcard
+/examples/nodisp
+/examples/mime_fwd
+/examples/mime_longlines
+/examples/mime_hack
+/examples/mime_gif
+/t/parts.t
+/t/Utils.pm
+/t/types.t
+/t/head.t
+/t/data.t
+/t/pod.t
+/t/sendmail.t
+/t/mime-version.t
+/t/pod-coverage.t
+/t/addrs.t
+/t/verify.t
+/t/ExtUtils/TBone.pm
+/lib/MIME/Lite.pm
+/contrib/MailTool.pm
+/contrib/README
+/testin/README
+/testin/test.html
+/testin/hello

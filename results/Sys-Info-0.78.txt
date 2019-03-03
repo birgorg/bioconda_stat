@@ -1,0 +1,21 @@
+#package: Sys-Info-0.78 
+#url: https://cpan.metacpan.org/authors/id/B/BU/BURAK/Sys-Info-0.78.tar.gz
+ 
+/META.yml
+/LICENSE
+/TODO
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/SPEC
+/Build.PL
+/.perlcriticrc
+/t/201-pod.t
+/t/03-basic.t
+/t/202-pod-coverage.t
+/t/04-driver.t
+/builder/Build.pm
+/builder/Build/Spec.pm
+/lib/Sys/Info.pm

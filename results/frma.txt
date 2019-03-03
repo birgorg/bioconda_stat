@@ -1,0 +1,28 @@
+#package: frma 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/frma_1.32.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/GNUSE.R
+/R/utils-general.R
+/R/frmaExpressionSet-methods.R
+/R/frmaAffyBatch.R
+/R/batchFit.R
+/R/frmaFeatureSet.R
+/R/frma.R
+/R/AllClasses.R
+/R/ExpressionSet-methods.R
+/R/barcode.R
+/R/AllGenerics.R
+/R/rwaFit2.R
+/man/frmaExpressionSet-class.Rd
+/man/barcode.Rd
+/man/GNUSE.Rd
+/man/frma.Rd
+/vignettes/frma.Rnw
+/build/vignette.rds
+/inst/NEWS.Rd
+/inst/CITATION
+/inst/doc/frma.pdf
+/inst/doc/frma.R
+/inst/doc/frma.Rnw

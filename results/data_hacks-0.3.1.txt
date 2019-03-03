@@ -1,0 +1,11 @@
+#package: data_hacks-0.3.1 
+#url: https://github.com/bitly/data_hacks/archive/v0.3.1.tar.gz
+ 
+/README.markdown
+/setup.py
+/.gitignore
+/data_hacks/histogram.py
+/data_hacks/sample.py
+/data_hacks/run_for.py
+/data_hacks/bar_chart.py
+/data_hacks/ninety_five_percent.py

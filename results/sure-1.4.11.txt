@@ -1,0 +1,37 @@
+#package: sure-1.4.11 
+#url: https://files.pythonhosted.org/packages/f7/c2/c87b72fbabb9a55bdb71411cdf79113ab857921d178d4dc0d726d836a15a/sure-1.4.11.tar.gz
+ 
+/tox.ini
+/README.rst
+/requirements.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/COPYING
+/setup.cfg
+/sure/core.py
+/sure/registry.py
+/sure/old.py
+/sure/__init__.py
+/sure/compat.py
+/sure/deprecated.py
+/sure/magic.py
+/sure/terminal.py
+/tests/test_custom_assertions.py
+/tests/test_safe_repr.py
+/tests/test_cpython_patches.py
+/tests/test_assertion_builder.py
+/tests/test_ensure_ctxmgr.py
+/tests/test_old_api.py
+/tests/issues/test_issue_19.py
+/tests/issues/test_issue_134.py
+/tests/issues/test_issue_139.py
+/tests/issues/__init__.py
+/tests/issues/test_issue_104.py
+/tests/issues/test_issue_48.py
+/tests/issues/test_issue_136.py
+/sure.egg-info/top_level.txt
+/sure.egg-info/SOURCES.txt
+/sure.egg-info/PKG-INFO
+/sure.egg-info/dependency_links.txt
+/sure.egg-info/requires.txt

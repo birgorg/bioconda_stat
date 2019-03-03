@@ -1,0 +1,11 @@
+#package: Tie-Cacher-0.09 
+#url: http://cpan.metacpan.org/authors/id/T/TH/THOSPEL/Tie-Cacher-0.09.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Cacher.pm
+/t/1.t
+/t/2.t

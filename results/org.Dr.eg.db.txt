@@ -1,0 +1,33 @@
+#package: org.Dr.eg.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/org.Dr.eg.db_3.6.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/org.Dr.egACCNUM.Rd
+/man/org.Dr.egZFIN.Rd
+/man/org.Dr.egGENENAME.Rd
+/man/org.Dr.egALIAS2EG.Rd
+/man/org.Dr.egBASE.Rd
+/man/org.Dr.egSYMBOL.Rd
+/man/org.Dr.egCHR.Rd
+/man/org.Dr.egENSEMBLPROT.Rd
+/man/org.Dr.egORGANISM.Rd
+/man/org.Dr.egUNIPROT.Rd
+/man/org.Dr.egPMID.Rd
+/man/org.Dr.egENSEMBLTRANS.Rd
+/man/org.Dr.egCHRLENGTHS.Rd
+/man/org.Dr.egENSEMBL.Rd
+/man/org.Dr.egPATH.Rd
+/man/org.Dr.egMAPCOUNTS.Rd
+/man/org.Dr.eg_dbconn.Rd
+/man/org.Dr.egENZYME.Rd
+/man/org.Dr.egPROSITE.Rd
+/man/org.Dr.egPFAM.Rd
+/man/org.Dr.egCHRLOC.Rd
+/man/org.Dr.egGO.Rd
+/man/org.Dr.egREFSEQ.Rd
+/man/org.Dr.egUNIGENE.Rd
+/tests/runalltests.R
+/tests/unit/test.R
+/inst/extdata/org.Dr.eg.sqlite

@@ -1,0 +1,21 @@
+#package: scanpy-scripts-0.0.4 
+#url: https://github.com/ebi-gene-expression-group/scanpy-scripts/archive/v0.0.4.tar.gz
+ 
+/scanpy-scripts-post-install-tests.sh
+/README.md
+/License.txt
+/scanpy-normalise-data.py
+/scanpy-run-pca.py
+/scanpy-read-10x.py
+/scanpy-run-umap.py
+/scanpy-filter-cells.py
+/scanpy_wrapper_utils.py
+/scanpy-find-variable-genes.py
+/scanpy-filter-genes.py
+/scanpy-find-markers.py
+/scanpy-run-tsne.py
+/scanpy-find-cluster.py
+/scanpy-scale-data.py
+/scanpy-neighbours.py
+/scanpy-scripts-post-install-tests.bats
+/VERSION

@@ -1,0 +1,32 @@
+#package: goseq 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/goseq_1.32.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/getlength.R
+/R/getgo.R
+/R/zzz.R
+/R/makespline.R
+/R/pp.R
+/R/nullp.R
+/R/reversemapping.R
+/R/supportedOrganisms.R
+/R/plotPWF.R
+/R/goseq.R
+/data/genes.RData
+/man/supportedOrganisms.Rd
+/man/nullp.Rd
+/man/getlength.Rd
+/man/makespline.Rd
+/man/genes.Rd
+/man/getgo.Rd
+/man/plotPWF.Rd
+/man/goseq.Rd
+/vignettes/goseq_bib.bib
+/vignettes/goseq.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/goseq.pdf
+/inst/doc/goseq.Rnw
+/inst/doc/goseq.R
+/inst/extdata/Li_sum.txt

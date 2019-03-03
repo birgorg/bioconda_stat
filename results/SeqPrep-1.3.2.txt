@@ -1,0 +1,26 @@
+#package: SeqPrep-1.3.2 
+#url: https://github.com/jstjohn/SeqPrep/archive/v1.3.2.tar.gz
+ 
+/README.md
+/stdaln.c
+/LICENSE
+/utils.c
+/utils.h
+/stdaln.h
+/Makefile
+/SeqPrep.c
+/.gitignore
+/Test/README.md
+/Test/RUNTEST.sh
+/Test/CLEAN.sh
+/Test/.gitignore
+/Test/seqlens.py
+/Test/data/multiplex_bad_contam_2.fq.gz
+/Test/data/multiplex_bad_contam_1.fq.gz
+/Test/SimTest/RUNTEST.sh
+/Test/SimTest/simSeq_2.fq
+/Test/SimTest/simSeq10k_1.fq
+/Test/SimTest/simseq_trimmed_error_check.py
+/Test/SimTest/sens_vs_spec.py
+/Test/SimTest/simSeq10k_2.fq
+/Test/SimTest/simSeq_1.fq

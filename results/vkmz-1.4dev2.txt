@@ -1,0 +1,22 @@
+#package: vkmz-1.4dev2 
+#url: https://github.com/HegemanLab/vkmz/archive/1.4dev2.tar.gz
+ 
+/README.md
+/LICENSE
+/setup.py
+/vkmz/objects.py
+/vkmz/d3.html
+/vkmz/arguments.py
+/vkmz/__init__.py
+/vkmz/predict.py
+/vkmz/__main__.py
+/vkmz/write.py
+/vkmz/read.py
+/vkmz/databases/bmrb-heavy_nitrogen.tsv
+/vkmz/databases/bmrb-heavy_carbon.tsv
+/vkmz/databases/bmrb-light.tsv
+/vkmz/databases/bmrb-heavy.tsv
+/test-data/tabular.tabular
+/test-data/sampleMetadata.tabular
+/test-data/variableMetadata.tabular
+/test-data/datamatrix.tabular

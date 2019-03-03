@@ -1,0 +1,8 @@
+#package: parallel-fastq-dump-0.6.3 
+#url: https://github.com/rvalieris/parallel-fastq-dump/archive/0.6.3.tar.gz
+ 
+/LICENSE
+/parallel-fastq-dump
+/README.rst
+/setup.py
+/.gitignore

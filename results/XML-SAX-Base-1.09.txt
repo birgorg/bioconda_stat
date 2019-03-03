@@ -1,0 +1,33 @@
+#package: XML-SAX-Base-1.09 
+#url: https://cpan.metacpan.org/authors/id/G/GR/GRANTM/XML-SAX-Base-1.09.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/BuildSAXBase.pl
+/t/06lexhdriver.t
+/t/07declhdriver.t
+/t/09resoldriver.t
+/t/events.pl
+/t/release-pod-syntax.t
+/t/13handlerswitch.t
+/t/01exception.t
+/t/03chdriver.t
+/t/10dochdriver.t
+/t/15parentswitch.t
+/t/14downstreamswitch.t
+/t/04chfilter.t
+/t/12sax2multiclass.t
+/t/11sax1multiclass.t
+/t/16gethandlers.t
+/t/00basic.t
+/t/02simplefilter.t
+/t/08errorhdriver.t
+/t/05dtdhdriver.t
+/t/01simpledriver.t
+/lib/XML/SAX/Base.pm
+/lib/XML/SAX/Exception.pm

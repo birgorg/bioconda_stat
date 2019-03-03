@@ -1,0 +1,31 @@
+#package: Sys-Info-Driver-OSX-0.7958 
+#url: https://cpan.metacpan.org/authors/id/B/BU/BURAK/Sys-Info-Driver-OSX-0.7958.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/SPEC
+/Build.PL
+/.perlcriticrc
+/t/03-basic.t
+/t/01-parsers.t
+/builder/lib/Build.pm
+/builder/lib/Build/Constants.pm
+/builder/lib/Build/Spec.pm
+/builder/lib/Build/Util.pm
+/builder/templates/tools/Makefile.PL
+/builder/templates/tools/Makefile.PL.hook
+/builder/templates/tools/builder.header
+/builder/templates/tools/Build.PL
+/builder/templates/pod/author.pod
+/builder/templates/pod/monolith-warning.pod
+/lib/Sys/Info/Driver/OSX.pm
+/lib/Sys/Info/Driver/OSX/Device.pm
+/lib/Sys/Info/Driver/OSX/OS.pm
+/lib/Sys/Info/Driver/OSX/Device/CPU.pm
+/xt/author/201-pod.t
+/xt/author/202-pod-coverage.t

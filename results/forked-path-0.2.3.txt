@@ -1,0 +1,18 @@
+#package: forked-path-0.2.3 
+#url: https://files.pythonhosted.org/packages/e1/d5/e8b0475ba29140189b21a7d103086a0d29cc9434a753281d6ae8c8976d82/forked-path-0.2.3.tar.gz
+ 
+/._path.py
+/PKG-INFO
+/path.py
+/setup.py
+/setup.cfg
+/forked_path.egg-info/top_level.txt
+/forked_path.egg-info/._dependency_links.txt
+/forked_path.egg-info/._not-zip-safe
+/forked_path.egg-info/not-zip-safe
+/forked_path.egg-info/._SOURCES.txt
+/forked_path.egg-info/._top_level.txt
+/forked_path.egg-info/._PKG-INFO
+/forked_path.egg-info/SOURCES.txt
+/forked_path.egg-info/PKG-INFO
+/forked_path.egg-info/dependency_links.txt

@@ -1,0 +1,23 @@
+#package: IO-Socket-INET6-2.72 
+#url: https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/IO-Socket-INET6-2.72.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/ChangeLog
+/Build.PL
+/t/io_multihomed6.t
+/t/io_udp6.t
+/t/host6.t
+/t/pod.t
+/t/style-trailing-space.t
+/t/blocking.t
+/t/configure6.t
+/t/pod-coverage.t
+/t/io_sock6.t
+/t/listen_port_only.t
+/lib/IO/Socket/INET6.pm
+/inc/Test/Run/Builder.pm

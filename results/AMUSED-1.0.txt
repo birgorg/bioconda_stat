@@ -1,0 +1,24 @@
+#package: AMUSED-1.0 
+#url: https://github.com/Carldeboer/AMUSED/archive/1.0.tar.gz
+ 
+/README.md
+/LICENSE
+/shuffleCodons.rb
+/NMERTREE.rb
+/AMUSED-KS
+/AMUSED
+/shuffleCodonsAddMotifs.rb
+/alignKMers
+/runTests.bat
+/test/test2.s6.results.gz
+/test/test6.s6.results.gz
+/test/test3.s6.results.gz
+/test/test5.s6.results.gz
+/test/test4.fa
+/test/test1.fa
+/test/test7.s6.results.gz
+/test/test4.s6.results.gz
+/test/test5.fa
+/test/test1.s6.results.gz
+/test/test4_RC.fa
+/test/test2.fa.gz

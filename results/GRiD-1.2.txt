@@ -1,0 +1,35 @@
+#package: GRiD-1.2 
+#url: https://github.com/ohlab/GRiD/archive/1.2.tar.gz
+ 
+/GRiD.R
+/README.md
+/check_R_libraries.R
+/GRiD_multiplex_tree.R
+/GRiD_multiplex.R
+/grid
+/update_database
+/GRiD_multiplex_cov_cutoff.R
+/test/BOWTIE_mock_GRiD_database.1.bt2
+/test/BOWTIE_mock_GRiD_database.2.bt2
+/test/BOWTIE_mock_GRiD_database.3.bt2
+/test/bowtie.txt
+/test/BOWTIE_mock_GRiD_database.rev.1.bt2
+/test/mock_reads.fastq
+/test/S_epidermidis.LRKNS118.fna
+/test/BOWTIE_mock_GRiD_database.4.bt2
+/test/database_misc.txt
+/test/BOWTIE_mock_GRiD_database.rev.2.bt2
+/blast_database/dnaa.fasta.nhr
+/blast_database/dnaa.fasta.nsq
+/blast_database/dnaa.fasta
+/blast_database/dif.fasta.nin
+/blast_database/dif.fasta
+/blast_database/dnaa.fasta.nsd
+/blast_database/dif.fasta.nsq
+/blast_database/dnaa.fasta.nin
+/blast_database/dnaa.fasta.nsi
+/blast_database/dif.fasta.nhr
+/blast_database/dif.fasta.nsi
+/blast_database/dif.fasta.nsd
+/blast_database/dnaa.fasta.nog
+/blast_database/dif.fasta.nog

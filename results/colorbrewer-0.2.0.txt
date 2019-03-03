@@ -1,0 +1,18 @@
+#package: colorbrewer-0.2.0 
+#url: https://files.pythonhosted.org/packages/0d/d0/e78643b7ddbd22ee85cc77351ad30c97b1ecfc403c3551bac5454d403fd8/colorbrewer-0.2.0.tar.gz
+ 
+/README
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/colorbrewer.egg-info/zip-safe
+/colorbrewer.egg-info/top_level.txt
+/colorbrewer.egg-info/SOURCES.txt
+/colorbrewer.egg-info/PKG-INFO
+/colorbrewer.egg-info/dependency_links.txt
+/colorbrewer.egg-info/requires.txt
+/colorbrewer/__init__.py
+/colorbrewer/data/ColorBrewer_all_schemes_RGBonly3.csv
+/colorbrewer/data/__init__.py
+/test/test_colorbrewer.py

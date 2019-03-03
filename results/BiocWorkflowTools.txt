@@ -1,0 +1,37 @@
+#package: BiocWorkflowTools 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/BiocWorkflowTools_1.6.2.tar.gz
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS
+/.travis.yml
+/R/uploadToOverleaf.R
+/R/utils.R
+/R/markdownToLatex.R
+/R/createBiocWorkflow.R
+/R/f1000_article.R
+/man/createBiocWorkflow.Rd
+/man/f1000_article.Rd
+/man/markdownToLatex.Rd
+/man/uploadToOverleaf.Rd
+/vignettes/Generate_F1000_Latex.Rmd
+/vignettes/new_files.png
+/vignettes/Rstudio_newdoc.png
+/vignettes/denbi_logo.jpg
+/build/vignette.rds
+/inst/CITATION
+/inst/examples/f1000_software_example.Rmd
+/inst/examples/frog.jpg
+/inst/doc/Generate_F1000_Latex.Rmd
+/inst/doc/Generate_F1000_Latex.html
+/inst/doc/Generate_F1000_Latex.R
+/inst/rmarkdown/templates/f1000_article/template.yaml
+/inst/rmarkdown/templates/f1000_article/resources/template.tex
+/inst/rmarkdown/templates/f1000_article/skeleton/sample.bib
+/inst/rmarkdown/templates/f1000_article/skeleton/skeleton.Rmd
+/inst/rmarkdown/templates/f1000_article/skeleton/f1000_styles.sty
+/inst/rmarkdown/templates/f1000_article/skeleton/frog.jpg
+/inst/rmarkdown/templates/f1000_article/skeleton/F1000header.png
+/inst/templates/template_F1000SoftwareArticle.tex

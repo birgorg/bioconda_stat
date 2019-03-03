@@ -1,0 +1,10 @@
+#package: damidseq_pipeline-1.4 
+#url: https://github.com/owenjm/damidseq_pipeline/archive/1.4.tar.gz
+ 
+/damidseq_pipeline
+/README.md
+/LICENSE
+/changelog
+/gff2tdf.pl
+/gatc.track.maker.pl
+/example.zip

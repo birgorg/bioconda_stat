@@ -1,0 +1,17 @@
+#package: BGREAT2-1.0 
+#url: https://github.com/Malfoy/BGREAT2/archive/1.0.tar.gz
+ 
+/README.md
+/alignerGreedy.cpp
+/BooPHF.h
+/utils.h
+/bgreat.cpp
+/strict_fstream.hpp
+/aligner.cpp
+/numbersToSequences.cpp
+/sortPaths.cpp
+/zstr.hpp
+/utils.cpp
+/makefile
+/aligner.h
+/.travis.yml

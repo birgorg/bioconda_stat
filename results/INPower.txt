@@ -1,0 +1,17 @@
+#package: INPower 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/INPower_1.16.0.tar.gz
+ 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS
+/R/INPower.R
+/man/INPower.Rd
+/vignettes/vignette.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/doc/vignette.R
+/inst/doc/vignette.Rnw
+/inst/doc/vignette.pdf
+/inst/unitTests/test_INPower.R
+/inst/sampleData/data.rda

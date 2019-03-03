@@ -1,0 +1,19 @@
+#package: PADOG 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/PADOG_1.22.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/COPYING
+/R/compPADOG.R
+/R/filteranot.R
+/R/padog.R
+/man/padog.Rd
+/man/compPADOG.rd
+/man/filteranot.Rd
+/vignettes/PADOG.bib
+/vignettes/PADOG.Rnw
+/vignettes/Thumbs.db
+/build/vignette.rds
+/inst/doc/PADOG.Rnw
+/inst/doc/PADOG.R
+/inst/doc/PADOG.pdf

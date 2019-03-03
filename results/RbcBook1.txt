@@ -1,0 +1,37 @@
+#package: RbcBook1 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/RbcBook1_1.48.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/imageSize.R
+/R/requireAllBook1.R
+/R/zzz.R
+/R/bcSweave.R
+/R/rpart2gNEL.R
+/R/bcStangle.R
+/R/checkVerbatimLines.R
+/data/kidpackperformance.rda
+/data/Survperformance.rda
+/data/ALL.dist.rda
+/data/ALLperformance.rda
+/data/datalist
+/man/bcr.Rd
+/man/requireAllBook1.Rd
+/man/bcSweave.Rd
+/man/rpart2gNEL.Rd
+/man/checkVerbatimLines.Rd
+/man/bcStangle.Rd
+/man/imageSize.Rd
+/man/perf.Rd
+/vignettes/RbcBook1.Rnw
+/build/vignette.rds
+/inst/scripts/checkPackages.R
+/inst/scripts/doit
+/inst/doc/RbcBook1.Rnw
+/inst/doc/RbcBook1.pdf
+/inst/doc/RbcBook1.R
+/inst/tex/toptex
+/inst/tex/bottex
+/inst/flist/alltags
+/inst/flist/toc
+/inst/flist/chaplist

@@ -1,0 +1,11 @@
+#package: bcl2fastq-1.2.4 
+#url: https://github.com/brwnj/bcl2fastq/archive/v1.2.4.tar.gz
+ 
+/README.md
+/LICENSE
+/bcl2fastq.py
+/setup.py
+/.gitignore
+/data/SampleSheet_bad_header.csv
+/data/SampleSheet_no_index2.csv
+/data/SampleSheet.csv

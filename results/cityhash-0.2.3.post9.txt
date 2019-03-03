@@ -1,0 +1,22 @@
+#package: cityhash-0.2.3.post9 
+#url: https://files.pythonhosted.org/packages/25/67/65ad3755997c066766750525fdf3045609f5ee892fa5b037e7fc066505a4/cityhash-0.2.3.post9.tar.gz
+ 
+/LICENSE
+/cpuinfo.py
+/README.rst
+/requirements.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/dev-requirements.txt
+/setup.cfg
+/include/city.h
+/include/config.h
+/include/citycrc.h
+/cityhash.egg-info/top_level.txt
+/cityhash.egg-info/SOURCES.txt
+/cityhash.egg-info/PKG-INFO
+/cityhash.egg-info/dependency_links.txt
+/src/cityhash.pyx
+/src/city.cc
+/src/cityhash.cpp

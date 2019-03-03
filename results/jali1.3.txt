@@ -1,0 +1,21 @@
+#package: jali1.3 
+#url: https://bibiserv.cebitec.uni-bielefeld.de/applications/jali/resources/downloads/jali-1.3.src.tar.gz
+ 
+/jsearch.c
+/sample_alignment
+/sample_sequence_db
+/sample_sequence
+/TODO
+/sample_alignment_db
+/README
+/vt160
+/include.h
+/Makefile
+/licences.txt
+/pam250
+/jali_lib.h
+/jali_lib.c
+/jali.c
+/blosum62
+/unitscore
+/jscan.c

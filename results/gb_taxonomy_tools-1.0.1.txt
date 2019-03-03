@@ -1,0 +1,27 @@
+#package: gb_taxonomy_tools-1.0.1 
+#url: https://github.com/spond/gb_taxonomy_tools/archive/1.0.1.tar.gz
+ 
+/README.md
+/LICENSE
+/CMakeLists.txt
+/.travis.yml
+/test/data/tree3.ps
+/test/data/test.tree
+/test/data/test.gid
+/test/data/tree1.ps
+/test/data/test.taxid
+/test/data/test.taxonomy
+/test/data/test_summary.txt
+/test/data/tree2.ps
+/test/data/kraken.txt
+/src/taxonomy2tree.c
+/src/tree2ps.c
+/src/taxonomy_reader.c
+/src/gid-taxid.c
+/src/util/taxinfo.c
+/src/util/avl.c
+/src/util/buffers.c
+/src/include/avl.h
+/src/include/taxinfo.h
+/src/include/.DS_Store
+/src/include/buffers.h

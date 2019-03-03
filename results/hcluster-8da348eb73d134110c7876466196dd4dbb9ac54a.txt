@@ -1,0 +1,18 @@
+#package: hcluster-8da348eb73d134110c7876466196dd4dbb9ac54a 
+#url: https://github.com/douglasgscofield/hcluster/archive/8da348eb73d134110c7876466196dd4dbb9ac54a.tar.gz
+ 
+/README.md
+/cluster.cc
+/exam-1.txt
+/ChangeLog.old
+/basic.h
+/basic_graph.cc
+/Makefile
+/exam-1.cat
+/svector.h
+/stdhash.H
+/basic_graph.h
+/.gitignore
+/cluster_graph.h
+/read_file.cc
+/cluster_graph.cc

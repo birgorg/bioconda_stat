@@ -1,0 +1,32 @@
+#package: tiptoft-1.0.0 
+#url: https://files.pythonhosted.org/packages/56/fd/07cee0bceaead935df9a7a53e9ab568dad323052bc742c15c51d53cfb1ee/tiptoft-1.0.0.tar.gz
+ 
+/README.md
+/homopolymer_compression.c
+/LICENSE
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/VERSION
+/setup.cfg
+/scripts/tiptoft
+/scripts/tiptoft_database_downloader
+/tiptoft.egg-info/top_level.txt
+/tiptoft.egg-info/SOURCES.txt
+/tiptoft.egg-info/PKG-INFO
+/tiptoft.egg-info/dependency_links.txt
+/tiptoft.egg-info/requires.txt
+/tiptoft/__init__.py
+/tiptoft/RefGenesGetter.py
+/tiptoft/TipToft.py
+/tiptoft/Read.py
+/tiptoft/Blocks.py
+/tiptoft/TipToftDatabaseDownloader.py
+/tiptoft/Gene.py
+/tiptoft/Kmers.py
+/tiptoft/Fastq.py
+/tiptoft/Fasta.py
+/tiptoft/InputTypes.py
+/tiptoft/data/plasmid_data.tsv
+/tiptoft/data/20180928.txt
+/tiptoft/data/plasmid_data.fa

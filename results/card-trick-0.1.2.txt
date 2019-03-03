@@ -1,0 +1,16 @@
+#package: card-trick-0.1.2 
+#url: https://pypi.io/packages/source/c/card-trick/card-trick-0.1.2.tar.gz
+ 
+/README.md
+/PKG-INFO
+/setup.py
+/setup.cfg
+/scripts/card-trick
+/card_trick/ontology_functions.py
+/card_trick/commands.py
+/card_trick/__init__.py
+/card_trick.egg-info/top_level.txt
+/card_trick.egg-info/SOURCES.txt
+/card_trick.egg-info/PKG-INFO
+/card_trick.egg-info/dependency_links.txt
+/card_trick.egg-info/requires.txt

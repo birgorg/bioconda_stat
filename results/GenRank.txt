@@ -1,0 +1,36 @@
+#package: GenRank 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/GenRank_1.8.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/compute_pfp.R
+/R/generate_permutation_RP.R
+/R/comb_pval.R
+/R/compute_CE.R
+/R/add_genes.R
+/R/compute_RP.R
+/R/rank_genes.R
+/man/CombP.Rd
+/man/ComputeCE.Rd
+/man/ComputeRP.Rd
+/vignettes/Figure.png
+/vignettes/GenRank_Vignette.Rmd
+/vignettes/custom.css
+/vignettes/CE_scoring.png
+/vignettes/CE_scoring.pdf
+/vignettes/Figure1.png
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_CombP.R
+/tests/testthat/test_compute_RP.R
+/tests/testthat/test_compute_CE.R
+/inst/NEWS
+/inst/doc/GenRank_Vignette.R
+/inst/doc/GenRank_Vignette.html
+/inst/doc/GenRank_Vignette.Rmd
+/inst/extdata/CE_RP_toydata.txt
+/inst/extdata/CE_toydata.txt
+/inst/extdata/RP_toydata.txt
+/inst/extdata/CE_RP_toydata_small.txt
+/inst/extdata/CombP_toydata_small.txt
+/inst/extdata/CombP_toydata.txt

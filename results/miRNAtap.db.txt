@@ -1,0 +1,15 @@
+#package: miRNAtap.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/miRNAtap.db_0.99.10.tar.gz
+ 
+/NAMESPACE
+/README
+/DESCRIPTION
+/R/miRNAtap.db.R
+/man/miRNAtap.db.Rd
+/vignettes/refs.bib
+/vignettes/miRNAtap.db.Rnw
+/build/vignette.rds
+/inst/doc/miRNAtap.db.pdf
+/inst/doc/miRNAtap.db.R
+/inst/doc/miRNAtap.db.Rnw
+/inst/extdata/targetpredictor_db.sqlite

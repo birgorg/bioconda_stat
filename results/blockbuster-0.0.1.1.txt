@@ -1,0 +1,11 @@
+#package: blockbuster-0.0.1.1 
+#url: https://github.com/bgruening/download_store/raw/master/blockbuster/blockbuster-0.0.1.1.tar.gz
+ 
+/Makefile
+/test.segemehl
+/blockbuster.c
+/test.bed
+/libs/uthash.h
+/libs/utlist.h
+/libs/utstring.h
+/libs/utarray.h

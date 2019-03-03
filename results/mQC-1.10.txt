@@ -1,0 +1,14 @@
+#package: mQC-1.10 
+#url: https://github.com/Biobix/mQC/archive/1.10.tar.gz
+ 
+/README.md
+/LICENSE
+/mQC.pl
+/mqc_tools/metagenic_piecharts.R
+/mqc_tools/install_pyplot3D_mod.py
+/mqc_tools/logo_mqc2_whitebg.png
+/mqc_tools/quality_plots.R
+/mqc_tools/simulate_utr_for_prokaryotes.py
+/mqc_tools/mQC.py
+/mqc_tools/ENS_db.py
+/mqc_tools/site-packages/axes3d.py

@@ -1,0 +1,32 @@
+#package: biosigner 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/biosigner_1.8.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/helpers.R
+/R/datasets.R
+/R/allGenerics.R
+/R/biosigner-package.R
+/R/allClasses.R
+/R/methods.R
+/data/diaplasma.rdata
+/data/datalist
+/man/biosign.Rd
+/man/diaplasma.Rd
+/man/predict.Rd
+/man/biosigner-package.Rd
+/man/show.Rd
+/man/plot.Rd
+/man/getSignatureLs.Rd
+/man/getAccuracyMN.Rd
+/man/biosign-class.Rd
+/vignettes/biosigner-vignette.Rmd
+/vignettes/biosigner-vignette.bib
+/build/vignette.rds
+/tests/runTests.R
+/inst/CITATION
+/inst/doc/biosigner-vignette.R
+/inst/doc/biosigner-vignette.html
+/inst/doc/biosigner-vignette.Rmd
+/inst/unitTests/test_biosigner.R

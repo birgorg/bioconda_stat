@@ -1,0 +1,14 @@
+#package: twobitreader-3.1.6 
+#url: https://files.pythonhosted.org/packages/9b/90/eb2dc9f097a0a0d60e3ef46bb6e3dee74aef4f5225fe8ab3b0cd0b480204/twobitreader-3.1.6.tar.gz
+ 
+/README.md
+/PKG-INFO
+/setup.py
+/setup.cfg
+/twobitreader/__init__.py
+/twobitreader/download.py
+/twobitreader/__main__.py
+/twobitreader.egg-info/top_level.txt
+/twobitreader.egg-info/SOURCES.txt
+/twobitreader.egg-info/PKG-INFO
+/twobitreader.egg-info/dependency_links.txt

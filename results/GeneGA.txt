@@ -1,0 +1,28 @@
+#package: GeneGA 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/GeneGA_1.30.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/.BBSoptions
+/R/evaluationFunction.R
+/R/GeneCodon.R
+/R/GeneFoldGA.R
+/R/GeneGA_internal.R
+/R/GeneGA-internal.R
+/R/GeneGA.R
+/data/wSet.rda
+/man/GeneGA.Rd
+/man/GeneFoldGA-class.Rd
+/man/GeneFoldGA.Rd
+/man/GeneGA-class.Rd
+/man/wSet.Rd
+/man/GeneCodon.Rd
+/man/plotGeneGA-methods.Rd
+/man/GeneGA-package.Rd
+/vignettes/GeneGA.Rnw
+/vignettes/GeneGA.bib
+/build/vignette.rds
+/inst/doc/GeneGA.Rnw
+/inst/doc/GeneGA.pdf
+/inst/doc/GeneGA.R
+/inst/sequence/EGFP.fasta

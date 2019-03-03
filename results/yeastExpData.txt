@@ -1,0 +1,29 @@
+#package: yeastExpData 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/yeastExpData_0.26.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/y2hG.rda
+/data/litG.rda
+/data/proteinProperties.rda
+/data/ccyclered.rda
+/data/nPdist.rda
+/data/gfp.rda
+/data/datalist
+/data/fcabundance.rda
+/man/proteinProperties.Rd
+/man/fcabundance.Rd
+/man/gfp.Rd
+/man/ccyclered.Rd
+/man/litG.Rd
+/man/nPdist.Rd
+/vignettes/GOstats.bib
+/vignettes/yeastExample.Rnw
+/build/vignette.rds
+/inst/scripts/proteinProperties.R
+/inst/scripts/gfp.R
+/inst/scripts/fcabundance.R
+/inst/doc/yeastExample.R
+/inst/doc/yeastExample.Rnw
+/inst/doc/yeastExample.pdf

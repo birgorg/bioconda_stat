@@ -1,0 +1,16 @@
+#package: JASPAR2014 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/JASPAR2014_1.16.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/zzz.R
+/R/AllClasses.r
+/data/JASPAR2014SitesSeqs.rda
+/data/datalist
+/man/JASPAR2014-class.Rd
+/man/JASPAR2014SitesSeqs.Rd
+/man/JASPAR2014-package.Rd
+/inst/JASPAR2014build/mysql2sqlite.sh
+/inst/JASPAR2014build/sites2DNAStringSet.r
+/inst/extdata/JASPAR2014.sqlite

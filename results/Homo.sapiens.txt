@@ -1,0 +1,8 @@
+#package: Homo.sapiens 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/Homo.sapiens_1.3.1.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/data/graphInfo.rda
+/man/Homo.sapiens.Rd

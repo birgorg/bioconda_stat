@@ -1,0 +1,6 @@
+#package: tinysink-1.0 
+#url: https://github.com/mbhall88/tinysink/archive/1.0.tar.gz
+ 
+/README.md
+/LICENSE
+/tinysink

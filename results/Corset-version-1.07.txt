@@ -1,0 +1,23 @@
+#package: Corset-version-1.07 
+#url: https://github.com/Oshlack/Corset/archive/version-1.07.tar.gz
+ 
+/Read.cc
+/README.md
+/corset.cc
+/LICENSE
+/Transcript.h
+/README
+/Makefile.in
+/corset_fasta_ID_changer.cc
+/Cluster.h
+/Transcript.cc
+/Makefile
+/Read.h
+/Cluster.cc
+/ChangeLog
+/configure.in
+/StringSet.h
+/configure
+/MakeClusters.cc
+/COPYING
+/MakeClusters.h

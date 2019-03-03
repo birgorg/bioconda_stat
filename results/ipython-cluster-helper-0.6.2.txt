@@ -1,0 +1,25 @@
+#package: ipython-cluster-helper-0.6.2 
+#url: https://pypi.io/packages/source/i/ipython-cluster-helper/ipython-cluster-helper-0.6.2.tar.gz
+ 
+/HISTORY.md
+/README.rst
+/requirements.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/.gitignore
+/setup.cfg
+/.travis.yml
+/ipython_cluster_helper.egg-info/top_level.txt
+/ipython_cluster_helper.egg-info/not-zip-safe
+/ipython_cluster_helper.egg-info/SOURCES.txt
+/ipython_cluster_helper.egg-info/PKG-INFO
+/ipython_cluster_helper.egg-info/dependency_links.txt
+/ipython_cluster_helper.egg-info/requires.txt
+/example/example.py
+/cluster_helper/cluster.py
+/cluster_helper/__init__.py
+/cluster_helper/slurm.py
+/cluster_helper/lsf.py
+/cluster_helper/utils.py
+/cluster_helper/log/__init__.py

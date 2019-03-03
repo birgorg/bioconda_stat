@@ -1,0 +1,25 @@
+#package: phylopandas-0.7.2 
+#url: https://pypi.io/packages/source/p/phylopandas/phylopandas-0.7.2.tar.gz
+ 
+/README.md
+/PKG-INFO
+/setup.py
+/setup.cfg
+/phylopandas/core.py
+/phylopandas/__init__.py
+/phylopandas/__version__.py
+/phylopandas/utils.py
+/phylopandas/treeio/__init__.py
+/phylopandas/treeio/write.py
+/phylopandas/treeio/read.py
+/phylopandas/viz/__init__.py
+/phylopandas/tests/__init__.py
+/phylopandas/tests/test_frame.py
+/phylopandas/tests/test_series.py
+/phylopandas/seqio/__init__.py
+/phylopandas/seqio/write.py
+/phylopandas/seqio/read.py
+/phylopandas.egg-info/top_level.txt
+/phylopandas.egg-info/SOURCES.txt
+/phylopandas.egg-info/PKG-INFO
+/phylopandas.egg-info/dependency_links.txt

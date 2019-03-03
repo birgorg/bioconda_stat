@@ -1,0 +1,31 @@
+#package: loompy-2.0.16 
+#url: https://pypi.io/packages/source/l/loompy/loompy-2.0.16.tar.gz
+ 
+/README.md
+/LICENSE
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/loompy.egg-info/top_level.txt
+/loompy.egg-info/SOURCES.txt
+/loompy.egg-info/PKG-INFO
+/loompy.egg-info/dependency_links.txt
+/loompy.egg-info/requires.txt
+/loompy/loom_view.py
+/loompy/to_html.py
+/loompy/loom_validator.py
+/loompy/__init__.py
+/loompy/graph_manager.py
+/loompy/loom_layer.py
+/loompy/normalize.py
+/loompy/_version.py
+/loompy/file_attribute_manager.py
+/loompy/loompy.py
+/loompy/layer_manager.py
+/loompy/view_manager.py
+/loompy/attribute_manager.py
+/loompy/utils.py
+/loompy/plotting/__init__.py
+/loompy/plotting/plot.py
+/loompy/plotting/color.py

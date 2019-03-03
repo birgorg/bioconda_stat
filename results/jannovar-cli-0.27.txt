@@ -1,0 +1,8 @@
+#package: jannovar-cli-0.27 
+#url: https://search.maven.org/remotecontent?filepath=de/charite/compbio/jannovar-cli/0.27/jannovar-cli-0.27-bin.zip
+ 
+/README.md
+/LICENSE
+/jannovar-cli-0.27-sources.jar
+/jannovar-cli-0.27-javadoc.jar
+/jannovar-cli-0.27.jar

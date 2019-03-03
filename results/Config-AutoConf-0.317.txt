@@ -1,0 +1,19 @@
+#package: Config-AutoConf-0.317 
+#url: https://cpan.metacpan.org/authors/id/R/RE/REHSACK/Config-AutoConf-0.317.tar.gz
+ 
+/README.md
+/META.yml
+/ARTISTIC-1.0
+/LICENSE
+/Makefile.PL
+/MANIFEST
+/Changes
+/GPL-1
+/META.json
+/MANIFEST.SKIP
+/t/03.link.t
+/t/02.compile.t
+/t/00.load.t
+/t/01.checkprog.t
+/t/testdata/foo.pc
+/lib/Config/AutoConf.pm

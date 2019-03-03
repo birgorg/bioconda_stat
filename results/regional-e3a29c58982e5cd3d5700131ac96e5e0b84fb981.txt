@@ -1,0 +1,18 @@
+#package: regional-e3a29c58982e5cd3d5700131ac96e5e0b84fb981 
+#url: https://github.com/freeman-lab/regional/archive/e3a29c58982e5cd3d5700131ac96e5e0b84fb981.zip
+ 
+/README.md
+/LICENSE
+/requirements.txt
+/MANIFEST.in
+/setup.py
+/.gitignore
+/setup.cfg
+/.travis.yml
+/example.ipynb
+/pngs/many.png
+/pngs/one.png
+/regional/__init__.py
+/regional/regional.py
+/tests/test_many.py
+/tests/test_one.py

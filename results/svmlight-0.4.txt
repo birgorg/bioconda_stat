@@ -1,0 +1,16 @@
+#package: svmlight-0.4 
+#url: https://files.pythonhosted.org/packages/11/05/dd324f7084b151460d1890c138fbbe07e71bcc5770b5953715090413dc52/svmlight-0.4.tar.gz
+ 
+/README.md
+/PKG-INFO
+/setup.py
+/lib/svm_common.h
+/lib/svm_learn.h
+/lib/svm_hideo.c
+/lib/svm_learn.c
+/lib/svm_loqo.c
+/lib/kernel.h
+/lib/svm_classify.c
+/lib/svm_learn_main.c
+/lib/svm_common.c
+/svmlight/svmlight.c

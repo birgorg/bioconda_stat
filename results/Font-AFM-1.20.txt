@@ -1,0 +1,24 @@
+#package: Font-AFM-1.20 
+#url: http://cpan.metacpan.org/authors/id/G/GA/GAAS/Font-AFM-1.20.tar.gz
+ 
+/META.yml
+/make_metrics
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/AFM.pm
+/t/afm.t
+/t/times.t
+/lib/Font/Metrics/Helvetica.pm
+/lib/Font/Metrics/TimesRoman.pm
+/lib/Font/Metrics/HelveticaBold.pm
+/lib/Font/Metrics/HelveticaOblique.pm
+/lib/Font/Metrics/CourierBoldOblique.pm
+/lib/Font/Metrics/CourierOblique.pm
+/lib/Font/Metrics/HelveticaBoldOblique.pm
+/lib/Font/Metrics/Courier.pm
+/lib/Font/Metrics/TimesBold.pm
+/lib/Font/Metrics/CourierBold.pm
+/lib/Font/Metrics/TimesItalic.pm
+/lib/Font/Metrics/TimesBoldItalic.pm

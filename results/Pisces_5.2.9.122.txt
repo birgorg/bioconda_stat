@@ -1,0 +1,19 @@
+#package: Pisces_5.2.9.122 
+#url: https://github.com/Illumina/Pisces/releases/download/v5.2.9.122/Pisces_5.2.9.122.tar.gz
+ 
+/Alignment.IO.dll
+/Pisces.Domain.dll
+/Alignment.Domain.dll
+/MathNet.Numerics.Core.dll
+/FileCompression.dll
+/Pisces.Calculators.dll
+/libFileCompression.so
+/Pisces.dll
+/Newtonsoft.Json.dll
+/Pisces.IO.dll
+/Pisces.deps.json
+/CommandLine.Options.dll
+/Pisces.runtimeconfig.json
+/CommandLine.Util.dll
+/Pisces.Processing.dll
+/Common.IO.dll

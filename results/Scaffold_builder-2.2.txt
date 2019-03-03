@@ -1,0 +1,6 @@
+#package: Scaffold_builder-2.2 
+#url: https://github.com/metageni/Scaffold_builder/archive/v2.2.tar.gz
+ 
+/README.md
+/scaffold_builder.py
+/COPYING

@@ -1,0 +1,26 @@
+#package: gpls 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/gpls_1.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/glpls1a.error.R
+/R/glpls1a.R
+/R/glpls1a.mlogit.R
+/R/glpls1a.logit.all.R
+/R/my.ginv.R
+/R/glm.fun.R
+/R/glpls1a.predict.R
+/man/glpls1a.mlogit.cv.error.Rd
+/man/predict.gpls.Rd
+/man/glpls1a.cv.error.Rd
+/man/glpls1a.Rd
+/man/glpls1a.logit.all.Rd
+/man/glpls1a.mlogit.Rd
+/man/gpls.Rd
+/man/glpls1a.train.test.error.Rd
+/vignettes/gpls.Rnw
+/vignettes/gpls.bib
+/build/vignette.rds
+/inst/doc/gpls.Rnw
+/inst/doc/gpls.R
+/inst/doc/gpls.pdf

@@ -1,0 +1,17 @@
+#package: String-RewritePrefix-0.007 
+#url: https://cpan.metacpan.org/authors/id/R/RJ/RJBS/String-RewritePrefix-0.007.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/basic.t
+/t/000-report-versions-tiny.t
+/t/00-compile.t
+/lib/String/RewritePrefix.pm
+/xt/release/pod-syntax.t
+/xt/release/changes_has_content.t

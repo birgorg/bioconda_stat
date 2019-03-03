@@ -1,0 +1,21 @@
+#package: r-seurat-scripts-0.0.4 
+#url: https://github.com/ebi-gene-expression-group/r-seurat-scripts/archive/v0.0.4.tar.gz
+ 
+/README.md
+/seurat-find-clusters.R
+/seurat-scale-data.R
+/seurat-filter-cells.R
+/seurat-run-tsne.R
+/seurat-normalise-data.R
+/seurat-read-10x.R
+/r-seurat-scripts-post-install-tests.bats
+/seurat-find-variable-genes.R
+/seurat-run-pca.R
+/r-seurat-scripts-post-install-tests.sh
+/seurat-create-seurat-object.R
+/seurat-dim-plot.R
+/seurat-get-random-genes.R
+/VERSION
+/seurat-find-markers.R
+/.travis.yml
+/test/workflows/test1.smk

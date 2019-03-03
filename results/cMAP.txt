@@ -1,0 +1,18 @@
+#package: cMAP 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/cMAP_1.15.1.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/cMAP.R
+/data/Rdata.rdb
+/data/Rdata.rdx
+/data/Rdata.rds
+/data/datalist
+/man/cMAPCARTAMOLECULE.Rd
+/man/cMAPQC.Rd
+/man/cMAPCARTAPATHWAY.Rd
+/man/cMAP.Rd
+/man/cMAPKEGGINTERACTION.Rd
+/man/cMAPKEGGPATHWAY.Rd
+/man/cMAPCARTAINTERACTION.Rd
+/man/cMAPKEGGMOLECULE.Rd

@@ -1,0 +1,14 @@
+#package: convert 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/convert_1.56.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/marrayRaw_to_NChannelSet.R
+/R/RGList_to_NChannelSet.R
+/R/setas.R
+/man/coerce.Rd
+/vignettes/convert.Rnw
+/vignettes/index.html
+/build/vignette.rds
+/inst/doc/convert.Rnw
+/inst/doc/convert.pdf

@@ -1,0 +1,21 @@
+#package: iRep-1.1.7 
+#url: https://pypi.io/packages/source/i/irep/iRep-1.1.7.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/bin/gc_skew
+/bin/iRep
+/bin/bPTR
+/iRep/fasta.py
+/iRep/__init__.py
+/iRep/mapped.py
+/iRep/bPTR.py
+/iRep/iRep.py
+/iRep/iRep_filter.py
+/iRep/gc_skew.py
+/iRep.egg-info/top_level.txt
+/iRep.egg-info/SOURCES.txt
+/iRep.egg-info/PKG-INFO
+/iRep.egg-info/dependency_links.txt
+/iRep.egg-info/requires.txt

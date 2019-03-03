@@ -1,0 +1,12 @@
+#package: Tadarida-D-1.03 
+#url: https://github.com/ThimotheeV/Tadarida-D/archive/v1.03.tar.gz
+ 
+/detectreatment.h
+/main.cpp
+/deteclaunch.cpp
+/Makefile
+/detectreatment.cpp
+/detec.h
+/licence.txt
+/detec.cpp
+/deteclaunch.h

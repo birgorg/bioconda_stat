@@ -1,0 +1,35 @@
+#package: DAZZ_DB-b1c0f9c5beecf39ec316699d1e782814d45342c7 
+#url: https://github.com/PacificBiosciences/DAZZ_DB/archive/b1c0f9c5beecf39ec316699d1e782814d45342c7.tar.gz
+ 
+/README.md
+/QV.c
+/meson.build
+/fasta2DAM.c
+/DBdust.c
+/LICENSE
+/arrow2DB.c
+/QV.h
+/DBstats.c
+/DBrm.c
+/DBmv.c
+/bamboo_build.sh
+/DBshow.c
+/DBtrim.c
+/DBwipe.c
+/quiva2DB.c
+/DAM2fasta.c
+/Makefile
+/DB2fasta.c
+/simulator.c
+/DB2arrow.c
+/DB.h
+/Catrack.c
+/GNUmakefile
+/fasta2DB.c
+/rangen.c
+/DB.c
+/DISCLAIMER
+/DB2quiva.c
+/DBdump.c
+/DBsplit.c
+/.gitignore

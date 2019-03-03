@@ -1,0 +1,28 @@
+#package: PROMISE 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/PROMISE_1.32.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/spearman.rstat.R
+/R/PROMISE.R
+/R/jung.rstat.R
+/R/avg.abs.genestat.R
+/R/promise.genestat.R
+/data/sampGeneSet.rda
+/data/phPatt.rda
+/data/sampExprSet.rda
+/man/spearman.rstat.Rd
+/man/phPatt.Rd
+/man/promise.genestat.Rd
+/man/jung.rstat.Rd
+/man/PROMISE.Rd
+/man/sampExprSet.Rd
+/man/sampGeneSet.Rd
+/man/PROMISE-package.Rd
+/man/promise.pattern.Rd
+/man/avg.abs.genestat.Rd
+/vignettes/PROMISE.Rnw
+/build/vignette.rds
+/inst/doc/PROMISE.R
+/inst/doc/PROMISE.pdf
+/inst/doc/PROMISE.Rnw

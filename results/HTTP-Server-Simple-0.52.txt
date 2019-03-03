@@ -1,0 +1,26 @@
+#package: HTTP-Server-Simple-0.52 
+#url: https://cpan.metacpan.org/authors/id/B/BP/BPS/HTTP-Server-Simple-0.52.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/SIGNATURE
+/ex/sample_server
+/t/00smoke.t
+/t/01live.t
+/t/04cgi.t
+/t/02pod.t
+/t/03podcoverage.t
+/lib/HTTP/Server/Simple.pm
+/lib/HTTP/Server/Simple/CGI.pm
+/lib/HTTP/Server/Simple/CGI/Environment.pm
+/inc/Module/Install.pm
+/inc/Module/Install/Makefile.pm
+/inc/Module/Install/WriteAll.pm
+/inc/Module/Install/Base.pm
+/inc/Module/Install/Fetch.pm
+/inc/Module/Install/Can.pm
+/inc/Module/Install/Win32.pm
+/inc/Module/Install/Metadata.pm

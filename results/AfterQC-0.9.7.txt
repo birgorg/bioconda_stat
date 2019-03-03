@@ -1,0 +1,31 @@
+#package: AfterQC-0.9.7 
+#url: https://github.com/OpenGene/AfterQC/archive/v0.9.7.tar.gz
+ 
+/README.md
+/LICENSE
+/preprocesser.py
+/circledetector.py
+/Makefile
+/barcodeprocesser.py
+/bubbledetector.py
+/Dockerfile
+/debubble.py
+/util.py
+/qualitycontrol.py
+/.gitignore
+/bubbleprocesser.py
+/after.py
+/fastq.py
+/qcreporter.py
+/editdistance/_editdistance.h
+/editdistance/_editdistance.cpp
+/testdata/R1.fq.gz
+/testdata/R2.fq.gz
+/report_sample/overlap.png
+/report_sample/R1-prefilter-discontinuity.png
+/report_sample/after.json
+/report_sample/R1-prefilter-content.png
+/report_sample/filter-stat.png
+/report_sample/R1-prefilter-strand-bias.png
+/report_sample/R1-prefilter-quality.png
+/report_sample/R1-prefilter-gc-curve.png

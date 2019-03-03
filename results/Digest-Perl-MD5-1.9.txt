@@ -1,0 +1,15 @@
+#package: Digest-Perl-MD5-1.9 
+#url: http://cpan.metacpan.org/authors/id/D/DE/DELTA/Digest-Perl-MD5-1.9.tar.gz
+ 
+/META.yml
+/Makefile.PL
+/MANIFEST
+/META.json
+/rand.f
+/INSTALL
+/test.pl
+/CHANGES
+/lib/Digest/Perl/MD5.pm
+/tools/md5-bench.pl
+/tools/md5-test.pl
+/tools/md5

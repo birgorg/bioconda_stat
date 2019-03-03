@@ -1,0 +1,14 @@
+#package: Types-Serialiser-1.0 
+#url: https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/Types-Serialiser-1.0.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Serialiser.pm
+/META.json
+/COPYING
+/Serialiser/Error.pm
+/t/00_load.t
+/t/51_types.t

@@ -1,0 +1,11 @@
+#package: irida-linker-1.0.2 
+#url: https://github.com/phac-nml/irida-linker/archive/1.0.2.tar.gz
+ 
+/README.md
+/LICENSE
+/ngsArchiveLinker.pl
+/.gitignore
+/man/ngsArchiveLinker.pl.1
+/lib/.gitignore
+/install/install.pl
+/install/ngs-archive-linker.conf

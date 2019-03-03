@@ -1,0 +1,20 @@
+#package: XSLoader-0.24 
+#url: https://cpan.metacpan.org/authors/id/S/SA/SAPER/XSLoader-0.24.tar.gz
+ 
+/META.yml
+/XSLoader_pm.PL
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/XSLoader.pm
+/t/distchk.t
+/t/pod.t
+/t/01-api.t
+/t/XSLoader.t
+/t/00-load.t
+/t/podcover.t
+/t/portfs.t
+/eg/net-pcap.pl
+/eg/posix.pl

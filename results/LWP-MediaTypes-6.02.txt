@@ -1,0 +1,11 @@
+#package: LWP-MediaTypes-6.02 
+#url: https://cpan.metacpan.org/authors/id/G/GA/GAAS/LWP-MediaTypes-6.02.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/mediatypes.t
+/lib/LWP/MediaTypes.pm
+/lib/LWP/media.types

@@ -1,0 +1,8 @@
+#package: BSgenome.Mmusculus.UCSC.mm9 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/BSgenome.Mmusculus.UCSC.mm9_1.4.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/single_sequences.2bit

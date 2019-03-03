@@ -1,0 +1,29 @@
+#package: pbsim-1.0.3 
+#url: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/pbsim/pbsim-1.0.3.tar.gz
+ 
+/aclocal.m4
+/configure.ac
+/autoscan.log
+/README
+/Makefile.in
+/config.h
+/config.h.in
+/Makefile.am
+/depcomp
+/missing
+/ChangeLog
+/INSTALL
+/install-sh
+/configure
+/COPYING
+/AUTHORS
+/NEWS
+/data/model_qc_clr
+/data/model_qc_ccs
+/sample/sample.fasta
+/sample/sample.fastq
+/.deps/pbsim.Po
+/src/Makefile.in
+/src/Makefile.am
+/src/pbsim.cpp
+/src/.deps/pbsim.Po

@@ -1,0 +1,35 @@
+#package: pyDNase-0.3.0 
+#url: https://pypi.io/packages/source/p/pyDNase/pyDNase-0.3.0.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/test/__init__.pyc
+/test/__init__.py
+/pyDNase.egg-info/top_level.txt
+/pyDNase.egg-info/SOURCES.txt
+/pyDNase.egg-info/PKG-INFO
+/pyDNase.egg-info/dependency_links.txt
+/pyDNase.egg-info/requires.txt
+/pyDNase/__init__.py
+/pyDNase/_version.py
+/pyDNase/scripts/dnase_to_JSON.py
+/pyDNase/scripts/dnase_to_javatreeview.py
+/pyDNase/scripts/dnase_cut_counter.py
+/pyDNase/scripts/dnase_bias_estimator.py
+/pyDNase/scripts/dnase_wig_tracks.py
+/pyDNase/scripts/dnase_average_profile.py
+/pyDNase/scripts/wellington_footprints.py
+/pyDNase/scripts/dnase_ddhs_scorer.py
+/pyDNase/scripts/wellington_bootstrap.py
+/pyDNase/scripts/examples/example_footprint_scores.py
+/pyDNase/data/example.bam.bai
+/pyDNase/data/example.bam
+/pyDNase/data/IMR90_6mer.pickle
+/pyDNase/data/example.bed
+/pyDNase/footprinting/WellingtonC.h
+/pyDNase/footprinting/__init__.py
+/pyDNase/footprinting/WellingtonC.c
+/pyDNase/footprinting/WellingtonC.pyx
