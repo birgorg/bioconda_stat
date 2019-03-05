@@ -26,4 +26,13 @@ RUN apt install -y \
     libhts-dev
 
 RUN apt install -y \
-    libhdf5-dev \
+    libhdf5-dev 
+
+RUN apt install -y \
+    libgoogle-glog-dev \
+    libcppunit-dev 
+
+RUN apt update && apt upgrade -y
+
+RUN apt install -y \
+    libgsl-dev
