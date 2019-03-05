@@ -24,3 +24,6 @@ WORKDIR /package
 RUN apt install -y \
     libeigen3-dev \
     libhts-dev
+
+RUN apt install -y \
+    libhdf5-dev \
