@@ -36,3 +36,6 @@ RUN apt update && apt upgrade -y
 
 RUN apt install -y \
     libgsl-dev
+
+RUN apt install -y \
+    git
