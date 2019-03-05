@@ -1,9 +1,11 @@
-#package: canary-stability-2012 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-stability.pm
-meta.json
-copying
+#package: Canary-Stability-2012 
+#url: https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/Canary-Stability-2012.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Stability.pm
+/META.json
+/COPYING

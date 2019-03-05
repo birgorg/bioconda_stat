@@ -1,0 +1,13 @@
+#package: encode-locale-1.05 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+meta.json
+t/warn_once.t
+t/tain.t
+t/alias.t
+t/arg.t
+t/env.t
+lib/encode/locale.pm

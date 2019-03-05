@@ -1,19 +1,21 @@
-#package: pcagopromoter 
-namespace
-description
-r/gotree.r
-r/primo.r
-r/common.r
-r/pca.r
-r/primodata.r
-man/pcagopromoter-package.rd
-man/pca.rd
-man/gotree.rd
-man/primo.rd
-man/primodata.rd
-vignettes/pcagopromoter.rnw
-build/vignette.rds
-inst/citation
-inst/doc/pcagopromoter.r
-inst/doc/pcagopromoter.pdf
-inst/doc/pcagopromoter.rnw
+#package: pcaGoPromoter 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/pcaGoPromoter_1.24.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/GOtree.R
+/R/primo.R
+/R/common.R
+/R/pca.R
+/R/primoData.R
+/man/pcaGoPromoter-package.Rd
+/man/pca.Rd
+/man/GOtree.Rd
+/man/primo.Rd
+/man/primoData.Rd
+/vignettes/pcaGoPromoter.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/pcaGoPromoter.R
+/inst/doc/pcaGoPromoter.pdf
+/inst/doc/pcaGoPromoter.Rnw

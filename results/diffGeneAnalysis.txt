@@ -1,22 +1,24 @@
-#package: diffgeneanalysis 
-namespace
-description
-r/assocanalysis.r
-r/biasadjust.r
-r/datatrim.r
-r/refgroup.r
-r/normalize.r
-r/curvefit.r
-data/rawdata.rda
-man/normalize.rd
-man/refgroup.rd
-man/biasadjust.rd
-man/assocanalysis.rd
-man/rawdata.rd
-man/curvefit.rd
-man/datatrim.rd
-vignettes/diffgeneanalysis.rnw
-build/vignette.rds
-inst/doc/diffgeneanalysis.rnw
-inst/doc/diffgeneanalysis.r
-inst/doc/diffgeneanalysis.pdf
+#package: diffGeneAnalysis 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/diffGeneAnalysis_1.62.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/assocAnalysis.R
+/R/biasAdjust.R
+/R/dataTrim.R
+/R/refGroup.R
+/R/normalize.R
+/R/curveFit.R
+/data/rawdata.rda
+/man/normalize.Rd
+/man/refGroup.Rd
+/man/biasAdjust.Rd
+/man/assocAnalysis.Rd
+/man/rawdata.Rd
+/man/curveFit.Rd
+/man/dataTrim.Rd
+/vignettes/diffGeneAnalysis.Rnw
+/build/vignette.rds
+/inst/doc/diffGeneAnalysis.Rnw
+/inst/doc/diffGeneAnalysis.R
+/inst/doc/diffGeneAnalysis.pdf

@@ -1,15 +1,17 @@
-#package: flowclean 
-readme.md
-namespace
-description
-r/flowclean.r
-data/synperturbed.rda
-data/datalist
-man/clean.rd
-man/synperturbed.rd
-vignettes/flowclean.rnw
-build/vignette.rds
-inst/citation
-inst/doc/flowclean.r
-inst/doc/flowclean.pdf
-inst/doc/flowclean.rnw
+#package: flowClean 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/flowClean_1.18.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/flowClean.R
+/data/synPerturbed.rda
+/data/datalist
+/man/clean.Rd
+/man/synPerturbed.Rd
+/vignettes/flowClean.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/flowClean.R
+/inst/doc/flowClean.pdf
+/inst/doc/flowClean.Rnw

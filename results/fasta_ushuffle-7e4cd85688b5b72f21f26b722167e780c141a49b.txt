@@ -1,0 +1,11 @@
+#package: fasta_ushuffle-7e4cd85688b5b72f21f26b722167e780c141a49b 
+#url: https://github.com/agordon/fasta_ushuffle/archive/7e4cd85688b5b72f21f26b722167e780c141a49b.zip
+ 
+/main.c
+/ushuffle.c
+/README
+/ushuffle.h
+/Makefile
+/test1.fa
+/fasta_ushuffle.c
+/test_bad_input1.fa

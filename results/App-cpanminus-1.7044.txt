@@ -1,14 +1,16 @@
-#package: app-cpanminus-1.7044 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-changes
-meta.json
-manifest.skip
-cpanfile
-t/happy_cpantesters.t
-lib/app/cpanminus.pm
-lib/app/cpanminus/fatscript.pm
-bin/cpanm
+#package: App-cpanminus-1.7044 
+#url: https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/App-cpanminus-1.7044.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/MANIFEST.SKIP
+/cpanfile
+/t/happy_cpantesters.t
+/lib/App/cpanminus.pm
+/lib/App/cpanminus/fatscript.pm
+/bin/cpanm

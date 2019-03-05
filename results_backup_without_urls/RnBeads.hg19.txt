@@ -1,0 +1,15 @@
+#package: rnbeads.hg19 
+namespace
+description
+external_data_store.txt
+r/package.r
+data/probesepic.rdata
+data/small.example.object.rdata
+data/cpg.rdata
+data/hg19.rdata
+data/regions.rdata
+data/probes450.rdata
+data/probes27.rdata
+data/datalist
+man/hg19.rd
+inst/news

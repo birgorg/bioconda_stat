@@ -1,17 +1,19 @@
-#package: cpan-meta-check-0.014 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-meta.json
-install
-t/20-undef-version.t
-t/10-basics.t
-t/lib/local/hasnoversion.pm
-lib/cpan/meta/check.pm
-xt/author/pod-syntax.t
-xt/author/pod-coverage.t
-xt/author/00-compile.t
+#package: CPAN-Meta-Check-0.014 
+#url: https://cpan.metacpan.org/authors/id/L/LE/LEONT/CPAN-Meta-Check-0.014.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/INSTALL
+/t/20-undef-version.t
+/t/10-basics.t
+/t/lib/Local/HasNoVersion.pm
+/lib/CPAN/Meta/Check.pm
+/xt/author/pod-syntax.t
+/xt/author/pod-coverage.t
+/xt/author/00-compile.t

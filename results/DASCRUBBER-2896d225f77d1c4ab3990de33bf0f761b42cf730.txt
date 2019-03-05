@@ -1,0 +1,20 @@
+#package: DASCRUBBER-2896d225f77d1c4ab3990de33bf0f761b42cf730 
+#url: https://github.com/thegenemyers/DASCRUBBER/archive/2896d225f77d1c4ab3990de33bf0f761b42cf730.tar.gz
+ 
+/README.md
+/QV.c
+/LICENSE
+/DASpatch.c
+/QV.h
+/DASqv.c
+/DAStrim.c
+/REPtrim.c
+/Makefile
+/DASedit.c
+/DB.h
+/DASmap.c
+/align.h
+/REPqv.c
+/DASrealign.c
+/DB.c
+/align.c

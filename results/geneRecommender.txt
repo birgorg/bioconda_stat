@@ -1,12 +1,14 @@
-#package: generecommender 
-namespace
-description
-r/generecommender.r
-man/gr.cv.rd
-man/gr.normalize.rd
-man/gr.main.rd
-vignettes/generecommender.rnw
-build/vignette.rds
-inst/doc/generecommender.r
-inst/doc/generecommender.pdf
-inst/doc/generecommender.rnw
+#package: geneRecommender 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/geneRecommender_1.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/geneRecommender.R
+/man/gr.cv.Rd
+/man/gr.normalize.Rd
+/man/gr.main.Rd
+/vignettes/geneRecommender.Rnw
+/build/vignette.rds
+/inst/doc/geneRecommender.R
+/inst/doc/geneRecommender.pdf
+/inst/doc/geneRecommender.Rnw

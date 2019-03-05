@@ -1,15 +1,17 @@
-#package: biocgraph 
-namespace
-description
-r/imagemap.r
-man/imagemap.rd
-vignettes/layingoutpathways.rnw
-vignettes/biocgraph.rnw
-vignettes/hsa04510.png
-build/vignette.rds
-inst/doc/layingoutpathways.rnw
-inst/doc/layingoutpathways.pdf
-inst/doc/biocgraph.pdf
-inst/doc/biocgraph.r
-inst/doc/biocgraph.rnw
-inst/doc/layingoutpathways.r
+#package: biocGraph 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/biocGraph_1.42.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/imageMap.R
+/man/imageMap.Rd
+/vignettes/layingOutPathways.Rnw
+/vignettes/biocGraph.Rnw
+/vignettes/hsa04510.png
+/build/vignette.rds
+/inst/doc/layingOutPathways.Rnw
+/inst/doc/layingOutPathways.pdf
+/inst/doc/biocGraph.pdf
+/inst/doc/biocGraph.R
+/inst/doc/biocGraph.Rnw
+/inst/doc/layingOutPathways.R

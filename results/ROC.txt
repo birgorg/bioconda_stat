@@ -1,18 +1,20 @@
-#package: roc 
-namespace
-description
-r/roc.hyndman.r
-r/zzz.r
-r/rocfuns.r
-man/trapezint.rd
-man/auc.rd
-man/plot-methods.rd
-man/rocdemo.sca.rd
-man/rocc-class.rd
-vignettes/rocnotes.rnw
-vignettes/roc.nw
-build/vignette.rds
-inst/doc/rocnotes.rnw
-inst/doc/rocnotes.r
-inst/doc/rocnotes.pdf
-src/roc.cc
+#package: ROC 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ROC_1.56.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/ROC.hyndman.R
+/R/zzz.R
+/R/ROCfuns.R
+/man/trapezint.Rd
+/man/AUC.Rd
+/man/plot-methods.Rd
+/man/rocdemo.sca.Rd
+/man/rocc-class.Rd
+/vignettes/ROCnotes.Rnw
+/vignettes/ROC.nw
+/build/vignette.rds
+/inst/doc/ROCnotes.Rnw
+/inst/doc/ROCnotes.R
+/inst/doc/ROCnotes.pdf
+/src/ROC.cc

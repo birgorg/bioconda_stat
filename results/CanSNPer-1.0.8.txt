@@ -1,0 +1,32 @@
+#package: CanSNPer-1.0.8 
+#url: https://github.com/adrlar/CanSNPer/archive/v1.0.8.tar.gz
+ 
+/SCHUS4.1.fa
+/README.md
+/coxiella_burnetii_tree.txt
+/FSC200.fa
+/LICENSE
+/Ames.fa
+/brucella_snp.txt
+/bacillus_anthracis_snp.txt
+/CanSNPerDB.db
+/OSU18.fa
+/francisella_tularensis_tree.txt
+/yersinia_pestis_tree.txt
+/yersinia_pestis_snp.txt
+/16M_I.fa
+/AE016828.2.fa
+/coxiella_burnetii_snp.txt
+/INSTALL.md
+/changelog
+/bacillus_anthracis_tree.txt
+/CanSNPer.xml
+/CO92.fa
+/setup.py
+/brucella_tree.txt
+/SCHUS4.2.fa
+/francisella_tularensis_snp.txt
+/16M_II.fa
+/CanSNPer/__init__.py
+/CanSNPer/x2fa.py
+/CanSNPer/__main__.py

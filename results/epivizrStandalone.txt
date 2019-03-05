@@ -1,18 +1,20 @@
-#package: epivizrstandalone 
-namespace
-license
-description
-news.md
-r/zzz.r
-r/startstandalone.r
-r/setstandalone.r
-man/startstandalone.rd
-man/setstandalone.rd
-man/startstandaloneapp.rd
-vignettes/epivizrstandalone.rmd
-build/vignette.rds
-tests/testthat.r
-tests/testthat/test-startstandalone.r
-inst/news.rd
-inst/doc/epivizrstandalone.rmd
-inst/doc/epivizrstandalone.html
+#package: epivizrStandalone 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/epivizrStandalone_1.8.0.tar.gz
+ 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS.md
+/R/zzz.R
+/R/startStandalone.R
+/R/setStandalone.R
+/man/startStandalone.Rd
+/man/setStandalone.Rd
+/man/startStandaloneApp.Rd
+/vignettes/EpivizrStandalone.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test-startStandalone.R
+/inst/NEWS.Rd
+/inst/doc/EpivizrStandalone.Rmd
+/inst/doc/EpivizrStandalone.html

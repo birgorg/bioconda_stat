@@ -1,15 +1,17 @@
-#package: dupchecker 
-readme.md
-namespace
-description
-r/dupchecker.r
-man/validatefile.rd
-man/buildfiletable.rd
-man/arrayexpressdownload.rd
-man/geodownload.rd
-vignettes/dupchecker.rnw
-build/vignette.rds
-inst/citation
-inst/doc/dupchecker.rnw
-inst/doc/dupchecker.pdf
-inst/doc/dupchecker.r
+#package: DupChecker 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/DupChecker_1.18.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/DupChecker.R
+/man/validateFile.Rd
+/man/buildFileTable.Rd
+/man/arrayExpressDownload.Rd
+/man/geoDownload.Rd
+/vignettes/DupChecker.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/DupChecker.Rnw
+/inst/doc/DupChecker.pdf
+/inst/doc/DupChecker.R

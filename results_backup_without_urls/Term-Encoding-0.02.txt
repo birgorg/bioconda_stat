@@ -1,0 +1,18 @@
+#package: term-encoding-0.02 
+meta.yml
+makefile.pl
+manifest
+changes
+t/02_env.t
+t/00_compile.t
+t/01_dev.t
+lib/term/encoding.pm
+inc/module/install.pm
+inc/module/install/makefile.pm
+inc/module/install/writeall.pm
+inc/module/install/include.pm
+inc/module/install/base.pm
+inc/module/install/fetch.pm
+inc/module/install/can.pm
+inc/module/install/win32.pm
+inc/module/install/metadata.pm

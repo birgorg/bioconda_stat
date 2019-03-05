@@ -1,0 +1,20 @@
+#package: text-diff-1.45 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+changes
+meta.json
+t/97_meta.t
+t/98_pod.t
+t/ext_format.t
+t/inputs.t
+t/general.t
+t/table.t
+t/outputs.t
+t/99_pmv.t
+t/keygen.t
+lib/text/diff.pm
+lib/text/diff/config.pm
+lib/text/diff/table.pm

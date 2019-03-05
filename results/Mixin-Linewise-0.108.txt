@@ -1,22 +1,24 @@
-#package: mixin-linewise-0.108 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-meta.json
-t/encoding.t
-t/reader.t
-t/data.txt
-t/00-report-prereqs.dd
-t/00-report-prereqs.t
-t/writer.t
-t/utf8.txt
-t/lib/mltests.pm
-lib/mixin/linewise.pm
-lib/mixin/linewise/writers.pm
-lib/mixin/linewise/readers.pm
-xt/release/pod-syntax.t
-xt/release/changes_has_content.t
+#package: Mixin-Linewise-0.108 
+#url: https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Mixin-Linewise-0.108.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/encoding.t
+/t/reader.t
+/t/data.txt
+/t/00-report-prereqs.dd
+/t/00-report-prereqs.t
+/t/writer.t
+/t/utf8.txt
+/t/lib/MLTests.pm
+/lib/Mixin/Linewise.pm
+/lib/Mixin/Linewise/Writers.pm
+/lib/Mixin/Linewise/Readers.pm
+/xt/release/pod-syntax.t
+/xt/release/changes_has_content.t

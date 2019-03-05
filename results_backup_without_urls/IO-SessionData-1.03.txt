@@ -1,0 +1,11 @@
+#package: io-sessiondata-1.03 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+meta.json
+t/sessiondata.t
+t/sessionset.t
+lib/io/sessiondata.pm
+lib/io/sessionset.pm

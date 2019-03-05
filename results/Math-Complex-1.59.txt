@@ -1,14 +1,16 @@
-#package: math-complex-1.59 
-meta.yml
-todo
-makefile.pl
-manifest
-meta.json
-changelog
-t/underbar.t
-t/pod.t
-t/trig.t
-t/pod-coverage.t
-t/complex.t
-lib/math/complex.pm
-lib/math/trig.pm
+#package: Math-Complex-1.59 
+#url: https://cpan.metacpan.org/authors/id/Z/ZE/ZEFRAM/Math-Complex-1.59.tar.gz
+ 
+/META.yml
+/TODO
+/Makefile.PL
+/MANIFEST
+/META.json
+/ChangeLog
+/t/underbar.t
+/t/pod.t
+/t/Trig.t
+/t/pod-coverage.t
+/t/Complex.t
+/lib/Math/Complex.pm
+/lib/Math/Trig.pm

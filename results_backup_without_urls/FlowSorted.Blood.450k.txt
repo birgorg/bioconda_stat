@@ -1,0 +1,21 @@
+#package: flowsorted.blood.450k 
+namespace
+description
+external_data_store.txt
+data/flowsorted.blood.450k.rda
+data/flowsorted.blood.450k.jaffemodelpars.rda
+data/flowsorted.blood.450k.comptable.rda
+data/datalist
+man/flowsorted.blood.450k.rd
+man/flowsorted.blood.450k.comptable.rd
+man/flowsorted.blood.450k.jaffemodelpars.rd
+vignettes/unsrturl.bst
+vignettes/flowsorted.blood.450k.rnw
+vignettes/flowsorted.blood.450k.bib
+build/partial.rdb
+build/vignette.rds
+inst/scripts/getkeredata.r
+inst/scripts/sample_sheet_idat.csv
+inst/doc/flowsorted.blood.450k.r
+inst/doc/flowsorted.blood.450k.rnw
+inst/doc/flowsorted.blood.450k.pdf

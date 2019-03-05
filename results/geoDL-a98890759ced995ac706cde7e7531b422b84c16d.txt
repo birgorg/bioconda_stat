@@ -1,0 +1,14 @@
+#package: geoDL-a98890759ced995ac706cde7e7531b422b84c16d 
+#url: https://github.com/jduc/geoDL/archive/a988907.tar.gz
+ 
+/LICENSE
+/README.rst
+/setup.py
+/changelog.md
+/.gitignore
+/geoDL/geoDL.py
+/geoDL/logo.txt
+/geoDL/__init__.py
+/geoDL/logo.png
+/geoDL/logo.svg
+/geoDL/__pycache__/__init__.cpython-35.pyc

@@ -1,19 +1,21 @@
-#package: ebsea 
-namespace
-description
-r/ebsea.r
-r/filtercounts.r
-r/normalizedata.r
-r/generatenulldistribution.r
-r/visualizegenes.r
-r/findscore.r
-data/origcounts.rda
-man/filtercounts.rd
-man/visualizegenes.rd
-man/ebsea.rd
-man/origcounts.rd
-vignettes/ebsea.rnw
-build/vignette.rds
-inst/doc/ebsea.r
-inst/doc/ebsea.pdf
-inst/doc/ebsea.rnw
+#package: EBSEA 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/EBSEA_1.8.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/EBSEA.R
+/R/filterCounts.R
+/R/normalizeData.R
+/R/generateNullDistribution.R
+/R/visualizeGenes.R
+/R/findScore.R
+/data/origCounts.rda
+/man/filterCounts.Rd
+/man/visualizeGenes.Rd
+/man/EBSEA.Rd
+/man/origCounts.Rd
+/vignettes/EBSEA.Rnw
+/build/vignette.rds
+/inst/doc/EBSEA.R
+/inst/doc/EBSEA.pdf
+/inst/doc/EBSEA.Rnw

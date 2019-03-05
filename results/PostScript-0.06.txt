@@ -1,11 +1,13 @@
-#package: postscript-0.06 
-example.pl
-elements.pm
-readme
-psoutput.ps
-makefile.pl
-manifest
-textblock.pm
-example.txt
-document.pm
-metrics.pm
+#package: PostScript-0.06 
+#url: http://cpan.metacpan.org/authors/id/S/SH/SHAWNPW/PostScript-0.06.tar.gz
+ 
+/example.pl
+/Elements.pm
+/README
+/psoutput.ps
+/Makefile.PL
+/MANIFEST
+/TextBlock.pm
+/example.txt
+/Document.pm
+/Metrics.pm

@@ -1,0 +1,23 @@
+#package: cnvgsa 
+namespace
+description
+external_data_store.txt
+r/cnvgsaviz.r
+r/allclasses.r
+r/cnvgsa.r
+r/enrfiles.r
+man/cnvgsagstables.rd
+man/cnvgsalogregtest.rd
+man/f.readconfig.rd
+man/cnvgsa-package.rd
+man/cnvgsainput-class.rd
+man/cnvgsaoutput-class.rd
+man/f.makeviz.rd
+man/cnvgsain.rd
+man/f.enrfiles.rd
+vignettes/cnvgsa-vignette.rnw
+build/vignette.rds
+inst/doc/cnvgsa-vignette.pdf
+inst/doc/cnvgsausersguide.pdf
+inst/doc/cnvgsa-vignette.rnw
+inst/extdata/configfile.txt

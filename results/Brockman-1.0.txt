@@ -1,0 +1,16 @@
+#package: Brockman-1.0 
+#url: https://github.com/Carldeboer/Brockman/archive/1.0.tar.gz
+ 
+/README.md
+/LICENSE
+/brockman_pipeline
+/Resources/NexteraPE-PE.fa
+/Resources/ReplicationDomains/README
+/Resources/ReplicationDomains/hg19.K562.G2S.bed
+/Resources/ReplicationDomains/hg19.K562.G1.bed
+/Example/SRA_entries.txt
+/Example/config.sh
+/Example/sample_list.txt
+/Example/example_run_pipeine_UGER.sh
+/Example/downloadExample.sh
+/Example/runExample.sh

@@ -1,14 +1,16 @@
-#package: rnbeads.mm9 
-namespace
-description
-external_data_store.txt
-r/package.r
-data/mm9.regions.rdata
-data/mm9.rdata
-data/mm9.cpg.rdata
-data/cpg.rdata
-data/example.rrbs.mm9.blood.skin.rdata
-data/regions.rdata
-data/datalist
-man/mm9.rd
-inst/news
+#package: RnBeads.mm9 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/RnBeads.mm9_1.12.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/package.R
+/data/mm9.regions.RData
+/data/mm9.RData
+/data/mm9.CpG.RData
+/data/CpG.RData
+/data/example.rrbs.mm9.blood.skin.RData
+/data/regions.RData
+/data/datalist
+/man/mm9.Rd
+/inst/NEWS

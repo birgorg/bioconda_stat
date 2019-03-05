@@ -1,0 +1,17 @@
+#package: genemeta 
+namespace
+description
+r/meta1.r
+data/nevins.rdata
+data/datalist
+man/countplot.rd
+man/zscore.rd
+man/f.q.rd
+man/dstar.rd
+man/nevins.rd
+man/tau.rd
+vignettes/genemeta.rnw
+build/vignette.rds
+inst/doc/genemeta.pdf
+inst/doc/genemeta.r
+inst/doc/genemeta.rnw

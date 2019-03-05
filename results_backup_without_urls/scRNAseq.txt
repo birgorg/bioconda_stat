@@ -1,0 +1,18 @@
+#package: scrnaseq 
+namespace
+description
+external_data_store.txt
+data/allen.rda
+data/th2.rda
+data/fluidigm.rda
+data/datalist
+man/scrnaseq-package.rd
+vignettes/check_th2.rmd
+vignettes/biblio.bib
+vignettes/scrnaseq.rmd
+vignettes/check_th2.html
+build/partial.rdb
+build/vignette.rds
+inst/doc/scrnaseq.html
+inst/doc/scrnaseq.r
+inst/doc/scrnaseq.rmd

@@ -1,0 +1,17 @@
+#package: mldbm-2.05 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+meta.json
+build.pl
+t/freezethaw.t
+t/dumper.t
+t/compare.t
+t/storable.t
+t/storable_dbfile.t
+lib/mldbm.pm
+lib/mldbm/serializer/storable.pm
+lib/mldbm/serializer/freezethaw.pm
+lib/mldbm/serializer/data/dumper.pm

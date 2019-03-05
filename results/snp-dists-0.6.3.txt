@@ -1,0 +1,28 @@
+#package: snp-dists-0.6.3 
+#url: https://github.com/tseemann/snp-dists/archive/v0.6.3.tar.gz
+ 
+/README.md
+/kseq.h
+/main.c
+/LICENSE
+/Makefile
+/.clang-format
+/.gitignore
+/.travis.yml
+/test/singleton.res
+/test/good.aln
+/test/bad.aln
+/test/lowercase.aln
+/test/ambig.res
+/test/good-c.res
+/test/empty.aln
+/test/ambig-a.res
+/test/gzip.res
+/test/good.res
+/test/lowercase-k.res
+/test/singleton.aln
+/test/gzip.aln.gz
+/test/ambig.aln
+/test/lowercase.res
+/paper/paper.bib
+/paper/paper.md

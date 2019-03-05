@@ -1,21 +1,23 @@
-#package: annotationfilter 
-namespace
-notes.md
-readme
-description
-news
-r/annotationfilter.r
-r/annotationfilterlist.r
-r/allgenerics.r
-r/translate-utils.r
-man/annotationfilter.rd
-man/annotationfilterlist.rd
-vignettes/annotationfilter.rmd
-build/vignette.rds
-tests/testthat.r
-tests/testthat/test_annotationfilter.r
-tests/testthat/test_annotationfilterlist.r
-tests/testthat/test_translate-utils.r
-inst/doc/annotationfilter.html
-inst/doc/annotationfilter.r
-inst/doc/annotationfilter.rmd
+#package: AnnotationFilter 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/AnnotationFilter_1.4.0.tar.gz
+ 
+/NAMESPACE
+/NOTES.md
+/README
+/DESCRIPTION
+/NEWS
+/R/AnnotationFilter.R
+/R/AnnotationFilterList.R
+/R/AllGenerics.R
+/R/translate-utils.R
+/man/AnnotationFilter.Rd
+/man/AnnotationFilterList.Rd
+/vignettes/AnnotationFilter.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_AnnotationFilter.R
+/tests/testthat/test_AnnotationFilterList.R
+/tests/testthat/test_translate-utils.R
+/inst/doc/AnnotationFilter.html
+/inst/doc/AnnotationFilter.R
+/inst/doc/AnnotationFilter.Rmd

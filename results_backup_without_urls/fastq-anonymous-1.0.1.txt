@@ -1,0 +1,14 @@
+#package: fastq-anonymous-1.0.1 
+readme.rst
+pkg-info
+setup.py
+setup.cfg
+fastq_anonymous.egg-info/entry_points.txt
+fastq_anonymous.egg-info/top_level.txt
+fastq_anonymous.egg-info/sources.txt
+fastq_anonymous.egg-info/pkg-info
+fastq_anonymous.egg-info/dependency_links.txt
+fastq_anonymous.egg-info/requires.txt
+fastqanonymous/fastqanonymous.py
+fastqanonymous/__init__.py
+fastqanonymous/version.py

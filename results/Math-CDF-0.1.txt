@@ -1,17 +1,19 @@
-#package: math-cdf-0.1 
-readme
-makefile.pl
-manifest
-changes
-cdf.xs
-test.pl
-cdf.pm
-cdflib/makefile.pl
-cdflib/cdflib.h
-cdflib/dcdflib.c
-cdflib/ipmpar.c
-cdflib/doc/readme
-cdflib/doc/dcdflib.fdoc
-cdflib/doc/dcdflib.h
-cdflib/doc/howtoget
-cdflib/doc/dcdflib.chs
+#package: Math-CDF-0.1 
+#url: http://cpan.metacpan.org/authors/id/C/CA/CALLAHAN/Math-CDF-0.1.tar.gz
+ 
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/CDF.xs
+/test.pl
+/CDF.pm
+/cdflib/Makefile.PL
+/cdflib/cdflib.h
+/cdflib/dcdflib.c
+/cdflib/ipmpar.c
+/cdflib/doc/README
+/cdflib/doc/dcdflib.fdoc
+/cdflib/doc/dcdflib.h
+/cdflib/doc/HOWTOGET
+/cdflib/doc/dcdflib.chs

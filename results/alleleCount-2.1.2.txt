@@ -1,0 +1,35 @@
+#package: alleleCount-2.1.2 
+#url: https://github.com/cancerit/alleleCount/archive/v2.1.2.tar.gz
+ 
+/README.md
+/setup.sh
+/CHANGES.md
+/prerelease.sh
+/LICENCE
+/.gitignore
+/c/Makefile
+/c/tests/runtests.sh
+/c/tests/minunit.h
+/c/tests/bam_access_tests.c
+/c/src/bam_access.c
+/c/src/dbg.h
+/c/src/alleleCounter.c
+/c/src/bam_access.h
+/perl/docs.tar.gz
+/perl/Makefile.PL
+/perl/MANIFEST
+/perl/MYMETA.yml
+/perl/MYMETA.json
+/perl/MANIFEST.SKIP
+/perl/t/1_pm_compile.t
+/perl/t/2_pl_compile.t
+/perl/lib/Sanger/CGP/AlleleCount.pm
+/perl/lib/Sanger/CGP/AlleleCount/PileupData.pm
+/perl/lib/Sanger/CGP/AlleleCount/Genotype.pm
+/perl/bin/cpanm
+/perl/bin/alleleCounter.pl
+/perl/bin/alleleCounter_version.pl
+/patches/htslibcramindex.diff
+/testData/test.bam.bai
+/testData/loci_22.txt
+/testData/test.bam

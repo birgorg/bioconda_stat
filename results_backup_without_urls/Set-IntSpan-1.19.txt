@@ -1,0 +1,27 @@
+#package: set-intspan-1.19 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+intspan.pm
+t/island.t
+t/overload.t
+t/spans.t
+t/set_spec.t
+t/creation.t
+t/bsearch.t
+t/cardinal.t
+t/relation.t
+t/member.t
+t/error.t
+t/iterator.t
+t/subclass.t
+t/span_ord.t
+t/unary.t
+t/binary.t
+t/ord.t
+t/index.t
+t/use-int.t
+t/no-int.t
+t/real_set.t

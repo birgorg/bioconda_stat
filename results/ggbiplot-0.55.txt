@@ -1,15 +1,17 @@
 #package: ggbiplot-0.55 
-readme.md
-ggbiplot.rproj
-namespace
-readme.rmd
-description
-.rbuildignore
-readme-wine-example-1.png
-.gitignore
-r/ggbiplot.r
-r/ggscreeplot.r
-data/wine.rda
-man/ggbiplot.rd
-man/ggscreeplot.rd
-man/wine.rd
+#url: https://github.com/likelet/ggbiplot/archive/v0.55.tar.gz
+ 
+/README.md
+/ggbiplot.Rproj
+/NAMESPACE
+/README.Rmd
+/DESCRIPTION
+/.Rbuildignore
+/README-wine-example-1.png
+/.gitignore
+/R/ggbiplot.r
+/R/ggscreeplot.r
+/data/wine.rda
+/man/ggbiplot.Rd
+/man/ggscreeplot.Rd
+/man/wine.Rd

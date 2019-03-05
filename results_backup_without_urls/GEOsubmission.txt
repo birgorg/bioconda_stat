@@ -1,0 +1,22 @@
+#package: geosubmission 
+namespace
+description
+r/zzz.r
+r/microarray2soft.r
+man/sample2.rd
+man/sample1.rd
+man/microarray2soft.rd
+man/seriesinfo.rd
+man/expresssionnormalized.rd
+man/sampleinfo.rd
+vignettes/geosubmission.bib
+vignettes/geosubmission.rnw
+build/vignette.rds
+inst/doc/geosubmission.r
+inst/doc/geosubmission.rnw
+inst/doc/geosubmission.pdf
+inst/extdata/seriesinfo.txt
+inst/extdata/sample2.cel
+inst/extdata/sample1.cel
+inst/extdata/sampleinfo.txt
+inst/extdata/expressionnormalized.txt

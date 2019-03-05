@@ -1,0 +1,14 @@
+#package: shovill-1.0.4 
+#url: https://github.com/tseemann/shovill/archive/v1.0.4.tar.gz
+ 
+/README.md
+/LICENSE
+/.gitignore
+/.travis.yml
+/.travis/install_deps.sh
+/test/test.sh
+/test/R1.fq.gz
+/test/R2.fq.gz
+/test/test.fna
+/bin/shovill
+/db/trimmomatic.fa

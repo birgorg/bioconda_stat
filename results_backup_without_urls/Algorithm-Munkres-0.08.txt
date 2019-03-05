@@ -1,0 +1,20 @@
+#package: algorithm-munkres-0.08 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+t/unit.t
+t/rect_unit.t
+t/obvious.t
+t/normal.t
+t/horz_matrix.t
+t/rect_matrix1.t
+t/rect_matrix2.t
+t/ill_formed.t
+t/fractions.t
+t/doubleinvoke.t
+t/largematrix.t
+t/vert_matrix.t
+t/negative.t
+lib/algorithm/munkres.pm

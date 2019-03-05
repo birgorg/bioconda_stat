@@ -1,7 +1,9 @@
-#package: genomeinfodbdata 
-namespace
-description
-data/specdata.rda
-data/datalist
-man/genomeinfodbdata-package.rd
-inst/scripts/updategenomeinfodbdata.r
+#package: GenomeInfoDbData 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/GenomeInfoDbData_1.1.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/data/specData.rda
+/data/datalist
+/man/GenomeInfoDbData-package.Rd
+/inst/scripts/updateGenomeInfoDbData.R

@@ -1,0 +1,20 @@
+#package: ncfp-0.1.0 
+readme.rst
+pkg-info
+setup.py
+setup.cfg
+ncbi_cds_from_protein/ncfp_tools.py
+ncbi_cds_from_protein/__init__.py
+ncbi_cds_from_protein/entrez.py
+ncbi_cds_from_protein/sequences.py
+ncbi_cds_from_protein/caches.py
+ncbi_cds_from_protein/scripts/logger.py
+ncbi_cds_from_protein/scripts/ncfp.py
+ncbi_cds_from_protein/scripts/parsers.py
+ncbi_cds_from_protein/scripts/__init__.py
+ncfp.egg-info/entry_points.txt
+ncfp.egg-info/top_level.txt
+ncfp.egg-info/sources.txt
+ncfp.egg-info/pkg-info
+ncfp.egg-info/dependency_links.txt
+ncfp.egg-info/requires.txt

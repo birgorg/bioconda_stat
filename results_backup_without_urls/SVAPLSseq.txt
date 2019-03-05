@@ -1,0 +1,27 @@
+#package: svaplsseq 
+readme.md
+namespace
+description
+news
+r/allclasses.r
+r/methods.r
+r/svplstest.r
+r/svplssurr.r
+r/allgenerics.r
+data/sim.dat.rda
+man/pvs.unadj.rd
+man/svplstest.rd
+man/pvs.adj.rd
+man/svaplsseq-package.rd
+man/svplssurr.rd
+man/prop.vars.rd
+man/svplssurr-class.rd
+man/surr.rd
+man/sig.features.rd
+man/svplstest-class.rd
+man/sim.dat.rd
+vignettes/svaplsseq.rnw
+build/vignette.rds
+inst/doc/svaplsseq.pdf
+inst/doc/svaplsseq.r
+inst/doc/svaplsseq.rnw

@@ -1,0 +1,14 @@
+#package: stacks_summary-1.1 
+pkg-info
+stacks_summary.py
+manifest.in
+setup.py
+setup.cfg
+stacks/stacks_summary_tpl.html
+stacks/__init__.py
+stacks/stacks_summary.py
+stacks_summary.egg-info/top_level.txt
+stacks_summary.egg-info/sources.txt
+stacks_summary.egg-info/pkg-info
+stacks_summary.egg-info/dependency_links.txt
+stacks_summary.egg-info/requires.txt

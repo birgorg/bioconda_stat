@@ -1,18 +1,20 @@
-#package: number-format-1.75 
-meta.yml
-todo
-readme
-makefile.pl
-manifest
-meta.json
-format.pm
-changes
-t/format_picture.t
-t/format_bytes.t
-t/format_negative.t
-t/object.t
-t/format_number.t
-t/round.t
-t/unformat_number.t
-t/format_price.t
-t/locale.t
+#package: Number-Format-1.75 
+#url: https://cpan.metacpan.org/authors/id/W/WR/WRW/Number-Format-1.75.tar.gz
+ 
+/META.yml
+/TODO
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/Format.pm
+/CHANGES
+/t/format_picture.t
+/t/format_bytes.t
+/t/format_negative.t
+/t/object.t
+/t/format_number.t
+/t/round.t
+/t/unformat_number.t
+/t/format_price.t
+/t/locale.t

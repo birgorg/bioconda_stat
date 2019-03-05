@@ -1,0 +1,19 @@
+#package: rabix-cli-1.0.4 
+#url: https://github.com/rabix/bunny/releases/download/v1.0.4-5/rabix-1.0.4-TES.tar.gz
+ 
+/rabix
+/rabix.cmd
+/examples/README.md
+/examples/dna2protein/README.md
+/examples/dna2protein/translate.cwl.json
+/examples/dna2protein/inputs.json
+/examples/dna2protein/dna2protein.cwl.json
+/examples/dna2protein/transcribe.cwl.json
+/examples/dna2protein/data/input.txt
+/config/logback-verbose.xml
+/config/core.properties
+/config/ftp.properties
+/config/logback.xml
+/config/store.properties
+/lib/rabix-cli.jar
+/bin/tes-quickstart

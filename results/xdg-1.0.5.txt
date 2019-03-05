@@ -1,12 +1,14 @@
 #package: xdg-1.0.5 
-readme.rst
-xdg.py
-pkg-info
-manifest.in
-setup.py
-licence
-setup.cfg
-xdg.egg-info/top_level.txt
-xdg.egg-info/sources.txt
-xdg.egg-info/pkg-info
-xdg.egg-info/dependency_links.txt
+#url: https://pypi.python.org/packages/ac/72/c8d77048d7470a8ff02d8aa2caff65ca605e04bb2dfc81fd4fa320888578/xdg-1.0.5.tar.gz
+ 
+/README.rst
+/xdg.py
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/LICENCE
+/setup.cfg
+/xdg.egg-info/top_level.txt
+/xdg.egg-info/SOURCES.txt
+/xdg.egg-info/PKG-INFO
+/xdg.egg-info/dependency_links.txt

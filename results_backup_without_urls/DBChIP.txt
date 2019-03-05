@@ -1,0 +1,26 @@
+#package: dbchip 
+namespace
+description
+r/dbchip.r
+r/ncis.r
+data/pha4.rda
+data/datalist
+man/pha4.rd
+man/binding.site.list.rd
+man/report.peak.rd
+man/input.data.list.rd
+man/chip.data.list.rd
+man/site.merge.rd
+man/plotpeak.rd
+man/dbchip.rd
+man/test.diff.binding.rd
+man/load.data.rd
+man/conds.rd
+man/dbchip-package.rd
+man/get.site.count.rd
+man/read.binding.site.list.rd
+inst/ext/emb.binding.txt
+inst/ext/l1.binding.txt
+inst/doc/dbchip.rnw
+inst/doc/dbchip.pdf
+inst/doc/dbchip.bib

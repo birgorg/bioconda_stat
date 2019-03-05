@@ -1,6 +1,8 @@
-#package: bsgenome.dmelanogaster.ucsc.dm3 
-namespace
-description
-r/zzz.r
-man/package.rd
-inst/extdata/single_sequences.2bit
+#package: BSgenome.Dmelanogaster.UCSC.dm3 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/BSgenome.Dmelanogaster.UCSC.dm3_1.4.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/single_sequences.2bit

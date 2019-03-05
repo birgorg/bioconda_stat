@@ -1,0 +1,19 @@
+#package: mpfe 
+namespace
+readme
+description
+r/patternmap.r
+r/estimatepatternsonecolumn.r
+r/plotpatterns.r
+r/estimatepatterns.r
+data/patternsexample.rda
+man/estimatepatterns.rd
+man/patternmap.rd
+man/patternsexample.rd
+man/plotpatterns.rd
+man/mpfe-package.rd
+vignettes/mpfe.rnw
+build/vignette.rds
+inst/doc/mpfe.rnw
+inst/doc/mpfe.pdf
+inst/doc/mpfe.r

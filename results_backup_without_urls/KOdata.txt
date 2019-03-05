@@ -1,0 +1,14 @@
+#package: kodata 
+readme.md
+namespace
+license
+description
+external_data_store.txt
+kodata.rproj
+news
+data/gene_cell_info.rda
+data/ko_data.rda
+data/datalist
+man/kodata.rd
+man/gene_cell_info.rd
+man/ko_data.rd

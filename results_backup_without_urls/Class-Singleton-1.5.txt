@@ -1,0 +1,8 @@
+#package: class-singleton-1.5 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+t/singleton.t
+lib/class/singleton.pm

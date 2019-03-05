@@ -1,19 +1,21 @@
-#package: pybamparser-0.0.3 
-readme
-pkg-info
-setup.py
-setup.cfg
-lib/pybamparser/__init__.py
-lib/pybamparser/bgzf/__init__.py
-lib/pybamparser/fasta/__init__.py
-lib/pybamparser/bam/__init__.py
-lib/pybamparser/util/odict.py
-lib/pybamparser/util/__init__.py
-lib/pybamparser/util/packer.py
-lib/pybamparser/bai/__init__.py
-lib/pybamparser/read/__init__.py
-lib/pybamparser.egg-info/top_level.txt
-lib/pybamparser.egg-info/not-zip-safe
-lib/pybamparser.egg-info/sources.txt
-lib/pybamparser.egg-info/pkg-info
-lib/pybamparser.egg-info/dependency_links.txt
+#package: pyBamParser-0.0.3 
+#url: https://pypi.python.org/packages/7c/d2/0e04acad496a3416907e4b48b57036fcc1ddd349497320513cab41fd3019/pyBamParser-0.0.3.tar.gz
+ 
+/README
+/PKG-INFO
+/setup.py
+/setup.cfg
+/lib/pyBamParser/__init__.py
+/lib/pyBamParser/bgzf/__init__.py
+/lib/pyBamParser/fasta/__init__.py
+/lib/pyBamParser/bam/__init__.py
+/lib/pyBamParser/util/odict.py
+/lib/pyBamParser/util/__init__.py
+/lib/pyBamParser/util/packer.py
+/lib/pyBamParser/bai/__init__.py
+/lib/pyBamParser/read/__init__.py
+/lib/pyBamParser.egg-info/top_level.txt
+/lib/pyBamParser.egg-info/not-zip-safe
+/lib/pyBamParser.egg-info/SOURCES.txt
+/lib/pyBamParser.egg-info/PKG-INFO
+/lib/pyBamParser.egg-info/dependency_links.txt

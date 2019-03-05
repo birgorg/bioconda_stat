@@ -1,0 +1,26 @@
+#package: tximport 
+readme.md
+namespace
+description
+news
+r/summarizetogene.r
+r/infreps.r
+r/tximport.r
+r/helper.r
+man/tximport.rd
+vignettes/tximport.rmd
+vignettes/library.bib
+build/vignette.rds
+tests/testthat.r
+tests/testthat/test_no_tx2gene.r
+tests/testthat/test_salmon.r
+tests/testthat/test_one_sample.r
+tests/testthat/test_h5.r
+tests/testthat/test_kallisto.r
+tests/testthat/test_stringtie.r
+tests/testthat/test_rsem.r
+tests/testthat/test_counts_from_abundance.r
+inst/citation
+inst/doc/tximport.html
+inst/doc/tximport.rmd
+inst/doc/tximport.r

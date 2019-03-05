@@ -1,0 +1,22 @@
+#package: diffgeneanalysis 
+namespace
+description
+r/assocanalysis.r
+r/biasadjust.r
+r/datatrim.r
+r/refgroup.r
+r/normalize.r
+r/curvefit.r
+data/rawdata.rda
+man/normalize.rd
+man/refgroup.rd
+man/biasadjust.rd
+man/assocanalysis.rd
+man/rawdata.rd
+man/curvefit.rd
+man/datatrim.rd
+vignettes/diffgeneanalysis.rnw
+build/vignette.rds
+inst/doc/diffgeneanalysis.rnw
+inst/doc/diffgeneanalysis.r
+inst/doc/diffgeneanalysis.pdf

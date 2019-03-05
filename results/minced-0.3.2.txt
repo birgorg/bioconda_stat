@@ -1,0 +1,21 @@
+#package: minced-0.3.2 
+#url: https://github.com/ctSkennerton/minced/archive/0.3.2.tar.gz
+ 
+/README.md
+/DNASequence.java
+/LICENSE
+/SearchUtil.java
+/Makefile
+/IntervalSearchTree.java
+/CRISPRFinder.java
+/CRISPR.java
+/minced.java
+/CRISPRUtil.java
+/CHANGES
+/FASTAReader.java
+/MANIFEST.txt
+/.gitignore
+/minced
+/t/repeat_at_contig_beginning.fasta
+/t/Aquifex_aeolicus_VF5.expected
+/t/Aquifex_aeolicus_VF5.fna

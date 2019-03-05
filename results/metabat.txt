@@ -1,12 +1,14 @@
 #package: metabat 
-readme.md
-metabat
-license.txt
-jgi_summarize_bam_contig_depths
-aggregatecontigoverlapsbybin.pl
-runmetabat.sh
-contigoverlaps
-legal.txt
-aggregatebindepths.pl
-metabat2
-metabat1
+#url: https://bitbucket.org/berkeleylab/metabat/downloads/metabat-static-binary-linux-x64_v2.12.1.tar.gz
+ 
+/README.md
+/metabat
+/license.txt
+/jgi_summarize_bam_contig_depths
+/aggregateContigOverlapsByBin.pl
+/runMetaBat.sh
+/contigOverlaps
+/Legal.txt
+/aggregateBinDepths.pl
+/metabat2
+/metabat1

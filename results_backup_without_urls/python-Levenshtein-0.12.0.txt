@@ -1,0 +1,22 @@
+#package: python-levenshtein-0.12.0 
+history.txt
+readme.rst
+pkg-info
+manifest.in
+setup.py
+copying
+setup.cfg
+news
+docs/levenshtein.html
+levenshtein/_levenshtein.c
+levenshtein/__init__.py
+levenshtein/stringmatcher.py
+levenshtein/_levenshtein.h
+python_levenshtein.egg-info/entry_points.txt
+python_levenshtein.egg-info/namespace_packages.txt
+python_levenshtein.egg-info/top_level.txt
+python_levenshtein.egg-info/not-zip-safe
+python_levenshtein.egg-info/sources.txt
+python_levenshtein.egg-info/pkg-info
+python_levenshtein.egg-info/dependency_links.txt
+python_levenshtein.egg-info/requires.txt

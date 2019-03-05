@@ -1,0 +1,23 @@
+#package: mirbaseversions.db 
+readme.md
+namespace
+description
+r/zzz.r
+r/classdef.r
+man/mirbaseversions.db.rd
+tests/testthat.r
+tests/testthat/select-test1.txt
+tests/testthat/test-keys-keytypes-columns.r
+tests/testthat/test-select.r
+inst/news
+inst/doc/mirbaseversions.db-vignette.pdf
+inst/doc/mirbaseversions.db-vignette.html
+inst/vignettes/apa.csl
+inst/vignettes/mirbaseversions.db-vignette.pdf
+inst/vignettes/diff-plot.png
+inst/vignettes/mirbaseversions.db-vignette.r
+inst/vignettes/mirbaseversions.db-vignette.html
+inst/vignettes/mirbaseversions.db-vignette.rmd
+inst/vignettes/entries-plot.png
+inst/vignettes/references.bib
+inst/extdata/mirbaseversions.sqlite

@@ -1,0 +1,22 @@
+#package: weaver 
+namespace
+todo
+description
+r/cache_expr.r
+r/weaver.r
+man/weaver.rd
+man/internal.rd
+vignettes/chunk-example1.tex
+vignettes/weaver_howto.rnw
+build/vignette.rds
+inst/doc/weaver_howto.rnw
+inst/doc/weaver_howto.r
+inst/doc/weaver_howto.pdf
+inst/extdata/makefile
+inst/extdata/doc1.rnw
+inst/extdata/doc2.rnw
+inst/extdata/doc3.rnw
+inst/extdata/cmptex.sh
+inst/extdata/expected/doc2.tex
+inst/extdata/expected/doc1.tex
+inst/extdata/expected/doc3.tex

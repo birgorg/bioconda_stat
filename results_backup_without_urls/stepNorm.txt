@@ -1,0 +1,20 @@
+#package: stepnorm 
+namespace
+description
+r/stepnorm.r
+man/fitwithin.rd
+man/marrayfitclass.rd
+man/stepnorm-internal.rd
+man/seqwithinnorm.rd
+man/withinnorm.rd
+man/calcaic.rd
+man/stepwithinnorm.rd
+man/calcbic.rd
+man/macompplate2.rd
+man/makesteplist.rd
+man/fit2dwithin.rd
+inst/otherdocs/rplots.ps
+inst/otherdocs/stepnorm.rnw
+inst/otherdocs/stepnorm.tex
+inst/otherdocs/stepprocedure.pdf
+inst/otherdocs/stepnorm.pdf

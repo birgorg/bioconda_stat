@@ -1,13 +1,15 @@
-#package: gewist 
-namespace
-description
-r/gewistlevene.r
-r/effectpdf.r
-man/gewistlevene.rd
-man/gewist-package.rd
-man/effectpdf.rd
-vignettes/gewist.rnw
-build/vignette.rds
-inst/doc/gewist.pdf
-inst/doc/gewist.rnw
-inst/doc/gewist.r
+#package: GEWIST 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/GEWIST_1.24.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/gewistLevene.r
+/R/effectPDF.r
+/man/gewistLevene.Rd
+/man/GEWIST-package.Rd
+/man/effectPDF.Rd
+/vignettes/GEWIST.rnw
+/build/vignette.rds
+/inst/doc/GEWIST.pdf
+/inst/doc/GEWIST.rnw
+/inst/doc/GEWIST.R

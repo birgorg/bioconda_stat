@@ -1,0 +1,11 @@
+#package: reago-1.1-release-2015.12.18 
+#url: https://github.com/chengyuan/reago-1.1/archive/release-2015.12.18.tar.gz
+ 
+/README.md
+/filter_input.py
+/sample_2.fasta
+/sample_1.fasta
+/benchmark.parameter
+/reago.py
+/cm/bacteria.cm
+/cm/archaea.cm

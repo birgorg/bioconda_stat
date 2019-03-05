@@ -1,13 +1,15 @@
-#package: impulsede 
-namespace
-description
-news
-r/impulse_de_fin.r
-man/impulse_de.rd
-man/plot_impulse.rd
-man/calc_impulse.rd
-vignettes/impulsede.rmd
-build/vignette.rds
-inst/doc/impulsede.rmd
-inst/doc/impulsede.r
-inst/doc/impulsede.pdf
+#package: ImpulseDE 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ImpulseDE_1.6.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/Impulse_DE_fin.R
+/man/impulse_DE.Rd
+/man/plot_impulse.Rd
+/man/calc_impulse.Rd
+/vignettes/ImpulseDE.Rmd
+/build/vignette.rds
+/inst/doc/ImpulseDE.Rmd
+/inst/doc/ImpulseDE.R
+/inst/doc/ImpulseDE.pdf

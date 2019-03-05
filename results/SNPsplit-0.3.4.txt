@@ -1,0 +1,18 @@
+#package: SNPsplit-0.3.4 
+#url: https://github.com/FelixKrueger/SNPsplit/archive/0.3.4.tar.gz
+ 
+/README.md
+/SNPsplit_User_Guide.pdf
+/SNPsplit
+/LICENSE
+/CHANGELOG.md
+/paired_end_report.pdf
+/BS-seq_report.pdf
+/SNPsplit_genome_preparation
+/copy_SNPsplit_files_for_release.pl
+/HiC_report.pdf
+/tag2sort
+/SNPsplit_User_Guide.md
+/outdated_VCF_versions/SNPsplit_genome_preparation_v2VCF
+/Images/bioinformatics_logo.png
+/Images/SNPsplit.png

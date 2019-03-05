@@ -1,0 +1,21 @@
+#package: ssize 
+namespace
+.rinstignore
+description
+r/delta.r
+r/power.t.test.fdr.r
+r/ssize.r
+r/pow.r
+data/exp.sd.rda
+man/power.t.test.fdr.rd
+man/exp.sd.rd
+man/pow.rd
+vignettes/here.sty
+vignettes/biometrics.bst
+vignettes/url.sty
+vignettes/ssize.rnw
+vignettes/natbib.sty
+build/vignette.rds
+inst/doc/ssize.pdf
+inst/doc/ssize.rnw
+inst/doc/ssize.r

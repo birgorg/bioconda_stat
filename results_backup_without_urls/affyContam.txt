@@ -1,0 +1,12 @@
+#package: affycontam 
+namespace
+description
+r/setregion.r
+man/setrectregion.rd
+vignettes/affycontam.rnw
+vignettes/lkcomp.png
+vignettes/acon.png
+build/vignette.rds
+inst/doc/affycontam.r
+inst/doc/affycontam.rnw
+inst/doc/affycontam.pdf

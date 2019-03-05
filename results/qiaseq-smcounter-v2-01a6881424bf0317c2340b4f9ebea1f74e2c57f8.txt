@@ -1,0 +1,17 @@
+#package: qiaseq-smcounter-v2-01a6881424bf0317c2340b4f9ebea1f74e2c57f8 
+#url: https://github.com/qiaseq/qiaseq-smcounter-v2/archive/01a688.tar.gz
+ 
+/README.md
+/LICENSE
+/run.py
+/__init__.py
+/vc.py
+/get_pvalue.R
+/Dockerfile
+/filters.py
+/.gitignore
+/utils.py
+/vcf.py
+/.travis.yml
+/tests/test_smcounterv2.sh
+/tests/compare_outlong.py

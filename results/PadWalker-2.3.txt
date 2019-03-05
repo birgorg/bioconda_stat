@@ -1,22 +1,24 @@
-#package: padwalker-2.3 
-meta.yml
-padwalker.xs
-readme
-makefile.pl
-manifest
-changes
-meta.json
-padwalker.pm
-t/our.t
-t/baz.pl
-t/sub.t
-t/bar.pl
-t/test.t
-t/closure.t
-t/var_name.t
-t/dm.t
-t/foo.t
-t/tt.t
-t/vn-inc-2.pl
-t/vn-inc-1.pl
-t/recurse.t
+#package: PadWalker-2.3 
+#url: https://cpan.metacpan.org/authors/id/R/RO/ROBIN/PadWalker-2.3.tar.gz
+ 
+/META.yml
+/PadWalker.xs
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/PadWalker.pm
+/t/our.t
+/t/baz.pl
+/t/sub.t
+/t/bar.pl
+/t/test.t
+/t/closure.t
+/t/var_name.t
+/t/dm.t
+/t/foo.t
+/t/tt.t
+/t/vn-inc-2.pl
+/t/vn-inc-1.pl
+/t/recurse.t

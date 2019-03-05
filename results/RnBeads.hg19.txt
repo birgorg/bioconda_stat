@@ -1,15 +1,17 @@
-#package: rnbeads.hg19 
-namespace
-description
-external_data_store.txt
-r/package.r
-data/probesepic.rdata
-data/small.example.object.rdata
-data/cpg.rdata
-data/hg19.rdata
-data/regions.rdata
-data/probes450.rdata
-data/probes27.rdata
-data/datalist
-man/hg19.rd
-inst/news
+#package: RnBeads.hg19 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/RnBeads.hg19_1.12.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/package.R
+/data/probesEPIC.RData
+/data/small.example.object.RData
+/data/CpG.RData
+/data/hg19.RData
+/data/regions.RData
+/data/probes450.RData
+/data/probes27.RData
+/data/datalist
+/man/hg19.Rd
+/inst/NEWS

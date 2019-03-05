@@ -1,0 +1,15 @@
+#package: extutils-config-0.008 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+changes
+meta.json
+install
+t/release-pod-coverage.t
+t/release-pod-syntax.t
+t/basics.t
+t/00-compile.t
+lib/extutils/config.pm

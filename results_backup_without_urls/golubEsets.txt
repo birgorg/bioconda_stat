@@ -1,0 +1,17 @@
+#package: golubesets 
+namespace
+description
+external_data_store.txt
+data/golubmerge.r
+data/golub_test.rda
+data/golubmerge.rda
+data/golubtest.rda
+data/golubtrain.r
+data/golub_train.rda
+data/golubtrain.rda
+data/datalist
+data/golubtest.r
+data/golub_merge.rda
+man/golubtrain.rd
+man/golubtest.rd
+man/golubmerge.rd

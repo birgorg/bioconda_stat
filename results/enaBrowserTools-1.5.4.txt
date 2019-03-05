@@ -1,0 +1,23 @@
+#package: enaBrowserTools-1.5.4 
+#url: https://github.com/enasequence/enaBrowserTools/archive/v1.5.4.tar.gz
+ 
+/README.md
+/LICENSE
+/aspera_settings.ini
+/.gitignore
+/python3/enaGroupGet.py
+/python3/assemblyGet.py
+/python3/sequenceGet.py
+/python3/enaGroupGet
+/python3/enaDataGet.py
+/python3/enaDataGet
+/python3/readGet.py
+/python3/utils.py
+/python/enaGroupGet.py
+/python/assemblyGet.py
+/python/sequenceGet.py
+/python/enaGroupGet
+/python/enaDataGet.py
+/python/enaDataGet
+/python/readGet.py
+/python/utils.py

@@ -1,0 +1,13 @@
+#package: bader 
+namespace
+description
+r/bader.r
+man/bader.rd
+vignettes/bader.bib
+vignettes/bader.rnw
+build/vignette.rds
+inst/doc/bader.pdf
+inst/doc/bader.r
+inst/doc/bader.rnw
+src/meth.cpp
+src/meth.h

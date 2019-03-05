@@ -1,0 +1,26 @@
+#package: frma 
+namespace
+description
+r/gnuse.r
+r/utils-general.r
+r/frmaexpressionset-methods.r
+r/frmaaffybatch.r
+r/batchfit.r
+r/frmafeatureset.r
+r/frma.r
+r/allclasses.r
+r/expressionset-methods.r
+r/barcode.r
+r/allgenerics.r
+r/rwafit2.r
+man/frmaexpressionset-class.rd
+man/barcode.rd
+man/gnuse.rd
+man/frma.rd
+vignettes/frma.rnw
+build/vignette.rds
+inst/news.rd
+inst/citation
+inst/doc/frma.pdf
+inst/doc/frma.r
+inst/doc/frma.rnw

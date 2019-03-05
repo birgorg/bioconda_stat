@@ -1,22 +1,24 @@
-#package: brain 
-namespace
-description
-r/calculate.differential.r
-r/input.r
-r/get.coefficients.r
-r/get.atoms.from.seq.r
-r/iso.and.masses.r
-man/calculateisotopicprobabilities.rd
-man/calculatenrpeaks.rd
-man/calculatemonoisotopicmass.rd
-man/usebrain.rd
-man/calculateaveragemass.rd
-man/brain-package.rd
-man/getatomsfromseq.rd
-vignettes/brain-vignette.rnw
-build/vignette.rds
-inst/citation
-inst/doc/brain-vignette.r
-inst/doc/brain-vignette.rnw
-inst/doc/brain-vignette.pdf
-inst/extdata/uniprotbrain.txt
+#package: BRAIN 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/BRAIN_1.26.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/calculate.differential.R
+/R/input.R
+/R/get.coefficients.R
+/R/get.atoms.from.seq.R
+/R/iso.and.masses.R
+/man/calculateIsotopicProbabilities.Rd
+/man/calculateNrPeaks.Rd
+/man/calculateMonoisotopicMass.Rd
+/man/useBRAIN.Rd
+/man/calculateAverageMass.Rd
+/man/BRAIN-package.Rd
+/man/getAtomsFromSeq.Rd
+/vignettes/BRAIN-vignette.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/BRAIN-vignette.R
+/inst/doc/BRAIN-vignette.Rnw
+/inst/doc/BRAIN-vignette.pdf
+/inst/extdata/uniprotBRAIN.txt

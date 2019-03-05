@@ -1,0 +1,16 @@
+#package: vega 
+namespace
+description
+r/plotsegmentation.r
+r/vega.r
+data/g519.rdata
+man/vega-package.rd
+man/vega.rd
+man/plotsegmentation.rd
+man/g519.rd
+vignettes/vega.rnw
+build/vignette.rds
+inst/doc/vega.r
+inst/doc/vega.pdf
+inst/doc/vega.rnw
+src/vega.c

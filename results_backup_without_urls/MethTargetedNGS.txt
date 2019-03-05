@@ -1,0 +1,27 @@
+#package: methtargetedngs 
+namespace
+description
+r/sequencealignment.r
+r/bisulfiteconversion.r
+r/hmmer.r
+man/nhmmer.rd
+man/methentropy.rd
+man/methheatmap.rd
+man/methavg.rd
+man/bconv.rd
+man/hmmbuild.rd
+man/methalign.rd
+man/fishertest_cpg.rd
+man/compare_samples.rd
+man/odd_ratio.rd
+man/methtargetedngs-package.rd
+vignettes/methtargetedngs.rnw
+build/vignette.rds
+inst/doc/methtargetedngs.pdf
+inst/doc/methtargetedngs.r
+inst/doc/methtargetedngs.rnw
+inst/extdata/reference.fasta
+inst/extdata/msa.fasta
+inst/extdata/healthy.fasta
+inst/extdata/bisulfite.fasta
+inst/extdata/tumor.fasta

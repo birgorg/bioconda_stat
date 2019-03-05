@@ -1,0 +1,24 @@
+#package: counterr-0.1 
+#url: https://github.com/dayzerodx/counterr/archive/0.1.tar.gz
+ 
+/README.md
+/LICENSE
+/setup.py
+/misc/aggregator.py
+/test/README.md
+/test/gen_test_data.py
+/test/test_reconstruct_alignment.py
+/test/__init__.py
+/test/test_count_errors_hp.py
+/test/test_count_errors.py
+/test/test_context_sub_table.py
+/test/test_find_hp_region.py
+/test/test_get_hist_len_hp.py
+/test/test_context_ins_table.py
+/counterr/IO.py
+/counterr/plots.py
+/counterr/__init__.py
+/counterr/counterr.py
+/counterr/util.py
+/counterr/tables.py
+/counterr/counters.py

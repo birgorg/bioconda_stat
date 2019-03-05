@@ -1,0 +1,10 @@
+#package: snageedata 
+namespace
+description
+external_data_store.txt
+r/snageedata.r
+man/snageedata-package.rd
+man/getcc.rd
+inst/extdata/ccwoaffy.rdata
+inst/extdata/genelist.rdata
+inst/extdata/cccomplete.rdata

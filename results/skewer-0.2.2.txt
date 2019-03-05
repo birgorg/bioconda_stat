@@ -1,0 +1,14 @@
+#package: skewer-0.2.2 
+#url: https://github.com/relipmoc/skewer/archive/0.2.2.zip
+ 
+/README.md
+/LICENSE
+/Makefile
+/src/main.cpp
+/src/matrix.h
+/src/common.h
+/src/matrix.cpp
+/src/parameter.cpp
+/src/parameter.h
+/src/fastq.h
+/src/fastq.cpp

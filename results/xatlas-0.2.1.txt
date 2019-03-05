@@ -1,0 +1,29 @@
+#package: xatlas-0.2.1 
+#url: https://github.com/jfarek/xatlas/archive/v0.2.1.tar.gz
+ 
+/README.md
+/configure.ac
+/EventScanner.hpp
+/CoverageCounter.hpp
+/LICENSE
+/Makefile.in
+/ReferenceSequence.hpp
+/EventScanner.cpp
+/VcfWriter.cpp
+/GvcfBlock.hpp
+/IndelEvent.cpp
+/config.h.in
+/VcfWriter.hpp
+/IndelEvent.hpp
+/ReferenceSequence.cpp
+/CoverageCounter.cpp
+/Logit.cpp
+/Logit.hpp
+/Xatlas.cpp
+/GvcfBlock.cpp
+/SnpEvent.cpp
+/Bam.cpp
+/Bam.hpp
+/.gitignore
+/Xatlas.hpp
+/SnpEvent.hpp

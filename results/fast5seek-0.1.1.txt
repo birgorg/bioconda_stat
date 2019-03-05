@@ -1,0 +1,37 @@
+#package: fast5seek-0.1.1 
+#url: https://github.com/mbhall88/fast5seek/archive/v0.1.1.tar.gz
+ 
+/README.md
+/LICENSE
+/Pipfile
+/Makefile
+/change_notes.md
+/setup.py
+/.gitignore
+/setup.cfg
+/.travis.yml
+/fast5seek/cli.py
+/fast5seek/__init__.py
+/fast5seek/fast5seek.py
+/fast5seek/fast5seek_parallelized.py
+/tests/test_fast5seek.py
+/tests/__init__.py
+/tests/data/fastq/tb_mapped.fastq.gz
+/tests/data/fastq/tb_mapped.fastq
+/tests/data/fastq/basecalled.fastq.gz
+/tests/data/fastq/ecoli_mapped.fastq.gz
+/tests/data/bam/ecoli.bam
+/tests/data/bam/tb.bam.bai
+/tests/data/bam/tb.bam
+/tests/data/bam/ecoli.bam.bai
+/tests/data/sam/tb.sam
+/tests/data/sam/ecoli.sam
+/tests/data/fast5/tb1.fast5
+/tests/data/fast5/tb2.fast5
+/tests/data/fast5/ecoli2.fast5
+/tests/data/fast5/tb3.fast5
+/tests/data/fast5/empty.fast5
+/tests/data/fast5/ecoli1.fast5
+/tests/data/fast5/tb6.fast5
+/tests/data/fast5/tb4.fast5
+/tests/data/fast5/tb5.fast5

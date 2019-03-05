@@ -1,0 +1,8 @@
+#package: xml-regexp-0.04 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+test.pl
+lib/xml/regexp.pm

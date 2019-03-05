@@ -1,0 +1,7 @@
+#package: roProfile-2a8c52fafc5ae47fe0e7f2b29999579352fdfed1 
+#url: https://github.com/cimendes/roProfile/archive/2a8c52fafc5ae47fe0e7f2b29999579352fdfed1.tar.gz
+ 
+/README.md
+/LICENSE
+/roProfile.py
+/.gitignore

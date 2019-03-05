@@ -1,0 +1,12 @@
+#package: ZIFA-e40fdbf6c41cd7e564ab03d242fc071f5ac543b7 
+#url: https://github.com/epierson9/ZIFA/archive/e40fdbf6c41cd7e564ab03d242fc071f5ac543b7.zip
+ 
+/README.md
+/example.py
+/LICENSE.txt
+/read_in_real_data_example.py
+/setup.py
+/.gitignore
+/ZIFA/block_ZIFA.py
+/ZIFA/__init__.py
+/ZIFA/ZIFA.py

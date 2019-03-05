@@ -1,14 +1,16 @@
 #package: fastqmetrics-0.1.0 
-readme.rst
-pkg-info
-setup.py
-setup.cfg
-fastqmetrics.egg-info/entry_points.txt
-fastqmetrics.egg-info/top_level.txt
-fastqmetrics.egg-info/sources.txt
-fastqmetrics.egg-info/pkg-info
-fastqmetrics.egg-info/dependency_links.txt
-fastqmetrics.egg-info/requires.txt
-fastqmetrics/__init__.py
-fastqmetrics/fastqmetrics.py
-fastqmetrics/version.py
+#url: https://pypi.io/packages/source/f/fastqmetrics/fastqmetrics-0.1.0.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/fastqmetrics.egg-info/entry_points.txt
+/fastqmetrics.egg-info/top_level.txt
+/fastqmetrics.egg-info/SOURCES.txt
+/fastqmetrics.egg-info/PKG-INFO
+/fastqmetrics.egg-info/dependency_links.txt
+/fastqmetrics.egg-info/requires.txt
+/fastqmetrics/__init__.py
+/fastqmetrics/fastqmetrics.py
+/fastqmetrics/version.py

@@ -1,0 +1,21 @@
+#package: rrho 
+namespace
+.rinstignore
+description
+news
+r/rrho_comparison.r
+r/expressionanalysis.r
+data/lists.rdata
+man/rrho-package.rd
+man/pvalrrho.rd
+man/hnp.rd
+man/rrho.rd
+man/rrhocomparison.rd
+vignettes/rrho.rnw
+vignettes/rrho.bib
+temp/testing.r
+build/vignette.rds
+inst/citation
+inst/doc/rrho.rnw
+inst/doc/rrho.pdf
+inst/doc/rrho.r

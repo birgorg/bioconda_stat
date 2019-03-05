@@ -1,0 +1,16 @@
+#package: nanolyse-1.1.0 
+readme.md
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+nanolyse.egg-info/entry_points.txt
+nanolyse.egg-info/top_level.txt
+nanolyse.egg-info/sources.txt
+nanolyse.egg-info/pkg-info
+nanolyse.egg-info/dependency_links.txt
+nanolyse.egg-info/requires.txt
+reference/lambda.fasta.gz
+nanolyse/__init__.py
+nanolyse/version.py
+nanolyse/nanolyse.py

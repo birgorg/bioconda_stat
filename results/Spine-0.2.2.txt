@@ -1,0 +1,10 @@
+#package: Spine-0.2.2 
+#url: https://github.com/egonozer/Spine/archive/v0.2.2.tar.gz
+ 
+/README.md
+/README.txt
+/LICENSE.txt
+/spine.pl
+/.gitignore
+/scripts/nucmer_backbone.pl
+/scripts/nucmer_multi.pl

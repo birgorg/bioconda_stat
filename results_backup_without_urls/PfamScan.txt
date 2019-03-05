@@ -1,0 +1,13 @@
+#package: pfamscan 
+readme
+pfam_scan.pl
+changelog
+bio/pfam/hmm/hmmsequence.pm
+bio/pfam/hmm/hmmmatch.pm
+bio/pfam/hmm/hmmresultsio.pm
+bio/pfam/hmm/hmmio.pm
+bio/pfam/hmm/hmm.pm
+bio/pfam/hmm/hmmunit.pm
+bio/pfam/hmm/hmmresults.pm
+bio/pfam/scan/seq.pm
+bio/pfam/scan/pfamscan.pm

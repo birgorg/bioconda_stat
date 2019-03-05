@@ -1,0 +1,19 @@
+#package: cghnormaliter 
+namespace
+description
+r/cghnormaliter-internal.r
+r/cghnormaliter.r
+data/leukemia.txt
+data/datalist
+man/cghnormaliter-package.rd
+man/cghnormaliter.write.table.rd
+man/leukemia.rd
+man/cghnormaliter-internal.rd
+man/cghnormaliter.rd
+vignettes/cghnormaliter.bib
+vignettes/cghnormaliter-method.pdf
+vignettes/cghnormaliter.rnw
+build/vignette.rds
+inst/doc/cghnormaliter.r
+inst/doc/cghnormaliter.pdf
+inst/doc/cghnormaliter.rnw

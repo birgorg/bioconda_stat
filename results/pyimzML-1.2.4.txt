@@ -1,0 +1,22 @@
+#package: pyimzML-1.2.4 
+#url: https://github.com/alexandrovteam/pyimzML/archive/1.2.4.tar.gz
+ 
+/LICENSE
+/Report.pdf
+/README.rst
+/setup.py
+/.gitignore
+/pyimzml/ImzMLParser.py
+/pyimzml/ImzMLWriter.py
+/pyimzml/__init__.py
+/pyimzml/compression.py
+/pyimzml/.gitignore
+/docs/rtd_requirements.txt
+/docs/rtd_gen_docs.py
+/docs/conf.py
+/docs/Makefile
+/docs/requirements.txt
+/docs/index.rst
+/tests/__init__.py
+/tests/test_basic.py
+/tests/context.py

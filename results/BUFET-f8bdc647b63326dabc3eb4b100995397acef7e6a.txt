@@ -1,0 +1,15 @@
+#package: BUFET-f8bdc647b63326dabc3eb4b100995397acef7e6a 
+#url: https://github.com/diwis/BUFET/archive/f8bdc647b63326dabc3eb4b100995397acef7e6a.zip
+ 
+/README.md
+/LICENSE
+/bufet.cpp
+/Makefile
+/bufet.py
+/example/interactions_example.csv
+/example/Readme_first!.txt
+/example/ontology_example.csv
+/example/input_example5.txt
+/example/input_example25.txt
+/example/input_example10.txt
+/example/input_example50.txt

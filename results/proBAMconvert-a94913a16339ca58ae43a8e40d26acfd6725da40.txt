@@ -1,0 +1,28 @@
+#package: proBAMconvert-a94913a16339ca58ae43a8e40d26acfd6725da40 
+#url: https://github.com/Biobix/proBAMconvert/archive/a94913a16339ca58ae43a8e40d26acfd6725da40.tar.gz
+ 
+/Readme
+/python/proBAM_pepxml.py
+/python/proBAM_ENSEMBL.py
+/python/proBAM_coref.py
+/python/proBAM_proBED.pyc
+/python/proBAM_mzid.pyc
+/python/proBAM_input.pyc
+/python/proBAM_GUI.pyc
+/python/proBAM_mzTab.pyc
+/python/proBAMconvert_logo.gif
+/python/proBAM_IDparser.pyc
+/python/proBAM_ENSEMBL.pyc
+/python/proBAM_GUI.py
+/python/proBAM_biomart.py
+/python/proBAM.py
+/python/proBAM_mzTab.py
+/python/proBAM_proBED.py
+/python/proBAM_IDparser.py
+/python/proBAM_input.py
+/python/proBAM_biomart.pyc
+/python/proBAM.pyc
+/python/proBAM_coref.pyc
+/python/proBAM_pepxml.pyc
+/python/proBAM_mzid.py
+/python/Readme

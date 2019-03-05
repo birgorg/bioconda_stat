@@ -1,0 +1,7 @@
+#package: seqbuster-miraligner-3.2 
+#url: https://github.com/lpantano/seqbuster/archive/miraligner-3.2.tar.gz
+ 
+/README.md
+/.gitmodules
+/.gitignore
+/modules/miraligner/miraligner.jar

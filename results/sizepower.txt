@@ -1,15 +1,17 @@
 #package: sizepower 
-namespace
-description
-r/power.r
-r/samplesize.r
-man/powerrandomized.rd
-man/samplesizerandomized.rd
-man/powermatched.rd
-man/powermulti.rd
-man/samplesizematched.rd
-vignettes/sizepower.rnw
-build/vignette.rds
-inst/doc/sizepower.pdf
-inst/doc/sizepower.rnw
-inst/doc/sizepower.r
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/sizepower_1.50.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/power.R
+/R/SampleSize.R
+/man/powerRandomized.Rd
+/man/sampleSizeRandomized.Rd
+/man/powerMatched.Rd
+/man/powerMulti.Rd
+/man/sampleSizeMatched.Rd
+/vignettes/sizepower.Rnw
+/build/vignette.rds
+/inst/doc/sizepower.pdf
+/inst/doc/sizepower.Rnw
+/inst/doc/sizepower.R

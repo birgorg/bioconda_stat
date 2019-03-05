@@ -1,12 +1,14 @@
 #package: platypus-conquistador-0.9.0 
-changelog.md
-readme.rst
-pkg-info
-copying.txt
-setup.py
-scripts/platypus
-platypus/commands.py
-platypus/__init__.py
-platypus/compare.py
-platypus/parse.py
-ipynbs/chasing_platypus_via_mg-rast.ipynb
+#url: https://pypi.python.org/packages/source/p/platypus-conquistador/platypus-conquistador-0.9.0.zip
+ 
+/CHANGELOG.md
+/README.rst
+/PKG-INFO
+/COPYING.txt
+/setup.py
+/scripts/platypus
+/platypus/commands.py
+/platypus/__init__.py
+/platypus/compare.py
+/platypus/parse.py
+/ipynbs/Chasing_Platypus_via_MG-RAST.ipynb

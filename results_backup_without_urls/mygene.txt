@@ -1,0 +1,19 @@
+#package: mygene 
+namespace
+description
+r/mygene.r
+r/utils.r
+man/querymany.rd
+man/query.rd
+man/getgenes.rd
+man/mygene-class.rd
+man/mygene.rd
+man/maketxdbfrommygene.rd
+man/metadata.rd
+man/getgene.rd
+man/mygene-package.rd
+vignettes/mygene.rnw
+build/vignette.rds
+inst/doc/mygene.r
+inst/doc/mygene.rnw
+inst/doc/mygene.pdf

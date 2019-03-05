@@ -1,0 +1,36 @@
+#package: xtail 
+#url: https://github.com/xryanglab/xtail/releases/download/v1.1.5/xtail_1.1.5-source.tar.gz
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/INSTALL
+/NEWS
+/R/plots.R
+/R/xtail.R
+/R/methods.R
+/R/AllGenerics.R
+/R/RcppExports.R
+/R/CoreFuns.R
+/data/xtaildata.rda
+/man/xtaildata.Rd
+/man/plotFCs.Rd
+/man/write.xtail.Rd
+/man/plotRs.Rd
+/man/summary.Rd
+/man/volcanoPlot.Rd
+/man/resultsTable.Rd
+/man/xtail.Rd
+/vignettes/xtail.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/CITATION
+/inst/doc/xtail.Rnw
+/inst/doc/xtail.pdf
+/inst/doc/xtail.R
+/src/pdfTest.cpp
+/src/RcppExports.cpp
+/src/Makevars.win
+/src/fitBeta2.cpp
+/src/Makevars

@@ -1,0 +1,15 @@
+#package: GraphEmbed-1.0 
+#url: https://github.com/fabriziocosta/GraphEmbed/archive/1.0.tar.gz
+ 
+/README.md
+/graph_layout_embedder.py
+/target.csv
+/LICENSE
+/graph_embed
+/.gitignore
+/data.csv
+/img/img_2_clean_hull.png
+/img/img_4_target.png
+/img/img.png
+/img/img_1_clean.png
+/img/img_3.png

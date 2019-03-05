@@ -1,0 +1,6 @@
+#package: rad_haplotyper-1.1.9 
+#url: https://github.com/chollenbeck/rad_haplotyper/archive/v1.1.9.tar.gz
+ 
+/README.md
+/LICENSE
+/rad_haplotyper.pl

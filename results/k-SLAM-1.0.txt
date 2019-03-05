@@ -1,0 +1,35 @@
+#package: k-SLAM-1.0 
+#url: https://github.com/aindj/k-SLAM/archive/1.0.tar.gz
+ 
+/README.md
+/LICENSE
+/install_slam.sh
+/build/sources.mk
+/build/objects.mk
+/build/makefile
+/build/src/subdir.mk
+/src/Globals.h
+/src/KMerLookupTable.h
+/src/ParallelTools.h
+/src/.PairedOverlap.h.swp
+/src/SAM.h
+/src/sequenceTools.h
+/src/KMer.h
+/src/ssw.c
+/src/ssw_cpp.cpp
+/src/ssw_cpp.h
+/src/main.cpp
+/src/SLAM.h
+/src/MetagenomicFASTQSequence.h
+/src/MetagenomicResults.h
+/src/Tests.h
+/src/ssw.h
+/src/FASTQsequence.h
+/src/LookupTable.h
+/src/comparison.h
+/src/PairedOverlap.h
+/src/main.h
+/src/TaxonomyDatabase.h
+/src/Overlap.h
+/src/SmithWaterman.h
+/src/GenbankTools.h

@@ -1,0 +1,13 @@
+#package: extutils-installpaths-0.012 
+meta.yml
+license
+makefile.pl
+manifest
+dist.ini
+changes
+meta.json
+install
+t/destinations.t
+lib/extutils/installpaths.pm
+xt/author/pod-syntax.t
+xt/author/pod-coverage.t

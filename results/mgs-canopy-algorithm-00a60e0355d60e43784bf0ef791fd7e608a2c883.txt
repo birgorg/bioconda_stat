@@ -1,0 +1,26 @@
+#package: mgs-canopy-algorithm-00a60e0355d60e43784bf0ef791fd7e608a2c883 
+#url: https://github.com/fplaza/mgs-canopy-algorithm/archive/00a60e0.tar.gz
+ 
+/README.md
+/.gitignore
+/src/Stats.cpp
+/src/Stats.hpp
+/src/License.txt
+/src/Canopy.cpp
+/src/CanopyClustering.cpp
+/src/README
+/src/main.cpp
+/src/signal_handlers.hpp
+/src/Options.cpp
+/src/Point.cpp
+/src/TimeProfile.hpp
+/src/Makefile
+/src/prog_bar_misc.hpp
+/src/Log.cpp
+/src/Canopy.hpp
+/src/signal_handlers.cpp
+/src/Point.hpp
+/src/CanopyClustering.hpp
+/src/Log.hpp
+/src/TimeProfile.cpp
+/src/Options.hh

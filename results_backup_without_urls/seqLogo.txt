@@ -1,0 +1,16 @@
+#package: seqlogo 
+namespace
+description
+r/seqlogo.r
+r/allclasses.r
+r/pwm.r
+r/allgenerics.r
+man/seqlogo.rd
+man/makepwm.rd
+man/pwm-class.rd
+vignettes/seqlogo.rnw
+build/vignette.rds
+inst/doc/seqlogo.rnw
+inst/doc/seqlogo.pdf
+inst/doc/seqlogo.r
+inst/exfiles/pwm1

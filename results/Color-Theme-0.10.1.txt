@@ -1,15 +1,17 @@
-#package: color-theme-0.10.1 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-meta.json
-weaver.ini
-t/author-pod-syntax.t
-t/author-critic.t
-t/00-compile.t
-t/author-pod-coverage.t
-lib/color/theme.pm
+#package: Color-Theme-0.10.1 
+#url: https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/Color-Theme-0.10.1.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/weaver.ini
+/t/author-pod-syntax.t
+/t/author-critic.t
+/t/00-compile.t
+/t/author-pod-coverage.t
+/lib/Color/Theme.pm

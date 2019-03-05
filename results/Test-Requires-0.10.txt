@@ -1,20 +1,22 @@
-#package: test-requires-0.10 
-readme.md
-meta.yml
-license
-makefile.pl
-manifest
-changes
-minil.toml
-meta.json
-cpanfile
-t/06_perlver.t
-t/04_import_array.t
-t/00_compile.t
-t/01_simple.t
-t/05_success.t
-t/03_import_hashref.t
-t/02_no_plan.t
-lib/test/requires.pm
-xt/perlcriticrc
-xt/02_perlcritic.t
+#package: Test-Requires-0.10 
+#url: https://cpan.metacpan.org/authors/id/T/TO/TOKUHIROM/Test-Requires-0.10.tar.gz
+ 
+/README.md
+/META.yml
+/LICENSE
+/Makefile.PL
+/MANIFEST
+/Changes
+/minil.toml
+/META.json
+/cpanfile
+/t/06_perlver.t
+/t/04_import_array.t
+/t/00_compile.t
+/t/01_simple.t
+/t/05_success.t
+/t/03_import_hashref.t
+/t/02_no_plan.t
+/lib/Test/Requires.pm
+/xt/perlcriticrc
+/xt/02_perlcritic.t

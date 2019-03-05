@@ -1,0 +1,25 @@
+#package: cghmcr 
+namespace
+description
+namespaceback
+r/cghmcr.r
+r/mcrfunctions.r
+data/segdata.rda
+man/methods.rd
+man/mergemcrprobes.rd
+man/plot.dnacopy.rd
+man/cghmcr.rd
+man/cghmcr-class.rd
+man/sgol-class.rd
+vignettes/sgolplot.eps
+vignettes/findmcr.rnw
+vignettes/segplot.eps
+vignettes/sgolplot.png
+vignettes/segplot.png
+build/vignette.rds
+inst/doc/findmcr.r
+inst/doc/findmcr.rnw
+inst/doc/findmcr.pdf
+inst/sampledata/tcga-12-0818-01a-01d-0387-02-short.txt
+inst/sampledata/tcga-12-0827-01a-01d-0387-02-short.txt
+inst/sampledata/tcga-06-0881-01a-02d-0387-02-short.txt

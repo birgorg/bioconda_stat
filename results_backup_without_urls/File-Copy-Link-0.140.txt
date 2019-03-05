@@ -1,0 +1,21 @@
+#package: file-copy-link-0.140 
+meta.yml
+readme
+makefile.pl
+manifest
+copylink
+changes
+meta.json
+build.pl
+examples/copylink
+examples/safecopy
+examples/filespec
+t/safecopylink.t
+t/pod.t
+t/chopfile.t
+t/relative.t
+t/copylink.t
+t/linked.t
+t/pod-coverage.t
+lib/file/spec/link.pm
+lib/file/copy/link.pm

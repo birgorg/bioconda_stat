@@ -1,0 +1,30 @@
+#package: quicktree-2.4 
+#url: https://github.com/khowe/quicktree/archive/v2.4.tar.gz
+ 
+/README.md
+/LICENSE
+/Makefile
+/include/options.h
+/include/aln2dist.h
+/include/tree.h
+/include/util.h
+/include/dist2tree.h
+/include/aln2tree.h
+/include/distancemat.h
+/include/align.h
+/include/buildtree.h
+/include/cluster.h
+/include/version.h
+/include/sequence.h
+/src/options.c
+/src/dist2tree.c
+/src/buildtree.c
+/src/tree.c
+/src/aln2tree.c
+/src/cluster.c
+/src/sequence.c
+/src/aln2dist.c
+/src/util.c
+/src/align.c
+/src/distancemat.c
+/src/quicktree.c

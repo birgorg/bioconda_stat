@@ -1,0 +1,27 @@
+#package: graphics-colornames-2.11 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+build.pl
+t/rgb.txt
+t/01-version.t
+t/90-file-port.t
+t/07-file.t
+t/10-sub.t
+t/04-windows.t
+t/06-obj.t
+t/02-x.t
+t/05-netscape.t
+t/90-pod.t
+t/90-pod-coverage.t
+t/01-colornames.t
+t/03-html.t
+t/09-colorlibrary.t
+t/08-filehandle.t
+lib/graphics/colornames.pm
+lib/graphics/colornames/x.pm
+lib/graphics/colornames/windows.pm
+lib/graphics/colornames/netscape.pm
+lib/graphics/colornames/html.pm

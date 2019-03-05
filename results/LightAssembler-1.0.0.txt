@@ -1,0 +1,28 @@
+#package: LightAssembler-1.0.0 
+#url: https://github.com/SaraEl-Metwally/LightAssembler/archive/v1.0.0.tar.gz
+ 
+/ReadsParsing.cpp
+/KmerUtil.cpp
+/README.md
+/memusage.cpp
+/LargeInt.cpp
+/GraphTraversal.hpp
+/kseq.h
+/BinaryStore.hpp
+/KmerUtil.hpp
+/GraphUtil.cpp
+/main.cpp
+/FringeLine.cpp
+/FringeLine.hpp
+/ReadsParsing.hpp
+/KmersScanning.hpp
+/BloomFilter.hpp
+/GraphTraversal.cpp
+/GraphUtil.hpp
+/Utility.cpp
+/MathUtil.hpp
+/LargeInt.hpp
+/makefile
+/BloomUtil.hpp
+/Utility.hpp
+/BinaryStore.cpp

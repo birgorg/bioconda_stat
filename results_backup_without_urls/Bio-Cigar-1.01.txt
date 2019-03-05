@@ -1,0 +1,13 @@
+#package: bio-cigar-1.01 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+changes
+meta.json
+cpanfile
+t/release-pod-syntax.t
+t/basic.t
+lib/bio/cigar.pm

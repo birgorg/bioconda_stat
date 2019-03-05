@@ -1,0 +1,15 @@
+#package: stringMLST-0.5.1 
+#url: https://github.com/jordanlab/stringMLST/archive/0.5.1.tar.gz
+ 
+/README.md
+/stringMLST.py
+/LICENSE
+/LICENSE.txt
+/PATENTS
+/README.rst
+/.gitmodules
+/setup.py
+/.gitignore
+/setup.cfg
+/download_example_reads.sh
+/tests/fastqs/.desc

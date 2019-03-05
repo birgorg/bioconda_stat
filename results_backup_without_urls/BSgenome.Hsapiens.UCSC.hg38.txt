@@ -1,0 +1,6 @@
+#package: bsgenome.hsapiens.ucsc.hg38 
+namespace
+description
+r/zzz.r
+man/package.rd
+inst/extdata/single_sequences.2bit

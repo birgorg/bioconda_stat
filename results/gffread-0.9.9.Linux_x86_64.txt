@@ -1,2 +1,4 @@
-#package: gffread-0.9.9.linux_x86_64 
-gffread
+#package: gffread-0.9.9.Linux_x86_64 
+#url: http://ccb.jhu.edu/software/stringtie/dl/gffread-0.9.9.Linux_x86_64.tar.gz
+ 
+/gffread

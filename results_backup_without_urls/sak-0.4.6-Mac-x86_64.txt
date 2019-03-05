@@ -1,0 +1,6 @@
+#package: sak-0.4.6-mac-x86_64 
+license
+readme
+readme.sak.txt
+man/sak.1
+bin/sak

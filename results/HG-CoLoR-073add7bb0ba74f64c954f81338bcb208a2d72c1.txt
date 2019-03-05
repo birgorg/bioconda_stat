@@ -1,0 +1,19 @@
+#package: HG-CoLoR-073add7bb0ba74f64c954f81338bcb208a2d72c1 
+#url: https://github.com/pierre-morisse/HG-CoLoR/archive/073add7bb0ba74f64c954f81338bcb208a2d72c1.zip
+ 
+/README.md
+/Makefile
+/.gitignore
+/HG-CoLoR
+/bin/generateCLR
+/bin/blasr
+/bin/filterShortReads.py
+/bin/blasr-license
+/bin/formatLongReads.py
+/bin/filterOutShortAlignments.py
+/src/seedsLinking.cpp
+/src/seedsMerging.h
+/src/seedsLinking.h
+/src/PgSAgen.cpp
+/src/CLRgen.cpp
+/src/seedsMerging.cpp

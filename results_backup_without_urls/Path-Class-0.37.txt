@@ -1,0 +1,25 @@
+#package: path-class-0.37 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+changes
+readme.pod
+cpanfile
+install
+signature
+build.pl
+t/06-traverse_filt.t
+t/07-recurseprune.t
+t/03-filesystem.t
+t/05-traverse.t
+t/04-subclass.t
+t/02-foreign.t
+t/author-critic.t
+t/01-basic.t
+lib/path/class.pm
+lib/path/class/file.pm
+lib/path/class/entity.pm
+lib/path/class/dir.pm

@@ -1,0 +1,13 @@
+#package: ruvnormalizedata 
+namespace
+description
+external_data_store.txt
+data/datalist
+data/gender.rda
+man/gender.rd
+vignettes/bibli.bib
+vignettes/ruvnormalizedata.rnw
+build/vignette.rds
+inst/doc/ruvnormalizedata.rnw
+inst/doc/ruvnormalizedata.r
+inst/doc/ruvnormalizedata.pdf

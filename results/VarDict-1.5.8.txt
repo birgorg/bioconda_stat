@@ -1,0 +1,13 @@
+#package: VarDict-1.5.8 
+#url: https://github.com/AstraZeneca-NGS/VarDictJava/releases/download/v1.5.8/VarDict-1.5.8.zip
+ 
+/lib/jregex-1.2_01.jar
+/lib/commons-cli-1.2.jar
+/lib/htsjdk-2.8.0.jar
+/lib/VarDict-1.5.8.jar
+/bin/testsomatic.R
+/bin/var2vcf_paired.pl
+/bin/var2vcf_valid.pl
+/bin/VarDict.bat
+/bin/VarDict
+/bin/teststrandbias.R

@@ -1,0 +1,17 @@
+#package: prosic2-2.1.0 
+#url: https://github.com/PROSIC/prosic2/archive/v2.1.0.tar.gz
+ 
+/README.md
+/Cargo.toml
+/LICENSE
+/CHANGELOG.md
+/.gitignore
+/tests/test.vcf
+/tests/test-tumor.bam.bai
+/tests/test-normal.bam
+/tests/test-normal.bam.bai
+/tests/test-tumor.bam
+/src/estimate.rs
+/src/call.rs
+/src/cli.yaml
+/src/main.rs

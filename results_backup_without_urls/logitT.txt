@@ -1,0 +1,11 @@
+#package: logitt 
+namespace
+description
+r/logittrver4.r
+man/logittaffy.rd
+vignettes/logitt.rnw
+build/vignette.rds
+inst/doc/logitt.rnw
+inst/doc/logitt.r
+inst/doc/logitt.pdf
+src/logittfunc.c

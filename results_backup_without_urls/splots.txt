@@ -1,0 +1,11 @@
+#package: splots 
+namespace
+todo
+description
+r/plotscreen.r
+man/plotscreen.rd
+vignettes/splotshowto.rnw
+build/vignette.rds
+inst/doc/splotshowto.rnw
+inst/doc/splotshowto.pdf
+inst/doc/splotshowto.r

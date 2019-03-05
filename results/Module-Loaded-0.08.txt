@@ -1,9 +1,11 @@
-#package: module-loaded-0.08 
-meta.yml
-readme
-makefile.pl
-manifest
-meta.json
-changes
-t/01_module-loaded.t
-lib/module/loaded.pm
+#package: Module-Loaded-0.08 
+#url: https://cpan.metacpan.org/authors/id/B/BI/BINGOS/Module-Loaded-0.08.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/CHANGES
+/t/01_Module-Loaded.t
+/lib/Module/Loaded.pm

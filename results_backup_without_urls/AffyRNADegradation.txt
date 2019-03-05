@@ -1,0 +1,20 @@
+#package: affyrnadegradation 
+namespace
+description
+news
+r/affyrnadegradation.r
+r/probeinfo.r
+r/allclasses.r
+r/decayfunction.r
+r/tongs.r
+man/affydegradationbatch-class.rd
+man/affyrnadegradation-package.rd
+man/affyrnadegradation.rd
+man/gettongs.rd
+vignettes/vignette.rnw
+vignettes/affyrnadegradation.bib
+build/vignette.rds
+inst/citation
+inst/doc/vignette.r
+inst/doc/vignette.rnw
+inst/doc/vignette.pdf

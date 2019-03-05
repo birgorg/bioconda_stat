@@ -1,0 +1,17 @@
+#package: ScanIndel-1.3 
+#url: https://github.com/cauyrd/scanindel/archive/v1.3.tar.gz
+ 
+/README.md
+/LICENSE
+/ScanIndel.py
+/tools/vcf-combine.py
+/tools/inchworm
+/example/run_scanindel.sh
+/example/README
+/example/output_example/test.merged.indel.vcf
+/example/output_example/test.assembly.indel.vcf
+/example/output_example/test.mapping.indel.vcf
+/example/input_data/test.read1.fq
+/example/input_data/config.txt
+/example/input_data/test.read2.fq
+/example/input_data/sample.txt

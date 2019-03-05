@@ -1,0 +1,26 @@
+#package: ruvseq 
+namespace
+description
+r/ruvr-methods.r
+r/residuals.dgeglm.r
+r/ruvg-methods.r
+r/ruvs-methods.r
+r/allgenerics.r
+r/helper.r
+man/ruvg.rd
+man/makegroups.rd
+man/ruvs.rd
+man/ruvr.rd
+man/residuals.dgeglm.rd
+man/ruvseq-package.rd
+vignettes/biblio.bib
+vignettes/ruvseq.rnw
+build/vignette.rds
+tests/ruvr.r
+tests/ruvs.r
+tests/ruvg.r
+inst/citation
+inst/news
+inst/doc/ruvseq.r
+inst/doc/ruvseq.pdf
+inst/doc/ruvseq.rnw

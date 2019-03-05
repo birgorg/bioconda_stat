@@ -1,0 +1,6 @@
+#package: ShortStack-3.8.5 
+#url: https://github.com/MikeAxtell/ShortStack/archive/v3.8.5.tar.gz
+ 
+/ShortStack
+/LICENSE
+/README

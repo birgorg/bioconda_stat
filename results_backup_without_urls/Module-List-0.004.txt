@@ -1,0 +1,13 @@
+#package: module-list-0.004 
+meta.yml
+readme
+manifest
+changes
+meta.json
+signature
+build.pl
+.gitignore
+t/pod_syn.t
+t/list.t
+t/pod_cvg.t
+lib/module/list.pm

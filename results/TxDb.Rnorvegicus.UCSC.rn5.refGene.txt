@@ -1,6 +1,8 @@
-#package: txdb.rnorvegicus.ucsc.rn5.refgene 
-namespace
-description
-r/zzz.r
-man/package.rd
-inst/extdata/txdb.rnorvegicus.ucsc.rn5.refgene.sqlite
+#package: TxDb.Rnorvegicus.UCSC.rn5.refGene 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/TxDb.Rnorvegicus.UCSC.rn5.refGene_3.4.3.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/TxDb.Rnorvegicus.UCSC.rn5.refGene.sqlite

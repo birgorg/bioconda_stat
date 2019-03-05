@@ -1,0 +1,12 @@
+#package: myriad-0.1.4 
+pkg-info
+setup.py
+setup.cfg
+myriad.egg-info/entry_points.txt
+myriad.egg-info/top_level.txt
+myriad.egg-info/sources.txt
+myriad.egg-info/pkg-info
+myriad.egg-info/dependency_links.txt
+myriad/components.py
+myriad/__init__.py
+myriad/managers.py

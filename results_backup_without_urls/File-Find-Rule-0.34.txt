@@ -1,0 +1,16 @@
+#package: file-find-rule-0.34 
+meta.yml
+findrule
+makefile.pl
+manifest
+changes
+meta.json
+t/findrule.t
+t/file-find-rule.t
+lib/file/find/rule.pm
+lib/file/find/rule/extending.pod
+lib/file/find/rule/procedural.pod
+testdir/findrule.t
+testdir/file-find-rule.t
+testdir/foobar
+testdir/lib/file/find/rule/test/ateam.pm

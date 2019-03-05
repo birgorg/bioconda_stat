@@ -1,8 +1,10 @@
 #package: genomicepidemiology-kma-fd1f3ff93da4 
-readme.md
-kma.c
-makefile
-performanceandcomparisoncmds.tar.gz
-kma_update.c
-kma_index.c
-kma_shm.c
+#url: https://bitbucket.org/genomicepidemiology/kma/get/1.0.1.tar.gz
+ 
+/README.md
+/KMA.c
+/Makefile
+/performanceAndComparisonCMDs.tar.gz
+/KMA_update.c
+/KMA_index.c
+/KMA_SHM.c

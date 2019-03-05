@@ -1,0 +1,14 @@
+#package: fadapa-0.3.1 
+readme.rst
+pkg-info
+setup.py
+setup.cfg
+tests/__init__.py
+tests/test_fadapa.py
+fadapa/__init__.py
+fadapa/fadapa.py
+fadapa/release.py
+fadapa.egg-info/top_level.txt
+fadapa.egg-info/sources.txt
+fadapa.egg-info/pkg-info
+fadapa.egg-info/dependency_links.txt

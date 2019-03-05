@@ -1,0 +1,30 @@
+#package: cassiopee-c-1.0.9 
+#url: https://github.com/osallou/cassiopee-c/archive/1.0.9.tar.gz
+ 
+/README.md
+/LICENSE
+/.project
+/.cproject
+/Changelog
+/CMakeLists.txt
+/.gitignore
+/deps/glog-0.3.3.tar.gz
+/test/test.txt
+/test/test2.fasta.cass
+/test/test.cxx
+/test/protein.txt
+/test/CMakeLists.txt
+/test/pattern.txt
+/test/test.py
+/test/test.h
+/test/sequence.txt
+/src/cassie.cxx
+/src/knife.cxx
+/src/Cassiopee.h
+/src/CassiopeeConfig.h.in
+/src/cassiopee.cxx
+/src/CMakeLists.txt
+/src/Doxyfile.in
+/src/tree/tree.hh
+/src/tree/tree_util.hh
+/src/win/getopt.h

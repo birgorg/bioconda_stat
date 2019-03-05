@@ -1,16 +1,18 @@
-#package: cohcapanno 
-namespace
-description
-external_data_store.txt
-data/cohcap.450k.ucsc.rda
-data/cohcap.450k.hmm.rda
-data/cohcap.27k.rda
-data/datalist
-man/cohcap.27k.rd
-man/cohcap.450k.ucsc.rd
-man/cohcap.450k.hmm.rd
-vignettes/cohcapanno.rnw
-build/vignette.rds
-inst/doc/cohcapanno.r
-inst/doc/cohcapanno.pdf
-inst/doc/cohcapanno.rnw
+#package: COHCAPanno 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/COHCAPanno_1.16.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/COHCAP.450k.UCSC.rda
+/data/COHCAP.450k.HMM.rda
+/data/COHCAP.27k.rda
+/data/datalist
+/man/COHCAP.27k.Rd
+/man/COHCAP.450k.UCSC.Rd
+/man/COHCAP.450k.HMM.Rd
+/vignettes/COHCAPanno.Rnw
+/build/vignette.rds
+/inst/doc/COHCAPanno.R
+/inst/doc/COHCAPanno.pdf
+/inst/doc/COHCAPanno.Rnw

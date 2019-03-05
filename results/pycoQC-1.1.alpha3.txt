@@ -1,0 +1,30 @@
+#package: pycoQC-1.1.alpha3 
+#url: https://github.com/a-slide/pycoQC/archive/v1.1.alpha3.tar.gz
+ 
+/README.md
+/LICENSE
+/_config.yml
+/README.ipynb
+/setup.py
+/.gitignore
+/pycoQC/__init__.py
+/pycoQC/pycoQC.py
+/pycoQC/pycoQC_fun.py
+/pycoQC/test_pycoQC.ipynb
+/pycoQC/data/sequencing_summary_1D_RNA_Albacore_2.0.1.txt
+/pycoQC/data/sequencing_summary_1D2_DNA_Albacore_1.2.1.txt
+/pycoQC/data/sequencing_summary_1D_DNA_Albacore_1.2.3.txt
+/pycoQC/data/sequencing_summary_1D_DNA_Albacore_1.2.1.txt
+/pycoQC/data/sequencing_summary_1D_DNA_barcode_Albacore_2.2.7.txt
+/extra/output_63_0.svg
+/extra/output_79_0.svg
+/extra/output_64_0.svg
+/extra/output_67_0.svg
+/extra/output_71_0.svg
+/extra/output_74_0.svg
+/extra/output_47_7.svg
+/extra/output_55_0.svg
+/extra/output_70_0.svg
+/extra/output_47_8.svg
+/extra/output_78_0.svg
+/extra/output_75_0.svg

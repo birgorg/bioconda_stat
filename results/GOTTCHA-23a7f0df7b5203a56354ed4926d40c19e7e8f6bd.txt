@@ -1,0 +1,21 @@
+#package: GOTTCHA-23a7f0df7b5203a56354ed4926d40c19e7e8f6bd 
+#url: https://github.com/LANL-Bioinformatics/GOTTCHA/archive/23a7f0df7b5203a56354ed4926d40c19e7e8f6bd.tar.gz
+ 
+/README.md
+/LICENSE
+/COPYRIGHT
+/README_FULL.md
+/README_REPORT.md
+/INSTALL.sh
+/test/test.gottcha.tsv
+/test/test.gottcha_full.tsv
+/test/test.fastq
+/src/splitrim.d
+/src/makeVariantTaxLookups.pl
+/src/convert_abu2list.pl
+/src/gottcha.pl
+/src/mkGottchaXML.pl
+/src/mkGottchaTaxTree.pl
+/src/filterGottcha.pl
+/src/gottcha_db.pl
+/src/profileGottcha.pl

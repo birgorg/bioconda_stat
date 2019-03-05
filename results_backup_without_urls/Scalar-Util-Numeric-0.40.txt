@@ -1,0 +1,13 @@
+#package: scalar-util-numeric-0.40 
+meta.yml
+ppport.h
+readme
+makefile.pl
+manifest
+changes
+meta.json
+numeric.xs
+manifest.skip
+t/pod.t
+t/all.t
+lib/scalar/util/numeric.pm

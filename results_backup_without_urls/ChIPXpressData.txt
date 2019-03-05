@@ -1,0 +1,20 @@
+#package: chipxpressdata 
+namespace
+description
+external_data_store.txt
+.bbsoptions
+data/gpl1261mean.rda
+data/gpl570var.rda
+data/gpl1261var.rda
+data/gpl570mean.rda
+man/db_gpl570.bigmemory.rd
+man/db_gpl1261.bigmemory.rd
+man/chipxpressdata-package.rd
+man/gpl1261var.rd
+man/gpl1261mean.rd
+man/gpl570mean.rd
+man/gpl570var.rd
+inst/extdata/db_gpl570.bigmemory.desc
+inst/extdata/db_gpl1261.bigmemory
+inst/extdata/db_gpl1261.bigmemory.desc
+inst/extdata/db_gpl570.bigmemory

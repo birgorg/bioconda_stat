@@ -1,0 +1,18 @@
+#package: novasplice-0.0.4 
+#url: https://github.com/aryakaul/novasplice/archive/0.0.4.tar.gz
+ 
+/README.md
+/LICENSE
+/_config.yml
+/setup.py
+/.gitignore
+/lab-notebook.md
+/figs/novasplice-blank-allss-score.png
+/figs/novasplice-allss-scores.png
+/figs/novasplice-logo.png
+/figs/old/2018-06-22_MUTNTbySSFREQUENCY.png
+/figs/old/2018-06-22_INDEXbySSFREQUENCY.png
+/novasplice/novasplice.py
+/novasplice/__init__.py
+/novasplice/_version.py
+/novasplice/__main__.py

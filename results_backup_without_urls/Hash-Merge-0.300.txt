@@ -1,0 +1,25 @@
+#package: hash-merge-0.300 
+readme.md
+meta.yml
+maintainer.md
+makefile.pl
+manifest
+changes
+meta.json
+manifest.skip
+t/clonepp/01-merge.t
+t/clonepp/02-oo.t
+t/clonepp/00-load.t
+t/storable/01-merge.t
+t/storable/02-oo.t
+t/storable/00-load.t
+t/auto/01-merge.t
+t/auto/02-oo.t
+t/auto/00-load.t
+t/clone/01-merge.t
+t/clone/02-oo.t
+t/clone/00-load.t
+t/inline/01-merge.t
+t/inline/02-oo.t
+t/inline/00-load.t
+lib/hash/merge.pm

@@ -1,0 +1,10 @@
+#package: seqtk-1.3 
+#url: https://github.com/lh3/seqtk/archive/v1.3.tar.gz
+ 
+/README.md
+/khash.h
+/kseq.h
+/LICENSE
+/seqtk.c
+/Makefile
+/.gitignore

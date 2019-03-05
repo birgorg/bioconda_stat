@@ -1,0 +1,15 @@
+#package: fitter-1.0.8 
+readme.rst
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+test/test_fitter.py
+src/fitter.egg-info/top_level.txt
+src/fitter.egg-info/not-zip-safe
+src/fitter.egg-info/sources.txt
+src/fitter.egg-info/pkg-info
+src/fitter.egg-info/dependency_links.txt
+src/fitter.egg-info/requires.txt
+src/fitter/fitter.py
+src/fitter/__init__.py

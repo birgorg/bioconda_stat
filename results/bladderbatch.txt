@@ -1,14 +1,16 @@
 #package: bladderbatch 
-namespace
-description
-external_data_store.txt
-index
-data/bladderdata.rda
-data/datalist
-man/bladdereset.rd
-vignettes/bladderbatch.bib
-vignettes/bladderbatch.rnw
-build/vignette.rds
-inst/doc/bladderbatch.pdf
-inst/doc/bladderbatch.r
-inst/doc/bladderbatch.rnw
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/bladderbatch_1.18.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/INDEX
+/data/bladderdata.rda
+/data/datalist
+/man/bladderEset.Rd
+/vignettes/bladderbatch.bib
+/vignettes/bladderbatch.Rnw
+/build/vignette.rds
+/inst/doc/bladderbatch.pdf
+/inst/doc/bladderbatch.R
+/inst/doc/bladderbatch.Rnw

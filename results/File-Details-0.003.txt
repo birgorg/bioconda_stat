@@ -1,13 +1,15 @@
-#package: file-details-0.003 
-readme.md
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-t/01_hash.t
-t/02_abs_path.t
-t/testfile
-t/00_basic.t
-lib/file/details.pm
+#package: File-Details-0.003 
+#url: https://cpan.metacpan.org/authors/id/R/RE/RECSKY/File-Details-0.003.tar.gz
+ 
+/README.md
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/t/01_hash.t
+/t/02_abs_path.t
+/t/testfile
+/t/00_basic.t
+/lib/File/Details.pm

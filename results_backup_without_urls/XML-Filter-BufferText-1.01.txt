@@ -1,0 +1,7 @@
+#package: xml-filter-buffertext-1.01 
+readme
+makefile.pl
+manifest
+buffertext.pm
+changes
+t/05basic.t

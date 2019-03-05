@@ -1,0 +1,22 @@
+#package: intego 
+namespace
+description
+r/integration.r
+r/intego.r
+r/plotpvalues.r
+r/mcasimple.r
+r/indicators.r
+r/pcasimple.r
+r/indicatorspvalues.r
+r/clustering.r
+r/geneclustering.r
+man/intego.rd
+man/mcasimple.rd
+man/intego-package.rd
+man/indicatorspvalues.rd
+man/pcasimple.rd
+man/indicators.rd
+man/integration.rd
+man/geneclustering.rd
+man/plotpvalues.rd
+man/clustering.rd

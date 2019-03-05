@@ -1,0 +1,13 @@
+#package: file-details-0.003 
+readme.md
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+t/01_hash.t
+t/02_abs_path.t
+t/testfile
+t/00_basic.t
+lib/file/details.pm

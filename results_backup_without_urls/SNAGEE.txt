@@ -1,0 +1,13 @@
+#package: snagee 
+namespace
+description
+r/snagee.r
+man/snagee-package.rd
+man/tosnageeformat.rd
+man/qualsample.rd
+man/qualstudy.rd
+vignettes/snagee.rnw
+build/vignette.rds
+inst/doc/snagee.rnw
+inst/doc/snagee.r
+inst/doc/snagee.pdf

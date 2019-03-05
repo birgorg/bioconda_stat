@@ -1,13 +1,15 @@
-#package: env-1.04 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-meta.json
-t/release-pod-syntax.t
-t/array.t
-t/env.t
-lib/env.pm
+#package: Env-1.04 
+#url: https://cpan.metacpan.org/authors/id/F/FL/FLORA/Env-1.04.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/release-pod-syntax.t
+/t/array.t
+/t/env.t
+/lib/Env.pm

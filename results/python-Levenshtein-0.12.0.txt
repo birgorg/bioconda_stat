@@ -1,22 +1,24 @@
-#package: python-levenshtein-0.12.0 
-history.txt
-readme.rst
-pkg-info
-manifest.in
-setup.py
-copying
-setup.cfg
-news
-docs/levenshtein.html
-levenshtein/_levenshtein.c
-levenshtein/__init__.py
-levenshtein/stringmatcher.py
-levenshtein/_levenshtein.h
-python_levenshtein.egg-info/entry_points.txt
-python_levenshtein.egg-info/namespace_packages.txt
-python_levenshtein.egg-info/top_level.txt
-python_levenshtein.egg-info/not-zip-safe
-python_levenshtein.egg-info/sources.txt
-python_levenshtein.egg-info/pkg-info
-python_levenshtein.egg-info/dependency_links.txt
-python_levenshtein.egg-info/requires.txt
+#package: python-Levenshtein-0.12.0 
+#url: https://pypi.python.org/packages/source/p/python-Levenshtein/python-Levenshtein-0.12.0.tar.gz
+ 
+/HISTORY.txt
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/COPYING
+/setup.cfg
+/NEWS
+/docs/Levenshtein.html
+/Levenshtein/_levenshtein.c
+/Levenshtein/__init__.py
+/Levenshtein/StringMatcher.py
+/Levenshtein/_levenshtein.h
+/python_Levenshtein.egg-info/entry_points.txt
+/python_Levenshtein.egg-info/namespace_packages.txt
+/python_Levenshtein.egg-info/top_level.txt
+/python_Levenshtein.egg-info/not-zip-safe
+/python_Levenshtein.egg-info/SOURCES.txt
+/python_Levenshtein.egg-info/PKG-INFO
+/python_Levenshtein.egg-info/dependency_links.txt
+/python_Levenshtein.egg-info/requires.txt

@@ -1,0 +1,24 @@
+#package: prot2d 
+namespace
+description
+r/fonction_prot_final.r
+r/robust-fdr.r
+data/pecten.fac.rdata
+data/pecten.rdata
+man/robust.fdr.rd
+man/pecten.fac.rd
+man/pecten.rd
+man/norm.vsn.rd
+man/riplot.rd
+man/norm.qt.rd
+man/prot2d-package.rd
+man/sim.prot.2d.rd
+man/varioust.rd
+man/es.prot.rd
+vignettes/prot2d.rnw
+vignettes/images/riplot.png
+build/vignette.rds
+inst/citation
+inst/doc/prot2d.rnw
+inst/doc/prot2d.pdf
+inst/doc/prot2d.r

@@ -1,0 +1,36 @@
+#package: delly-0.7.9 
+#url: https://github.com/dellytools/delly/archive/v0.7.9.tar.gz
+ 
+/README.md
+/LICENSE
+/CONTRIBUTING.md
+/Makefile
+/.gitmodules
+/.gitignore
+/.travis.yml
+/docker/README.md
+/docker/Dockerfile
+/excludeTemplates/human.hg19.excl.tsv
+/excludeTemplates/yeast.sacCer3.excl.tsv
+/excludeTemplates/drosophila.dm6.excl.tsv
+/excludeTemplates/mouse.mm10.excl.tsv
+/excludeTemplates/human.hg38.excl.tsv
+/excludeTemplates/mouse.mm9.excl.tsv
+/src/delly.h
+/src/dpe.cpp
+/src/split.h
+/src/shortpe.h
+/src/CREDITS
+/src/util.h
+/src/tags.h
+/src/gotoh.h
+/src/bolog.h
+/src/modvcf.h
+/src/merge.h
+/src/filter.h
+/src/align.h
+/src/delly.cpp
+/src/coverage.h
+/src/msa.h
+/src/version.h
+/src/needle.h

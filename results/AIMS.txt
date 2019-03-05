@@ -1,17 +1,19 @@
-#package: aims 
-namespace
-readme
-description
-r/aims.r
-data/aimsmodel.rda
-data/mcgillexample.rda
-man/aimsmodel.rd
-man/mcgillexample.rd
-man/applyaims.rd
-vignettes/aims.rnw
-build/vignette.rds
-tests/runtests.r
-inst/doc/aims.pdf
-inst/doc/aims.r
-inst/doc/aims.rnw
-inst/unittests/test_applyaims.r
+#package: AIMS 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/AIMS_1.12.0.tar.gz
+ 
+/NAMESPACE
+/README
+/DESCRIPTION
+/R/AIMS.R
+/data/AIMSmodel.rda
+/data/mcgillExample.rda
+/man/AIMSmodel.Rd
+/man/mcgillExample.Rd
+/man/applyAIMS.Rd
+/vignettes/AIMS.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/doc/AIMS.pdf
+/inst/doc/AIMS.R
+/inst/doc/AIMS.Rnw
+/inst/unitTests/test_applyAIMS.R

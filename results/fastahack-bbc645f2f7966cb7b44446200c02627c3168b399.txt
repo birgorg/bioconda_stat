@@ -1,0 +1,22 @@
+#package: fastahack-bbc645f2f7966cb7b44446200c02627c3168b399 
+#url: https://github.com/ekg/fastahack/archive/bbc645f2f7966cb7b44446200c02627c3168b399.zip
+ 
+/Region.h
+/split.h
+/FastaHack.cpp
+/LICENSE
+/README
+/Makefile
+/split.cpp
+/LargeFileSupport.h
+/disorder.c
+/Fasta.h
+/libdisorder.LICENSE
+/.gitignore
+/Fasta.cpp
+/.travis.yml
+/disorder.h
+/tests/correct.fasta
+/tests/trailing_newlines.fasta
+/tests/embedded_newline.fasta
+/tests/mismatched_lines.fasta

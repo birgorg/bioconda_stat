@@ -1,17 +1,19 @@
-#package: devel-globaldestruction-0.14 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-meta.json
-t/01_basic.t
-t/04_phases.t
-t/06_load-in-gd.t
-t/03_minusc.t
-t/02_thread.t
-t/10_pure-perl.t
-t/05_thread_clone.t
-lib/devel/globaldestruction.pm
-maint/makefile.pl.include
-inc/extutils/hascompiler.pm
+#package: Devel-GlobalDestruction-0.14 
+#url: http://cpan.metacpan.org/authors/id/H/HA/HAARG/Devel-GlobalDestruction-0.14.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/01_basic.t
+/t/04_phases.t
+/t/06_load-in-gd.t
+/t/03_minusc.t
+/t/02_thread.t
+/t/10_pure-perl.t
+/t/05_thread_clone.t
+/lib/Devel/GlobalDestruction.pm
+/maint/Makefile.PL.include
+/inc/ExtUtils/HasCompiler.pm

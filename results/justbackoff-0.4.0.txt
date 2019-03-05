@@ -1,10 +1,12 @@
 #package: justbackoff-0.4.0 
-pkg-info
-setup.py
-setup.cfg
-justbackoff.egg-info/top_level.txt
-justbackoff.egg-info/not-zip-safe
-justbackoff.egg-info/sources.txt
-justbackoff.egg-info/pkg-info
-justbackoff.egg-info/dependency_links.txt
-justbackoff/__init__.py
+#url: https://pypi.python.org/packages/c9/d4/8df1d3ea2d3e1dfc1b84ef117362f40cddd761e1adf2a2e006fd549d479d/justbackoff-0.4.0.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/justbackoff.egg-info/top_level.txt
+/justbackoff.egg-info/not-zip-safe
+/justbackoff.egg-info/SOURCES.txt
+/justbackoff.egg-info/PKG-INFO
+/justbackoff.egg-info/dependency_links.txt
+/justbackoff/__init__.py

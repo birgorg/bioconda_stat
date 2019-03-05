@@ -1,12 +1,14 @@
-#package: file-touch-0.11 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-meta.json
-t/01-require.t
-t/02-basic-usage.t
-lib/file/touch.pm
+#package: File-Touch-0.11 
+#url: https://cpan.metacpan.org/authors/id/N/NE/NEILB/File-Touch-0.11.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/01-require.t
+/t/02-basic-usage.t
+/lib/File/Touch.pm

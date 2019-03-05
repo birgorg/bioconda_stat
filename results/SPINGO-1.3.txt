@@ -1,0 +1,33 @@
+#package: SPINGO-1.3 
+#url: https://github.com/GuyAllard/SPINGO/archive/v1.3.tar.gz
+ 
+/LICENSE
+/publication_data.tar.gz
+/README
+/spindex
+/spingo_summary
+/.gitignore
+/spingo
+/dist/v_ripper.py
+/dist/make_database.py
+/dist/spingo_summary.py
+/dist/common/ambicode.py
+/dist/common/utility.py
+/dist/32bit/spindex
+/dist/32bit/spingo
+/dist/64bit/spindex
+/dist/64bit/spingo
+/source/fasta.cpp
+/source/database.h
+/source/kmerizer.cpp
+/source/kmerizer.h
+/source/main.cpp
+/source/classifier.cpp
+/source/common.h
+/source/makeindex.cpp
+/source/classifier.h
+/source/makefile
+/source/database.cpp
+/source/fasta.h
+/database/makefile
+/database/taxonomy.map

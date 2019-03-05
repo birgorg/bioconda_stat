@@ -1,0 +1,16 @@
+#package: cohcapanno 
+namespace
+description
+external_data_store.txt
+data/cohcap.450k.ucsc.rda
+data/cohcap.450k.hmm.rda
+data/cohcap.27k.rda
+data/datalist
+man/cohcap.27k.rd
+man/cohcap.450k.ucsc.rd
+man/cohcap.450k.hmm.rd
+vignettes/cohcapanno.rnw
+build/vignette.rds
+inst/doc/cohcapanno.r
+inst/doc/cohcapanno.pdf
+inst/doc/cohcapanno.rnw

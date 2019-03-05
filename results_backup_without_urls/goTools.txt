@@ -1,0 +1,15 @@
+#package: gotools 
+namespace
+license
+description
+r/gotools.r
+data/probeid.rdata
+man/gotools-internal.rd
+man/ontocompare.rd
+man/probeid.rd
+man/endnodelist.rd
+vignettes/gotools.rnw
+build/vignette.rds
+inst/doc/gotools.r
+inst/doc/gotools.pdf
+inst/doc/gotools.rnw

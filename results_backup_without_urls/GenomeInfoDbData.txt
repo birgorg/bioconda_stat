@@ -1,0 +1,7 @@
+#package: genomeinfodbdata 
+namespace
+description
+data/specdata.rda
+data/datalist
+man/genomeinfodbdata-package.rd
+inst/scripts/updategenomeinfodbdata.r

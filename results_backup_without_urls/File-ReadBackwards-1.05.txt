@@ -1,0 +1,9 @@
+#package: file-readbackwards-1.05 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+readbackwards.pm
+t/bw.t
+t/large_file.t

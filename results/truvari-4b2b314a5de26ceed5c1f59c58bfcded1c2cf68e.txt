@@ -1,0 +1,30 @@
+#package: truvari-4b2b314a5de26ceed5c1f59c58bfcded1c2cf68e 
+#url: https://github.com/spiralgenetics/truvari/archive/4b2b314.tar.gz
+ 
+/README.md
+/multi_venn.py
+/LICENSE
+/stratifications.sh
+/giab_summary.py
+/bakeoff.sh
+/vcf_sizebin.py
+/truvari.py
+/benchmark_pipe.py
+/tests/hapaln/reference_lambda.fasta.fai
+/tests/hapaln/start.py
+/tests/hapaln/reference_lambda.fasta
+/tests/ovltest/calls.vcf.gz
+/tests/ovltest/readme.txt
+/tests/ovltest/results_should_be.txt
+/tests/ovltest/calls.vcf.gz.tbi
+/tests/ovltest/calls.vcf
+/tests/ovltest/region.bed
+/tests/ovltest/cmd.sh
+/tests/ovltest/test/fp.vcf
+/tests/ovltest/test/fn.vcf
+/tests/ovltest/test/call-filter.vcf
+/tests/ovltest/test/tp-call.vcf
+/tests/ovltest/test/summary.txt
+/tests/ovltest/test/tp-base.vcf
+/tests/ovltest/test/log.txt
+/tests/ovltest/test/base-filter.vcf

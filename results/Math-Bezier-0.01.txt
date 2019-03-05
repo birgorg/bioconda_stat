@@ -1,7 +1,9 @@
-#package: math-bezier-0.01 
-readme
-makefile.pl
-manifest
-changes
-test.pl
-bezier.pm
+#package: Math-Bezier-0.01 
+#url: http://cpan.metacpan.org/authors/id/A/AB/ABW/Math-Bezier-0.01.tar.gz
+ 
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/test.pl
+/Bezier.pm

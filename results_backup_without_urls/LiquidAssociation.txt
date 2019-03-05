@@ -1,0 +1,24 @@
+#package: liquidassociation 
+namespace
+description
+r/setmethod2.r
+r/setinternal2.r
+man/getsla-methods.rd
+man/liquidassociation-internal.rd
+man/plotgla-methods.rd
+man/cnm.simple-methods.rd
+man/liquidassociation-package.rd
+man/cnm-class.rd
+man/gla-methods.rd
+man/cnm.full-methods.rd
+man/la-methods.rd
+man/getsgla-methods.rd
+vignettes/liquidassociation.rnw
+vignettes/biom.sty
+vignettes/natbib.sty
+vignettes/biom.bst
+vignettes/ngbayes3.bib
+build/vignette.rds
+inst/doc/liquidassociation.rnw
+inst/doc/liquidassociation.pdf
+inst/doc/liquidassociation.r

@@ -1,0 +1,16 @@
+#package: module-build-tiny-0.039 
+meta.yml
+todo
+license
+readme
+manifest
+dist.ini
+changes
+meta.json
+install
+build.pl
+t/simple.t
+t/release-pod-syntax.t
+t/00-compile.t
+t/lib/distgen.pm
+lib/module/build/tiny.pm

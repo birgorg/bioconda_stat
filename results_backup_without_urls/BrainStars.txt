@@ -1,0 +1,18 @@
+#package: brainstars 
+namespace
+description
+r/figure.r
+r/expression.r
+r/brainstars.r
+r/annotation.r
+man/getbrainstarsfigure.rd
+man/brainstars.rd
+man/getbrainstars.rd
+vignettes/brainstars.rnw
+vignettes/exprgraph.png
+vignettes/switchhist.png
+vignettes/exprmap.png
+build/vignette.rds
+inst/doc/brainstars.rnw
+inst/doc/brainstars.pdf
+inst/doc/brainstars.r

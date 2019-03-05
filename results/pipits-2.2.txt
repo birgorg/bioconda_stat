@@ -1,0 +1,18 @@
+#package: pipits-2.2 
+#url: https://github.com/hsgweon/pipits/archive/2.2.tar.gz
+ 
+/README.md
+/LICENSE
+/setup.py
+/pipits/__init__.py
+/pipits/pipits_SeqIO.py
+/bin/__init__.py
+/bin/pipits_funits
+/bin/pipits_uc2otutable
+/bin/pipits_process
+/bin/pipits_getsamplelistfromfasta
+/bin/pipits_retrain_rdp
+/bin/pipits_reformatAssignedTaxonomy
+/bin/pipits_phylotype_biom
+/bin/pipits_rereplicate
+/bin/pipits_funguild.py

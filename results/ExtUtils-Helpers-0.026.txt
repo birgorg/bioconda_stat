@@ -1,21 +1,23 @@
-#package: extutils-helpers-0.026 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-meta.json
-install
-t/tilde.t
-t/man_pagename.t
-t/make_executable.t
-t/split_like_shell.t
-lib/extutils/helpers.pm
-lib/extutils/helpers/unix.pm
-lib/extutils/helpers/vms.pm
-lib/extutils/helpers/windows.pm
-xt/author/pod-syntax.t
-xt/author/pod-coverage.t
-xt/author/00-compile.t
+#package: ExtUtils-Helpers-0.026 
+#url: https://cpan.metacpan.org/authors/id/L/LE/LEONT/ExtUtils-Helpers-0.026.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/INSTALL
+/t/tilde.t
+/t/man_pagename.t
+/t/make_executable.t
+/t/split_like_shell.t
+/lib/ExtUtils/Helpers.pm
+/lib/ExtUtils/Helpers/Unix.pm
+/lib/ExtUtils/Helpers/VMS.pm
+/lib/ExtUtils/Helpers/Windows.pm
+/xt/author/pod-syntax.t
+/xt/author/pod-coverage.t
+/xt/author/00-compile.t

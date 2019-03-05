@@ -1,0 +1,17 @@
+#package: pyscaf-0.12a4 
+license
+readme.rst
+pkg-info
+pyscaf.py
+manifest.in
+setup.py
+setup.cfg
+pyscaf.egg-info/entry_points.txt
+pyscaf.egg-info/top_level.txt
+pyscaf.egg-info/sources.txt
+pyscaf.egg-info/pkg-info
+pyscaf.egg-info/dependency_links.txt
+pyscaf.egg-info/requires.txt
+fastaindex/fasta_stats.py
+fastaindex/fastaindex.py
+fastaindex/setup.py

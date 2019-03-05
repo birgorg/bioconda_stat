@@ -1,15 +1,17 @@
-#package: all 
-namespace
-description
-external_data_store.txt
-r/tojulian.r
-data/all.rda
-data/datalist
-man/tojulian.rd
-man/all.rd
-vignettes/oldmakefile
-vignettes/allintro.rnw
-build/vignette.rds
-inst/doc/allintro.pdf
-inst/doc/allintro.rnw
-inst/doc/allintro.r
+#package: ALL 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/ALL_1.22.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/tojulian.R
+/data/ALL.rda
+/data/datalist
+/man/tojulian.Rd
+/man/ALL.Rd
+/vignettes/oldMakefile
+/vignettes/ALLintro.Rnw
+/build/vignette.rds
+/inst/doc/ALLintro.pdf
+/inst/doc/ALLintro.Rnw
+/inst/doc/ALLintro.R

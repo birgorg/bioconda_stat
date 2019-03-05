@@ -1,0 +1,20 @@
+#package: arrmnormalization 
+namespace
+description
+r/normalizearrm.r
+data/probestype.rda
+man/getbackground.rd
+man/getdesigninfo.rd
+man/normalizearrm.rd
+man/getcoefficients.rd
+man/arrmnormalization-internal.rd
+man/getquantiles.rd
+man/quantileplots.rd
+man/probestype.rd
+man/positionplots.rd
+man/arrmnormalization-package.rd
+vignettes/arrmnormalization.rnw
+build/vignette.rds
+inst/doc/arrmnormalization.r
+inst/doc/arrmnormalization.pdf
+inst/doc/arrmnormalization.rnw

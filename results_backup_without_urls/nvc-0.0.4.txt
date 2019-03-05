@@ -1,0 +1,12 @@
+#package: nvc-0.0.4 
+readme.rst
+pkg-info
+setup.py
+setup.cfg
+nvc.egg-info/top_level.txt
+nvc.egg-info/not-zip-safe
+nvc.egg-info/sources.txt
+nvc.egg-info/pkg-info
+nvc.egg-info/dependency_links.txt
+nvc.egg-info/requires.txt
+nvc/naive_variant_caller.py

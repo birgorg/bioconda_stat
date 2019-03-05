@@ -1,0 +1,13 @@
+#package: fsm-lite-1.0-stable 
+#url: https://github.com/nvalimak/fsm-lite/archive/v1.0-stable.tar.gz
+ 
+/README.md
+/dependencies.mk
+/configuration.h
+/Makefile
+/default.h
+/LICENSE.md
+/input_reader.cpp
+/fsm-lite.cpp
+/configuration.cpp
+/input_reader.h

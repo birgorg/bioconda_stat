@@ -1,14 +1,16 @@
-#package: file-listing-6.04 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-t/dosftp.t
-t/perm1.t
-t/perm4.t
-t/perm3.t
-t/perm2.t
-t/apache.t
-t/ls-lr.t
-lib/file/listing.pm
+#package: File-Listing-6.04 
+#url: http://cpan.metacpan.org/authors/id/G/GA/GAAS/File-Listing-6.04.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/dosftp.t
+/t/perm1.t
+/t/perm4.t
+/t/perm3.t
+/t/perm2.t
+/t/apache.t
+/t/ls-lR.t
+/lib/File/Listing.pm

@@ -1,0 +1,16 @@
+#package: pypairs-2.0.6 
+readme.md
+pkg-info
+setup.py
+setup.cfg
+pypairs/cyclone.py
+pypairs/__init__.py
+pypairs/sandbag.py
+pypairs/test.py
+pypairs/helper.py
+pypairs/wrapper.py
+pypairs.egg-info/top_level.txt
+pypairs.egg-info/sources.txt
+pypairs.egg-info/pkg-info
+pypairs.egg-info/dependency_links.txt
+pypairs.egg-info/requires.txt

@@ -1,0 +1,27 @@
+#package: scImpute-0.0.8 
+#url: https://github.com/Vivianstats/scImpute/archive/v0.0.8.tar.gz
+ 
+/README.md
+/NAMESPACE
+/README.Rmd
+/DESCRIPTION
+/.Rhistory
+/.Rbuildignore
+/.gitignore
+/R/scImpute-internal.R
+/R/read_count.R
+/R/rmix.R
+/R/get_mix_parameters.R
+/R/scimpute.R
+/R/dmix.R
+/R/calculate_weight.R
+/R/imputation_model.R
+/R/write_count.R
+/man/scimpute.Rd
+/vignettes/scImpute-vignette.Rmd
+/vignettes/scImpute-vignette.html
+/inst/docs/scImpute.pdf
+/inst/extdata/raw_count.csv
+/inst/extdata/labels.rds
+/inst/extdata/raw_count.txt
+/inst/extdata/.Rapp.history

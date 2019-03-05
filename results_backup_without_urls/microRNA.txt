@@ -1,0 +1,27 @@
+#package: microrna 
+namespace
+description
+r/seedreg.r
+r/get_selfhyb_subseq.r
+data/mmseqs.rda
+data/hstargets.rda
+data/mmtargets.rda
+data/hsseqs.rda
+data/s3utr.rda
+data/datalist
+man/get_selfhyb_subseq.rd
+man/mmtargets.rd
+man/hstargets.rd
+man/seedregions.rd
+man/rna2dna.rd
+man/matchseeds.rd
+man/s3utr.rd
+man/hsseqs.rd
+man/mmseqs.rd
+inst/scripts/sequence-similarity.r
+inst/extdata/mirna.txt
+inst/extdata/matseqsgen.r
+inst/extdata/hsa.gff
+inst/extdata/targetgen.r
+inst/extdata/mature.fa
+src/longest_common_substring.cpp

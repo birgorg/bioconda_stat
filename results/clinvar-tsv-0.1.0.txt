@@ -1,0 +1,30 @@
+#package: clinvar-tsv-0.1.0 
+#url: https://github.com/bihealth/clinvar-tsv/archive/v0.1.0.tar.gz
+ 
+/tox.ini
+/LICENSE
+/.gitattributes
+/Makefile
+/HISTORY.rst
+/README.rst
+/requirements.txt
+/versioneer.py
+/MANIFEST.in
+/setup.py
+/.gitignore
+/setup.cfg
+/requirements/test.txt
+/requirements/base.txt
+/requirements/dev.txt
+/tests/__init__.py
+/tests/test_parse_clinvar.py
+/tests/data/clinvar_small_del.xml
+/tests/data/clinvar_two_measure_sets.xml
+/tests/data/clinvar_snv.xml
+/clinvar_tsv/Snakefile
+/clinvar_tsv/__init__.py
+/clinvar_tsv/normalize.py
+/clinvar_tsv/_version.py
+/clinvar_tsv/exceptions.py
+/clinvar_tsv/__main__.py
+/clinvar_tsv/parse_clinvar_xml.py

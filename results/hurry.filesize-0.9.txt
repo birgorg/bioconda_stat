@@ -1,18 +1,20 @@
 #package: hurry.filesize-0.9 
-buildout.cfg
-pkg-info
-changes.txt
-setup.py
-setup.cfg
-src/hurry/__init__.py
-src/hurry/filesize/readme.txt
-src/hurry/filesize/tests.py
-src/hurry/filesize/__init__.py
-src/hurry/filesize/filesize.py
-src/hurry.filesize.egg-info/namespace_packages.txt
-src/hurry.filesize.egg-info/top_level.txt
-src/hurry.filesize.egg-info/not-zip-safe
-src/hurry.filesize.egg-info/sources.txt
-src/hurry.filesize.egg-info/pkg-info
-src/hurry.filesize.egg-info/dependency_links.txt
-src/hurry.filesize.egg-info/requires.txt
+#url: https://pypi.python.org/packages/source/h/hurry.filesize/hurry.filesize-0.9.tar.gz
+ 
+/buildout.cfg
+/PKG-INFO
+/CHANGES.txt
+/setup.py
+/setup.cfg
+/src/hurry/__init__.py
+/src/hurry/filesize/README.txt
+/src/hurry/filesize/tests.py
+/src/hurry/filesize/__init__.py
+/src/hurry/filesize/filesize.py
+/src/hurry.filesize.egg-info/namespace_packages.txt
+/src/hurry.filesize.egg-info/top_level.txt
+/src/hurry.filesize.egg-info/not-zip-safe
+/src/hurry.filesize.egg-info/SOURCES.txt
+/src/hurry.filesize.egg-info/PKG-INFO
+/src/hurry.filesize.egg-info/dependency_links.txt
+/src/hurry.filesize.egg-info/requires.txt

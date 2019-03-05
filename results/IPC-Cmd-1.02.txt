@@ -1,14 +1,16 @@
-#package: ipc-cmd-1.02 
-meta.yml
-readme
-makefile.pl
-manifest
-meta.json
-changes
-t/02_interactive.t
-t/03_run-forked.t
-t/01_ipc-cmd.t
-t/src/output.pl
-t/src/x.tgz
-t/src/child.pl
-lib/ipc/cmd.pm
+#package: IPC-Cmd-1.02 
+#url: https://cpan.metacpan.org/authors/id/B/BI/BINGOS/IPC-Cmd-1.02.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/CHANGES
+/t/02_Interactive.t
+/t/03_run-forked.t
+/t/01_IPC-Cmd.t
+/t/src/output.pl
+/t/src/x.tgz
+/t/src/child.pl
+/lib/IPC/Cmd.pm

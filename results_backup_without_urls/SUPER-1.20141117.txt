@@ -1,0 +1,17 @@
+#package: super-1.20141117 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+changes
+build.pl
+t/get_all_parents.t
+t/1.t
+t/bugs.t
+t/keep_going_manual.t
+t/deep_inheritance.t
+t/keep_going.t
+t/follow_inheritance.t
+lib/super.pm

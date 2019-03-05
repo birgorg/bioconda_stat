@@ -1,0 +1,16 @@
+#package: bitstring-3.1.5 
+license
+release_notes.txt
+readme.rst
+pkg-info
+setup.py
+bitstring.py
+doc/bitstring_manual.pdf
+test/test_bits.py
+test/test_bitarray.py
+test/test_bitstore.py
+test/test.m1v
+test/smalltestfile
+test/test_bitstream.py
+test/test_bitstring.py
+test/test_constbitstream.py

@@ -1,6 +1,8 @@
-#package: bsgenome.hsapiens.ucsc.hg38 
-namespace
-description
-r/zzz.r
-man/package.rd
-inst/extdata/single_sequences.2bit
+#package: BSgenome.Hsapiens.UCSC.hg38 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/BSgenome.Hsapiens.UCSC.hg38_1.4.1.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/single_sequences.2bit

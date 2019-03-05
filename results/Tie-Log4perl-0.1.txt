@@ -1,8 +1,10 @@
-#package: tie-log4perl-0.1 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-build.pl
-lib/tie/log4perl.pm
+#package: Tie-Log4perl-0.1 
+#url: https://cpan.metacpan.org/authors/id/F/FR/FRODWITH/Tie-Log4perl-0.1.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Build.PL
+/lib/Tie/Log4perl.pm

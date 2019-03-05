@@ -1,15 +1,17 @@
-#package: mime-base64-3.15 
-meta.yml
-quotedprint.pm
-readme
-makefile.pl
-manifest
-changes
-meta.json
-base64.pm
-base64.xs
-t/unicode.t
-t/quoted-print.t
-t/length.t
-t/bad-sv.t
-t/base64.t
+#package: MIME-Base64-3.15 
+#url: https://cpan.metacpan.org/authors/id/G/GA/GAAS/MIME-Base64-3.15.tar.gz
+ 
+/META.yml
+/QuotedPrint.pm
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/Base64.pm
+/Base64.xs
+/t/unicode.t
+/t/quoted-print.t
+/t/length.t
+/t/bad-sv.t
+/t/base64.t

@@ -1,0 +1,13 @@
+#package: a4reporting 
+namespace
+description
+r/xtable.methods.r
+r/annotationtable.r
+man/generategoidlinks.rd
+man/annotationtable-class.rd
+man/annotationtable.rd
+man/generateentrezidlinks.rd
+man/xtable-methods.rd
+man/print.xtableannotationtable.rd
+tests/test.annotationtable.r
+inst/news

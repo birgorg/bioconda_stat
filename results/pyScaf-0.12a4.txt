@@ -1,17 +1,19 @@
-#package: pyscaf-0.12a4 
-license
-readme.rst
-pkg-info
-pyscaf.py
-manifest.in
-setup.py
-setup.cfg
-pyscaf.egg-info/entry_points.txt
-pyscaf.egg-info/top_level.txt
-pyscaf.egg-info/sources.txt
-pyscaf.egg-info/pkg-info
-pyscaf.egg-info/dependency_links.txt
-pyscaf.egg-info/requires.txt
-fastaindex/fasta_stats.py
-fastaindex/fastaindex.py
-fastaindex/setup.py
+#package: pyScaf-0.12a4 
+#url: https://pypi.python.org/packages/ee/52/a947347d00c323a87588d6b6d5ad54b3656a5df2f3bcaad477833a43d1f6/pyScaf-0.12a4.tar.gz
+ 
+/LICENSE
+/README.rst
+/PKG-INFO
+/pyScaf.py
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/pyScaf.egg-info/entry_points.txt
+/pyScaf.egg-info/top_level.txt
+/pyScaf.egg-info/SOURCES.txt
+/pyScaf.egg-info/PKG-INFO
+/pyScaf.egg-info/dependency_links.txt
+/pyScaf.egg-info/requires.txt
+/FastaIndex/fasta_stats.py
+/FastaIndex/FastaIndex.py
+/FastaIndex/setup.py

@@ -1,8 +1,10 @@
-#package: http-negotiate-6.01 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-t/negotiate.t
-lib/http/negotiate.pm
+#package: HTTP-Negotiate-6.01 
+#url: https://cpan.metacpan.org/authors/id/G/GA/GAAS/HTTP-Negotiate-6.01.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/negotiate.t
+/lib/HTTP/Negotiate.pm

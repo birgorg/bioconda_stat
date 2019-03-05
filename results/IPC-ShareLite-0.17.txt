@@ -1,18 +1,20 @@
-#package: ipc-sharelite-0.17 
-meta.yml
-sharestuff.c
-readme
-makefile.pl
-manifest
-changes
-sharestuff.h
-signature
-typemap
-sharelite.xs
-t/pod.t
-t/sharelite.t
-t/00-load.t
-t/unicode-key.t
-lib/ipc/sharelite.pm
-inc/io/captureoutput.pm
-inc/devel/checklib.pm
+#package: IPC-ShareLite-0.17 
+#url: https://cpan.metacpan.org/authors/id/A/AN/ANDYA/IPC-ShareLite-0.17.tar.gz
+ 
+/META.yml
+/sharestuff.c
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/sharestuff.h
+/SIGNATURE
+/typemap
+/ShareLite.xs
+/t/pod.t
+/t/sharelite.t
+/t/00-load.t
+/t/unicode-key.t
+/lib/IPC/ShareLite.pm
+/inc/IO/CaptureOutput.pm
+/inc/Devel/CheckLib.pm

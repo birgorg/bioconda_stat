@@ -1,0 +1,22 @@
+#package: dx-cwl-fca163d825beb62f8a3004f2e0a6742805e6218c 
+#url: https://github.com/dnanexus/dx-cwl/archive/fca163d.tar.gz
+ 
+/README.md
+/dx-cwl-runner
+/LICENSE
+/.drone.yml
+/dx-cwl-applet-code.py
+/dx-cwl-postprocess-output-code.py
+/Dockerfile
+/install-prerequisites.sh
+/dx-cwl
+/run-tests.sh
+/get-cwltool.sh
+/examples/encode-pipeline.md
+/resources/meta_azure_vm.csv
+/resources/meta_dx.json
+/resources/meta_ec2.csv
+/tests/md5sum/dockstore-tool-md5sum.cwl
+/tests/md5sum/md5sum.cwl
+/tests/md5sum/md5sum.input
+/tests/md5sum/md5sum.cwl.json

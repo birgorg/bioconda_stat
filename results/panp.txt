@@ -1,16 +1,18 @@
 #package: panp 
-namespace
-description
-r/pa.calls.r
-data/nsmpnames.hgu133a.rda
-data/nsmpnames.hgu133plus2.rda
-data/gcrma.expressionset.rda
-man/nsmpnames.hgu133a.rd
-man/nsmpnames.hgu133plus2.rd
-man/gcrma.expressionset.rd
-man/pa.calls.rd
-vignettes/panp.rnw
-build/vignette.rds
-inst/doc/panp.r
-inst/doc/panp.rnw
-inst/doc/panp.pdf
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/panp_1.50.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/pa.calls.R
+/data/NSMPnames.hgu133a.rda
+/data/NSMPnames.hgu133plus2.rda
+/data/gcrma.ExpressionSet.rda
+/man/NSMPnames.hgu133a.Rd
+/man/NSMPnames.hgu133plus2.Rd
+/man/gcrma.ExpressionSet.Rd
+/man/pa.calls.Rd
+/vignettes/panp.Rnw
+/build/vignette.rds
+/inst/doc/panp.R
+/inst/doc/panp.Rnw
+/inst/doc/panp.pdf

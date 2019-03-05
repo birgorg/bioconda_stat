@@ -1,0 +1,26 @@
+#package: term-table-0.013 
+readme.md
+meta.yml
+license
+readme
+makefile.pl
+manifest
+changes
+appveyor.yml
+meta.json
+cpanfile
+t/table.t
+t/hashbase.t
+t/bad_blank_line.t
+t/honor_env_in_non_tty.t
+t/issue-9.t
+t/table/cellstack.t
+t/table/cell.t
+t/table/linebreak.t
+lib/term/table.pm
+lib/term/table/cell.pm
+lib/term/table/cellstack.pm
+lib/term/table/hashbase.pm
+lib/term/table/spacer.pm
+lib/term/table/util.pm
+lib/term/table/linebreak.pm

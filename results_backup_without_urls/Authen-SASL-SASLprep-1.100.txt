@@ -1,0 +1,15 @@
+#package: authen-sasl-saslprep-1.100 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+changes
+meta.json
+signature
+build.pl
+t/11pod_cover.t
+t/10pod.t
+t/00use.t
+t/saslprep.t
+lib/authen/sasl/saslprep.pm

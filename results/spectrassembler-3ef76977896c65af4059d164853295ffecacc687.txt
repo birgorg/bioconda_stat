@@ -1,0 +1,11 @@
+#package: spectrassembler-3ef76977896c65af4059d164853295ffecacc687 
+#url: https://github.com/antrec/spectrassembler/archive/3ef76977896c65af4059d164853295ffecacc687.tar.gz
+ 
+/README.md
+/spectral_layout_from_minimap.py
+/LICENSE
+/get_position_from_sam.py
+/gen_cons_from_poa.py
+/spectrassembler_pipeline.sh
+/poa-score.mat
+/setup.py

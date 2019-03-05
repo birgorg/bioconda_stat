@@ -1,12 +1,14 @@
 #package: common-sense-3.74 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-sense.pm.pl
-changes
-meta.json
-sense.pod
-t/01_arch.t
-t/00_load.t
+#url: https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/common-sense-3.74.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/sense.pm.PL
+/Changes
+/META.json
+/sense.pod
+/t/01_arch.t
+/t/00_load.t

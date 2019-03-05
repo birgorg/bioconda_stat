@@ -1,0 +1,20 @@
+#package: fqtrim-0.9.7 
+license
+readme
+makefile
+fqtrim.cpp
+gclib/gstr.cpp
+gclib/gthreads.h
+gclib/galnextend.cpp
+gclib/gbase.cpp
+gclib/gdna.cpp
+gclib/gstr.h
+gclib/glist.hh
+gclib/gvec.hh
+gclib/gdna.h
+gclib/galnextend.h
+gclib/gbase.h
+gclib/gargs.cpp
+gclib/gthreads.cpp
+gclib/gargs.h
+gclib/ghash.hh

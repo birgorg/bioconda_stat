@@ -1,0 +1,19 @@
+#package: module-corelist-5.20181218 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+meta.json
+identify-dependencies
+corelist
+t/deprecated.t
+t/corelist.t
+t/pod.t
+t/utils.t
+t/is_core.t
+t/maintainer.t
+t/find_modules.t
+lib/module/corelist.pm
+lib/module/corelist.pod
+lib/module/corelist/utils.pm

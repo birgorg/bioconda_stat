@@ -1,0 +1,16 @@
+#package: cmap 
+namespace
+description
+r/cmap.r
+data/rdata.rdb
+data/rdata.rdx
+data/rdata.rds
+data/datalist
+man/cmapcartamolecule.rd
+man/cmapqc.rd
+man/cmapcartapathway.rd
+man/cmap.rd
+man/cmapkegginteraction.rd
+man/cmapkeggpathway.rd
+man/cmapcartainteraction.rd
+man/cmapkeggmolecule.rd

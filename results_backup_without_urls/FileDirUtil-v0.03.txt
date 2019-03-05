@@ -1,0 +1,12 @@
+#package: filedirutil-v0.03 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+meta.json
+t/manifest.t
+t/pod.t
+t/filedirutil.t
+t/pod-coverage.t
+lib/filedirutil.pm

@@ -1,0 +1,25 @@
+#package: pytabix-e4a6f81375af5556e8e554a6ed8bba7b0e8825f1 
+#url: https://github.com/slowkow/pytabix/archive/e4a6f81.tar.gz
+ 
+/LICENSE
+/CHANGELOG.md
+/README.rst
+/MANIFEST.in
+/setup.py
+/test/__init__.py
+/test/example.gtf.gz
+/test/example.gtf.gz.tbi
+/test/test.py
+/src/khash.h
+/src/knetfile.c
+/src/bgzip.c
+/src/kstring.c
+/src/index.c
+/src/knetfile.h
+/src/bam_endian.h
+/src/tabixmodule.c
+/src/tabix.h
+/src/kstring.h
+/src/ksort.h
+/src/bgzf.c
+/src/bgzf.h

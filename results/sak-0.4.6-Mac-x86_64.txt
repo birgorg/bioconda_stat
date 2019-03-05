@@ -1,6 +1,8 @@
-#package: sak-0.4.6-mac-x86_64 
-license
-readme
-readme.sak.txt
-man/sak.1
-bin/sak
+#package: sak-0.4.6-Mac-x86_64 
+#url: http://packages.seqan.de/sak/sak-0.4.6-Mac-x86_64.zip
+ 
+/LICENSE
+/README
+/README.sak.txt
+/man/sak.1
+/bin/sak

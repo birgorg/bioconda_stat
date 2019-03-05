@@ -1,0 +1,18 @@
+#package: class-accessor-0.34 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+install
+examples/benchmark
+t/aliases.t
+t/bestpractice.t
+t/accessors.t
+t/caller.t
+t/antlers.t
+t/croak.t
+t/getset.t
+lib/class/accessor.pm
+lib/class/accessor/faster.pm
+lib/class/accessor/fast.pm

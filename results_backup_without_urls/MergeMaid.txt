@@ -1,0 +1,19 @@
+#package: mergemaid 
+namespace
+description
+contents
+r/mergemaid.r
+data/mergedata.rda
+man/class.mergecor.rd
+man/intersection.rd
+man/class.mergeexpressionset.rd
+man/class.mergecoeff.rd
+man/intcor.rd
+man/mergedata.rd
+man/modeloutcome.rd
+man/intcordens.rd
+man/mergeexprs.rd
+vignettes/mergemaid.rnw
+build/vignette.rds
+inst/doc/mergemaid.rnw
+inst/doc/mergemaid.pdf

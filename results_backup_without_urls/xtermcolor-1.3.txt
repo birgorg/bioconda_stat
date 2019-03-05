@@ -1,0 +1,7 @@
+#package: xtermcolor-1.3 
+license
+pkg-info
+setup.py
+scripts/xtermcolor
+xtermcolor/__init__.py
+xtermcolor/colormap.py

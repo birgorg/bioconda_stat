@@ -1,22 +1,24 @@
-#package: getopt-long-2.50 
-meta.yml
-readme
-makefile.pl
-manifest
-meta.json
-install
-changes
-examples/skel3.pl
-examples/skel4.pl
-examples/skel1.pl
-examples/readme
-examples/skel2.pl
-examples/parsetime.pl
-t/gol-oo.t
-t/gol-linkage.t
-t/gol-basic.t
-t/gol-compat.t
-t/gol-xstring.t
-t/gol-xargv.t
-lib/newgetopt.pl
-lib/getopt/long.pm
+#package: Getopt-Long-2.50 
+#url: https://cpan.metacpan.org/authors/id/J/JV/JV/Getopt-Long-2.50.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/INSTALL
+/CHANGES
+/examples/skel3.pl
+/examples/skel4.pl
+/examples/skel1.pl
+/examples/README
+/examples/skel2.pl
+/examples/parsetime.pl
+/t/gol-oo.t
+/t/gol-linkage.t
+/t/gol-basic.t
+/t/gol-compat.t
+/t/gol-xstring.t
+/t/gol-xargv.t
+/lib/newgetopt.pl
+/lib/Getopt/Long.pm

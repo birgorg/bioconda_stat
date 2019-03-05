@@ -1,16 +1,18 @@
-#package: xml-sax-writer-0.57 
-readme.md
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-manifest.skip
-t/05basic.t
-t/20bugs.t
-t/10consumers.t
-t/00-compile.t
-lib/xml/sax/writer.pm
-lib/xml/sax/writer/xml.pm
+#package: XML-SAX-Writer-0.57 
+#url: https://cpan.metacpan.org/authors/id/P/PE/PERIGRIN/XML-SAX-Writer-0.57.tar.gz
+ 
+/README.md
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/MANIFEST.SKIP
+/t/05basic.t
+/t/20bugs.t
+/t/10consumers.t
+/t/00-compile.t
+/lib/XML/SAX/Writer.pm
+/lib/XML/SAX/Writer/XML.pm

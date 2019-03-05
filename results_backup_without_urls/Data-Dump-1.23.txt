@@ -1,0 +1,26 @@
+#package: data-dump-1.23 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+meta.json
+t/regexp.t
+t/scalar.t
+t/ref.t
+t/hash.t
+t/dollar-one.t
+t/dd.t
+t/quote.t
+t/eval.t
+t/tied.t
+t/vstring.t
+t/filtered.t
+t/scalar-obj.t
+t/dump.t
+t/glob.t
+t/quote-unicode.t
+lib/data/dump.pm
+lib/data/dump/filtercontext.pm
+lib/data/dump/filtered.pm
+lib/data/dump/trace.pm

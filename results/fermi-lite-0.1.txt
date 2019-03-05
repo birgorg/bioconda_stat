@@ -1,0 +1,37 @@
+#package: fermi-lite-0.1 
+#url: https://github.com/lh3/fermi-lite/archive/v0.1.tar.gz
+ 
+/README.md
+/khash.h
+/rld0.c
+/htab.c
+/kmer.h
+/kseq.h
+/mrope.c
+/internal.h
+/bfc.c
+/misc.c
+/unitig.c
+/example.c
+/htab.h
+/ksw.h
+/LICENSE.txt
+/mag.h
+/Makefile
+/bseq.c
+/mrope.h
+/rle.h
+/bubble.c
+/kstring.h
+/rle.c
+/ksort.h
+/fml.h
+/rope.c
+/ksw.c
+/mag.c
+/.gitignore
+/rld0.h
+/kthread.c
+/kvec.h
+/rope.h
+/test/MT-simu.fq.gz

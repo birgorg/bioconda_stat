@@ -1,7 +1,9 @@
-#package: digest-crc32-001 
-meta.yml
-readme
-makefile.pl
-manifest
-crc32.pm
-t/use.t
+#package: Digest-Crc32-001 
+#url: http://cpan.metacpan.org/authors/id/F/FA/FAYS/Digest-Crc32-0.01.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Crc32.pm
+/t/use.t

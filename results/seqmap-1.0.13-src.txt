@@ -1,15 +1,17 @@
 #package: seqmap-1.0.13-src 
-file_operation.h
-history.txt
-readme.txt
-match.cpp
-probe_match.h
-probe.h
-timer.h
-makefile
-system_utils.h
-string_operation.h
-math_utils.h
-type.h
-stl.h
-fasta.h
+#url: http://www-personal.umich.edu/~jianghui/seqmap/download/seqmap-1.0.13-src.zip
+ 
+/file_operation.h
+/HISTORY.txt
+/README.txt
+/match.cpp
+/probe_match.h
+/probe.h
+/timer.h
+/Makefile
+/system_utils.h
+/string_operation.h
+/math_utils.h
+/type.h
+/stl.h
+/fasta.h

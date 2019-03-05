@@ -1,16 +1,18 @@
 #package: hapflk-1.3.0 
-readme.txt
-license.txt
-pkg-info
-copying.txt
-setup.py
-fastphase/fastphasecythonmt.c
-fastphase/__init__.py
-fastphase/fphoptim.py
-fastphase/fastphasecython.c
-hapflk/nj.py
-hapflk/hapflk
-hapflk/__init__.py
-hapflk/data.py
-hapflk/popgen.py
-hapflk/inputoutput.py
+#url: https://forge-dga.jouy.inra.fr/attachments/download/5770/hapflk-1.3.0.tar.gz
+ 
+/README.txt
+/LICENSE.txt
+/PKG-INFO
+/COPYING.txt
+/setup.py
+/fastphase/fastphaseCythonMT.c
+/fastphase/__init__.py
+/fastphase/fphoptim.py
+/fastphase/fastphaseCython.c
+/hapflk/nj.py
+/hapflk/hapflk
+/hapflk/__init__.py
+/hapflk/data.py
+/hapflk/popgen.py
+/hapflk/InputOutput.py

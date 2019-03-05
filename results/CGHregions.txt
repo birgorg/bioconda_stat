@@ -1,13 +1,15 @@
-#package: cghregions 
-namespace
-description
-r/cghregions.r
-r/private.r
-man/cghregions-package.rd
-man/cghregions.rd
-vignettes/cghregions.bib
-vignettes/cghregions.rnw
-build/vignette.rds
-inst/doc/cghregions.r
-inst/doc/cghregions.rnw
-inst/doc/cghregions.pdf
+#package: CGHregions 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/CGHregions_1.38.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/CGHRegions.R
+/R/private.R
+/man/CGHregions-package.Rd
+/man/CGHregions.Rd
+/vignettes/CGHregions.bib
+/vignettes/CGHregions.Rnw
+/build/vignette.rds
+/inst/doc/CGHregions.R
+/inst/doc/CGHregions.Rnw
+/inst/doc/CGHregions.pdf

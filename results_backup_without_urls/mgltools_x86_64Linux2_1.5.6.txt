@@ -1,0 +1,13 @@
+#package: mgltools_x86_64linux2_1.5.6 
+mgltoolspckgs.tar.gz
+python2.5_x86_64linux2.tar.gz
+readme
+licenses
+install.sh
+data.tar.gz
+tools/mglenv.csh
+tools/initpython.bash
+tools/initpython.csh
+tools/install.py
+tools/scripttemplate
+tools/archosv

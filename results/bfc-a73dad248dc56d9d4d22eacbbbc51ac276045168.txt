@@ -1,0 +1,35 @@
+#package: bfc-a73dad248dc56d9d4d22eacbbbc51ac276045168 
+#url: https://github.com/lh3/bfc/archive/a73dad248dc56d9d4d22eacbbbc51ac276045168.tar.gz
+ 
+/README.md
+/khash.h
+/htab.c
+/kmer.h
+/kseq.h
+/bfc.c
+/utils.c
+/correct.c
+/htab.h
+/LICENSE.txt
+/Makefile
+/bseq.c
+/bbf.h
+/bbf.c
+/bfc.h
+/hash2cnt.c
+/ksort.h
+/.gitignore
+/count.c
+/errstat.js
+/kthread.c
+/kvec.h
+/bseq.h
+/tex/README.md
+/tex/bfc.tex
+/tex/natbib.bst
+/tex/Makefile
+/tex/bioinfo.cls
+/tex/supp.tex
+/tex/bfc.bib
+/tex/bioinfo2.cls
+/tex/natbib.sty

@@ -1,0 +1,6 @@
+#package: a4preproc 
+namespace
+description
+r/addgeneinfo.r
+man/addgeneinfo.rd
+inst/news

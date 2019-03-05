@@ -1,17 +1,19 @@
-#package: termreadkey-2.37 
-meta.yml
-configure.pm
-ppport.h
-readme
-makefile.pl
-manifest
-readkey_pm.pl
-changes
-meta.json
-genchars.pl
-manifest.skip
-readkey.xs
-signature
-t/01_basic.t
-t/02_terminal_functions.t
-example/test.pl
+#package: TermReadKey-2.37 
+#url: https://cpan.metacpan.org/authors/id/J/JS/JSTOWE/TermReadKey-2.37.tar.gz
+ 
+/META.yml
+/Configure.pm
+/ppport.h
+/README
+/Makefile.PL
+/MANIFEST
+/ReadKey_pm.PL
+/Changes
+/META.json
+/genchars.pl
+/MANIFEST.SKIP
+/ReadKey.xs
+/SIGNATURE
+/t/01_basic.t
+/t/02_terminal_functions.t
+/example/test.pl

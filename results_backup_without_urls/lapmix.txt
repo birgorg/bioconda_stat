@@ -1,0 +1,18 @@
+#package: lapmix 
+namespace
+description
+r/lp.marginals.r
+r/lp.estimates.r
+r/lap.volcanoplot.r
+r/post.odds.r
+r/laptoptable.r
+r/lapmix.fit.r
+man/lapmix.fit.rd
+man/laptoptable.rd
+man/lapmix-internal.rd
+man/lap.volcanoplot.rd
+vignettes/lapmix-example.rnw
+build/vignette.rds
+inst/doc/lapmix-example.r
+inst/doc/lapmix-example.rnw
+inst/doc/lapmix-example.pdf

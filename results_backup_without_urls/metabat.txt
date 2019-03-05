@@ -1,0 +1,12 @@
+#package: metabat 
+readme.md
+metabat
+license.txt
+jgi_summarize_bam_contig_depths
+aggregatecontigoverlapsbybin.pl
+runmetabat.sh
+contigoverlaps
+legal.txt
+aggregatebindepths.pl
+metabat2
+metabat1

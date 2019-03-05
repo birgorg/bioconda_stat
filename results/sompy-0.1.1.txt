@@ -1,12 +1,14 @@
 #package: sompy-0.1.1 
-pkg-info
-setup.py
-setup.cfg
-sompy/sompy.py
-sompy/__init__.py
-sompy.egg-info/zip-safe
-sompy.egg-info/top_level.txt
-sompy.egg-info/sources.txt
-sompy.egg-info/pkg-info
-sompy.egg-info/dependency_links.txt
-sompy.egg-info/requires.txt
+#url: https://pypi.io/packages/source/s/sompy/sompy-0.1.1.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/sompy/sompy.py
+/sompy/__init__.py
+/sompy.egg-info/zip-safe
+/sompy.egg-info/top_level.txt
+/sompy.egg-info/SOURCES.txt
+/sompy.egg-info/PKG-INFO
+/sompy.egg-info/dependency_links.txt
+/sompy.egg-info/requires.txt

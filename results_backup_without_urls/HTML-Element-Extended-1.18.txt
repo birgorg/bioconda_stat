@@ -1,0 +1,11 @@
+#package: html-element-extended-1.18 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+test.pl
+lib/html/elementsuper.pm
+lib/html/elementtable.pm
+lib/html/elementraw.pm
+lib/html/elementglob.pm

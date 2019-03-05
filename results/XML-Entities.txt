@@ -1,15 +1,17 @@
-#package: xml-entities 
-meta.yml
-ignore.txt
-readme
-makefile.pl
-manifest
-changes
-build.pl
-t/01-xml-entities.t
-t/02-unicode.t
-t/00-xml-entities-data.t
-lib/xml/entities.pm
-lib/xml/entities/data.pm
-lib/xml/entities/data.pod
-bin/download-entities.pl
+#package: XML-Entities 
+#url: https://cpan.metacpan.org/authors/id/S/SI/SIXTEASE/XML-Entities-1.0002.tar.gz
+ 
+/META.yml
+/ignore.txt
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Build.PL
+/t/01-xml-entities.t
+/t/02-unicode.t
+/t/00-xml-entities-data.t
+/lib/XML/Entities.pm
+/lib/XML/Entities/Data.pm
+/lib/XML/Entities/Data.pod
+/bin/download-entities.pl

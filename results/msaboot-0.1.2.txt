@@ -1,0 +1,12 @@
+#package: msaboot-0.1.2 
+#url: https://github.com/phac-nml/msaboot/archive/v0.1.2.tar.gz
+ 
+/README.md
+/LICENSE.txt
+/NOTICE.txt
+/setup.py
+/msaboot/__init__.py
+/msaboot/msaboot.py
+/tests/data/out.phylip
+/tests/data/msa.fasta
+/tests/data/clustal.fasta

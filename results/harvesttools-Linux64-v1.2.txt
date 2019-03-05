@@ -1,0 +1,4 @@
+#package: harvesttools-Linux64-v1.2 
+#url: https://github.com/marbl/harvest-tools/releases/download/v1.2/harvesttools-Linux64-v1.2.tar.gz
+ 
+/harvesttools

@@ -1,0 +1,21 @@
+#package: Rcorrector-1.0.3.1 
+#url: https://github.com/mourisl/Rcorrector/archive/v1.0.3.1.tar.gz
+ 
+/README.md
+/Reads.h
+/KmerCode.h
+/File.h
+/ErrorCorrection.h
+/LICENSE
+/utils.h
+/main.cpp
+/KmerInfo.h
+/ReadStore.h
+/KmerCode.cpp
+/Makefile
+/Store.h
+/ErrorCorrection.cpp
+/run_rcorrector.pl
+/verify.cpp
+/Sample/sample_read2.fq
+/Sample/sample_read1.fq

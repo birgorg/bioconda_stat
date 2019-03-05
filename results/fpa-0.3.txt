@@ -1,0 +1,29 @@
+#package: fpa-0.3 
+#url: https://github.com/natir/fpa/archive/v0.3.tar.gz
+ 
+/Cargo.toml
+/LICENSE
+/Cargo.lock
+/Readme.md
+/.gitignore
+/.travis.yml
+/src/cli.rs
+/src/main.rs
+/src/file.rs
+/src/io/mhap.rs
+/src/io/mod.rs
+/src/io/paf.rs
+/src/io/gfa/mod.rs
+/src/io/gfa/gfa1.rs
+/src/modifier/renaming.rs
+/src/modifier/mod.rs
+/src/work/mod.rs
+/src/work/basic.rs
+/src/work/gfa.rs
+/src/filter/dovetails.rs
+/src/filter/samename.rs
+/src/filter/mod.rs
+/src/filter/internalmatch.rs
+/src/filter/length.rs
+/src/filter/containment.rs
+/src/filter/namematch.rs

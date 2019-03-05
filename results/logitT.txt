@@ -1,11 +1,13 @@
-#package: logitt 
-namespace
-description
-r/logittrver4.r
-man/logittaffy.rd
-vignettes/logitt.rnw
-build/vignette.rds
-inst/doc/logitt.rnw
-inst/doc/logitt.r
-inst/doc/logitt.pdf
-src/logittfunc.c
+#package: logitT 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/logitT_1.38.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/logitTRver4.r
+/man/logitTAffy.rd
+/vignettes/logitT.Rnw
+/build/vignette.rds
+/inst/doc/logitT.Rnw
+/inst/doc/logitT.R
+/inst/doc/logitT.pdf
+/src/logitTfunc.c

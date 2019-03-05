@@ -1,0 +1,20 @@
+#package: VelvetOptimiser-2.2.6 
+#url: https://github.com/tseemann/VelvetOptimiser/archive/2.2.6.tar.gz
+ 
+/README.md
+/paper.bib
+/paper.md
+/maketar.sh
+/LICENSE
+/VelvetOptimiser.pl
+/INSTALL
+/CHANGELOG
+/VelvetOpt/Utils.pm
+/VelvetOpt/hwrap.pm
+/VelvetOpt/gwrap.pm
+/VelvetOpt/Assembly.pm
+/test/run_test.sh
+/test/data/test_long_R2.fq.gz
+/test/data/test_short_R1.fq.gz
+/test/data/test_long_R1.fq.gz
+/test/data/test_short_R2.fq.gz

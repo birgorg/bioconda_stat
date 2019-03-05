@@ -1,0 +1,9 @@
+#package: qcli-0.1.1 
+pkg-info
+setup.py
+scripts/qcli_make_rst
+scripts/qcli_make_script
+qcli/__init__.py
+qcli/option_parsing.py
+qcli/util.py
+qcli/test.py

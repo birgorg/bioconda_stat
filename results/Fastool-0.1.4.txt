@@ -1,0 +1,12 @@
+#package: Fastool-0.1.4 
+#url: https://github.com/fstrozzi/Fastool/archive/0.1.4.tar.gz
+ 
+/README.md
+/fastool.c
+/kseq.h
+/Makefile
+/test_casava_18.fastq
+/test_old_casava.fastq
+/test.fasta
+/test.fastq.gz
+/test.fastq

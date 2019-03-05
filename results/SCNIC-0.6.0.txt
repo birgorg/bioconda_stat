@@ -1,0 +1,34 @@
+#package: SCNIC-0.6.0 
+#url: https://github.com/shafferm/SCNIC/archive/0.6.0.tar.gz
+ 
+/README.md
+/LICENSE
+/.bumpversion.cfg
+/environment.yml
+/setup.py
+/setup.cfg
+/.travis.yml
+/scripts/module_enrichment.py
+/scripts/SCNIC_analysis.py
+/SCNIC/module.py
+/SCNIC/within_correls.py
+/SCNIC/calculate_permutations.py
+/SCNIC/__init__.py
+/SCNIC/module_analysis.py
+/SCNIC/between_correls.py
+/SCNIC/general.py
+/SCNIC/calculate_permutation_stats.py
+/SCNIC/annotate_correls.py
+/SCNIC/correlation_analysis.py
+/tests/test_correlation_analysis.py
+/tests/test_module.py
+/tests/test_annotate_correls.py
+/tests/test_calculate_permutation_stats.py
+/tests/test_within_correls.py
+/tests/test_module_analysis.py
+/tests/test_general.py
+/tests/test_calculate_permutations.py
+/tests/test_between_correls.py
+/tests/data/README.md
+/tests/data/fake_correls_spar.txt
+/tests/data/fake_data.biom

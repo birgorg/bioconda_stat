@@ -1,0 +1,22 @@
+#package: qpcrnorm 
+namespace
+description
+r/qpcrnormsource.r
+data/qpcrbatch.object.rda
+man/normqpcrrankinvariant.rd
+man/normqpcrhousekeepinggenes.rd
+man/plotvarmean.rd
+man/readqpcrbatch.rd
+man/writeqpcr.rd
+man/qpcrbatch.object.rd
+man/readqpcr.rd
+man/matrixbyplate.rd
+man/qpcrbatch-class.rd
+man/ctqc.rd
+man/normqpcrquantile.rd
+man/calccv.rd
+vignettes/qpcrnorm.rnw
+build/vignette.rds
+inst/doc/qpcrnorm.pdf
+inst/doc/qpcrnorm.rnw
+inst/doc/qpcrnorm.r

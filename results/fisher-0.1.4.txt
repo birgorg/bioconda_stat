@@ -1,7 +1,9 @@
 #package: fisher-0.1.4 
-readme.rst
-pkg-info
-setup.py
-src/cfisher.c
-src/cfisher.pyx
-fisher/__init__.py
+#url: https://pypi.python.org/packages/source/f/fisher/fisher-0.1.4.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/setup.py
+/src/cfisher.c
+/src/cfisher.pyx
+/fisher/__init__.py

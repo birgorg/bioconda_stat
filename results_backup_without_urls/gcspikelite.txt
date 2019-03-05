@@ -1,0 +1,27 @@
+#package: gcspikelite 
+namespace
+description
+external_data_store.txt
+r/init_fns.r
+data/0709_468.elu
+data/0709_485.cdf
+data/0709_493.elu
+data/0709_496.cdf
+data/0709_479.cdf
+data/targets.txt
+data/0709_471.elu
+data/0709_496.elu
+data/chromatofex.tof
+data/0709_468.cdf
+data/0709_493.cdf
+data/0709_479.elu
+data/0709_485.elu
+data/0709_474.elu
+data/0709_475.cdf
+data/0709_471.cdf
+data/0709_474.cdf
+data/0709_470.cdf
+data/0709_470.elu
+data/0709_475.elu
+data/datalist
+man/targets.rd

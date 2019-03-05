@@ -1,16 +1,18 @@
 #package: bitstring-3.1.5 
-license
-release_notes.txt
-readme.rst
-pkg-info
-setup.py
-bitstring.py
-doc/bitstring_manual.pdf
-test/test_bits.py
-test/test_bitarray.py
-test/test_bitstore.py
-test/test.m1v
-test/smalltestfile
-test/test_bitstream.py
-test/test_bitstring.py
-test/test_constbitstream.py
+#url: https://pypi.python.org/packages/f3/e5/dfe4c49c93d174a5fd807ed307d3a3f38c6b3e140972945f81a5f5578ca7/bitstring-3.1.5.zip
+ 
+/LICENSE
+/release_notes.txt
+/README.rst
+/PKG-INFO
+/setup.py
+/bitstring.py
+/doc/bitstring_manual.pdf
+/test/test_bits.py
+/test/test_bitarray.py
+/test/test_bitstore.py
+/test/test.m1v
+/test/smalltestfile
+/test/test_bitstream.py
+/test/test_bitstring.py
+/test/test_constbitstream.py

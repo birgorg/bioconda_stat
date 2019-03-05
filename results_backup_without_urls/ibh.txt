@@ -1,0 +1,21 @@
+#package: ibh 
+namespace
+description
+r/ibh.r
+r/ibh-internal.r
+man/ibhformultiplegenelistsbiogrid.rd
+man/ibhbiogrid.rd
+man/ibhclusterevalbiogrid.rd
+man/readdirectedinteractionsfromcsv.rd
+man/ibh-package.rd
+man/ibhclustereval.rd
+man/ibh.rd
+man/readundirectedinteractionsfromcsv.rd
+man/ibhformultiplegenelists.rd
+man/findentry.rd
+vignettes/ibh.rnw
+vignettes/ibh.bib
+build/vignette.rds
+inst/doc/ibh.r
+inst/doc/ibh.rnw
+inst/doc/ibh.pdf

@@ -1,14 +1,16 @@
-#package: pfam.db 
-namespace
-description
-r/zzz.r
-man/pfampdb2ac.rd
-man/pfam_dbconn.rd
-man/pfamreversebimap.rd
-man/pfamforwardbimap.rd
-man/pfambase.rd
-man/pfampdb.rd
-man/pfamscop.rd
-man/pfammapcounts.rd
-man/pfamscop2ac.rd
-inst/extdata/pfam.sqlite
+#package: PFAM.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/PFAM.db_3.6.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/PFAMPDB2AC.Rd
+/man/PFAM_dbconn.Rd
+/man/PFAMREVERSEBIMAP.Rd
+/man/PFAMFORWARDBIMAP.Rd
+/man/PFAMBASE.Rd
+/man/PFAMPDB.Rd
+/man/PFAMSCOP.Rd
+/man/PFAMMAPCOUNTS.Rd
+/man/PFAMSCOP2AC.Rd
+/inst/extdata/PFAM.sqlite

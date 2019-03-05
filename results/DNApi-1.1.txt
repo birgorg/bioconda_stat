@@ -1,0 +1,20 @@
+#package: DNApi-1.1 
+#url: https://github.com/jnktsj/DNApi/archive/v1.1.zip
+ 
+/README.md
+/dnapi.py
+/LICENSE
+/setup.py
+/.gitignore
+/examples/README.md
+/examples/processed.fq
+/examples/good.fq
+/examples/poor.fq
+/dnapilib/kmer.py
+/dnapilib/__init__.py
+/dnapilib/exhaust.py
+/dnapilib/io_utils.py
+/dnapilib/apred.py
+/utils/qual_trim.py
+/utils/qual_offset.py
+/utils/to_fasta.py

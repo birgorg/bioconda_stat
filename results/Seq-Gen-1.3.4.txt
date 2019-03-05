@@ -1,0 +1,36 @@
+#package: Seq-Gen-1.3.4 
+#url: https://github.com/rambaut/Seq-Gen/archive/1.3.4.tar.gz
+ 
+/README
+/.gitignore
+/source/aamodels.c
+/source/progress.h
+/source/seq-gen.c
+/source/tree.h
+/source/nucmodels.h
+/source/Makefile
+/source/twister.c
+/source/gamma.c
+/source/treefile.h
+/source/global.h
+/source/model.c
+/source/aamodels.h
+/source/evolve.h
+/source/model.h
+/source/gamma.h
+/source/global.c
+/source/nucmodels.c
+/source/eigen.h
+/source/eigen.c
+/source/evolve.c
+/source/progress.c
+/source/treefile.c
+/source/twister.h
+/documentation/Using_Seq-Gen_with_PAUP
+/documentation/icon.gif
+/documentation/Seq-Gen.Manual.html
+/documentation/Version_History
+/examples/seqs+trees.phy
+/examples/recombinant.tree
+/examples/heterogeneity.tree
+/examples/example.tree

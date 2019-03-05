@@ -1,0 +1,13 @@
+#package: slclust 
+readme
+makefile
+bin/slclust
+include/common.h
+include/cmd_line_opts.h
+include/graphnode.h
+include/graph.h
+src/makefile
+src/cmd_line_opts.cpp
+src/graphnode.cpp
+src/graph.cpp
+src/slcluster.cpp

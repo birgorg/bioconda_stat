@@ -1,9 +1,11 @@
-#package: file-readbackwards-1.05 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-readbackwards.pm
-t/bw.t
-t/large_file.t
+#package: File-ReadBackwards-1.05 
+#url: http://cpan.metacpan.org/authors/id/U/UR/URI/File-ReadBackwards-1.05.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/ReadBackwards.pm
+/t/bw.t
+/t/large_file.t

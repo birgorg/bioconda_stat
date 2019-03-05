@@ -1,0 +1,16 @@
+#package: samsift-0.2.5 
+readme.rst
+pkg-info
+setup.py
+setup.cfg
+samsift.egg-info/entry_points.txt
+samsift.egg-info/top_level.txt
+samsift.egg-info/sources.txt
+samsift.egg-info/pkg-info
+samsift.egg-info/dependency_links.txt
+samsift.egg-info/requires.txt
+samsift/__init__.py
+samsift/samsift.py
+samsift/increment_version.py
+samsift/samsift_norm_sam.py
+samsift/version.py

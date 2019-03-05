@@ -1,19 +1,21 @@
-#package: multimed 
-readme.md
-namespace
-license
-description
-r/multimed.r
-data/navyadenoma.rdata
-man/medtest.sbmh.rd
-man/medtest.rd
-man/navyadenoma.rd
-vignettes/multimed.bib
-vignettes/multimed.rnw
-build/vignette.rds
-tests/runtests.r
-inst/news.rd
-inst/doc/multimed.pdf
-inst/doc/multimed.r
-inst/doc/multimed.rnw
-inst/unittests/test_base.r
+#package: MultiMed 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/MultiMed_2.2.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/MultiMed.R
+/data/NavyAdenoma.RData
+/man/medTest.SBMH.Rd
+/man/medTest.Rd
+/man/NavyAdenoma.Rd
+/vignettes/MultiMed.bib
+/vignettes/MultiMed.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/NEWS.Rd
+/inst/doc/MultiMed.pdf
+/inst/doc/MultiMed.R
+/inst/doc/MultiMed.Rnw
+/inst/unitTests/test_base.R

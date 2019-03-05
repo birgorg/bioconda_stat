@@ -1,19 +1,21 @@
-#package: math-random-0.72 
-meta.yml
-example.pl
-test1.pl
-random.xs
-random.pm
-randlib.c
-readme
-helper.h
-makefile.pl
-manifest
-changes
-com.c
-install
-test2.pl
-randlib.h
-linpack.c
-helper.c
-index
+#package: Math-Random-0.72 
+#url: https://cpan.metacpan.org/authors/id/G/GR/GROMMEL/Math-Random-0.72.tar.gz
+ 
+/META.yml
+/example.pl
+/test1.pl
+/Random.xs
+/Random.pm
+/randlib.c
+/README
+/helper.h
+/Makefile.PL
+/MANIFEST
+/Changes
+/com.c
+/INSTALL
+/test2.pl
+/randlib.h
+/linpack.c
+/helper.c
+/Index

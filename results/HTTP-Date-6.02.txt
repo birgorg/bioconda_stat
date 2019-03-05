@@ -1,8 +1,10 @@
-#package: http-date-6.02 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-t/date.t
-lib/http/date.pm
+#package: HTTP-Date-6.02 
+#url: https://cpan.metacpan.org/authors/id/G/GA/GAAS/HTTP-Date-6.02.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/date.t
+/lib/HTTP/Date.pm

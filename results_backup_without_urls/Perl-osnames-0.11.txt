@@ -1,0 +1,16 @@
+#package: perl-osnames-0.11 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+changes
+meta.json
+weaver.ini
+t/release-pod-coverage.t
+t/release-pod-syntax.t
+t/release-rinci.t
+t/00-compile.t
+t/01-basic.t
+lib/perl/osnames.pm

@@ -1,0 +1,23 @@
+#package: Prodigal-2.6.3 
+#url: https://github.com/hyattpd/Prodigal/archive/v2.6.3.zip
+ 
+/README.md
+/main.c
+/LICENSE
+/bitmap.h
+/training.h
+/gene.c
+/dprog.c
+/metagenomic.c
+/Makefile
+/dprog.h
+/gene.h
+/node.h
+/sequence.c
+/CHANGES
+/training.c
+/VERSION
+/sequence.h
+/metagenomic.h
+/node.c
+/bitmap.c

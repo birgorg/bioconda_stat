@@ -1,7 +1,9 @@
 #package: swalign-0.3.4 
-readme.md
-license
-pkg-info
-setup.py
-swalign/__init__.py
-bin/swalign
+#url: https://files.pythonhosted.org/packages/f4/90/081f97995f17b59959effe8592eea11cd07287872bbee4ae1380206527aa/swalign-0.3.4.tar.gz
+ 
+/README.md
+/LICENSE
+/PKG-INFO
+/setup.py
+/swalign/__init__.py
+/bin/swalign

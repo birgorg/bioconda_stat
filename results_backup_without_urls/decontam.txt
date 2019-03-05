@@ -1,0 +1,20 @@
+#package: decontam 
+readme.md
+namespace
+description
+r/plotting.r
+r/decontam.r
+man/iscontaminant.rd
+man/plot_frequency.rd
+man/isnotcontaminant.rd
+vignettes/decontam_intro.rmd
+build/vignette.rds
+inst/citation
+inst/news
+inst/doc/decontam_intro.r
+inst/doc/decontam_intro.rmd
+inst/doc/decontam_intro.html
+inst/extdata/muclite.rds
+inst/extdata/mucconc.rds
+inst/extdata/st.rds
+inst/extdata/samdf.rds

@@ -1,15 +1,17 @@
 #package: intervaltree_bio-1.0.1 
-license.txt
-readme.rst
-changelog.txt
-pkg-info
-manifest.in
-setup.py
-setup.cfg
-intervaltree_bio/__init__.py
-intervaltree_bio.egg-info/zip-safe
-intervaltree_bio.egg-info/top_level.txt
-intervaltree_bio.egg-info/sources.txt
-intervaltree_bio.egg-info/pkg-info
-intervaltree_bio.egg-info/dependency_links.txt
-intervaltree_bio.egg-info/requires.txt
+#url: https://pypi.python.org/packages/de/e6/c542057e7054cdb4139162041588d3b20f49dace223e7303a99a240bf6fd/intervaltree_bio-1.0.1.zip
+ 
+/LICENSE.txt
+/README.rst
+/CHANGELOG.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/intervaltree_bio/__init__.py
+/intervaltree_bio.egg-info/zip-safe
+/intervaltree_bio.egg-info/top_level.txt
+/intervaltree_bio.egg-info/SOURCES.txt
+/intervaltree_bio.egg-info/PKG-INFO
+/intervaltree_bio.egg-info/dependency_links.txt
+/intervaltree_bio.egg-info/requires.txt

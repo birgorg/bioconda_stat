@@ -1,0 +1,6 @@
+#package: Netcdf-Metadata-Info-1.1.6 
+#url: https://github.com/Alanamosse/Netcdf-Metadata-Info/archive/v1.1.6.tar.gz
+ 
+/README.md
+/NC_info.c
+/Makefile

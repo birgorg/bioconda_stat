@@ -1,0 +1,15 @@
+#package: inpower 
+namespace
+license
+description
+news
+r/inpower.r
+man/inpower.rd
+vignettes/vignette.rnw
+build/vignette.rds
+tests/runtests.r
+inst/doc/vignette.r
+inst/doc/vignette.rnw
+inst/doc/vignette.pdf
+inst/unittests/test_inpower.r
+inst/sampledata/data.rda

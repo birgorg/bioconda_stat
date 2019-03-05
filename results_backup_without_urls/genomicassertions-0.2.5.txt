@@ -1,0 +1,24 @@
+#package: genomicassertions-0.2.5 
+readme.md
+license.txt
+requirements.txt
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+genomicassertions.egg-info/top_level.txt
+genomicassertions.egg-info/sources.txt
+genomicassertions.egg-info/pkg-info
+genomicassertions.egg-info/dependency_links.txt
+genomicassertions.egg-info/requires.txt
+genomicassertions/readassertions.py
+genomicassertions/__init__.py
+genomicassertions/variantassertions.py
+tests/variants-with-genotypes.vcf.gz.tbi
+tests/3_178936091.bam.bai
+tests/3_178936091.bam
+tests/variants.vcf.gz
+tests/test_variants.py
+tests/variants-with-genotypes.vcf.gz
+tests/test_reads.py
+tests/variants.vcf.gz.tbi

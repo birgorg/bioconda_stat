@@ -1,0 +1,33 @@
+#package: mvicuna-master 
+#url: https://github.com/broadinstitute/mvicuna/archive/master.tar.gz
+ 
+/README.md
+/.gitignore
+/mvicuna/CMakeLists.txt
+/mvicuna/linux64/mvicuna
+/mvicuna/MacOSX/mvicuna
+/mvicuna/src/DuplRm.cpp
+/mvicuna/src/Trim.h
+/mvicuna/src/xutil.h
+/mvicuna/src/ReadBioFile.h
+/mvicuna/src/main.cpp
+/mvicuna/src/MergeReadPair.h
+/mvicuna/src/Parameter.h
+/mvicuna/src/MergeReadPair.cpp
+/mvicuna/src/Trim.cpp
+/mvicuna/src/SeqFrqEst.cpp
+/mvicuna/src/ReadBioFile.cpp
+/mvicuna/src/DuplRm.h
+/mvicuna/src/makefile
+/mvicuna/src/SeqFrqEst.h
+/mvicuna/src/xny/seq_cmp.hpp
+/mvicuna/src/xny/getWinTime.hpp
+/mvicuna/src/xny/sketch.hpp
+/mvicuna/src/xny/file_manip.hpp
+/mvicuna/src/xny/seq_manip.hpp
+/mvicuna/src/jaz/fastx_iterator.hpp
+/mvicuna/src/jaz/hash.hpp
+/mvicuna/src/jaz/fasta_file.hpp
+/mvicuna/src/jaz/sequence_compare.hpp
+/mvicuna/src/jaz/string_add.hpp
+/mvicuna/src/jaz/functional_add.hpp

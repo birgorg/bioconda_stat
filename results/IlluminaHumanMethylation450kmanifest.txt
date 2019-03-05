@@ -1,7 +1,9 @@
-#package: illuminahumanmethylation450kmanifest 
-namespace
-description
-data/illuminahumanmethylation450kmanifest.rda
-data/datalist
-man/illuminahumanmethylation450kmanifest.rd
-inst/scripts/manifest.r
+#package: IlluminaHumanMethylation450kmanifest 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/IlluminaHumanMethylation450kmanifest_0.4.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/data/IlluminaHumanMethylation450kmanifest.rda
+/data/datalist
+/man/IlluminaHumanMethylation450kmanifest.Rd
+/inst/scripts/manifest.R

@@ -1,16 +1,18 @@
 #package: reactome.db 
-namespace
-description
-r/zzz.r
-man/reactomepathname2id.rd
-man/reactomepathid2extid.rd
-man/reactomego2reactomeid.rd
-man/reactomeextid2pathid.rd
-man/reactomereactomeid2go.rd
-man/reactomemapcounts.rd
-man/reactome.rd
-man/reactomepathid2name.rd
-man/reactome_dbconn.rd
-inst/news
-inst/extdata/reactome.sqlite
-inst/extdata/dbschemas/schemas_64/reactome_db.sql
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/reactome.db_1.64.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/reactomePATHNAME2ID.Rd
+/man/reactomePATHID2EXTID.Rd
+/man/reactomeGO2REACTOMEID.Rd
+/man/reactomeEXTID2PATHID.Rd
+/man/reactomeREACTOMEID2GO.Rd
+/man/reactomeMAPCOUNTS.Rd
+/man/reactome.Rd
+/man/reactomePATHID2NAME.Rd
+/man/reactome_dbconn.Rd
+/inst/NEWS
+/inst/extdata/reactome.sqlite
+/inst/extdata/DBschemas/schemas_64/REACTOME_DB.sql

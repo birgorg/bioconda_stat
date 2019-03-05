@@ -1,0 +1,17 @@
+#package: test-longstring-0.17 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+meta.json
+manifest.skip
+t/04contains.t
+t/02import.t
+t/pod.t
+t/06lcss.t
+t/03like.t
+t/05lacks.t
+t/pod-coverage.t
+t/01teststring.t
+lib/test/longstring.pm

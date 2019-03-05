@@ -1,0 +1,21 @@
+#package: singlecell-barcodes-6a669fb9714f002ca02fc1ff823171cfc9a0d865 
+#url: https://github.com/roryk/singlecell-barcodes/archive/6a669fb.tar.gz
+ 
+/README.md
+/VERSION
+/harvard-indrop-v2/harvard-indrop-v2-cb1.txt
+/harvard-indrop-v2/harvard-indrop-v2-cb2.txt
+/harvard-indrop-v2/harvard-indrop-v2-transform.json
+/10x/README.md
+/10x/10x-transform.json
+/10x/10x-cb1.txt
+/harvard-scrb/harvard-scrb-cb1.txt
+/harvard-scrb/harvard-scrb-transform.json
+/harvard-indrop-v3/harvard-indrop-v3-sample_barcodes.txt
+/harvard-indrop-v3/harvard-indrop-v3-cb1.txt
+/harvard-indrop-v3/harvard-indrop-v3-transform.json
+/harvard-indrop-v3/harvard-indrop-v3-cb2.txt
+/surecell/surecell-cb1.txt
+/surecell/surecell-transform.json
+/surecell/surecell-cb3.txt
+/surecell/surecell-cb2.txt

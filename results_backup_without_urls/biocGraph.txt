@@ -1,0 +1,15 @@
+#package: biocgraph 
+namespace
+description
+r/imagemap.r
+man/imagemap.rd
+vignettes/layingoutpathways.rnw
+vignettes/biocgraph.rnw
+vignettes/hsa04510.png
+build/vignette.rds
+inst/doc/layingoutpathways.rnw
+inst/doc/layingoutpathways.pdf
+inst/doc/biocgraph.pdf
+inst/doc/biocgraph.r
+inst/doc/biocgraph.rnw
+inst/doc/layingoutpathways.r

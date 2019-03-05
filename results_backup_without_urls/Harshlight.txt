@@ -1,0 +1,16 @@
+#package: harshlight 
+namespace
+description
+r/harshlight.r
+data/sim.rda
+data/sim.int.rda
+man/sim.rd
+man/harshlight.rd
+man/harshcomp.rd
+man/harshext.rd
+vignettes/harshlight.rnw
+build/vignette.rds
+inst/doc/harshlight.rnw
+inst/doc/harshlight.pdf
+inst/doc/harshlight.r
+src/harshlight.c

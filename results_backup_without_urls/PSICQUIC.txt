@@ -1,0 +1,22 @@
+#package: psicquic 
+namespace
+description
+r/idmapper-class.r
+r/psicquic-class.r
+man/idmapper-class.rd
+man/psicquic-package.rd
+man/webbrowser-functions.rd
+man/psicquic-class.rd
+man/interactions.rd
+man/rawquery.rd
+man/providers.rd
+vignettes/psicquic.rnw
+build/vignette.rds
+tests/runtests.r
+inst/doc/psicquic.r
+inst/doc/psicquic.pdf
+inst/doc/psicquic.rnw
+inst/unittests/todo
+inst/unittests/test_psicquic.r
+inst/unittests/test_idmapper.r
+inst/extdata/mycinteractions.rdata

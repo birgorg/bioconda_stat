@@ -1,0 +1,17 @@
+#package: multiscan 
+namespace
+description
+r/zzz.r
+r/multiscan.r
+r/print.multiscan.r
+r/plot.multiscan.r
+data/murine.txt
+man/murine.rd
+man/plot.multiscan.rd
+man/multiscan.rd
+vignettes/multiscan.rnw
+build/vignette.rds
+inst/doc/multiscan.pdf
+inst/doc/multiscan.rnw
+inst/doc/multiscan.r
+src/multiscan.c

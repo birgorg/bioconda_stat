@@ -1,12 +1,14 @@
-#package: array-compare-v3.0.1 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-meta.json
-build.pl
-t/pod_coverage.t
-t/test.t
-t/pod.t
-lib/array/compare.pm
+#package: Array-Compare-v3.0.1 
+#url: https://cpan.metacpan.org/authors/id/D/DA/DAVECROSS/Array-Compare-v3.0.1.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/Build.PL
+/t/pod_coverage.t
+/t/test.t
+/t/pod.t
+/lib/Array/Compare.pm

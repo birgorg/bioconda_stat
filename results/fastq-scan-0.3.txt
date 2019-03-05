@@ -1,0 +1,10 @@
+#package: fastq-scan-0.3 
+#url: https://github.com/rpetit3/fastq-scan/archive/v0.3.tar.gz
+ 
+/README.md
+/LICENSE
+/Makefile
+/example-q33.fq
+/fastq-scan.cpp
+/.gitignore
+/example-q64.fq

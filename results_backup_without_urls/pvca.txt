@@ -1,0 +1,12 @@
+#package: pvca 
+namespace
+description
+r/pvcabatchassess.r
+man/pvcabatchassess.rd
+man/pvca-package.rd
+vignettes/pvca.rnw
+vignettes/pvcaestimate.pdf
+build/vignette.rds
+inst/doc/pvca.pdf
+inst/doc/pvca.rnw
+inst/doc/pvca.r

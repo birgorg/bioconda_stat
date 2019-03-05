@@ -1,0 +1,17 @@
+#package: biobb_io-0.1.0 
+readme.md
+pkg-info
+setup.py
+setup.cfg
+biobb_io.egg-info/top_level.txt
+biobb_io.egg-info/sources.txt
+biobb_io.egg-info/pkg-info
+biobb_io.egg-info/dependency_links.txt
+biobb_io.egg-info/requires.txt
+biobb_io/__init__.py
+biobb_io/test/__init__.py
+biobb_io/mmb_api/pdb_cluster_zip.py
+biobb_io/mmb_api/common.py
+biobb_io/mmb_api/__init__.py
+biobb_io/mmb_api/pdb_variants.py
+biobb_io/mmb_api/pdb.py

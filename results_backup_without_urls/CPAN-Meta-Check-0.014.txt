@@ -1,0 +1,17 @@
+#package: cpan-meta-check-0.014 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+changes
+meta.json
+install
+t/20-undef-version.t
+t/10-basics.t
+t/lib/local/hasnoversion.pm
+lib/cpan/meta/check.pm
+xt/author/pod-syntax.t
+xt/author/pod-coverage.t
+xt/author/00-compile.t

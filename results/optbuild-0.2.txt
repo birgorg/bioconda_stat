@@ -1,13 +1,15 @@
 #package: optbuild-0.2 
-readme
-pkg-info
-setup.py
-setup.cfg
-lib/optbuild.py
-lib/optbuild.egg-info/zip-safe
-lib/optbuild.egg-info/top_level.txt
-lib/optbuild.egg-info/sources.txt
-lib/optbuild.egg-info/pkg-info
-lib/optbuild.egg-info/dependency_links.txt
-lib/optbuild.egg-info/requires.txt
-test/test_optbuild.py
+#url: https://files.pythonhosted.org/packages/ad/ae/08ed10f80d2c5ab49660bff8e43655263ce473a5184c9c045af9df8580d5/optbuild-0.2.tar.gz
+ 
+/README
+/PKG-INFO
+/setup.py
+/setup.cfg
+/lib/optbuild.py
+/lib/optbuild.egg-info/zip-safe
+/lib/optbuild.egg-info/top_level.txt
+/lib/optbuild.egg-info/SOURCES.txt
+/lib/optbuild.egg-info/PKG-INFO
+/lib/optbuild.egg-info/dependency_links.txt
+/lib/optbuild.egg-info/requires.txt
+/test/test_optbuild.py

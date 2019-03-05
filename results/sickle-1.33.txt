@@ -1,0 +1,19 @@
+#package: sickle-1.33 
+#url: https://github.com/najoshi/sickle/archive/v1.33.tar.gz
+ 
+/README.md
+/LICENSE
+/sickle.xml
+/Makefile
+/.gitignore
+/test/test.r.fastq
+/test/test.fastq
+/test/test.f.fastq
+/src/sickle.c
+/src/kseq.h
+/src/sliding.c
+/src/sickle.h
+/src/print_record.h
+/src/trim_single.c
+/src/trim_paired.c
+/src/print_record.c

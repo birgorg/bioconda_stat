@@ -1,15 +1,17 @@
 #package: newick-0.9.2 
-readme.md
-license
-releasing.md
-pkg-info
-manifest.in
-setup.py
-setup.cfg
-src/newick.py
-src/newick.egg-info/top_level.txt
-src/newick.egg-info/not-zip-safe
-src/newick.egg-info/sources.txt
-src/newick.egg-info/pkg-info
-src/newick.egg-info/dependency_links.txt
-src/newick.egg-info/requires.txt
+#url: https://pypi.io/packages/source/n/newick/newick-0.9.2.tar.gz
+ 
+/README.md
+/LICENSE
+/RELEASING.md
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/src/newick.py
+/src/newick.egg-info/top_level.txt
+/src/newick.egg-info/not-zip-safe
+/src/newick.egg-info/SOURCES.txt
+/src/newick.egg-info/PKG-INFO
+/src/newick.egg-info/dependency_links.txt
+/src/newick.egg-info/requires.txt

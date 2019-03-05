@@ -1,0 +1,11 @@
+#package: sort-versions-1.62 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+changes
+meta.json
+t/versions.t
+lib/sort/versions.pm

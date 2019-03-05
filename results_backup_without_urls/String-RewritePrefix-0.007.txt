@@ -1,0 +1,15 @@
+#package: string-rewriteprefix-0.007 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+changes
+meta.json
+t/basic.t
+t/000-report-versions-tiny.t
+t/00-compile.t
+lib/string/rewriteprefix.pm
+xt/release/pod-syntax.t
+xt/release/changes_has_content.t

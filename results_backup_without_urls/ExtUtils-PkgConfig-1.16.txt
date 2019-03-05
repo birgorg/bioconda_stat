@@ -1,0 +1,19 @@
+#package: extutils-pkgconfig-1.16 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+perl-extutils-pkgconfig.spec.in
+meta.json
+manifest.skip
+perl-extutils-pkgconfig.doap
+t/test_short.pc
+t/swallow_stderr.inc
+t/4.t
+t/1.t
+t/test_glib-2.0.pc
+t/3.t
+t/2.t
+t/test_non_numeric.pc
+lib/extutils/pkgconfig.pm

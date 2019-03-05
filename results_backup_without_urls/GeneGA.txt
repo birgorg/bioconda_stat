@@ -1,0 +1,26 @@
+#package: genega 
+namespace
+description
+.bbsoptions
+r/evaluationfunction.r
+r/genecodon.r
+r/genefoldga.r
+r/genega_internal.r
+r/genega-internal.r
+r/genega.r
+data/wset.rda
+man/genega.rd
+man/genefoldga-class.rd
+man/genefoldga.rd
+man/genega-class.rd
+man/wset.rd
+man/genecodon.rd
+man/plotgenega-methods.rd
+man/genega-package.rd
+vignettes/genega.rnw
+vignettes/genega.bib
+build/vignette.rds
+inst/doc/genega.rnw
+inst/doc/genega.pdf
+inst/doc/genega.r
+inst/sequence/egfp.fasta

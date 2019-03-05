@@ -1,18 +1,20 @@
-#package: interactivedisplaybase 
-namespace
-description
-r/dataframe.r
-r/zzz.r
-r/interactivedisplaybase.r
-r/dot_runapp.r
-man/dot_runapp.rd
-man/interactivedisplaybase-methods.rd
-vignettes/interactivedisplaybase.rmd
-build/vignette.rds
-inst/news.rd
-inst/doc/interactivedisplaybase.html
-inst/doc/interactivedisplaybase.rmd
-inst/doc/interactivedisplaybase.r
-inst/script/test.r
-inst/www/css/interactivedisplaybase.css
-inst/www/js/dtbinding.js
+#package: interactiveDisplayBase 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/interactiveDisplayBase_1.18.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/dataframe.R
+/R/zzz.R
+/R/interactiveDisplayBase.R
+/R/dot_runApp.R
+/man/dot_runApp.Rd
+/man/interactiveDisplayBase-methods.Rd
+/vignettes/interactiveDisplayBase.Rmd
+/build/vignette.rds
+/inst/NEWS.Rd
+/inst/doc/interactiveDisplayBase.html
+/inst/doc/interactiveDisplayBase.Rmd
+/inst/doc/interactiveDisplayBase.R
+/inst/script/test.R
+/inst/www/css/interactiveDisplayBase.css
+/inst/www/js/DTbinding.js

@@ -1,21 +1,23 @@
-#package: geneticsdesign 
-namespace
-description
-r/power.casectrl.plot.r
-r/pw.r
-r/gregorius.r
-r/gpc.r
-r/geneticpower.quantitative.numeric.r
-r/power.casectrl.r
-r/geneticpower.quantitative.factor.r
-r/power.genotype.conti.r
-man/gregorius.rd
-man/power.genotype.conti.rd
-man/depreciated.rd
-man/geneticpower.quantitative.numeric.rd
-man/gpc.rd
-vignettes/gpc.rnw
-build/vignette.rds
-inst/doc/gpc.pdf
-inst/doc/gpc.rnw
-inst/doc/gpc.r
+#package: GeneticsDesign 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/GeneticsDesign_1.48.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/power.casectrl.plot.R
+/R/pw.R
+/R/gregorius.R
+/R/GPC.R
+/R/GeneticPower.Quantitative.Numeric.R
+/R/power.casectrl.R
+/R/GeneticPower.Quantitative.Factor.R
+/R/power.genotype.conti.R
+/man/gregorius.Rd
+/man/power.genotype.conti.Rd
+/man/depreciated.Rd
+/man/GeneticPower.Quantitative.Numeric.Rd
+/man/GPC.Rd
+/vignettes/GPC.Rnw
+/build/vignette.rds
+/inst/doc/GPC.pdf
+/inst/doc/GPC.Rnw
+/inst/doc/GPC.R

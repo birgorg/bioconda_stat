@@ -1,0 +1,31 @@
+#package: Complete-Striped-Smith-Waterman-Library-1.1 
+#url: https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library/archive/v1.1.tar.gz
+ 
+/README.md
+/demo/test.seq
+/demo/54mer_hap1_1.100.fa
+/demo/1k.fa
+/demo/1M.fa
+/demo/Virus_genome.fa.gz
+/demo/100k.fa
+/demo/10M.fa
+/demo/54mer_hap1_1.100.fastq
+/demo/10k.fa
+/demo/ref.fa
+/demo/100k_illumina1.fastq.gz
+/src/kseq.h
+/src/main.c
+/src/sswjni.c
+/src/ssw.c
+/src/ssw_cpp.cpp
+/src/ssw_cpp.h
+/src/example.c
+/src/Makefile
+/src/pyssw.py
+/src/ssw.h
+/src/example.cpp
+/src/ssw_lib.py
+/src/.gitignore
+/src/ssw/Alignment.java
+/src/ssw/Example.java
+/src/ssw/Aligner.java

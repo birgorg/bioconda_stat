@@ -1,0 +1,14 @@
+#package: math-complex-1.59 
+meta.yml
+todo
+makefile.pl
+manifest
+meta.json
+changelog
+t/underbar.t
+t/pod.t
+t/trig.t
+t/pod-coverage.t
+t/complex.t
+lib/math/complex.pm
+lib/math/trig.pm

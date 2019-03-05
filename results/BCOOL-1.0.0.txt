@@ -1,0 +1,12 @@
+#package: BCOOL-1.0.0 
+#url: https://github.com/Malfoy/BCOOL/archive/1.0.0.tar.gz
+ 
+/README.md
+/Bcool
+/install.sh
+/.travis.yml
+/test/test.sh
+/test/lambda_virus.200bp.50x.1percentError.fa.gz
+/src/Bcool_header.py
+/src/Bcool_broken.py
+/src/Bcool_conda

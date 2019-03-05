@@ -1,0 +1,14 @@
+#package: tadtool-0.77 
+pkg-info
+setup.py
+setup.cfg
+tadtool/__init__.py
+tadtool/tad.py
+tadtool/plot.py
+bin/tadtool
+tadtool.egg-info/pbr.json
+tadtool.egg-info/top_level.txt
+tadtool.egg-info/sources.txt
+tadtool.egg-info/pkg-info
+tadtool.egg-info/dependency_links.txt
+tadtool.egg-info/requires.txt

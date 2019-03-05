@@ -1,0 +1,17 @@
+#package: ole-storage_lite-0.19 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+t/01_date_conversion.t
+t/00_load.t
+lib/ole/storage_lite.pm
+sample/smpaddf.pl
+sample/readme
+sample/smpadd.pl
+sample/smpsv.pl
+sample/smpadd_a.pl
+sample/test.xls
+sample/smplls_a.pl
+sample/smplls.pl

@@ -1,16 +1,18 @@
 #package: simlord-1.0.2 
-readme.rst
-pkg-info
-setup.py
-setup.cfg
-simlord.egg-info/entry_points.txt
-simlord.egg-info/top_level.txt
-simlord.egg-info/not-zip-safe
-simlord.egg-info/sources.txt
-simlord.egg-info/pkg-info
-simlord.egg-info/dependency_links.txt
-simlord.egg-info/requires.txt
-simlord/__init__.py
-simlord/test_cigar.py
-simlord/simlord.py
-simlord/version.py
+#url: https://pypi.python.org/packages/23/c5/bf4b08125ed36150a5a7e6bf48a07a7a2d25cb9d6855df63d5bc4d6e632f/simlord-1.0.2.zip
+ 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/simlord.egg-info/entry_points.txt
+/simlord.egg-info/top_level.txt
+/simlord.egg-info/not-zip-safe
+/simlord.egg-info/SOURCES.txt
+/simlord.egg-info/PKG-INFO
+/simlord.egg-info/dependency_links.txt
+/simlord.egg-info/requires.txt
+/simlord/__init__.py
+/simlord/test_cigar.py
+/simlord/simlord.py
+/simlord/version.py

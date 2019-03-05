@@ -1,0 +1,8 @@
+#package: tophat-recondition-1.4 
+#url: https://github.com/cbrueffer/tophat-recondition/archive/v1.4.tar.gz
+ 
+/README.md
+/CHANGELOG.md
+/LICENSE.md
+/tophat-recondition.py
+/CITATION

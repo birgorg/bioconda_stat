@@ -1,0 +1,31 @@
+#package: SATRAP_v0.2 
+#url: http://satrap.cribi.unipd.it/download/SATRAP_v0.2.tar.gz
+ 
+/LICENSE
+/README
+/Makefile
+/PIPE_TEST.sh
+/bin/CONFIG
+/bin/readme
+/bin/MAC_OSX_bin/2csfastq_1csfastq
+/bin/MAC_OSX_bin/satrap
+/bin/MAC_OSX_bin/CONFIG
+/bin/MAC_OSX_bin/csfasta_to_fastq
+/bin/MAC_OSX_bin/cd-hit-est
+/bin/MAC_OSX_bin/fasta_remove
+/bin/MAC_OSX_bin/cs2bs_assembly
+/bin/MAC_OSX_bin/pass
+/20X-SIMULATED_DATASET/20x.read1.csfastq
+/src/satrap.cpp
+/src/fasta_remove.cpp
+/src/cdhit-utility.c++
+/src/cdhit-est.c++
+/src/cdhit-common.h
+/src/cs2bs_assembly.cpp
+/src/cdhit-common.c++
+/src/2csfastq_1csfastq.cpp
+/src/csfasta_to_fastq.cpp
+/src/pass.cpp
+/src/pass.h
+/src/rename_fastq_tag.cpp
+/src/cdhit-utility.h

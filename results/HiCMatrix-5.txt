@@ -1,0 +1,31 @@
+#package: HiCMatrix-5 
+#url: https://github.com/deeptools/HiCMatrix/archive/5.tar.gz
+ 
+/LICENSE
+/pytest.ini
+/README.rst
+/requirements.txt
+/.readthedocs.yml
+/setup.py
+/.gitignore
+/.travis.yml
+/hicmatrix/utilities.py
+/hicmatrix/__init__.py
+/hicmatrix/_version.py
+/hicmatrix/HiCMatrix.py
+/hicmatrix/lib/hicpro.py
+/hicmatrix/lib/cool.py
+/hicmatrix/lib/h5.py
+/hicmatrix/lib/__init__.py
+/hicmatrix/lib/matrixFile.py
+/hicmatrix/lib/homer.py
+/hicmatrix/lib/ginteractions.py
+/hicmatrix/lib/matrixFileHandler.py
+/hicmatrix/test/test_matrixFileHandler.py
+/hicmatrix/test/test_HiCMatrix.py
+/hicmatrix/test/test_data/test_matrix.homer
+/hicmatrix/test/test_data/test_matrix.bed
+/hicmatrix/test/test_data/Li_et_al_2015.h5
+/hicmatrix/test/test_data/Li_et_al_2015.cool
+/hicmatrix/test/test_data/test_matrix.hicpro
+/hicmatrix/test/test_data/small_test_matrix.h5

@@ -1,5 +1,7 @@
-#package: yara-1.0.2-mac-x86_64 
-license
-readme.rst
-bin/yara_mapper
-bin/yara_indexer
+#package: yara-1.0.2-Mac-x86_64 
+#url: http://packages.seqan.de/yara/yara-1.0.2-Mac-x86_64.zip
+ 
+/LICENSE
+/README.rst
+/bin/yara_mapper
+/bin/yara_indexer

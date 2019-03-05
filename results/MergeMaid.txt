@@ -1,19 +1,21 @@
-#package: mergemaid 
-namespace
-description
-contents
-r/mergemaid.r
-data/mergedata.rda
-man/class.mergecor.rd
-man/intersection.rd
-man/class.mergeexpressionset.rd
-man/class.mergecoeff.rd
-man/intcor.rd
-man/mergedata.rd
-man/modeloutcome.rd
-man/intcordens.rd
-man/mergeexprs.rd
-vignettes/mergemaid.rnw
-build/vignette.rds
-inst/doc/mergemaid.rnw
-inst/doc/mergemaid.pdf
+#package: MergeMaid 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/MergeMaid_2.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/CONTENTS
+/R/MergeMaid.R
+/data/mergeData.rda
+/man/class.mergeCor.Rd
+/man/intersection.Rd
+/man/class.mergeExpressionSet.Rd
+/man/class.mergeCoeff.Rd
+/man/intCor.Rd
+/man/mergeData.Rd
+/man/modelOutcome.Rd
+/man/intcorDens.Rd
+/man/mergeExprs.Rd
+/vignettes/MergeMaid.Rnw
+/build/vignette.rds
+/inst/doc/MergeMaid.Rnw
+/inst/doc/MergeMaid.pdf

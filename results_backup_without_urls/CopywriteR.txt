@@ -1,0 +1,17 @@
+#package: copywriter 
+namespace
+description
+news
+r/precopywriter.r
+r/private.r
+r/copywriter.r
+r/plotcna.r
+man/plotcna.rd
+man/precopywriter.rd
+man/copywriter.rd
+vignettes/copywriter.rnw
+vignettes/copywriter.bib
+build/vignette.rds
+inst/doc/copywriter.rnw
+inst/doc/copywriter.pdf
+inst/doc/copywriter.r

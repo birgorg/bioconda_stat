@@ -1,0 +1,6 @@
+#package: bsgenome.mmusculus.ucsc.mm9 
+namespace
+description
+r/zzz.r
+man/package.rd
+inst/extdata/single_sequences.2bit

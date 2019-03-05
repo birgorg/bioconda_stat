@@ -1,0 +1,16 @@
+#package: simlord-1.0.2 
+readme.rst
+pkg-info
+setup.py
+setup.cfg
+simlord.egg-info/entry_points.txt
+simlord.egg-info/top_level.txt
+simlord.egg-info/not-zip-safe
+simlord.egg-info/sources.txt
+simlord.egg-info/pkg-info
+simlord.egg-info/dependency_links.txt
+simlord.egg-info/requires.txt
+simlord/__init__.py
+simlord/test_cigar.py
+simlord/simlord.py
+simlord/version.py

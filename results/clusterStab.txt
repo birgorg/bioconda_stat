@@ -1,18 +1,20 @@
-#package: clusterstab 
-namespace
-description
-r/clusterstab.r
-r/zzz.r
-r/methods-clustercomp.r
-r/allclasses.r
-r/methods-benhur.r
-r/allgenerics.r
-man/clustercomp.rd
-man/clustercomp-class.rd
-man/benhur-class.rd
-man/benhur.rd
-vignettes/clusterstab.rnw
-build/vignette.rds
-inst/doc/clusterstab.r
-inst/doc/clusterstab.rnw
-inst/doc/clusterstab.pdf
+#package: clusterStab 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/clusterStab_1.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/clusterStab.R
+/R/zzz.R
+/R/methods-clusterComp.R
+/R/AllClasses.R
+/R/methods-benhur.R
+/R/AllGenerics.R
+/man/clusterComp.Rd
+/man/ClusterComp-class.Rd
+/man/BenHur-class.Rd
+/man/benhur.Rd
+/vignettes/clusterStab.Rnw
+/build/vignette.rds
+/inst/doc/clusterStab.R
+/inst/doc/clusterStab.Rnw
+/inst/doc/clusterStab.pdf

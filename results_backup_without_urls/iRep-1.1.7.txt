@@ -1,0 +1,19 @@
+#package: irep-1.1.7 
+pkg-info
+setup.py
+setup.cfg
+bin/gc_skew
+bin/irep
+bin/bptr
+irep/fasta.py
+irep/__init__.py
+irep/mapped.py
+irep/bptr.py
+irep/irep.py
+irep/irep_filter.py
+irep/gc_skew.py
+irep.egg-info/top_level.txt
+irep.egg-info/sources.txt
+irep.egg-info/pkg-info
+irep.egg-info/dependency_links.txt
+irep.egg-info/requires.txt

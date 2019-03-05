@@ -1,0 +1,10 @@
+#package: hom.hs.inp.db 
+namespace
+description
+r/zzz.r
+man/hom.hs.inpmapcounts.rd
+man/hom.hs.inporganism.rd
+man/hom.hs.inp_dbconn.rd
+man/hom.hs.inporgvsorgmap.rd
+man/hom.hs.inpbase.rd
+inst/extdata/hom.hs.inp.sqlite

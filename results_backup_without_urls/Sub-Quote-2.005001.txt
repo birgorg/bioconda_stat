@@ -1,0 +1,24 @@
+#package: sub-quote-2.005001 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+meta.json
+t/sub-quote.t
+t/sub-quote-threads.t
+t/sub-defer.t
+t/quotify.t
+t/sub-defer-no-subname.t
+t/inline.t
+t/croak-locations.t
+t/leaks.t
+t/hints.t
+t/sub-defer-threads.t
+t/lib/inlinemodule.pm
+t/lib/threadscheck.pm
+t/lib/errorlocation.pm
+lib/sub/quote.pm
+lib/sub/defer.pm
+maint/makefile.pl.include
+xt/release/kwalitee.t

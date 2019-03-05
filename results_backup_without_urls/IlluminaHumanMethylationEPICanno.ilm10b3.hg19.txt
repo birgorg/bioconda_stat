@@ -1,0 +1,27 @@
+#package: illuminahumanmethylationepicanno.ilm10b3.hg19 
+namespace
+description
+data/snps.138commonsingle.rda
+data/manifest.rda
+data/locations.rda
+data/islands.ucsc.rda
+data/snps.144commonsingle.rda
+data/snps.147commonsingle.rda
+data/snps.137commonsingle.rda
+data/snps.146commonsingle.rda
+data/snps.illumina.rda
+data/snps.141commonsingle.rda
+data/snps.142commonsingle.rda
+data/snps.132commonsingle.rda
+data/illuminahumanmethylationepicanno.ilm10b3.hg19.rda
+data/other.rda
+data/datalist
+data/snps.135commonsingle.rda
+man/snps.commonsingle.rd
+man/illuminahumanmethylationepicanno.ilm10b3.hg19.rd
+inst/news.rd
+inst/scripts/createanno.rout
+inst/scripts/getsnp.sh
+inst/scripts/getsnp.r
+inst/scripts/comparisons.r
+inst/scripts/createanno.r

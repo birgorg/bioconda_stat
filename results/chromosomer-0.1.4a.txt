@@ -1,0 +1,31 @@
+#package: chromosomer-0.1.4a 
+#url: https://github.com/gtamazian/chromosomer/archive/v0.1.4a.tar.gz
+ 
+/LICENSE
+/CHANGELOG.md
+/README.rst
+/requirements.txt
+/setup.py
+/.gitignore
+/.travis.yml
+/docs/make.bat
+/docs/conf.py
+/docs/Makefile
+/docs/index.rst
+/chromosomer/cli.py
+/chromosomer/fragment.py
+/chromosomer/__init__.py
+/chromosomer/exception.py
+/chromosomer/transfer.py
+/chromosomer/wrapper/__init__.py
+/chromosomer/wrapper/blast.py
+/tests/test_simulator.py
+/tests/test_wrapper.py
+/tests/test_fragment.py
+/tests/data/fragment_map/fragment_map_line.txt
+/tests/data/fragment_map/incorrect_input/fragment_map_line_2_nonnumeric.txt
+/tests/data/fragment_map/incorrect_input/fragment_map_line_3_nonnumeric.txt
+/tests/data/fragment_map/incorrect_input/fragment_map_line_6_nonnumeric.txt
+/tests/data/fragment_map/incorrect_input/fragment_map_line_1_nonnumeric.txt
+/tests/data/fragment_map/incorrect_input/fragment_map_incorrect_columns.txt
+/tests/data/fragment_map/incorrect_input/fragment_map_line_7_nonnumeric.txt

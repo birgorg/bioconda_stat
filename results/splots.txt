@@ -1,11 +1,13 @@
 #package: splots 
-namespace
-todo
-description
-r/plotscreen.r
-man/plotscreen.rd
-vignettes/splotshowto.rnw
-build/vignette.rds
-inst/doc/splotshowto.rnw
-inst/doc/splotshowto.pdf
-inst/doc/splotshowto.r
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/splots_1.46.0.tar.gz
+ 
+/NAMESPACE
+/TODO
+/DESCRIPTION
+/R/plotScreen.R
+/man/plotScreen.Rd
+/vignettes/splotsHOWTO.Rnw
+/build/vignette.rds
+/inst/doc/splotsHOWTO.Rnw
+/inst/doc/splotsHOWTO.pdf
+/inst/doc/splotsHOWTO.R

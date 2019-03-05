@@ -1,0 +1,30 @@
+#package: RNAlien-1.3.7 
+#url: https://github.com/eggzilla/RNAlien/archive/1.3.7.tar.gz
+ 
+/README.md
+/ParserTest.hs
+/stack.yaml
+/LICENSE
+/manual.pdf
+/changelog
+/RNAlien.cabal
+/RNAlien.svg
+/.travis.yml
+/scripts/blastbenchmarkdata.pl
+/scripts/cmcomparebesthitextractor.pl
+/scripts/nhmmerbenchmarkdata.pl
+/scripts/AlienBenchmarkCMCompare.sh
+/scripts/cmComparevsRfam.pl
+/scripts/makemultiplotcsv.sh
+/scripts/AlienBenchmarkModels.sh
+/scripts/buildClanModels.pl
+/scripts/alienstructurestatistics.pl
+/scripts/alienresultstatistics.pl
+/src/Bio/RNAlienLibrary.hs
+/src/Bio/InfernalParser.hs
+/src/Bio/RNAlien.hs
+/src/Bio/cmsearchToBED.hs
+/src/Bio/RNAlienData.hs
+/src/Bio/RNAcentralHTTPRequest.hs
+/src/Bio/RNAcentralHTTP.hs
+/src/Bio/RNAlienStatistics.hs

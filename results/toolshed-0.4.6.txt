@@ -1,18 +1,20 @@
 #package: toolshed-0.4.6 
-ez_setup.py
-news.txt
-readme.rst
-pkg-info
-manifest.in
-setup.py
-setup.cfg
-toolshed/__init__.py
-toolshed/pool.py
-toolshed/files.py
-toolshed/fmt.py
-toolshed.egg-info/entry_points.txt
-toolshed.egg-info/top_level.txt
-toolshed.egg-info/not-zip-safe
-toolshed.egg-info/sources.txt
-toolshed.egg-info/pkg-info
-toolshed.egg-info/dependency_links.txt
+#url: https://pypi.python.org/packages/08/bd/d6259c8d882f6783fdfe69bfaed628afb1ddd291f8a1ac6176d27c62860c/toolshed-0.4.6.tar.gz
+ 
+/ez_setup.py
+/NEWS.txt
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/toolshed/__init__.py
+/toolshed/pool.py
+/toolshed/files.py
+/toolshed/fmt.py
+/toolshed.egg-info/entry_points.txt
+/toolshed.egg-info/top_level.txt
+/toolshed.egg-info/not-zip-safe
+/toolshed.egg-info/SOURCES.txt
+/toolshed.egg-info/PKG-INFO
+/toolshed.egg-info/dependency_links.txt

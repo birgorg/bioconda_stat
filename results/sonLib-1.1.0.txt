@@ -1,14 +1,16 @@
-#package: sonlib-1.1.0 
-pkg-info
-setup.py
-setup.cfg
-src/sonlib.egg-info/top_level.txt
-src/sonlib.egg-info/sources.txt
-src/sonlib.egg-info/pkg-info
-src/sonlib.egg-info/dependency_links.txt
-src/sonlib/nxnewick.py
-src/sonlib/__init__.py
-src/sonlib/bioio.py
-src/sonlib/misc.py
-src/sonlib/nxtree.py
-src/sonlib/tree.py
+#package: sonLib-1.1.0 
+#url: https://pypi.python.org/packages/c5/63/5c597eb4895ad59e6b57050de0dbc579b400e9e2bfc7a698d6b19d91caaf/sonLib-1.1.0.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/src/sonLib.egg-info/top_level.txt
+/src/sonLib.egg-info/SOURCES.txt
+/src/sonLib.egg-info/PKG-INFO
+/src/sonLib.egg-info/dependency_links.txt
+/src/sonLib/nxnewick.py
+/src/sonLib/__init__.py
+/src/sonLib/bioio.py
+/src/sonLib/misc.py
+/src/sonLib/nxtree.py
+/src/sonLib/tree.py

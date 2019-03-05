@@ -1,14 +1,16 @@
-#package: minimock-1.2.8 
-pkg-info
-minimock.py
-manifest.in
-setup.py
-setup.cfg
-minimock.egg-info/zip-safe
-minimock.egg-info/top_level.txt
-minimock.egg-info/sources.txt
-minimock.egg-info/pkg-info
-minimock.egg-info/dependency_links.txt
-docs/license.txt
-docs/changelog.rst
-docs/index.rst
+#package: MiniMock-1.2.8 
+#url: https://pypi.python.org/packages/43/c8/0928c5f684d6f86fb34c12e4b6bcde2dd8b951d060f304b5e4cc4d13d106/MiniMock-1.2.8.tar.gz
+ 
+/PKG-INFO
+/minimock.py
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/MiniMock.egg-info/zip-safe
+/MiniMock.egg-info/top_level.txt
+/MiniMock.egg-info/SOURCES.txt
+/MiniMock.egg-info/PKG-INFO
+/MiniMock.egg-info/dependency_links.txt
+/docs/license.txt
+/docs/changelog.rst
+/docs/index.rst

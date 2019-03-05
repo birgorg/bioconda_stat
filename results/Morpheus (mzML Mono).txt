@@ -1,0 +1,17 @@
+#package: Morpheus (mzML Mono) 
+#url: https://github.com/cwenger/Morpheus/releases/download/r272/Morpheus_mzML_Mono.tar.gz
+ 
+/PSI-MOD.obo.xml
+/proteases.tsv
+/ptmlist.txt
+/product_caps.tsv
+/CommandLine.dll
+/modifications.tsv
+/Morpheus (mzML Mono).exe
+/morpheus_mzml_mono_cl.exe
+/MIT_License.CommandLine.txt
+/MIT_License.Morpheus.txt
+/product_types.tsv
+/amino_acids.tsv
+/revision 272
+/Ionic.Zlib.dll

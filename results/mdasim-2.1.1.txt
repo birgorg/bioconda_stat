@@ -1,0 +1,25 @@
+#package: mdasim-2.1.1 
+#url: https://github.com/hzi-bifo/mdasim/archive/v2.1.1.tar.gz
+ 
+/README.md
+/LICENSE.txt
+/Makefile
+/README_mdasim1-2.txt
+/CREDITS_mdasim.txt
+/examples/example_input.fa
+/examples/primerList.fasta
+/examples/testing/README.md
+/examples/testing/Snakefile
+/examples/testing/positionTesting.py
+/examples/testing/requirements.txt
+/examples/testing/scripts/mapToLog.py
+/examples/testing/scripts/summary.py
+/include/alloc.h
+/include/commonMDA.h
+/include/mdasim.h
+/include/getopt.h
+/include/sequence.h
+/src/getopt.C
+/src/mdasim.C
+/src/commonMDA.C
+/src/sequence.C

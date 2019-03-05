@@ -1,0 +1,9 @@
+#package: module-loaded-0.08 
+meta.yml
+readme
+makefile.pl
+manifest
+meta.json
+changes
+t/01_module-loaded.t
+lib/module/loaded.pm

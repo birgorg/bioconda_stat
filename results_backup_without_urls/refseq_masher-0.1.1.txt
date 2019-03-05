@@ -1,0 +1,27 @@
+#package: refseq_masher-0.1.1 
+readme.md
+license
+notice
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+refseq_masher/cli.py
+refseq_masher/taxonomy.py
+refseq_masher/__init__.py
+refseq_masher/writers.py
+refseq_masher/const.py
+refseq_masher/utils.py
+refseq_masher/mash/__init__.py
+refseq_masher/mash/screen.py
+refseq_masher/mash/parser.py
+refseq_masher/mash/sketch.py
+refseq_masher/mash/dist.py
+refseq_masher/data/refseqsketches.msh
+refseq_masher/data/ncbi_refseq_taxonomy_summary.csv
+refseq_masher.egg-info/entry_points.txt
+refseq_masher.egg-info/top_level.txt
+refseq_masher.egg-info/sources.txt
+refseq_masher.egg-info/pkg-info
+refseq_masher.egg-info/dependency_links.txt
+refseq_masher.egg-info/requires.txt

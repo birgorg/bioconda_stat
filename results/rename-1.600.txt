@@ -1,0 +1,4 @@
+#package: rename-1.600 
+#url: https://github.com/ap/rename/archive/v1.600.tar.gz
+ 
+/rename

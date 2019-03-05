@@ -1,0 +1,23 @@
+#package: gsalightning 
+namespace
+license
+description
+r/gsalightning.r
+data/sampleinfo.rda
+data/expression.rda
+data/targetgenes.rda
+data/datalist
+man/permtestlight.rd
+man/gsalight.rd
+man/wilcoxtest.rd
+man/gsalightning-package.rd
+man/targetgenes.rd
+man/sampleinfo.rd
+man/expression.rd
+vignettes/vignette.rmd
+build/partial.rdb
+build/vignette.rds
+inst/news
+inst/doc/vignette.html
+inst/doc/vignette.rmd
+inst/doc/vignette.r

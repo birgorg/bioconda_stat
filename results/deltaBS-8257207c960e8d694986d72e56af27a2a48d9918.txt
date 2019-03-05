@@ -1,0 +1,16 @@
+#package: deltaBS-8257207c960e8d694986d72e56af27a2a48d9918 
+#url: https://github.com/UCanCompBio/deltaBS/archive/8257207c960e8d694986d72e56af27a2a48d9918.tar.gz
+ 
+/README.md
+/data/tests/FQ312003.AE014613.ol
+/data/tests/FQ312003.embl
+/data/tests/AE014613.embl
+/manuscript/paulall.bib
+/manuscript/README.txt
+/manuscript/DBS preprint.pdf
+/manuscript/S1_Text.pdf
+/manuscript/supplementary-text.tex
+/manuscript/supplementary-text.pdf
+/manuscript/Supplementary.pdf
+/src/deltaBS.pl
+/src/buildCustomModels.pl

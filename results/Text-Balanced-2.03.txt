@@ -1,20 +1,22 @@
-#package: text-balanced-2.03 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-changes
-t/07_exttag.t
-t/06_extqlk.t
-t/03_extcbk.t
-t/97_meta.t
-t/05_extmul.t
-t/98_pod.t
-t/01_compile.t
-t/09_gentag.t
-t/02_extbrk.t
-t/99_pmv.t
-t/04_extdel.t
-t/08_extvar.t
-lib/text/balanced.pm
+#package: Text-Balanced-2.03 
+#url: https://cpan.metacpan.org/authors/id/S/SH/SHAY/Text-Balanced-2.03.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/07_exttag.t
+/t/06_extqlk.t
+/t/03_extcbk.t
+/t/97_meta.t
+/t/05_extmul.t
+/t/98_pod.t
+/t/01_compile.t
+/t/09_gentag.t
+/t/02_extbrk.t
+/t/99_pmv.t
+/t/04_extdel.t
+/t/08_extvar.t
+/lib/Text/Balanced.pm

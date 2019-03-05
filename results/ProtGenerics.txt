@@ -1,7 +1,9 @@
-#package: protgenerics 
-readme.md
-namespace
-description
-news
-r/protgenerics.r
-man/protgenerics.rd
+#package: ProtGenerics 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ProtGenerics_1.12.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/protgenerics.R
+/man/protgenerics.Rd

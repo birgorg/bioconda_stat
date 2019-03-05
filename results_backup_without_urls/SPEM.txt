@@ -1,0 +1,27 @@
+#package: spem 
+namespace
+description
+r/initial_h_guess.r
+r/spem.r
+r/row_optimize.r
+r/s_diff.r
+r/pre_prepare.r
+r/ssystem_set.r
+r/opt_parameter.r
+r/initial_beta_guess.r
+data/sos.rda
+man/spem.rd
+man/s_diff.rd
+man/row_optimize.rd
+man/sos.rd
+man/spem-package.rd
+vignettes/flowchartmain.pdf
+vignettes/sospathway.pdf
+vignettes/s_system.pdf
+vignettes/spem-package.rnw
+vignettes/addendum.bib
+build/vignette.rds
+inst/news
+inst/doc/spem-package.r
+inst/doc/spem-package.pdf
+inst/doc/spem-package.rnw

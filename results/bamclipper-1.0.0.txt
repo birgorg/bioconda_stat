@@ -1,0 +1,8 @@
+#package: bamclipper-1.0.0 
+#url: https://github.com/tommyau/bamclipper/archive/v1.0.0.tar.gz
+ 
+/README.md
+/LICENSE
+/bamclipper.sh
+/clipprimer.pl
+/injectseparator.pl

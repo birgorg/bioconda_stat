@@ -1,0 +1,15 @@
+#package: antarna-2.0.6 
+#url: https://github.com/RobertKleinkauf/antarna/archive/v2.0.6.tar.gz
+ 
+/README.md
+/LICENSE
+/plot_B_UB.py
+/setup.py
+/antarna/antarna.py
+/antarna/__init__.py
+/Constraints/RNAstrand
+/Constraints/Pseudobase++_TRAIN
+/Constraints/Pseudobase++
+/Constraints/Pseudobase++_TEST
+/Constraints/Rfam_BS_TEST
+/Constraints/Rfam_BS_TRAIN

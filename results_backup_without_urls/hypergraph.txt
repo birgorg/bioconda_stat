@@ -1,0 +1,20 @@
+#package: hypergraph 
+namespace
+description
+r/methods-hyperedge.r
+r/allclasses.r
+r/methods-hypergraph.r
+r/allgenerics.r
+r/kcores.r
+man/hypergraph.rd
+man/directedhyperedge-class.rd
+man/hypergraph-class.rd
+man/vcover.rd
+man/directedhyperedge.rd
+man/l2hel.rd
+man/kcores.rd
+man/hyperedge-class.rd
+man/hyperedge.rd
+tests/hypergraph_unit_tests.r
+inst/unittests/test_hypergraph.r
+inst/unittests/test_hyperedge.r

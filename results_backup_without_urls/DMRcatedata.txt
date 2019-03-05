@@ -1,0 +1,13 @@
+#package: dmrcatedata 
+namespace
+description
+external_data_store.txt
+data/dmrcatedata.rda
+data/datalist
+man/dmrcatedata.rd
+man/dmrcatedata-package.rd
+vignettes/dmrcatedata.rnw
+build/vignette.rds
+inst/doc/dmrcatedata.rnw
+inst/doc/dmrcatedata.pdf
+inst/doc/dmrcatedata.r

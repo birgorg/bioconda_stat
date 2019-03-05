@@ -1,0 +1,9 @@
+#package: simple_sv_annotation-d2adf286eaeaab46474c6a5418844041630b729b 
+#url: https://github.com/AstraZeneca-NGS/simple_sv_annotation/archive/d2adf28.tar.gz
+ 
+/README.md
+/LICENSE
+/az-cancer-panel.txt
+/fusion_pairs.txt
+/refSeq.hg19.BRCA1.NM_007294.alternateNumbers.bed
+/simple_sv_annotation.py

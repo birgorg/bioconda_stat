@@ -1,0 +1,17 @@
+#package: bioconductor-scater-scripts-0.0.4 
+#url: https://github.com/ebi-gene-expression-group/bioconductor-scater-scripts/archive/v0.0.4.tar.gz
+ 
+/README.md
+/bioconductor-scater-scripts-post-install-tests.sh
+/scater-is-outlier.R
+/scater-extract-qc-metric.R
+/scater-plot-reduced-dim.R
+/scater-run-pca.R
+/scater-calculate-cpm.R
+/bioconductor-scater-scripts-post-install-tests.bats
+/scater-run-tsne.R
+/VERSION
+/scater-normalize.R
+/scater-filter.R
+/.travis.yml
+/scater-calculate-qc-metrics.R

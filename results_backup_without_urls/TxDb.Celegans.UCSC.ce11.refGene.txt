@@ -1,0 +1,6 @@
+#package: txdb.celegans.ucsc.ce11.refgene 
+namespace
+description
+r/zzz.r
+man/package.rd
+inst/extdata/txdb.celegans.ucsc.ce11.refgene.sqlite

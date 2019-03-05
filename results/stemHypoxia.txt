@@ -1,10 +1,12 @@
-#package: stemhypoxia 
-namespace
-description
-external_data_store.txt
-news
-data/stemhypoxia.rdata
-data/datalist
-man/m.rd
-man/design.rd
-man/stemhypoxia.rd
+#package: stemHypoxia 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/stemHypoxia_1.16.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/NEWS
+/data/stemHypoxia.RData
+/data/datalist
+/man/M.Rd
+/man/design.Rd
+/man/stemHypoxia.Rd

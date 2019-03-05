@@ -1,19 +1,21 @@
-#package: flowcl 
-namespace
-description
-r/rqueryfunctions.r
-r/supportingfunctions.r
-r/flowcl.r
-data/flowcl_archive.rda
-man/test.flowcl.connection.rd
-man/flowcl-package.rd
-man/flowcl_archive.rd
-man/flowcl.rd
-vignettes/flowcl.rnw
-build/vignette.rds
-tests/flowcl_unit_tests.r
-inst/news
-inst/doc/flowcl.rnw
-inst/doc/flowcl.pdf
-inst/doc/flowcl.r
-inst/unittests/test_connection.r
+#package: flowCL 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/flowCL_1.18.1.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/rQueryFunctions.R
+/R/supportingFunctions.R
+/R/flowCL.R
+/data/flowCL_archive.rda
+/man/test.flowCL.connection.Rd
+/man/flowCL-package.Rd
+/man/flowCL_archive.Rd
+/man/flowCL.Rd
+/vignettes/flowCL.Rnw
+/build/vignette.rds
+/tests/flowCL_unit_tests.R
+/inst/NEWS
+/inst/doc/flowCL.Rnw
+/inst/doc/flowCL.pdf
+/inst/doc/flowCL.R
+/inst/unitTests/test_connection.R

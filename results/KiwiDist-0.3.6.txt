@@ -1,17 +1,19 @@
-#package: kiwidist-0.3.6 
-readme.txt
-license.txt
-pkg-info
-setup.py
-kiwi/__init__.py
-kiwi/functions.py
-kiwi/kiwi_module.py
-kiwi/classes.py
-kiwi/data/yeast_7.6_mm_gsn.txt
-kiwi/data/hmr2_mm_gsn.txt
-kiwi/data/ito977_mm_gsn.txt
-kiwi/data/mmr_mm_gsn.txt
-kiwi/demo/gls_luad.txt
-kiwi/demo/gsc_luad.txt
-kiwi/demo/gsn.txt
-kiwi/demo/gss_luad.txt
+#package: KiwiDist-0.3.6 
+#url: https://pypi.python.org/packages/53/79/6a1a0511fbfa338eea24b4d5386c522ea285f8fe9aea7c16bc16495edf58/KiwiDist-0.3.6.tar.gz
+ 
+/README.txt
+/LICENSE.txt
+/PKG-INFO
+/setup.py
+/kiwi/__init__.py
+/kiwi/functions.py
+/kiwi/kiwi_module.py
+/kiwi/classes.py
+/kiwi/data/yeast_7.6_mm_GSN.txt
+/kiwi/data/HMR2_mm_GSN.txt
+/kiwi/data/iTO977_mm_GSN.txt
+/kiwi/data/MMR_mm_GSN.txt
+/kiwi/demo/GLS_LUAD.txt
+/kiwi/demo/GSC_LUAD.txt
+/kiwi/demo/GSN.txt
+/kiwi/demo/GSS_LUAD.txt

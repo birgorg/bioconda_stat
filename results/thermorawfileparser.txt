@@ -1,0 +1,30 @@
+#package: thermorawfileparser 
+#url: https://github.com/bgruening/download_store/raw/master/thermorawfileparser/thermorawfileparser2018_09_07.zip
+ 
+/ThermoFisher.CommonCore.RawFileReader.xml
+/ThermoFisher.CommonCore.MassPrecisionEstimator.xml
+/Newtonsoft.Json.xml
+/ThermoFisher.CommonCore.Data.dll
+/ThermoFisher.CommonCore.BackgroundSubtraction.xml
+/ThermoRawFileParser.log
+/log4net.dll
+/nunit.framework.dll
+/ThermoFisher.CommonCore.Data.xml
+/ThermoRawFileParser.pdb
+/Parquet.dll
+/ThermoFisher.CommonCore.RawFileReader.dll
+/MathNet.Numerics.xml
+/System.ValueTuple.xml
+/MathNet.Numerics.dll
+/Parquet.xml
+/Newtonsoft.Json.dll
+/ThermoFisher.CommonCore.MassPrecisionEstimator.dll
+/Mono.Options.dll
+/log4net.xml
+/ThermoRawFileParser.exe
+/nunit.framework.xml
+/System.ValueTuple.dll
+/log4net.config
+/ThermoFisher.CommonCore.BackgroundSubtraction.dll
+/nunit.framework.pdb
+/ThermoRawFileParser

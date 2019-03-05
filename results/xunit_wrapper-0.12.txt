@@ -1,11 +1,13 @@
 #package: xunit_wrapper-0.12 
-readme.rst
-pkg-info
-setup.py
-setup.cfg
-xunit_wrapper/__init__.py
-xunit_wrapper.egg-info/top_level.txt
-xunit_wrapper.egg-info/sources.txt
-xunit_wrapper.egg-info/pkg-info
-xunit_wrapper.egg-info/dependency_links.txt
-xunit_wrapper.egg-info/requires.txt
+#url: https://pypi.python.org/packages/4d/88/f4535b617a89972e3f4e85de92ef6e77b8e9bb36950a3d23a7a26674d121/xunit_wrapper-0.12.tar.gz
+ 
+/README.rst
+/PKG-INFO
+/setup.py
+/setup.cfg
+/xunit_wrapper/__init__.py
+/xunit_wrapper.egg-info/top_level.txt
+/xunit_wrapper.egg-info/SOURCES.txt
+/xunit_wrapper.egg-info/PKG-INFO
+/xunit_wrapper.egg-info/dependency_links.txt
+/xunit_wrapper.egg-info/requires.txt

@@ -1,0 +1,15 @@
+#package: tigmint-1.1.2 
+readme.md
+pkg-info
+setup.py
+setup.cfg
+bin/tigmint
+bin/tigmint-cut
+bin/tigmint-arcs-tsv
+bin/tigmint-molecule
+bin/tigmint-make
+tigmint.egg-info/top_level.txt
+tigmint.egg-info/sources.txt
+tigmint.egg-info/pkg-info
+tigmint.egg-info/dependency_links.txt
+tigmint.egg-info/requires.txt

@@ -1,0 +1,41 @@
+#package: NanoSim-2.2.0 
+#url: https://github.com/bcgsc/NanoSim/archive/v2.2.0.tar.gz
+ 
+/README.md
+/README.txt
+/LICENSE
+/COPYRIGHT
+/example.sh
+/requirements.txt
+/NanoSim logo.png
+/.gitignore
+/src/head_align_tail_dist.py
+/src/mixed_model.py
+/src/besthit_to_histogram.py
+/src/simulator.py
+/src/pairwise2maf.py
+/src/read_analysis.py
+/src/get_besthit_maf.py
+/src/model_fitting.py
+/src/get_primary_sam.py
+/src/__pycache__/get_besthit.cpython-35.pyc
+/src/__pycache__/head_align_tail_dist.cpython-35.pyc
+/src/__pycache__/besthit_to_histogram.cpython-35.pyc
+/src/.idea/vcs.xml
+/src/.idea/.name
+/src/.idea/src.iml
+/src/.idea/misc.xml
+/src/.idea/workspace.xml
+/src/.idea/modules.xml
+/src/.idea/encodings.xml
+/src/.idea/scopes/scope_settings.xml
+/.idea/vcs.xml
+/.idea/.name
+/.idea/simulator.iml
+/.idea/misc.xml
+/.idea/workspace.xml
+/.idea/modules.xml
+/.idea/encodings.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/scopes/scope_settings.xml

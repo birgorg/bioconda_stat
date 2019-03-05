@@ -1,0 +1,15 @@
+#package: abadata 
+namespace
+description
+external_data_store.txt
+data/dataset_adult.rda
+data/dataset_5_stages.rda
+data/dataset_dev_effect.rda
+data/datalist
+man/datasets_abadata.rd
+man/abadata-package.rd
+vignettes/abadata.rmd
+build/vignette.rds
+inst/doc/abadata.r
+inst/doc/abadata.rmd
+inst/doc/abadata.html

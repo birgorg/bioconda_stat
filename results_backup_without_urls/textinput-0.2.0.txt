@@ -1,0 +1,19 @@
+#package: textinput-0.2.0 
+readme
+pkg-info
+setup.py
+setup.cfg
+scripts/innerjoin
+scripts/intersect
+scripts/hidehead
+scripts/filter
+scripts/mean
+scripts/nohead
+lib/textinput.py
+lib/tabdelim.py
+lib/textinput.egg-info/zip-safe
+lib/textinput.egg-info/top_level.txt
+lib/textinput.egg-info/sources.txt
+lib/textinput.egg-info/pkg-info
+lib/textinput.egg-info/dependency_links.txt
+test/test_tabdelim.py

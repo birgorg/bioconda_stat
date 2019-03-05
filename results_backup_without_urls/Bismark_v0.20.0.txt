@@ -1,0 +1,22 @@
+#package: bismark_v0.20.0 
+license.txt
+bismark
+bam2nuc
+nome_filtering
+changelog.md
+bismark_alignment_modes.pdf
+deduplicate_bismark
+coverage2cytosine
+bismark2bedgraph
+bismark2report
+filter_non_conversion
+bismark_genome_preparation
+bismark_methylation_extractor
+bismark2summary
+docs/readme.md
+docs/make_docs.pl
+docs/bismark_user_guide.html
+plotly/plotly_template.tpl
+plotly/bioinf.logo
+plotly/plot.ly
+plotly/bismark.logo

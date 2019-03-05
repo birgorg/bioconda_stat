@@ -1,0 +1,23 @@
+#package: go.db 
+namespace
+description
+r/zzz.r
+man/gobpancestor.rd
+man/goterm.rd
+man/goccoffspring.rd
+man/gomapcounts.rd
+man/gomfancestor.rd
+man/gobpparents.rd
+man/go_dbconn.rd
+man/gosynonym.rd
+man/gobpoffspring.rd
+man/goccparents.rd
+man/gomfparents.rd
+man/goccancestor.rd
+man/gobase.rd
+man/gomfchildren.rd
+man/goobsolete.rd
+man/goccchildren.rd
+man/gomfoffspring.rd
+man/gobpchildren.rd
+inst/extdata/go.sqlite

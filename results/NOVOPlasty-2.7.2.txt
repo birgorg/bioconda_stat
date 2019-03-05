@@ -1,0 +1,8 @@
+#package: NOVOPlasty-2.7.2 
+#url: https://github.com/ndierckx/NOVOPlasty/archive/2.7.2.tar.gz
+ 
+/README.md
+/LICENSE
+/config.txt
+/.gitignore
+/NOVOPlasty2.7.2.pl

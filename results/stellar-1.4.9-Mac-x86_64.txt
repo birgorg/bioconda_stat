@@ -1,7 +1,9 @@
-#package: stellar-1.4.9-mac-x86_64 
-license
-readme
-bin/stellar
-example/nc_001474.fasta
-example/reads.fasta
-example/nc_001477.fasta
+#package: stellar-1.4.9-Mac-x86_64 
+#url: http://packages.seqan.de/stellar/stellar-1.4.9-Mac-x86_64.zip
+ 
+/LICENSE
+/README
+/bin/stellar
+/example/NC_001474.fasta
+/example/reads.fasta
+/example/NC_001477.fasta

@@ -1,0 +1,26 @@
+#package: cexor 
+namespace
+license
+description
+r/pskellam.r
+r/plotcexor.r
+r/cexor.r
+r/pskellam.sp.r
+man/plotcexor.rd
+man/cexor-package.rd
+man/cexor.rd
+man/cexor-internal.rd
+vignettes/cexor.rnw
+build/vignette.rds
+tests/runtests.r
+inst/citation
+inst/doc/cexor.pdf
+inst/doc/cexor.rnw
+inst/doc/cexor.r
+inst/unittests/test_cexor.r
+inst/extdata/ctcf_rep2_chr2_1-1e6.bam
+inst/extdata/ctcf_rep2_chr2_1-1e6.bam.bai
+inst/extdata/ctcf_rep3_chr2_1-1e6.bam
+inst/extdata/ctcf_rep1_chr2_1-1e6.bam.bai
+inst/extdata/ctcf_rep3_chr2_1-1e6.bam.bai
+inst/extdata/ctcf_rep1_chr2_1-1e6.bam

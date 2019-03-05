@@ -1,0 +1,25 @@
+#package: derfinderplot 
+readme.md
+namespace
+description
+news
+r/vennregions.r
+r/utils.r
+r/plotoverview.r
+r/derfinderplot-package.r
+r/plotregioncoverage.r
+r/plotcluster.r
+man/plotregioncoverage.rd
+man/plotoverview.rd
+man/vennregions.rd
+man/plotcluster.rd
+man/derfinderplot-package.rd
+vignettes/derfinderplot.rmd
+build/vignette.rds
+tests/test-all.r
+tests/testthat/test_adv-plotcluster.r
+tests/testthat/test_plotting.r
+inst/citation
+inst/doc/derfinderplot.html
+inst/doc/derfinderplot.r
+inst/doc/derfinderplot.rmd

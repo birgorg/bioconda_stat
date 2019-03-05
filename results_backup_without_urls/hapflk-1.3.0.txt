@@ -1,0 +1,16 @@
+#package: hapflk-1.3.0 
+readme.txt
+license.txt
+pkg-info
+copying.txt
+setup.py
+fastphase/fastphasecythonmt.c
+fastphase/__init__.py
+fastphase/fphoptim.py
+fastphase/fastphasecython.c
+hapflk/nj.py
+hapflk/hapflk
+hapflk/__init__.py
+hapflk/data.py
+hapflk/popgen.py
+hapflk/inputoutput.py

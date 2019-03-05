@@ -1,8 +1,10 @@
-#package: unix_(gcc) 
-readme.txt
-makefile
-how_to.txt
-genclustlb.h
-copying.txt
-genclust.c
-genclustlb.c
+#package: Unix_(gcc) 
+#url: http://www.math.unipa.it/~lobosco/genclust/sources_for_gcc.tar.gz
+ 
+/readme.txt
+/Makefile
+/how_to.txt
+/genclustlb.h
+/COPYING.txt
+/genclust.c
+/genclustlb.c

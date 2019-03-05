@@ -1,8 +1,10 @@
-#package: jaspar2016 
-namespace
-description
-external_data_store.txt
-r/zzz.r
-r/allclasses.r
-man/jaspar2016-class.rd
-inst/extdata/jaspar2016.sqlite
+#package: JASPAR2016 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/JASPAR2016_1.8.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/zzz.R
+/R/AllClasses.R
+/man/JASPAR2016-class.Rd
+/inst/extdata/JASPAR2016.sqlite

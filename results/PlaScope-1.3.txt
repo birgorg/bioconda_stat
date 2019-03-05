@@ -1,0 +1,18 @@
+#package: PlaScope-1.3 
+#url: https://github.com/GuilhemRoyer/plascope/archive/1.3.tar.gz
+ 
+/README.md
+/LICENSE
+/plaScope.sh
+/PlaScope_supernova.png
+/Evaluation/evaluation.sh
+/Evaluation/GCA_002012045.1_plasflow_plasmids.fasta
+/Evaluation/GCA_002012045.1_cBar.txt
+/Evaluation/GCA_002012045.1_plasflow_chromosomes.fasta
+/Evaluation/GCA_002012045.1.fasta
+/Evaluation/Evaluation_readme.txt
+/Evaluation/GCA_002012045.1_list
+/Evaluation/NZ_CP018948.1.fasta
+/Evaluation/filter_spades.py
+/Evaluation/GCA_002012045.1_plasflow_unclassified.fasta
+/Evaluation/GCA_002012045.1_all_plasmids.fasta

@@ -1,0 +1,17 @@
+#package: derfinderhelper 
+readme.md
+namespace
+description
+news
+r/fstats.apply.r
+r/derfinderhelper-package.r
+man/fstats.apply.rd
+man/derfinderhelper-package.rd
+vignettes/derfinderhelper.rmd
+build/vignette.rds
+tests/test-all.r
+tests/testthat/test_fstats.apply.r
+inst/citation
+inst/doc/derfinderhelper.html
+inst/doc/derfinderhelper.r
+inst/doc/derfinderhelper.rmd

@@ -1,0 +1,8 @@
+#package: array-utils-0.5 
+meta.yml
+readme
+makefile.pl
+manifest
+utils.pm
+changes
+t/array-utils.t

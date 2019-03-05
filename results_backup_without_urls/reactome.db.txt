@@ -1,0 +1,16 @@
+#package: reactome.db 
+namespace
+description
+r/zzz.r
+man/reactomepathname2id.rd
+man/reactomepathid2extid.rd
+man/reactomego2reactomeid.rd
+man/reactomeextid2pathid.rd
+man/reactomereactomeid2go.rd
+man/reactomemapcounts.rd
+man/reactome.rd
+man/reactomepathid2name.rd
+man/reactome_dbconn.rd
+inst/news
+inst/extdata/reactome.sqlite
+inst/extdata/dbschemas/schemas_64/reactome_db.sql

@@ -1,18 +1,20 @@
 #package: intervaltree-3.0.2 
-readme.md
-changelog.md
-license.txt
-pkg-info
-manifest.in
-setup.py
-setup.cfg
-intervaltree/__init__.py
-intervaltree/interval.py
-intervaltree/intervaltree.py
-intervaltree/node.py
-intervaltree.egg-info/zip-safe
-intervaltree.egg-info/top_level.txt
-intervaltree.egg-info/sources.txt
-intervaltree.egg-info/pkg-info
-intervaltree.egg-info/dependency_links.txt
-intervaltree.egg-info/requires.txt
+#url: https://files.pythonhosted.org/packages/e8/f9/76237755b2020cd74549e98667210b2dd54d3fb17c6f4a62631e61d31225/intervaltree-3.0.2.tar.gz
+ 
+/README.md
+/CHANGELOG.md
+/LICENSE.txt
+/PKG-INFO
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/intervaltree/__init__.py
+/intervaltree/interval.py
+/intervaltree/intervaltree.py
+/intervaltree/node.py
+/intervaltree.egg-info/zip-safe
+/intervaltree.egg-info/top_level.txt
+/intervaltree.egg-info/SOURCES.txt
+/intervaltree.egg-info/PKG-INFO
+/intervaltree.egg-info/dependency_links.txt
+/intervaltree.egg-info/requires.txt

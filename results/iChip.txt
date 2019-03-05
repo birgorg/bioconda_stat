@@ -1,20 +1,22 @@
-#package: ichip 
-namespace
-description
-r/ichip.r
-data/oct4.rda
-data/p53.rda
-man/lmtstat.rd
-man/oct4.rd
-man/ichip1.rd
-man/p53.rd
-man/ichip2.rd
-man/enrichreg.rd
-demo/ichipdemo.r
-demo/00index
-vignettes/ichip.rnw
-build/vignette.rds
-inst/doc/ichip.r
-inst/doc/ichip.rnw
-inst/doc/ichip.pdf
-src/ichip.c
+#package: iChip 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/iChip_1.34.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/iChip.R
+/data/oct4.rda
+/data/p53.rda
+/man/lmtstat.Rd
+/man/oct4.Rd
+/man/iChip1.Rd
+/man/p53.Rd
+/man/iChip2.Rd
+/man/enrichreg.Rd
+/demo/iChipdemo.R
+/demo/00Index
+/vignettes/iChip.Rnw
+/build/vignette.rds
+/inst/doc/iChip.R
+/inst/doc/iChip.Rnw
+/inst/doc/iChip.pdf
+/src/iChip.c

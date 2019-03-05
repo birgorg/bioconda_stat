@@ -1,0 +1,15 @@
+#package: pyhashxx-0.1.3 
+pkg-info
+setup.py
+setup.cfg
+pyhashxx.egg-info/top_level.txt
+pyhashxx.egg-info/sources.txt
+pyhashxx.egg-info/pkg-info
+pyhashxx.egg-info/dependency_links.txt
+pyhashxx/pycompat.h
+pyhashxx/xxhash.h
+pyhashxx/pyhashxx.c
+pyhashxx/xxhash.c
+tests/test_hash_bytes.py
+tests/__init__.py
+tests/test_oneshot.py

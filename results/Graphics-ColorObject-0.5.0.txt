@@ -1,18 +1,20 @@
-#package: graphics-colorobject-0.5.0 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-colorobject.pm
-examples/convert-color.pl
-examples/draw-lab-colorspace.pl
-examples/chrom-adaptation-test.pl
-examples/calculate-xyz-matrices.pl
-t/01load.t
-t/03rgbhex.t
-t/04lab.t
-t/03xyz.t
-t/06rgbbars.t
-t/02rgb.t
-t/05colorbars.t
+#package: Graphics-ColorObject-0.5.0 
+#url: https://cpan.metacpan.org/authors/id/A/AI/AIZVORSKI/Graphics-ColorObject-0.5.0.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/ColorObject.pm
+/examples/convert-color.pl
+/examples/draw-lab-colorspace.pl
+/examples/chrom-adaptation-test.pl
+/examples/calculate-xyz-matrices.pl
+/t/01load.t
+/t/03rgbhex.t
+/t/04lab.t
+/t/03xyz.t
+/t/06rgbbars.t
+/t/02rgb.t
+/t/05colorbars.t

@@ -1,0 +1,36 @@
+#package: blockclust-1.1.0 
+#url: https://github.com/pavanvidem/blockclust/archive/v1.1.0.tar.gz
+ 
+/README.md
+/LICENSE
+/Makefile
+/scripts/blockclust.py
+/scripts/blockclust_plot.r
+/blockclust_data/rfam_map.txt
+/blockclust_data/blockclust.config
+/blockclust_data/test/test.tabular
+/blockclust_data/test/test.bam
+/src/Block.h
+/src/BlockEdge.cpp
+/src/FeatureComputer.h
+/src/BlockClust.cpp
+/src/FeatureComputer.cpp
+/src/Read.cpp
+/src/GspanCreator.h
+/src/Read.h
+/src/BlockGroup.h
+/src/BlockGroupAnnotator.h
+/src/GspanCreator.cpp
+/src/BlockEdge.h
+/src/BlockGroupAnnotator.cpp
+/src/Block.cpp
+/src/BlockClust.h
+/src/BlockGroup.cpp
+/src/.deps/BlockGroup.Po
+/src/.deps/GspanCreator.Po
+/src/.deps/FeatureComputer.Po
+/src/.deps/Read.Po
+/src/.deps/BlockGroupAnnotator.Po
+/src/.deps/Block.Po
+/src/.deps/BlockClust.Po
+/src/.deps/BlockEdge.Po

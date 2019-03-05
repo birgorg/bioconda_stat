@@ -1,0 +1,23 @@
+#package: bridge 
+namespace
+description
+r/bridge.2samples.r
+r/zzz.r
+r/bridge.3samples.r
+data/hiv.rda
+man/bridge.3samples.rd
+man/bridge.2samples.rd
+man/hiv.rd
+vignettes/chicago.bst
+vignettes/chicago.sty
+vignettes/robust-testing.bib
+vignettes/bridge.rnw
+build/vignette.rds
+inst/doc/bridge.r
+inst/doc/bridge.pdf
+inst/doc/bridge.rnw
+src/bridge2.c
+src/bridge2_util.h
+src/bridge2_util.c
+src/bridge2.affy.c
+src/bridge3.c

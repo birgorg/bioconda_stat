@@ -1,0 +1,25 @@
+#package: tissueenrich 
+readme.md
+namespace
+license
+description
+tissueenrich.rproj
+news
+r/tegeneretrieval.r
+r/teenrichmentcustom.r
+r/teenrichment.r
+man/teenrichment.rd
+man/teenrichmentcustom.rd
+man/tegeneretrieval.rd
+vignettes/library.bib
+vignettes/tissueenrich.rmd
+build/vignette.rds
+tests/testthat.r
+tests/testthat/tests.r
+inst/doc/tissueenrich.html
+inst/doc/tissueenrich.rmd
+inst/doc/tissueenrich.r
+inst/extdata/inputgenesensembl.txt
+inst/extdata/test.expressiondata.txt
+inst/extdata/inputgenes.txt
+inst/extdata/combine-expression.rda

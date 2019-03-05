@@ -1,18 +1,20 @@
-#package: biomvcclass 
-namespace
-description
-r/mvc.r
-r/zzz.r
-man/gsemodel-class.rd
-man/graphview-class.rd
-man/gse-class.rd
-man/heatmapview-class.rd
-man/graphmodel-class.rd
-man/exprmodel-class.rd
-vignettes/biomvcclass.rnw
-vignettes/bioviewclass.jpg
-vignettes/gse.jpg
-vignettes/biomodelclass.jpg
-build/vignette.rds
-inst/doc/biomvcclass.pdf
-inst/doc/biomvcclass.rnw
+#package: BioMVCClass 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/BioMVCClass_1.48.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/MVC.R
+/R/zzz.R
+/man/gseModel-class.Rd
+/man/graphView-class.Rd
+/man/GSE-class.Rd
+/man/heatmapView-class.Rd
+/man/graphModel-class.Rd
+/man/exprModel-class.Rd
+/vignettes/BioMVCClass.Rnw
+/vignettes/BioViewClass.jpg
+/vignettes/GSE.jpg
+/vignettes/BioModelClass.jpg
+/build/vignette.rds
+/inst/doc/BioMVCClass.pdf
+/inst/doc/BioMVCClass.Rnw

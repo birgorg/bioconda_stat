@@ -1,21 +1,23 @@
-#package: cmap2data 
-namespace
-description
-external_data_store.txt
-data/genelist.rda
-data/drugclusters.rda
-data/druglabels.rda
-data/drugrl.rda
-data/datalist
-data/cytodrug.rda
-man/druglabels.rd
-man/drugclusters.rd
-man/cytodrug.rd
-man/genelist.rd
-man/cmap2data-package.rd
-man/drugrl.rd
-vignettes/cmap2data.rnw
-build/vignette.rds
-inst/doc/cmap2data.pdf
-inst/doc/cmap2data.rnw
-inst/doc/cmap2data.r
+#package: cMap2data 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/cMap2data_1.16.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/genelist.rda
+/data/drugClusters.rda
+/data/druglabels.rda
+/data/drugRL.rda
+/data/datalist
+/data/cytodrug.rda
+/man/druglabels.Rd
+/man/drugClusters.Rd
+/man/cytodrug.Rd
+/man/genelist.Rd
+/man/cMap2data-package.Rd
+/man/drugRL.Rd
+/vignettes/cMap2data.Rnw
+/build/vignette.rds
+/inst/doc/cMap2data.pdf
+/inst/doc/cMap2data.Rnw
+/inst/doc/cMap2data.R

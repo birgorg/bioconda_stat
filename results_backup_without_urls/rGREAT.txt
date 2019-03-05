@@ -1,0 +1,24 @@
+#package: rgreat 
+namespace
+license
+description
+news
+r/great.r
+r/00_s4_generic_methods.r
+r/global.r
+man/plotregiongeneassociationgraphs-greatjob-method.rd
+man/submitgreatjob.rd
+man/getenrichmenttables-greatjob-method.rd
+man/availableontologies-greatjob-method.rd
+man/greatjob-class.rd
+man/availablecategories-greatjob-method.rd
+vignettes/rgreat.rmd
+vignettes/custom.css
+build/vignette.rds
+tests/test-all.r
+tests/testthat/test_great.r
+tests/testthat/test_available.r
+inst/doc/rgreat.rmd
+inst/doc/rgreat.html
+inst/doc/rgreat.r
+inst/extdata/job.rds

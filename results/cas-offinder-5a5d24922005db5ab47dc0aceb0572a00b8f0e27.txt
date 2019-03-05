@@ -1,0 +1,19 @@
+#package: cas-offinder-5a5d24922005db5ab47dc0aceb0572a00b8f0e27 
+#url: https://github.com/snugel/cas-offinder/archive/5a5d24922005db5ab47dc0aceb0572a00b8f0e27.tar.gz
+ 
+/README.md
+/cas-offinder.h
+/read_fasta.cpp
+/cas-offinder.cpp
+/LICENSE
+/main.cpp
+/read_twobit.cpp
+/config.h.in
+/oclfunctions.h
+/read_fasta.h
+/CMakeLists.txt
+/cas-offinder.cl
+/read_twobit.h
+/ext/dirent.h
+/CMakeModules/CopyKernels.cmake
+/CMakeModules/FindOpenCL.cmake

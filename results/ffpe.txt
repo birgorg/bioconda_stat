@@ -1,17 +1,19 @@
 #package: ffpe 
-namespace
-description
-r/catplot.r
-r/sampleqc.r
-r/sortediqrplot.r
-man/sampleqc.rd
-man/catplot.rd
-man/sortediqrplot.rd
-man/ffpe-package.rd
-vignettes/ffpe.bib
-vignettes/ffpe.rnw
-build/vignette.rds
-inst/citation
-inst/doc/ffpe.pdf
-inst/doc/ffpe.rnw
-inst/doc/ffpe.r
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ffpe_1.24.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/CATplot.R
+/R/sampleQC.R
+/R/sortedIqrPlot.R
+/man/sampleQC.Rd
+/man/CATplot.Rd
+/man/sortedIqrPlot.Rd
+/man/ffpe-package.Rd
+/vignettes/ffpe.bib
+/vignettes/ffpe.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/ffpe.pdf
+/inst/doc/ffpe.Rnw
+/inst/doc/ffpe.R

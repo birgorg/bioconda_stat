@@ -1,18 +1,20 @@
-#package: scrnaseq 
-namespace
-description
-external_data_store.txt
-data/allen.rda
-data/th2.rda
-data/fluidigm.rda
-data/datalist
-man/scrnaseq-package.rd
-vignettes/check_th2.rmd
-vignettes/biblio.bib
-vignettes/scrnaseq.rmd
-vignettes/check_th2.html
-build/partial.rdb
-build/vignette.rds
-inst/doc/scrnaseq.html
-inst/doc/scrnaseq.r
-inst/doc/scrnaseq.rmd
+#package: scRNAseq 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/scRNAseq_1.6.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/allen.rda
+/data/th2.rda
+/data/fluidigm.rda
+/data/datalist
+/man/scRNAseq-package.Rd
+/vignettes/check_th2.Rmd
+/vignettes/biblio.bib
+/vignettes/scRNAseq.Rmd
+/vignettes/check_th2.html
+/build/partial.rdb
+/build/vignette.rds
+/inst/doc/scRNAseq.html
+/inst/doc/scRNAseq.R
+/inst/doc/scRNAseq.Rmd

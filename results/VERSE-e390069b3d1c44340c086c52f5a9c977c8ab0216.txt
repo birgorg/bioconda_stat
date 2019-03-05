@@ -1,0 +1,30 @@
+#package: VERSE-e390069b3d1c44340c086c52f5a9c977c8ab0216 
+#url: https://github.com/qinzhu/VERSE/archive/e390069b3d1c44340c086c52f5a9c977c8ab0216.tar.gz
+ 
+/readme.txt
+/LICENSE
+/update_log.txt
+/verse_manual.html
+/testdata/intersection_nonempty.unstranded.paired.hierarchical.xine.txt
+/testdata/test.gtf
+/testdata/intersection_nonempty.unstranded.paired.hierarchical.intron.txt
+/testdata/PE.sam
+/testdata/intersection_nonempty.unstranded.paired.hierarchical.exon.txt
+/testdata/intersection_nonempty.unstranded.paired.hierarchical.summary.txt
+/testdata/intersection_nonempty.stranded.paired.exon.summary.txt
+/testdata/intersection_nonempty.stranded.paired.exon.txt
+/src/Makefile.Linux
+/src/sambam-file.h
+/src/input-files.h
+/src/hashtable.h
+/src/hashtable.c
+/src/verse.c
+/src/sambam-file.c
+/src/Makefile
+/src/makefile.version
+/src/HelperFunctions.h
+/src/Makefile.MacOS
+/src/input-files.c
+/src/HelperFunctions.c
+/src/verse.dSYM/Contents/Info.plist
+/src/verse.dSYM/Contents/Resources/DWARF/verse

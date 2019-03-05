@@ -1,0 +1,21 @@
+#package: list-uniq-0.20 
+meta.yml
+readme
+makefile.pl
+manifest
+coverage.txt
+changes
+build.pl
+t/11_recursive_arrayref.t
+t/07_sort.t
+t/08_flatten.t
+t/09_undef_element.t
+t/12_flatten.t
+t/05_basic.t
+t/01_use.t
+t/02_pod.t
+t/10_rt_58389.t
+t/04_breakpoints.t
+t/03_pod_coverage.t
+t/06_context.t
+lib/list/uniq.pm

@@ -1,0 +1,30 @@
+#package: REPARATION_blast-1.0.7 
+#url: https://github.com/RickGelhausen/REPARATION_blast/archive/v1.0.7.tar.gz
+ 
+/README.md
+/License.txt
+/reparation.pl
+/reparation.xml
+/changelog
+/scripts/Random_Forest.R
+/scripts/profiles.pl
+/scripts/positive_set.pl
+/scripts/plot_profile.R
+/scripts/Ribo_seq_occupancy.py
+/scripts/generate_all_ORFs.pl
+/scripts/post_processing.pl
+/scripts/bin/prodigal
+/scripts/bin/glimmer/start-codon-distrib
+/scripts/bin/glimmer/test
+/scripts/bin/glimmer/multi-extract
+/scripts/bin/glimmer/entropy-score
+/scripts/bin/glimmer/long-orfs
+/scripts/bin/glimmer/window-acgt
+/scripts/bin/glimmer/build-icm
+/scripts/bin/glimmer/glimmer3
+/scripts/bin/glimmer/extract
+/scripts/bin/glimmer/build-fixed
+/scripts/bin/glimmer/entropy-profile
+/scripts/bin/glimmer/score-fixed
+/scripts/bin/glimmer/anomaly
+/scripts/bin/glimmer/uncovered

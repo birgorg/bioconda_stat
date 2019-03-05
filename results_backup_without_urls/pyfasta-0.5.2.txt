@@ -1,0 +1,22 @@
+#package: pyfasta-0.5.2 
+readme.rst
+changelog.txt
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+pyfasta/fasta.py
+pyfasta/__init__.py
+pyfasta/split_fasta.py
+pyfasta/records.py
+tests/bench.py
+tests/test_all.py
+tests/data/three_chrs.fasta
+tests/data/key.fasta
+tests/data/dups.fasta
+pyfasta.egg-info/entry_points.txt
+pyfasta.egg-info/top_level.txt
+pyfasta.egg-info/not-zip-safe
+pyfasta.egg-info/sources.txt
+pyfasta.egg-info/pkg-info
+pyfasta.egg-info/dependency_links.txt

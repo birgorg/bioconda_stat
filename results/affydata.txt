@@ -1,16 +1,18 @@
 #package: affydata 
-namespace
-description
-external_data_store.txt
-r/zzz.r
-data/dilution.rda
-data/datalist
-man/dilution.rd
-vignettes/affydata.rnw
-build/vignette.rds
-inst/celfiles/text.cel
-inst/celfiles/binary.cel
-inst/doc/affydata.rnw
-inst/doc/affydata.pdf
-inst/doc/affydata.r
-inst/extracelfiles/cl2001032020aa.cel
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/affydata_1.28.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/zzz.R
+/data/Dilution.rda
+/data/datalist
+/man/Dilution.Rd
+/vignettes/affydata.Rnw
+/build/vignette.rds
+/inst/celfiles/text.cel
+/inst/celfiles/binary.cel
+/inst/doc/affydata.Rnw
+/inst/doc/affydata.pdf
+/inst/doc/affydata.R
+/inst/extracelfiles/CL2001032020AA.cel

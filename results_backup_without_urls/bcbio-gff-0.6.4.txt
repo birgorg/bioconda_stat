@@ -1,0 +1,17 @@
+#package: bcbio-gff-0.6.4 
+distribute_setup.py
+readme.rst
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+bcbio_gff.egg-info/top_level.txt
+bcbio_gff.egg-info/sources.txt
+bcbio_gff.egg-info/pkg-info
+bcbio_gff.egg-info/dependency_links.txt
+bcbio_gff.egg-info/requires.txt
+bcbio/__init__.py
+bcbio/gff/gffoutput.py
+bcbio/gff/_utils.py
+bcbio/gff/__init__.py
+bcbio/gff/gffparser.py

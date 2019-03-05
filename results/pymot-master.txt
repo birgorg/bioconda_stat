@@ -1,0 +1,22 @@
+#package: pymot-master 
+#url: https://github.com/Videmo/pymot/archive/master.zip
+ 
+/README.md
+/utilities.py
+/pymot.py
+/groundtruth.json
+/formatchecker.py
+/importers.py
+/mot-tracks.png
+/.gitignore
+/hypotheses.json
+/rect.py
+/papers/bernardin2008evaluating.pdf
+/papers/clear2007-evaluation-plan.pdf
+/3d/GroundTruth_A.txt
+/3d/Readme_MOTscore.txt
+/3d/MOTscore.pl
+/3d/scoreAll.py
+/3d/Readme_scoreAll.txt
+/3d/Hypos_A.txt
+/3d/Munkre.pl

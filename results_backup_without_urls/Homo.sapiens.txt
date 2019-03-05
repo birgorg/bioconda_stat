@@ -1,0 +1,6 @@
+#package: homo.sapiens 
+namespace
+description
+r/zzz.r
+data/graphinfo.rda
+man/homo.sapiens.rd

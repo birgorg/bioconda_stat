@@ -1,0 +1,16 @@
+#package: STREAM-stream_python3 
+#url: https://github.com/pinellolab/STREAM/archive/stream_python3.zip
+ 
+/README.md
+/.gitattributes
+/.dockerignore
+/setup.py
+/.gitignore
+/tutorial/1.STREAM_scRNA-seq.ipynb
+/tutorial/4.STREAM_scATAC-seq.ipynb
+/tutorial/3.STREAM_complex_trajectories.ipynb
+/tutorial/2.STREAM_mapping.ipynb
+/stream/core.py
+/stream/__init__.py
+/stream/scikit_posthocs.py
+/stream/extra.py

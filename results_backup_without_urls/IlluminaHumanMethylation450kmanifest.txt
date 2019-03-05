@@ -1,0 +1,7 @@
+#package: illuminahumanmethylation450kmanifest 
+namespace
+description
+data/illuminahumanmethylation450kmanifest.rda
+data/datalist
+man/illuminahumanmethylation450kmanifest.rd
+inst/scripts/manifest.r

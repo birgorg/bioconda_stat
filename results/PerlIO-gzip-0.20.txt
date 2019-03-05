@@ -1,18 +1,20 @@
-#package: perlio-gzip-0.20 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-meta.json
-gzip.xs
-gzip.pm
-t/ok3.gz
-t/ok50.gz.short
-t/ok17.gz
-t/ok54.gz.len
-t/ok58.gz.crc
-t/ok19
-t/read.t
-t/ok21
-t/write.t
+#package: PerlIO-gzip-0.20 
+#url: https://cpan.metacpan.org/authors/id/N/NW/NWCLARK/PerlIO-gzip-0.20.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/gzip.xs
+/gzip.pm
+/t/ok3.gz
+/t/ok50.gz.short
+/t/ok17.gz
+/t/ok54.gz.len
+/t/ok58.gz.crc
+/t/ok19
+/t/read.t
+/t/ok21
+/t/write.t

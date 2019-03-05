@@ -1,0 +1,21 @@
+#package: hivclustering-1.3.1 
+#url: https://github.com/veg/hivclustering/archive/1.3.1.tar.gz
+ 
+/README.md
+/setup.py
+/.gitignore
+/scripts/network_sequence_simulator
+/scripts/TNS
+/scripts/__init__.py
+/scripts/SimulateRandom.py
+/scripts/NetworkClusterExtractor.py
+/scripts/hivnetworkcsv
+/scripts/__pycache__/networkbuild.cpython-34.pyc
+/hivclustering/mtnetwork.py
+/hivclustering/networkbuild.py
+/hivclustering/__init__.py
+/hivclustering/data/HBL/SimulateSequence.bf
+/hivclustering/data/HBL/TriangleSupport.bf
+/hivclustering/data/HBL/DegreeDistributions.bf
+/hivclustering/data/HBL/ExtractACluster.bf
+/tests/centrality.py

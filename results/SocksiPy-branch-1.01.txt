@@ -1,5 +1,7 @@
-#package: socksipy-branch-1.01 
-readme
-pkg-info
-setup.py
-socks.py
+#package: SocksiPy-branch-1.01 
+#url: https://pypi.python.org/packages/69/ed/3659a7e2cff38c3156cf919f8f6ee63360147ba97460c0a8c130f8b781e0/SocksiPy-branch-1.01.tar.gz
+ 
+/README
+/PKG-INFO
+/setup.py
+/socks.py

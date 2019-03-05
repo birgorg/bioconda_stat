@@ -1,0 +1,15 @@
+#package: py2bit-0.3.0 
+readme.md
+py2bit.h
+license.txt
+pkg-info
+manifest.in
+py2bit.c
+setup.py
+setup.cfg
+py2bittest/foo.2bit
+py2bittest/__init__.py
+py2bittest/test.py
+py2bit.egg-info/sources.txt
+lib2bit/2bit.c
+lib2bit/2bit.h

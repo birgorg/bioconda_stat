@@ -1,0 +1,16 @@
+#package: xmltramp2-3.1.1 
+readme.md
+license
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+xmltramp2.egg-info/top_level.txt
+xmltramp2.egg-info/not-zip-safe
+xmltramp2.egg-info/sources.txt
+xmltramp2.egg-info/pkg-info
+xmltramp2.egg-info/dependency_links.txt
+xmltramp2.egg-info/requires.txt
+xmltramp2/tests.py
+xmltramp2/__init__.py
+xmltramp2/xmltramp.py

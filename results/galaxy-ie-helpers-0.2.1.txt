@@ -1,12 +1,14 @@
 #package: galaxy-ie-helpers-0.2.1 
-pkg-info
-setup.py
-setup.cfg
-galaxy_ie_helpers/__init__.py
-galaxy_ie_helpers.egg-info/top_level.txt
-galaxy_ie_helpers.egg-info/sources.txt
-galaxy_ie_helpers.egg-info/pkg-info
-galaxy_ie_helpers.egg-info/dependency_links.txt
-galaxy_ie_helpers.egg-info/requires.txt
-bin/get
-bin/put
+#url: https://pypi.python.org/packages/56/f6/adeef9804bbd1a8cab0048be60cf65c46e314cd322eabfc8c90bcc5981ef/galaxy-ie-helpers-0.2.1.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/galaxy_ie_helpers/__init__.py
+/galaxy_ie_helpers.egg-info/top_level.txt
+/galaxy_ie_helpers.egg-info/SOURCES.txt
+/galaxy_ie_helpers.egg-info/PKG-INFO
+/galaxy_ie_helpers.egg-info/dependency_links.txt
+/galaxy_ie_helpers.egg-info/requires.txt
+/bin/get
+/bin/put

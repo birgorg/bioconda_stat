@@ -1,13 +1,15 @@
-#package: dmrcatedata 
-namespace
-description
-external_data_store.txt
-data/dmrcatedata.rda
-data/datalist
-man/dmrcatedata.rd
-man/dmrcatedata-package.rd
-vignettes/dmrcatedata.rnw
-build/vignette.rds
-inst/doc/dmrcatedata.rnw
-inst/doc/dmrcatedata.pdf
-inst/doc/dmrcatedata.r
+#package: DMRcatedata 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/DMRcatedata_1.16.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/data/dmrcatedata.rda
+/data/datalist
+/man/dmrcatedata.Rd
+/man/DMRcatedata-package.Rd
+/vignettes/DMRcatedata.Rnw
+/build/vignette.rds
+/inst/doc/DMRcatedata.Rnw
+/inst/doc/DMRcatedata.pdf
+/inst/doc/DMRcatedata.R

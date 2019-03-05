@@ -1,0 +1,6 @@
+#package: txdb.rnorvegicus.ucsc.rn6.refgene 
+namespace
+description
+r/zzz.r
+man/package.rd
+inst/extdata/txdb.rnorvegicus.ucsc.rn6.refgene.sqlite

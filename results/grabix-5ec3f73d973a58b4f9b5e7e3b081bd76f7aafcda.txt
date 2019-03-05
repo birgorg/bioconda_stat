@@ -1,0 +1,17 @@
+#package: grabix-5ec3f73d973a58b4f9b5e7e3b081bd76f7aafcda 
+#url: https://github.com/arq5x/grabix/archive/5ec3f73.tar.gz
+ 
+/README.md
+/khash.h
+/test.sh
+/simrep.chr1.bed
+/LICENSE
+/Makefile
+/grabix.h
+/grabix_main.cpp
+/grabix.cpp
+/bgzf.c
+/bgzf.h
+/tests/empty.fastq.gz
+/tests/make-test-fastq.py
+/tests/test-fastq.py

@@ -1,0 +1,25 @@
+#package: uniprot.ws 
+namespace
+description
+news
+r/utilities.r
+r/allclasses.r
+r/methods-select.r
+r/allgenerics.r
+r/getfunctions.r
+man/colsandkeytypes.rd
+man/uniprotws-class.rd
+man/utilities.rd
+vignettes/uniprot.ws.rnw
+build/vignette.rds
+tests/uniprot.ws_unit_tests.r
+inst/doc/uniprot.ws.rnw
+inst/doc/uniprot.ws.pdf
+inst/doc/uniprot.ws.r
+inst/script/processavailablespeciesfiles.txt
+inst/unittests/test_select.r
+inst/unittests/test_serviceaccessors.r
+inst/unittests/test_utilities.r
+inst/extdata/speclist.txt
+inst/extdata/extracols.txt
+inst/extdata/keytypes.txt

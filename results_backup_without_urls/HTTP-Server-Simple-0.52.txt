@@ -1,0 +1,24 @@
+#package: http-server-simple-0.52 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+signature
+ex/sample_server
+t/00smoke.t
+t/01live.t
+t/04cgi.t
+t/02pod.t
+t/03podcoverage.t
+lib/http/server/simple.pm
+lib/http/server/simple/cgi.pm
+lib/http/server/simple/cgi/environment.pm
+inc/module/install.pm
+inc/module/install/makefile.pm
+inc/module/install/writeall.pm
+inc/module/install/base.pm
+inc/module/install/fetch.pm
+inc/module/install/can.pm
+inc/module/install/win32.pm
+inc/module/install/metadata.pm

@@ -1,0 +1,25 @@
+#package: dyebias 
+namespace
+license
+description
+r/plotfunctions.r
+r/dyebias.r
+man/dyebias.rgplot.rd
+man/dyebias.monotonicity.rd
+man/dyebias-package.rd
+man/dyebias.application.subset.rd
+man/dyebias.estimate.igsdbs.rd
+man/dyebias.boxplot.rd
+man/dyebias.monotonicityplot.rd
+man/dyebias.trendplot.rd
+man/dyebias.apply.correction.rd
+vignettes/dyebias.bib
+vignettes/gassco.pdf
+vignettes/dyebias-vignette.rnw
+vignettes/changelog
+vignettes/dyebiascompletevignette.pdf
+build/vignette.rds
+inst/citation
+inst/doc/dyebias-vignette.pdf
+inst/doc/dyebias-vignette.rnw
+inst/doc/dyebias-vignette.r

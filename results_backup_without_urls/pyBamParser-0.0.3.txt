@@ -1,0 +1,19 @@
+#package: pybamparser-0.0.3 
+readme
+pkg-info
+setup.py
+setup.cfg
+lib/pybamparser/__init__.py
+lib/pybamparser/bgzf/__init__.py
+lib/pybamparser/fasta/__init__.py
+lib/pybamparser/bam/__init__.py
+lib/pybamparser/util/odict.py
+lib/pybamparser/util/__init__.py
+lib/pybamparser/util/packer.py
+lib/pybamparser/bai/__init__.py
+lib/pybamparser/read/__init__.py
+lib/pybamparser.egg-info/top_level.txt
+lib/pybamparser.egg-info/not-zip-safe
+lib/pybamparser.egg-info/sources.txt
+lib/pybamparser.egg-info/pkg-info
+lib/pybamparser.egg-info/dependency_links.txt

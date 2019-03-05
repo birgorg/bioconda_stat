@@ -1,15 +1,17 @@
-#package: browservizdemo 
-namespace
-description
-.bbsoptions
-r/browservizdemo-class.r
-man/browservizdemo-class.rd
-vignettes/browservizdemo.rnw
-build/vignette.rds
-tests/runtests.r
-inst/index.html
-inst/scripts/browservizdemo.html
-inst/doc/browservizdemo.pdf
-inst/doc/browservizdemo.r
-inst/doc/browservizdemo.rnw
-inst/unittests/test_browservizdemo.r
+#package: BrowserVizDemo 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/BrowserVizDemo_1.11.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/.BBSoptions
+/R/BrowserVizDemo-class.R
+/man/BrowserVizDemo-class.Rd
+/vignettes/BrowserVizDemo.Rnw
+/build/vignette.rds
+/tests/runTests.R
+/inst/index.html
+/inst/scripts/browserVizDemo.html
+/inst/doc/BrowserVizDemo.pdf
+/inst/doc/BrowserVizDemo.R
+/inst/doc/BrowserVizDemo.Rnw
+/inst/unitTests/test_BrowserVizDemo.R

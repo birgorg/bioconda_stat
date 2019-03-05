@@ -1,0 +1,27 @@
+#package: convert_zero_one_based 
+#url: https://github.com/griffithlab/convert_zero_one_based/releases/download/0.0.1/convert_zero_one_based-0.0.1.tar.gz
+ 
+/README.md
+/meta.yaml
+/setup.py
+/.gitignore
+/.travis.yml
+/dist/convert_zero_one_based-0.0.1-py3.6.egg
+/convert_zero_one_based.egg-info/top_level.txt
+/convert_zero_one_based.egg-info/SOURCES.txt
+/convert_zero_one_based.egg-info/PKG-INFO
+/convert_zero_one_based.egg-info/dependency_links.txt
+/zero_one_based_conversion/cli.py
+/zero_one_based_conversion/coordinate.py
+/zero_one_based_conversion/__init__.py
+/zero_one_based_conversion/convert.py
+/zero_one_based_conversion/tests/test_coordinate.py
+/zero_one_based_conversion/tests/__init__.py
+/zero_one_based_conversion/tests/test_convert.py
+/build/lib/zero_one_based_conversion/cli.py
+/build/lib/zero_one_based_conversion/coordinate.py
+/build/lib/zero_one_based_conversion/__init__.py
+/build/lib/zero_one_based_conversion/convert.py
+/build/lib/zero_one_based_conversion/tests/test_coordinate.py
+/build/lib/zero_one_based_conversion/tests/__init__.py
+/build/lib/zero_one_based_conversion/tests/test_convert.py

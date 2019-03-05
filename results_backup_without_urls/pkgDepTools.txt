@@ -1,0 +1,24 @@
+#package: pkgdeptools 
+namespace
+description
+r/getdownloadsize.r
+r/parsecontentlength.r
+r/getinstallorder.r
+r/zzz.r
+r/makedepgraph.r
+r/basicinstallorder.r
+r/cleanpkgfield.r
+r/makepkgurl.r
+man/pkgdeptools-package.rd
+man/getinstallorder.rd
+man/getdownloadsize.rd
+man/makepkgurl.rd
+man/cleanpkgfield.rd
+man/basicinstallorder.rd
+man/makedepgraph.rd
+man/parsecontentlength.rd
+vignettes/pkgdeptools.rnw
+build/vignette.rds
+inst/doc/pkgdeptools.r
+inst/doc/pkgdeptools.rnw
+inst/doc/pkgdeptools.pdf

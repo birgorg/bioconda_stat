@@ -1,13 +1,15 @@
-#package: rnbeads.mm10 
-namespace
-description
-external_data_store.txt
-r/package.r
-data/mm10.regions.rdata
-data/mm10.cpg.rdata
-data/cpg.rdata
-data/regions.rdata
-data/mm10.rdata
-data/datalist
-man/mm10.rd
-inst/news
+#package: RnBeads.mm10 
+#url: http://bioconductor.org/packages/3.7/data/experiment/src/contrib/RnBeads.mm10_1.12.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/external_data_store.txt
+/R/package.R
+/data/mm10.regions.RData
+/data/mm10.CpG.RData
+/data/CpG.RData
+/data/regions.RData
+/data/mm10.RData
+/data/datalist
+/man/mm10.Rd
+/inst/NEWS

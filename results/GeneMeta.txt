@@ -1,17 +1,19 @@
-#package: genemeta 
-namespace
-description
-r/meta1.r
-data/nevins.rdata
-data/datalist
-man/countplot.rd
-man/zscore.rd
-man/f.q.rd
-man/dstar.rd
-man/nevins.rd
-man/tau.rd
-vignettes/genemeta.rnw
-build/vignette.rds
-inst/doc/genemeta.pdf
-inst/doc/genemeta.r
-inst/doc/genemeta.rnw
+#package: GeneMeta 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/GeneMeta_1.52.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/meta1.R
+/data/Nevins.RData
+/data/datalist
+/man/CountPlot.Rd
+/man/zscore.Rd
+/man/f.Q.Rd
+/man/dstar.Rd
+/man/Nevins.Rd
+/man/tau.Rd
+/vignettes/GeneMeta.Rnw
+/build/vignette.rds
+/inst/doc/GeneMeta.pdf
+/inst/doc/GeneMeta.R
+/inst/doc/GeneMeta.Rnw

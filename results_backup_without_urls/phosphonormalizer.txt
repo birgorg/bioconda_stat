@@ -1,0 +1,22 @@
+#package: phosphonormalizer 
+namespace
+description
+news
+r/normalizephospho.r
+data/enriched.rda
+data/non.enriched.rda
+data/datalist
+man/non.enriched.rd
+man/enriched.rd
+man/normalizephospho.rd
+vignettes/phosphonormalizer.rnw
+vignettes/vignette.rmd
+build/vignette.rds
+tests/test-all.r
+tests/testthat/test_phosphonormalizer.r
+inst/doc/vignette.html
+inst/doc/phosphonormalizer.rnw
+inst/doc/vignette.rmd
+inst/doc/vignette.r
+inst/doc/phosphonormalizer.r
+inst/doc/phosphonormalizer.pdf

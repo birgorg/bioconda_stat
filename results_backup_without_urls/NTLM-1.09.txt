@@ -1,0 +1,20 @@
+#package: ntlm-1.09 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+copying-gpl
+copying-artistic
+ntlm.pm
+md4/md4.pm
+md4/makefile.pl
+md4/makefile.old
+t/01_load.t
+t/04_v2.t
+t/02_ntlm.t
+t/03_oo.t
+t/99_pod.t
+des/makefile.pl
+des/des.pm
+des/makefile.old

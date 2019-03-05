@@ -1,0 +1,21 @@
+#package: mspuritydata 
+readme.md
+namespace
+description
+external_data_store.txt
+man/mspurity-package.rd
+inst/extdata/dims/mzml/b02_blank_test_pos.mzml
+inst/extdata/dims/mzml/b02_daph_test_pos.mzml
+inst/extdata/dims/example_results/exf-mzml.rds
+inst/extdata/dims/example_results/exs-mzml.rds
+inst/extdata/dims/example_results/exp-mzml.rds
+inst/extdata/dims/example_results/exav-mzml.rds
+inst/extdata/dims/example_results/exan-mzml.rds
+inst/extdata/dims/msfr-peaks/daph_test_pos_b02.csv
+inst/extdata/dims/msfr-peaks/blank_test_pos_b02.csv
+inst/extdata/library_spectra/library_spectra.db
+inst/extdata/lcms/mzml/lcms_2.mzml
+inst/extdata/lcms/mzml/lcmsms_2.mzml
+inst/extdata/lcms/mzml/lcmsms_1.mzml
+inst/extdata/lcms/mzml/lcms_1.mzml
+inst/extdata/lcms/example_results/xset.rds

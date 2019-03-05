@@ -1,18 +1,20 @@
-#package: geneattribution 
-readme.md
-namespace
-description
-r/geneattribution.r
-man/loadbed.rd
-man/normp.rd
-man/genemodels.rd
-man/geneattribution.rd
-vignettes/geneattribution.rmd
-build/vignette.rds
-tests/testthat.r
-tests/testthat/testgeneattribution.r
-inst/news
-inst/doc/geneattribution.html
-inst/doc/geneattribution.rmd
-inst/extdata/eqtlhaplotypeblocks.b38.bed
-inst/extdata/hicregions.b38.bed
+#package: geneAttribution 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/geneAttribution_1.6.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/DESCRIPTION
+/R/geneAttribution.R
+/man/loadBed.Rd
+/man/normP.Rd
+/man/geneModels.Rd
+/man/geneAttribution.Rd
+/vignettes/geneAttribution.Rmd
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/testGeneAttribution.R
+/inst/NEWS
+/inst/doc/geneAttribution.html
+/inst/doc/geneAttribution.Rmd
+/inst/extdata/eqtlHaplotypeBlocks.b38.bed
+/inst/extdata/hiCRegions.b38.bed

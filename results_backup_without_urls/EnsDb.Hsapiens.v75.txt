@@ -1,0 +1,6 @@
+#package: ensdb.hsapiens.v75 
+namespace
+description
+r/zzz.r
+man/package.rd
+inst/extdata/ensdb.hsapiens.v75.sqlite

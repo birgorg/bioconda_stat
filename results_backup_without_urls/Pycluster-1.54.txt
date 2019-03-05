@@ -1,0 +1,13 @@
+#package: pycluster-1.54 
+readme
+install
+pkg-info
+setup.py
+doc/cluster.pdf
+src/cluster.c
+src/cluster.h
+python/__init__.py
+python/manifest.python
+python/clustermodule.c
+python/test/readme
+python/test/test_cluster.py

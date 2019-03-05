@@ -1,0 +1,6 @@
+#package: ASCIIGenome-1.14.0 
+#url: https://github.com/dariober/ASCIIGenome/releases/download/v1.14.0/ASCIIGenome-1.14.0.zip
+ 
+/ASCIIGenome.jar
+/INSTALL.md
+/ASCIIGenome

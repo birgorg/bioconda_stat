@@ -1,11 +1,13 @@
-#package: html-element-extended-1.18 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-test.pl
-lib/html/elementsuper.pm
-lib/html/elementtable.pm
-lib/html/elementraw.pm
-lib/html/elementglob.pm
+#package: HTML-Element-Extended-1.18 
+#url: http://cpan.metacpan.org/authors/id/M/MS/MSISK/HTML-Element-Extended-1.18.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/test.pl
+/lib/HTML/ElementSuper.pm
+/lib/HTML/ElementTable.pm
+/lib/HTML/ElementRaw.pm
+/lib/HTML/ElementGlob.pm

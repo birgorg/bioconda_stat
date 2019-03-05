@@ -1,0 +1,10 @@
+#package: mesh.db 
+namespace
+description
+r/zzz.r
+man/mesh.db.rd
+tests/runtests.r
+inst/citation
+inst/news
+inst/unittests/test_select.r
+inst/extdata/mesh.db.sqlite

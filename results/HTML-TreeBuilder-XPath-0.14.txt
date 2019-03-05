@@ -1,13 +1,15 @@
-#package: html-treebuilder-xpath-0.14 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-meta.json
-t/pod_coverage.t
-t/test_following.t
-t/pod.t
-t/html-treebuilder-xpath.t
-t/test_preceding.t
-lib/html/treebuilder/xpath.pm
+#package: HTML-TreeBuilder-XPath-0.14 
+#url: http://cpan.metacpan.org/authors/id/M/MI/MIROD/HTML-TreeBuilder-XPath-0.14.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/META.json
+/t/pod_coverage.t
+/t/test_following.t
+/t/pod.t
+/t/HTML-TreeBuilder-XPath.t
+/t/test_preceding.t
+/lib/HTML/TreeBuilder/XPath.pm

@@ -1,0 +1,23 @@
+#package: parasail-python-1.1.12 
+#url: https://github.com/jeffdaily/parasail-python/archive/v1.1.12.tar.gz
+ 
+/appveyor.yml
+/README.rst
+/CHANGELOG.rst
+/MANIFEST.in
+/setup.py
+/DISCLAIMER
+/COPYING
+/.gitignore
+/setup.cfg
+/.travis.yml
+/tools/ctypesgen2.py
+/tools/ctypesgen.py
+/parasail/__init__.py
+/parasail/bindings_v1.py
+/parasail/bindings_v2.py
+/tests/test_tables.py
+/tests/test_matrix.py
+/tests/test_basic.py
+/tests/test_ssw.py
+/tests/test_io.py

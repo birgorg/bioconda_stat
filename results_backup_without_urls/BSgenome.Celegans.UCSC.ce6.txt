@@ -1,0 +1,6 @@
+#package: bsgenome.celegans.ucsc.ce6 
+namespace
+description
+r/zzz.r
+man/package.rd
+inst/extdata/single_sequences.2bit

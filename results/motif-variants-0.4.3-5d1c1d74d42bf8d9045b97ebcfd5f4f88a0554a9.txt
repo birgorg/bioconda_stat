@@ -1,9 +1,11 @@
 #package: motif-variants-0.4.3-5d1c1d74d42bf8d9045b97ebcfd5f4f88a0554a9 
-readme.md
-license
-makefile
-motif_variants.py
-install.md
-mvp
-example.vcf
-reference.fasta
+#url: https://gitlab.com/LPCDRP/motif-variants/repository/0.4.3/archive.tar.gz
+ 
+/README.md
+/LICENSE
+/Makefile
+/motif_variants.py
+/INSTALL.md
+/mvp
+/example.vcf
+/reference.fasta

@@ -1,0 +1,9 @@
+#package: lwp-mediatypes-6.02 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+t/mediatypes.t
+lib/lwp/mediatypes.pm
+lib/lwp/media.types

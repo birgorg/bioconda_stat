@@ -1,0 +1,17 @@
+#package: any2fasta-0.4.2 
+#url: https://github.com/tseemann/any2fasta/archive/v0.4.2.tar.gz
+ 
+/README.md
+/any2fasta
+/test.clw
+/test.sth
+/test.gfa
+/LICENSE
+/test.embl
+/test.gbk
+/test.fna
+/test.fq
+/test.noseq.gff
+/.gitignore
+/.travis.yml
+/test.gff

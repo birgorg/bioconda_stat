@@ -1,21 +1,23 @@
-#package: cghcall 
-namespace
-description
-r/preprocess.r
-r/cghcall.r
-r/private.r
-data/wilting.txt
-man/cghcall.rd
-man/postsegnormalize.rd
-man/cghcall-package.rd
-man/preprocess.rd
-man/wilting.rd
-man/segmentdata.rd
-man/normalize.rd
-man/expandcghcall.rd
-vignettes/cghcall.bib
-vignettes/cghcall.rnw
-build/vignette.rds
-inst/doc/cghcall.r
-inst/doc/cghcall.rnw
-inst/doc/cghcall.pdf
+#package: CGHcall 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/CGHcall_2.42.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/preprocess.R
+/R/CGHcall.R
+/R/private.R
+/data/Wilting.txt
+/man/CGHcall.Rd
+/man/postsegnormalize.Rd
+/man/CGHcall-package.Rd
+/man/preprocess.Rd
+/man/Wilting.Rd
+/man/segmentData.Rd
+/man/normalize.Rd
+/man/ExpandCGHcall.Rd
+/vignettes/CGHcall.bib
+/vignettes/CGHcall.Rnw
+/build/vignette.rds
+/inst/doc/CGHcall.R
+/inst/doc/CGHcall.Rnw
+/inst/doc/CGHcall.pdf

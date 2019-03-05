@@ -1,0 +1,32 @@
+#package: DBG2OLC-0246e46184935534eb2d5d77a064cf919bcf0913 
+#url: https://github.com/yechengxi/DBG2OLC/archive/0246e46184935534eb2d5d77a064cf919bcf0913.tar.gz
+ 
+/README.md
+/Align.h
+/getRSS.h
+/GraphSearch.h
+/DBG2OLC.cpp
+/Makefile
+/BuildContigs.h
+/Manual.docx
+/GraphSimplification.h
+/BasicDataStructure.h
+/GraphConstruction.h
+/.gitignore
+/compiled/Sparc
+/compiled/SelectLongestReads
+/compiled/AssemblyStatistics
+/compiled/DBG2OLC
+/compiled/SparseAssembler
+/utility/RunSparcConsensus.txt
+/utility/split_reads_by_backbone_readdict.py
+/utility/split_and_create_cns_batches.sh
+/utility/split_and_run_pbdagcon.sh
+/utility/split_reads_by_backbone.py
+/utility/SeqIO.py
+/utility/split_reads_by_backbone_openclose.py
+/utility/split_and_run_sparc.sh
+/utility/split_and_run_sparc.2.sh
+/utility/split_and_run_pbdagcon.path.sh
+/utility/CreateConsensusBatches.txt
+/utility/split_and_run_sparc.path.sh

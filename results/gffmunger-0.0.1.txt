@@ -1,0 +1,34 @@
+#package: gffmunger-0.0.1 
+#url: https://github.com/sanger-pathogens/gffmunger/archive/v0.0.1.tar.gz
+ 
+/README.md
+/LICENSE
+/gffutils-dumper.py
+/Vagrantfile
+/gffmunger-config.yml
+/CHANGELOG
+/setup.py
+/run_tests.sh
+/VERSION
+/.gitignore
+/.travis.yml
+/scripts/gffmunger
+/gffmunger/__init__.py
+/gffmunger/GFFMunger.py
+/gffmunger/InputTypes.py
+/gffmunger/tests/validation_tests.py
+/gffmunger/tests/gff_tests.py
+/gffmunger/tests/io_tests.py
+/gffmunger/tests/data/NOT_FASTA.fasta
+/gffmunger/tests/data/SMALL_SAMPLE.fasta.fai
+/gffmunger/tests/data/SAMPLE.fasta.fai
+/gffmunger/tests/data/SMALL_SAMPLE.gff3.gz
+/gffmunger/tests/data/.gff3.gz
+/gffmunger/tests/data/SMALL_SAMPLE_INCL_FASTA.gff3.gz
+/gffmunger/tests/data/SAMPLE.fasta
+/gffmunger/tests/data/SMALL_SAMPLE_FUBAR.gff3.gz
+/gffmunger/tests/data/SAMPLE.gff3.gz
+/gffmunger/tests/data/SMALL_SAMPLE.fasta
+/gffmunger/tests/data/SAMPLE_INCL_FASTA.gff3.gz
+/gffmunger/tests/data/NOT_GFF.gff3
+/gffmunger/tests/data/SMALL_SAMPLE_BROKEN_RELATIONS.gff3.gz

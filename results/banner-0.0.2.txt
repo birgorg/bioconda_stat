@@ -1,15 +1,17 @@
 #package: banner-0.0.2 
-readme.md
-pkg-info
-setup.py
-setup.cfg
-banner/__init__.py
-banner/_version.py
-banner/rfc.py
-banner/helpers.py
-banner/main.py
-banner.egg-info/entry_points.txt
-banner.egg-info/top_level.txt
-banner.egg-info/sources.txt
-banner.egg-info/pkg-info
-banner.egg-info/dependency_links.txt
+#url: https://files.pythonhosted.org/packages/89/a1/ca9cb7ac38a3ade6f7cc3996ae49420cebce7f420698a2012bdfd19498b6/banner-0.0.2.tar.gz
+ 
+/README.md
+/PKG-INFO
+/setup.py
+/setup.cfg
+/banner/__init__.py
+/banner/_version.py
+/banner/rfc.py
+/banner/helpers.py
+/banner/main.py
+/banner.egg-info/entry_points.txt
+/banner.egg-info/top_level.txt
+/banner.egg-info/SOURCES.txt
+/banner.egg-info/PKG-INFO
+/banner.egg-info/dependency_links.txt

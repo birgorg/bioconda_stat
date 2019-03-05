@@ -1,0 +1,25 @@
+#package: test-exception-0.43 
+meta.yml
+makefile.pl
+manifest
+changes
+meta.json
+manifest.skip
+t/lives_and.t
+t/exception.t
+t/return.t
+t/stacktrace.t
+t/import.t
+t/preserve.t
+t/caller.t
+t/throws_ok.t
+t/rt.t
+t/edge-cases.t
+t/isa.t
+lib/test/exception.pm
+xt/spelling.t
+xt/perlcriticrc
+xt/documented.t
+xt/pod.t
+xt/perlcritic.t
+xt/distmanifest.t

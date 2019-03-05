@@ -1,18 +1,20 @@
 #package: ga4ghmongo-0.0.1.2 
-readme
-pkg-info
-setup.py
-setup.cfg
-ga4ghmongo.egg-info/top_level.txt
-ga4ghmongo.egg-info/sources.txt
-ga4ghmongo.egg-info/pkg-info
-ga4ghmongo.egg-info/dependency_links.txt
-ga4ghmongo.egg-info/requires.txt
-ga4ghmongo/__init__.py
-ga4ghmongo/version.py
-ga4ghmongo/utils.py
-ga4ghmongo/schema/__init__.py
-ga4ghmongo/schema/models/__init__.py
-ga4ghmongo/schema/models/variants.py
-ga4ghmongo/schema/models/base.py
-ga4ghmongo/schema/models/references.py
+#url: https://pypi.python.org/packages/50/7c/14c9ea8f8f2edb7871233c4dac8c32094acd274ce7f3c9e917c4a856a756/ga4ghmongo-0.0.1.2.tar.gz
+ 
+/README
+/PKG-INFO
+/setup.py
+/setup.cfg
+/ga4ghmongo.egg-info/top_level.txt
+/ga4ghmongo.egg-info/SOURCES.txt
+/ga4ghmongo.egg-info/PKG-INFO
+/ga4ghmongo.egg-info/dependency_links.txt
+/ga4ghmongo.egg-info/requires.txt
+/ga4ghmongo/__init__.py
+/ga4ghmongo/version.py
+/ga4ghmongo/utils.py
+/ga4ghmongo/schema/__init__.py
+/ga4ghmongo/schema/models/__init__.py
+/ga4ghmongo/schema/models/variants.py
+/ga4ghmongo/schema/models/base.py
+/ga4ghmongo/schema/models/references.py

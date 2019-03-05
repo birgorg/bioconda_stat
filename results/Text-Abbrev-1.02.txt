@@ -1,12 +1,14 @@
-#package: text-abbrev-1.02 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-meta.json
-t/abbrev.t
-t/release-pod-syntax.t
-lib/text/abbrev.pm
+#package: Text-Abbrev-1.02 
+#url: https://cpan.metacpan.org/authors/id/F/FL/FLORA/Text-Abbrev-1.02.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/Abbrev.t
+/t/release-pod-syntax.t
+/lib/Text/Abbrev.pm

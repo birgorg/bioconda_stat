@@ -1,13 +1,15 @@
-#package: pycluster-1.54 
-readme
-install
-pkg-info
-setup.py
-doc/cluster.pdf
-src/cluster.c
-src/cluster.h
-python/__init__.py
-python/manifest.python
-python/clustermodule.c
-python/test/readme
-python/test/test_cluster.py
+#package: Pycluster-1.54 
+#url: http://bonsai.hgc.jp/~mdehoon/software/cluster/Pycluster-1.54.tar.gz
+ 
+/README
+/INSTALL
+/PKG-INFO
+/setup.py
+/doc/cluster.pdf
+/src/cluster.c
+/src/cluster.h
+/python/__init__.py
+/python/MANIFEST.python
+/python/clustermodule.c
+/python/test/README
+/python/test/test_Cluster.py

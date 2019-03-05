@@ -1,0 +1,15 @@
+#package: sharedmem-0.3.5 
+readme.rst
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+sharedmem/parallel.py
+sharedmem/__init__.py
+sharedmem/sharedmem.py
+sharedmem.egg-info/top_level.txt
+sharedmem.egg-info/not-zip-safe
+sharedmem.egg-info/sources.txt
+sharedmem.egg-info/pkg-info
+sharedmem.egg-info/dependency_links.txt
+sharedmem.egg-info/requires.txt

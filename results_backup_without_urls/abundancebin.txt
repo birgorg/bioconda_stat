@@ -1,0 +1,15 @@
+#package: abundancebin 
+2_genome_50000.fasta
+myhash.h
+profilemanager.h
+mymalloc.cpp
+main.cpp
+mystack.cpp
+mymalloc.h
+myhash.cpp
+mystringhash.cpp
+mystack.h
+readme
+mystringhash.h
+profilemanager.cpp
+makefile

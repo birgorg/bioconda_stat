@@ -1,0 +1,5 @@
+#package: Parsnp-Linux64-v1.2 
+#url: https://github.com/marbl/parsnp/releases/download/v1.2/parsnp-Linux64-v1.2.tar.gz
+ 
+/README
+/parsnp

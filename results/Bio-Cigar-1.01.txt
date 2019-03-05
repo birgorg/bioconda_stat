@@ -1,13 +1,15 @@
-#package: bio-cigar-1.01 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-meta.json
-cpanfile
-t/release-pod-syntax.t
-t/basic.t
-lib/bio/cigar.pm
+#package: Bio-Cigar-1.01 
+#url: https://cpan.metacpan.org/authors/id/T/TS/TSIBLEY/Bio-Cigar-1.01.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/cpanfile
+/t/release-pod-syntax.t
+/t/basic.t
+/lib/Bio/Cigar.pm

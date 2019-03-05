@@ -1,0 +1,15 @@
+#package: acme-damn-0.08 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+meta.json
+damn.pm
+damn.xs
+t/4name.t
+t/5bad.t
+t/2damn.t
+t/3aliases.t
+t/6bless.t
+t/1compile.t

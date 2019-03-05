@@ -1,0 +1,14 @@
+#package: mcpcounter-a79614eee002c88c64725d69140c7653e7c379b4 
+readme.md
+signatures/genes.txt
+signatures/license.txt
+signatures/probesets.txt
+source/namespace
+source/description
+source/license
+source/r/mcpcounter.r
+source/data/null_models.rdata
+source/data/mcpcounterexampledata.rdata
+source/man/test_for_infiltration.rd
+source/man/mcpcounter.estimate.rd
+source/man/appendsignatures.rd

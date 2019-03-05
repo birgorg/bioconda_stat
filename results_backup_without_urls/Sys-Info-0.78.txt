@@ -1,0 +1,19 @@
+#package: sys-info-0.78 
+meta.yml
+license
+todo
+readme
+makefile.pl
+manifest
+changes
+meta.json
+spec
+build.pl
+.perlcriticrc
+t/201-pod.t
+t/03-basic.t
+t/202-pod-coverage.t
+t/04-driver.t
+builder/build.pm
+builder/build/spec.pm
+lib/sys/info.pm

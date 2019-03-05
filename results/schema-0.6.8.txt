@@ -1,13 +1,15 @@
 #package: schema-0.6.8 
-test_schema.py
-readme.rst
-pkg-info
-manifest.in
-license-mit
-setup.py
-setup.cfg
-schema.py
-schema.egg-info/top_level.txt
-schema.egg-info/sources.txt
-schema.egg-info/pkg-info
-schema.egg-info/dependency_links.txt
+#url: https://files.pythonhosted.org/packages/aa/2a/367594933a260273dea8cb38bbfe194681fdb66895e6bf41844049d3ff70/schema-0.6.8.tar.gz
+ 
+/test_schema.py
+/README.rst
+/PKG-INFO
+/MANIFEST.in
+/LICENSE-MIT
+/setup.py
+/setup.cfg
+/schema.py
+/schema.egg-info/top_level.txt
+/schema.egg-info/SOURCES.txt
+/schema.egg-info/PKG-INFO
+/schema.egg-info/dependency_links.txt

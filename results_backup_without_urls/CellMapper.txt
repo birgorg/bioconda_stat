@@ -1,0 +1,26 @@
+#package: cellmapper 
+namespace
+description
+.bbsoptions
+r/cmsearch.r
+r/cm.utilities.r
+r/replicatemanuscript.r
+r/cmprep.r
+r/cellmapperlist-class.r
+r/cm.inputchecks.r
+data/positivecontrolgenes.rda
+data/negativecontrolgenes.rda
+data/examplequerygenes.rda
+man/cellmapperlist-class.rd
+man/replicatemanuscript.rd
+man/cmsearch.rd
+man/cmprep.rd
+man/examplegenelists.rd
+vignettes/bibliography.bib
+vignettes/cellmapper.rnw
+build/vignette.rds
+inst/citation
+inst/news
+inst/doc/cellmapper.r
+inst/doc/cellmapper.rnw
+inst/doc/cellmapper.pdf

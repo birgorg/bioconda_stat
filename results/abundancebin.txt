@@ -1,15 +1,17 @@
 #package: abundancebin 
-2_genome_50000.fasta
-myhash.h
-profilemanager.h
-mymalloc.cpp
-main.cpp
-mystack.cpp
-mymalloc.h
-myhash.cpp
-mystringhash.cpp
-mystack.h
-readme
-mystringhash.h
-profilemanager.cpp
-makefile
+#url: http://omics.informatics.indiana.edu/mg/get.php?justdoit=yes&software=abundancebin.1.0.1.tar.gz
+ 
+/2_genome_50000.fasta
+/myHash.h
+/profileManager.h
+/myMalloc.cpp
+/main.cpp
+/myStack.cpp
+/myMalloc.h
+/myHash.cpp
+/myStringHash.cpp
+/myStack.h
+/readme
+/myStringHash.h
+/profileManager.cpp
+/makefile

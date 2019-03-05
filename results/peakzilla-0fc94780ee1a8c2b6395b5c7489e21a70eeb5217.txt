@@ -1,0 +1,6 @@
+#package: peakzilla-0fc94780ee1a8c2b6395b5c7489e21a70eeb5217 
+#url: https://github.com/steinmann/peakzilla/archive/0fc94780ee1a8c2b6395b5c7489e21a70eeb5217.tar.gz
+ 
+/README
+/COPYING
+/peakzilla.py

@@ -1,0 +1,15 @@
+#package: xml-entities 
+meta.yml
+ignore.txt
+readme
+makefile.pl
+manifest
+changes
+build.pl
+t/01-xml-entities.t
+t/02-unicode.t
+t/00-xml-entities-data.t
+lib/xml/entities.pm
+lib/xml/entities/data.pm
+lib/xml/entities/data.pod
+bin/download-entities.pl

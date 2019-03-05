@@ -1,14 +1,16 @@
 #package: pyega3-3.0.21 
-readme.txt
-pkg-info
-setup.py
-setup.cfg
-pyega3/__init__.py
-pyega3/pyega3.py
-test/test_pyega3.py
-pyega3.egg-info/entry_points.txt
-pyega3.egg-info/top_level.txt
-pyega3.egg-info/sources.txt
-pyega3.egg-info/pkg-info
-pyega3.egg-info/dependency_links.txt
-pyega3.egg-info/requires.txt
+#url: https://pypi.io/packages/source/p/pyega3/pyega3-3.0.21.tar.gz
+ 
+/README.txt
+/PKG-INFO
+/setup.py
+/setup.cfg
+/pyega3/__init__.py
+/pyega3/pyega3.py
+/test/test_pyega3.py
+/pyega3.egg-info/entry_points.txt
+/pyega3.egg-info/top_level.txt
+/pyega3.egg-info/SOURCES.txt
+/pyega3.egg-info/PKG-INFO
+/pyega3.egg-info/dependency_links.txt
+/pyega3.egg-info/requires.txt

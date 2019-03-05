@@ -1,0 +1,16 @@
+#package: xml-sax-writer-0.57 
+readme.md
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+changes
+manifest.skip
+t/05basic.t
+t/20bugs.t
+t/10consumers.t
+t/00-compile.t
+lib/xml/sax/writer.pm
+lib/xml/sax/writer/xml.pm

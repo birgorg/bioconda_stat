@@ -1,16 +1,18 @@
-#package: module-build-tiny-0.039 
-meta.yml
-todo
-license
-readme
-manifest
-dist.ini
-changes
-meta.json
-install
-build.pl
-t/simple.t
-t/release-pod-syntax.t
-t/00-compile.t
-t/lib/distgen.pm
-lib/module/build/tiny.pm
+#package: Module-Build-Tiny-0.039 
+#url: https://cpan.metacpan.org/authors/id/L/LE/LEONT/Module-Build-Tiny-0.039.tar.gz
+ 
+/META.yml
+/Todo
+/LICENSE
+/README
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/INSTALL
+/Build.PL
+/t/simple.t
+/t/release-pod-syntax.t
+/t/00-compile.t
+/t/lib/DistGen.pm
+/lib/Module/Build/Tiny.pm

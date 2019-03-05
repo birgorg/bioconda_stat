@@ -1,0 +1,25 @@
+#package: slqpcr 
+namespace
+description
+r/genestabm.r
+r/normpcr.r
+r/selecthkgenes.r
+r/relquantpcr.r
+r/geommean.r
+data/slqpcrdata.rdata
+data/vandesompele.rdata
+man/selecthkgenes.rd
+man/normpcr.rd
+man/vandesompele.rd
+man/slqpcr-package.rd
+man/genestabm.rd
+man/geommean.rd
+man/relquantpcr.rd
+man/slqpcrdata.rd
+vignettes/sllogo.png
+vignettes/slqpcr.rnw
+build/vignette.rds
+inst/citation
+inst/doc/slqpcr.r
+inst/doc/slqpcr.pdf
+inst/doc/slqpcr.rnw

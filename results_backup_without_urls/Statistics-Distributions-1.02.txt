@@ -1,0 +1,6 @@
+#package: statistics-distributions-1.02 
+makefile.pl
+manifest
+changes
+test.pl
+distributions.pm

@@ -1,9 +1,11 @@
 #package: fakemp-0.9.1 
-pkg-info
-setup.py
-setup.cfg
-lib/fakemp/__init__.py
-fakemp.egg-info/top_level.txt
-fakemp.egg-info/sources.txt
-fakemp.egg-info/pkg-info
-fakemp.egg-info/dependency_links.txt
+#url: https://pypi.python.org/packages/source/f/fakemp/fakemp-0.9.1.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/lib/fakemp/__init__.py
+/fakemp.egg-info/top_level.txt
+/fakemp.egg-info/SOURCES.txt
+/fakemp.egg-info/PKG-INFO
+/fakemp.egg-info/dependency_links.txt

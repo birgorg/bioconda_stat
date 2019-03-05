@@ -1,8 +1,10 @@
-#package: bsgenome.drerio.ucsc.danrer7 
-namespace
-description
-r/zzz.r
-man/package.rd
-inst/extdata/zv9_na.rda
-inst/extdata/single_sequences.2bit
-inst/extdata/zv9_scaffold.rda
+#package: BSgenome.Drerio.UCSC.danRer7 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/BSgenome.Drerio.UCSC.danRer7_1.4.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/zzz.R
+/man/package.Rd
+/inst/extdata/Zv9_NA.rda
+/inst/extdata/single_sequences.2bit
+/inst/extdata/Zv9_scaffold.rda

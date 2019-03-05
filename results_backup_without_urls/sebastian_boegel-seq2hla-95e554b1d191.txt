@@ -1,0 +1,24 @@
+#package: sebastian_boegel-seq2hla-95e554b1d191 
+readme.txt
+fourdigits.pyc
+fourdigits.py
+command.r
+command_fourdigit.r
+seq2hla.py
+.hg_archival.txt
+hlai.dbmhc
+hlaii.dbmhc
+references/hla2.ex2.plus75.fasta
+references/hla2.ex2.plus75.3.ebwt
+references/classiwithoutnqex2-3.plus75.1.ebwt
+references/hla2.ex2.plus75.4.ebwt
+references/classiwithoutnqex2-3.plus75.rev.1.ebwt
+references/hla2.ex2.plus75.2.ebwt
+references/classiwithoutnqex2-3.plus75.fasta
+references/classiwithoutnqex2-3.plus75.3.ebwt
+references/classiwithoutnqex2-3.plus75.2.ebwt
+references/hla2.ex2.plus75.rev.2.ebwt
+references/classiwithoutnqex2-3.plus75.4.ebwt
+references/hla2.ex2.plus75.1.ebwt
+references/hla2.ex2.plus75.rev.1.ebwt
+references/classiwithoutnqex2-3.plus75.rev.2.ebwt

@@ -1,0 +1,20 @@
+#package: peca 
+namespace
+description
+r/calculatesi.r
+r/tukey.r
+r/flattencellindices.r
+r/peca.r
+r/psim.r
+r/filterrots.r
+r/pecasi.r
+man/peca.rd
+man/pecasi.rd
+vignettes/diagram_peca.pdf
+vignettes/peca.rnw
+build/vignette.rds
+inst/news
+inst/doc/peca.r
+inst/doc/peca.pdf
+inst/doc/peca.rnw
+inst/extdata/peptides.tsv

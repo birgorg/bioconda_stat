@@ -1,11 +1,13 @@
-#package: www-robotrules-6.02 
-meta.yml
-readme
-makefile.pl
-manifest
-changes
-t/rules-dbm.t
-t/rules.t
-t/misc/dbmrobot
-lib/www/robotrules.pm
-lib/www/robotrules/anydbm_file.pm
+#package: WWW-RobotRules-6.02 
+#url: https://cpan.metacpan.org/authors/id/G/GA/GAAS/WWW-RobotRules-6.02.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/rules-dbm.t
+/t/rules.t
+/t/misc/dbmrobot
+/lib/WWW/RobotRules.pm
+/lib/WWW/RobotRules/AnyDBM_File.pm

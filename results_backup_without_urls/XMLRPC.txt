@@ -1,0 +1,11 @@
+#package: xmlrpc 
+namespace
+changes
+description
+r/serialize.r
+man/xml.rpc.rd
+tests/types.r
+tests/pingomatic.r
+tests/xmlrpctypes.xml
+web/index.html.in
+web/gnumakefile

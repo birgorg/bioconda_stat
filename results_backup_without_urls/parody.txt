@@ -1,0 +1,22 @@
+#package: parody 
+readme.md
+namespace
+description
+news
+r/mv.calout.detect.r
+r/cpexchc.r
+r/univ.r
+data/bushfire.r
+data/tcost.r
+man/mv.calout.detect.rd
+man/box.scale.rd
+man/tukeyor.rd
+man/calout.detect.rd
+man/bushfire.rd
+man/shorth.rd
+man/tcost.rd
+vignettes/parody.rnw
+build/vignette.rds
+inst/doc/parody.r
+inst/doc/parody.pdf
+inst/doc/parody.rnw

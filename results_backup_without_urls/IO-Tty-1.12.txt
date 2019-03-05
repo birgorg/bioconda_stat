@@ -1,0 +1,12 @@
+#package: io-tty-1.12 
+meta.yml
+tty.pm
+readme
+makefile.pl
+manifest
+tty.xs
+meta.json
+changelog
+try
+pty.pm
+t/test.t

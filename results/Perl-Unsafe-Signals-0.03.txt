@@ -1,12 +1,14 @@
-#package: perl-unsafe-signals-0.03 
-meta.yml
-readme
-makefile.pl
-manifest
-signals.xs
-changes
-manifest.skip
-signals.pm
-t/01nofilter.t
-t/02filter.t
-t/pod.t
+#package: Perl-Unsafe-Signals-0.03 
+#url: https://cpan.metacpan.org/authors/id/R/RG/RGARCIA/Perl-Unsafe-Signals-0.03.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/Signals.xs
+/Changes
+/MANIFEST.SKIP
+/Signals.pm
+/t/01nofilter.t
+/t/02filter.t
+/t/pod.t

@@ -1,0 +1,21 @@
+#package: idiogram 
+namespace
+description
+r/idiogram.r
+data/idiogramexample.rda
+data/rn.cytoband.rda
+data/hs.cytoband.rda
+data/mm.cytoband.rda
+data/cf.cytoband.rda
+data/datalist
+man/idiogramexample.rd
+man/buildchromlocation.2.rd
+man/cytoband.rd
+man/hs.cytoband.rd
+man/idiograb.rd
+man/idiogram.rd
+vignettes/idiogram.rnw
+build/vignette.rds
+inst/doc/idiogram.rnw
+inst/doc/idiogram.pdf
+inst/doc/idiogram.r

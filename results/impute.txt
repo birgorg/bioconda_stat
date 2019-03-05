@@ -1,10 +1,12 @@
 #package: impute 
-namespace
-description
-changelog
-info
-r/allknnimp.r
-data/khanmiss.rda
-man/impute.knn.rd
-man/khanmiss.rd
-src/knnimpute.f
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/impute_1.54.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/ChangeLog
+/info
+/R/allknnimp.R
+/data/khanmiss.rda
+/man/impute.knn.Rd
+/man/khanmiss.Rd
+/src/knnimpute.f

@@ -1,10 +1,12 @@
-#package: text-parsewords-3.30 
-meta.yml
-readme
-makefile.pl
-manifest
-meta.json
-changes
-t/parsewords.t
-t/taint.t
-lib/text/parsewords.pm
+#package: Text-ParseWords-3.30 
+#url: https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Text-ParseWords-3.30.tar.gz
+ 
+/META.yml
+/README
+/Makefile.PL
+/MANIFEST
+/META.json
+/CHANGES
+/t/ParseWords.t
+/t/taint.t
+/lib/Text/ParseWords.pm

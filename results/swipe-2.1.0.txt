@@ -1,0 +1,24 @@
+#package: swipe-2.1.0 
+#url: https://github.com/torognes/swipe/archive/v2.1.0.tar.gz
+ 
+/README.md
+/scoring.pdf
+/search63.cc
+/search7.cc
+/swipe.cc
+/README
+/stats.cc
+/hits.cc
+/Makefile
+/asnparse.cc
+/search16s.cc
+/search16.cc
+/CHANGES
+/query.cc
+/align.cc
+/COPYING
+/matrices.cc
+/blastkar_partial.h
+/blastkar_partial.c
+/swipe.h
+/database.cc

@@ -1,0 +1,26 @@
+#package: http-cookies-6.04 
+readme.md
+meta.yml
+perlcriticrc
+license
+makefile.pl
+manifest
+dist.ini
+contributors
+changes
+meta.json
+cpanfile
+install
+tidyall.ini
+perltidyrc
+t/cookies.t
+t/10-original_spec.t
+t/00-report-prereqs.dd
+t/00-report-prereqs.t
+t/publicsuffix.t
+t/11-rfc_2965.t
+lib/http/cookies.pm
+lib/http/cookies/microsoft.pm
+lib/http/cookies/netscape.pm
+xt/release/cpan-changes.t
+xt/author/tidyall.t

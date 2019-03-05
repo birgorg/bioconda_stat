@@ -1,0 +1,18 @@
+#package: empiricalbrownsmethod 
+namespace
+license
+description
+r/ebm.r
+data/ebmtestdata.rdata
+man/kostsmethod.rd
+man/empiricalbrownsmethod.rd
+man/ebmtestdata.rd
+vignettes/ebmvignette.rmd
+vignettes/ebmvignette.md
+build/vignette.rds
+tests/test-all.r
+tests/testthat/test_ebm_main.r
+inst/news
+inst/doc/ebmvignette.rmd
+inst/doc/ebmvignette.html
+inst/doc/ebmvignette.r

@@ -1,21 +1,23 @@
-#package: lpeadj 
-namespace
-description
-r/lpeadj.r
-man/adjbaseolig.error.step1.rd
-man/adjbaseolig.error.step2.rd
-man/calculatelpeadj.rd
-man/lpeadj.rd
-man/adjbaseolig.error.rd
-vignettes/lpeadj.rnw
-vignettes/isorot.sty
-vignettes/fig/fprpvalhist10reps4.eps
-vignettes/fig/meanmedianvar3.eps
-vignettes/fig/meanmedianvar3.jpg
-vignettes/fig/hgu95greyscale1.eps
-vignettes/fig/fprpvalhist10reps4.jpg
-vignettes/fig/hgu95greyscale1.jpg
-build/vignette.rds
-inst/doc/lpeadj.r
-inst/doc/lpeadj.pdf
-inst/doc/lpeadj.rnw
+#package: LPEadj 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/LPEadj_1.40.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/LPEadj.R
+/man/adjBaseOlig.error.step1.Rd
+/man/adjBaseOlig.error.step2.Rd
+/man/calculateLpeAdj.Rd
+/man/lpeAdj.Rd
+/man/adjBaseOlig.error.Rd
+/vignettes/LPEadj.Rnw
+/vignettes/isorot.sty
+/vignettes/fig/FPRPvalHist10Reps4.EPS
+/vignettes/fig/MeanMedianVar3.eps
+/vignettes/fig/MeanMedianVar3.jpg
+/vignettes/fig/HGU95GreyScale1.eps
+/vignettes/fig/FPRPvalHist10Reps4.jpg
+/vignettes/fig/HGU95GreyScale1.jpg
+/build/vignette.rds
+/inst/doc/LPEadj.R
+/inst/doc/LPEadj.pdf
+/inst/doc/LPEadj.Rnw

@@ -1,0 +1,26 @@
+#package: moosex-types-stringlike-0.003 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+dist.ini
+changes
+contributing
+meta.json
+cpanfile
+tidyall.ini
+perlcritic.rc
+t/stringable.t
+t/arrayrefs.t
+t/00-report-prereqs.t
+lib/moosex/types/stringlike.pm
+xt/release/portability.t
+xt/release/minimum-version.t
+xt/release/test-version.t
+xt/release/distmeta.t
+xt/release/pod-syntax.t
+xt/release/pod-coverage.t
+xt/author/critic.t
+xt/author/pod-spell.t
+xt/author/00-compile.t

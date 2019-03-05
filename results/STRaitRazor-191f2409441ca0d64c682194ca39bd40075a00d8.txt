@@ -1,0 +1,23 @@
+#package: STRaitRazor-191f2409441ca0d64c682194ca39bd40075a00d8 
+#url: https://github.com/Ahhgust/STRaitRazor/archive/191f2409441ca0d64c682194ca39bd40075a00d8.tar.gz
+ 
+/README.md
+/Forenseq.config
+/trie.h
+/str8rzr
+/lookup.h
+/LICENSE.txt
+/Makefile
+/Powerseq.config
+/parseConfig.cpp
+/configFile
+/lookup.cpp
+/constants.h
+/batchCstr8.bat
+/str8rzr.exe
+/oldconfigfile
+/str8.h
+/str8.cpp
+/trie.cpp
+/str8rzr_osX
+/Forenseq.config.strs

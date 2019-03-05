@@ -1,0 +1,36 @@
+#package: lambda-lambda-v1.0.3 
+#url: https://github.com/seqan/lambda/archive/lambda-v1.0.3.tar.gz
+ 
+/INFO
+/LICENSE-GPL3.rst
+/LICENSE-BSD.rst
+/README.rst
+/CMakeLists.txt
+/.gitmodules
+/.travis.yml
+/LICENSE.rst
+/tests/db_prot_sa.md5sums.gz
+/tests/db_prot.fasta.gz
+/tests/db_trans_fm.md5sums.gz
+/tests/db_trans_sa.md5sums.gz
+/tests/db_nucl.fasta.gz
+/tests/queries_nucl.fasta.gz
+/tests/queries_prot.fasta.gz
+/tests/db_nucl_sa.md5sums.gz
+/tests/CMakeLists.txt
+/tests/db_prot_fm.md5sums.gz
+/tests/search_test_outfile.md5sums.gz
+/tests/db_nucl_fm.md5sums.gz
+/tests/maintests.sh
+/src/lambda_indexer.cpp
+/src/lambda_indexer.hpp
+/src/match.hpp
+/src/misc.hpp
+/src/lambda.hpp
+/src/output.hpp
+/src/lambda_indexer_misc.hpp
+/src/holders.hpp
+/src/CMakeLists.txt
+/src/lambda.cpp
+/src/options.hpp
+/src/radix_inplace.h

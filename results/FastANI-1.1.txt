@@ -1,0 +1,32 @@
+#package: FastANI-1.1 
+#url: https://github.com/ParBLiSS/FastANI/archive/v1.1.tar.gz
+ 
+/README.md
+/configure.ac
+/LICENSE
+/INSTALL.txt
+/Makefile.in
+/bootstrap.sh
+/.gitignore
+/scripts/visualize.R
+/scripts/splitDatabase.sh
+/data/Escherichia_coli_str_K12_MG1655.fna
+/data/Shigella_flexneri_2a_01.fna
+/src/common/README.md
+/src/common/kseq.h
+/src/common/prettyprint.hpp
+/src/common/argvparser.hpp
+/src/common/murmur3.h
+/src/common/memcpyLink.h
+/src/map/include/map_parameters.hpp
+/src/map/include/commonFunc.hpp
+/src/map/include/MIIteratorL2.hpp
+/src/map/include/parseCmdArgs.hpp
+/src/map/include/computeMap.hpp
+/src/map/include/map_stats.hpp
+/src/map/include/base_types.hpp
+/src/map/include/slidingMap.hpp
+/src/map/include/winSketch.hpp
+/src/cgi/core_genome_identity.cpp
+/src/cgi/include/computeCoreIdentity.hpp
+/src/cgi/include/cgid_types.hpp

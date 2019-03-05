@@ -1,0 +1,20 @@
+#package: nanoplot-1.19.0 
+readme.md
+readme.rst
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+scripts/test.sh
+nanoplot/filteroptions.py
+nanoplot/__init__.py
+nanoplot/version.py
+nanoplot/nanoplot.py
+nanoplot/utils.py
+nanoplot.egg-info/entry_points.txt
+nanoplot.egg-info/top_level.txt
+nanoplot.egg-info/sources.txt
+nanoplot.egg-info/pkg-info
+nanoplot.egg-info/dependency_links.txt
+nanoplot.egg-info/requires.txt
+extra/color_options.txt

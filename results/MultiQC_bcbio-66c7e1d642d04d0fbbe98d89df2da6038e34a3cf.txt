@@ -1,0 +1,12 @@
+#package: MultiQC_bcbio-66c7e1d642d04d0fbbe98d89df2da6038e34a3cf 
+#url: https://github.com/MultiQC/MultiQC_bcbio/archive/66c7e1d.tar.gz
+ 
+/README.md
+/LICENSE
+/MANIFEST.in
+/setup.py
+/.gitignore
+/.travis.yml
+/multiqc_bcbio/srna.py
+/multiqc_bcbio/__init__.py
+/multiqc_bcbio/bcbio.py

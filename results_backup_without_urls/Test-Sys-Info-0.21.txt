@@ -1,0 +1,26 @@
+#package: test-sys-info-0.21 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+changes
+meta.json
+spec
+build.pl
+.perlcriticrc
+t/03-basic.t
+builder/lib/build.pm
+builder/lib/build/constants.pm
+builder/lib/build/spec.pm
+builder/lib/build/util.pm
+builder/templates/tools/makefile.pl
+builder/templates/tools/makefile.pl.hook
+builder/templates/tools/builder.header
+builder/templates/tools/build.pl
+builder/templates/pod/author.pod
+builder/templates/pod/monolith-warning.pod
+lib/test/sys/info.pm
+lib/test/sys/info/driver.pm
+xt/author/201-pod.t
+xt/author/202-pod-coverage.t

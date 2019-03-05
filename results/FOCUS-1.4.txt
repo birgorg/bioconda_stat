@@ -1,0 +1,17 @@
+#package: FOCUS-1.4 
+#url: https://github.com/metageni/FOCUS/archive/1.4.tar.gz
+ 
+/README.md
+/CHANGELOG
+/MANIFEST.in
+/setup.py
+/COPYING
+/.gitignore
+/focus_app/db.zip
+/focus_app/focus.py
+/tests/test_focus.py
+/tests/data/k6_small_sample_empty_record.txt
+/tests/data/k6_small_sample.txt
+/tests/data/mock_sample.fasta
+/tests/data/mock_sample_empty.fasta
+/logo/focus_small_logo.png

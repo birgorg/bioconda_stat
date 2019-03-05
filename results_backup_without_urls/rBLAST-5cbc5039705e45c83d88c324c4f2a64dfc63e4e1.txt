@@ -1,0 +1,13 @@
+#package: rblast-5cbc5039705e45c83d88c324c4f2a64dfc63e4e1 
+readme.md
+namespace
+license
+appveyor.yml
+description
+.rbuildignore
+.gitignore
+.travis.yml
+r/blast.r
+r/aaa.r
+man/blast.rd
+inst/examples/rna_example.fasta

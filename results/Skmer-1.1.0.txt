@@ -1,0 +1,12 @@
+#package: Skmer-1.1.0 
+#url: https://github.com/shahab-sarmashghi/Skmer/archive/1.1.0.tar.gz
+ 
+/README.md
+/LICENSE
+/setup.py
+/data/qry.fastq
+/data/ref_dir/ref_2.fastq
+/data/ref_dir/ref_1.fastq
+/data/ref_dir/ref_3.fastq
+/skmer/__init__.py
+/skmer/__main__.py

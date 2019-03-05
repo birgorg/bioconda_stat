@@ -1,7 +1,9 @@
 #package: express-1.5.1-linux_x86_64 
-license
-readme
-express
-sample_data/transcripts.fasta
-sample_data/reads_1.fastq
-sample_data/reads_2.fastq
+#url: https://depot.galaxyproject.org/software/express/express_1.5.1_linux_x64.tar.gz
+ 
+/LICENSE
+/README
+/express
+/sample_data/transcripts.fasta
+/sample_data/reads_1.fastq
+/sample_data/reads_2.fastq

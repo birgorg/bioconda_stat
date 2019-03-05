@@ -1,0 +1,33 @@
+#package: mosdepth-0.2.4 
+#url: https://github.com/brentp/mosdepth/archive/v0.2.4.tar.gz
+ 
+/README.md
+/mosdepth.nimble
+/LICENSE
+/CHANGES.md
+/functional-tests.sh
+/.gitignore
+/mosdepth.nim
+/.travis.yml
+/scripts/plot-dist.py
+/scripts/build.sh
+/scripts/plot-threads.py
+/scripts/install.sh
+/scripts/compare-time.sh
+/scripts/hbb.sh
+/tests/empty-tids.bed
+/tests/empty-tids.bam.bai
+/tests/track.bed
+/tests/empty-tids.bam
+/tests/ovl.bam.bai
+/tests/big.bam.csi
+/tests/bad.bed
+/tests/unordered.bed
+/tests/nim.cfg
+/tests/nanopore.bam
+/tests/funcs.nim
+/tests/missing.bed
+/tests/ovl.bam
+/tests/nanopore.bam.bai
+/tests/big.bam
+/tests/all.nim

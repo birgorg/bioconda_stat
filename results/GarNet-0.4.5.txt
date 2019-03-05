@@ -1,13 +1,15 @@
-#package: garnet-0.4.5 
-pkg-info
-setup.py
-setup.cfg
-garnet.egg-info/top_level.txt
-garnet.egg-info/sources.txt
-garnet.egg-info/pkg-info
-garnet.egg-info/dependency_links.txt
-garnet.egg-info/requires.txt
-garnet/__init__.py
-garnet/summary.jinja
-garnet/garnet.py
-garnet/__main__.py
+#package: GarNet-0.4.5 
+#url: https://pypi.io/packages/source/g/garnet/GarNet-0.4.5.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/setup.cfg
+/GarNet.egg-info/top_level.txt
+/GarNet.egg-info/SOURCES.txt
+/GarNet.egg-info/PKG-INFO
+/GarNet.egg-info/dependency_links.txt
+/GarNet.egg-info/requires.txt
+/GarNet/__init__.py
+/GarNet/summary.jinja
+/GarNet/garnet.py
+/GarNet/__main__.py

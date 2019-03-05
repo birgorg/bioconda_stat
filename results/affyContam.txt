@@ -1,12 +1,14 @@
-#package: affycontam 
-namespace
-description
-r/setregion.r
-man/setrectregion.rd
-vignettes/affycontam.rnw
-vignettes/lkcomp.png
-vignettes/acon.png
-build/vignette.rds
-inst/doc/affycontam.r
-inst/doc/affycontam.rnw
-inst/doc/affycontam.pdf
+#package: affyContam 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/affyContam_1.38.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/setRegion.R
+/man/setRectRegion.Rd
+/vignettes/affyContam.Rnw
+/vignettes/lkcomp.png
+/vignettes/acon.png
+/build/vignette.rds
+/inst/doc/affyContam.R
+/inst/doc/affyContam.Rnw
+/inst/doc/affyContam.pdf

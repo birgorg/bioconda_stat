@@ -1,0 +1,18 @@
+#package: math-derivative-1.01 
+meta.yml
+license
+readme
+makefile.pl
+manifest
+changes
+meta.json
+build.pl
+t/manifest.t
+t/12-firstd.t
+t/11-firstd.t
+t/13-firstd.t
+t/pod.t
+t/21-secondd.t
+t/00-load.t
+t/14-firstd.t
+lib/math/derivative.pm

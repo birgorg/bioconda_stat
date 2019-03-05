@@ -1,0 +1,15 @@
+#package: genepender-master 
+#url: https://github.com/BioTools-Tek/genepender/archive/master.zip
+ 
+/FileUtils.h
+/pender.cpp
+/IntergenicOnly.h
+/appendgenecol.py
+/main.cpp
+/InterAndExonic.h
+/Types.h
+/genemap.h
+/pender.h
+/makegenemaps.sh
+/MapInterface.h
+/genepender.pro

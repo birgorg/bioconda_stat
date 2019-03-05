@@ -1,0 +1,20 @@
+#package: semidbm-0.5.1 
+readme.rst
+pkg-info
+manifest.in
+setup.py
+copying
+setup.cfg
+semidbm/win32.py
+semidbm/__init__.py
+semidbm/compat.py
+semidbm/exceptions.py
+semidbm/db.py
+semidbm/loaders/mmapload.py
+semidbm/loaders/__init__.py
+semidbm/loaders/simpleload.py
+semidbm.egg-info/top_level.txt
+semidbm.egg-info/not-zip-safe
+semidbm.egg-info/sources.txt
+semidbm.egg-info/pkg-info
+semidbm.egg-info/dependency_links.txt

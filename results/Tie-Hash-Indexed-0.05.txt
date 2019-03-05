@@ -1,14 +1,16 @@
-#package: tie-hash-indexed-0.05 
-meta.yml
-ppport.h
-todo
-readme
-makefile.pl
-manifest
-changes
-indexed.xs
-typemap
-t/101_basic.t
-t/102_storable.t
-t/103_bugs.t
-lib/tie/hash/indexed.pm
+#package: Tie-Hash-Indexed-0.05 
+#url: http://search.cpan.org/CPAN/authors/id/M/MH/MHX/Tie-Hash-Indexed-0.05.tar.gz
+ 
+/META.yml
+/ppport.h
+/TODO
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/Indexed.xs
+/typemap
+/t/101_basic.t
+/t/102_storable.t
+/t/103_bugs.t
+/lib/Tie/Hash/Indexed.pm

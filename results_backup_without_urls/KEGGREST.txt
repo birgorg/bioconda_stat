@@ -1,0 +1,24 @@
+#package: keggrest 
+questions
+namespace
+description
+news
+r/parsers.r
+r/utilities.r
+r/keggrest.r
+r/test_keggrest_package.r
+man/kegginfo.rd
+man/keggconv.rd
+man/mark.pathway.by.objects.rd
+man/keggfind.rd
+man/keggget.rd
+man/kegglist.rd
+man/listdatabases.rd
+man/kegglink.rd
+vignettes/keggrest-vignette.rmd
+build/vignette.rds
+tests/keggrest_unit_tests.r
+inst/doc/keggrest-vignette.html
+inst/doc/keggrest-vignette.rmd
+inst/doc/keggrest-vignette.r
+inst/unittests/test_keggrest.r

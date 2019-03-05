@@ -1,0 +1,24 @@
+#package: multiomicsviz 
+readme.md
+namespace
+description
+news
+r/zzz.r
+r/calculatecorfortwomatrices.r
+r/multiomicsviz.r
+man/calculatecorfortwomatrices.rd
+man/exampledata.rd
+man/multiomicsviz.rd
+man/multiomicsviz-package.rd
+vignettes/multiomicsviz.rnw
+vignettes/example.png
+build/vignette.rds
+tests/runtests.r
+inst/doc/multiomicsviz.pdf
+inst/doc/multiomicsviz.rnw
+inst/doc/multiomicsviz.r
+inst/unittests/test_multiomicsviz.r
+inst/extdata/sourceomics.txt
+inst/extdata/chromlength.txt
+inst/extdata/genelocate.txt
+inst/extdata/targetomics.txt

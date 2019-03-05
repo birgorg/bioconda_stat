@@ -1,0 +1,33 @@
+#package: wgfast-1.0.3 
+#url: https://github.com/FofanovLab/wgfast/archive/1.0.3.tar.gz
+ 
+/README.md
+/LICENSE
+/manual.pdf
+/build.sh
+/meta.yaml
+/MANIFEST.in
+/setup.py
+/.gitignore
+/wgfast/igs_logging.py
+/wgfast/__init__.py
+/wgfast/command.txt
+/wgfast/wgfast_prep.py
+/wgfast/util.py
+/wgfast/main.py
+/wgfast/bin/GenomeAnalysisTK.jar
+/wgfast/bin/illumina_adapters_all.fasta
+/wgfast/tools/subsample_snps_pearson.py
+/wgfast/tools/subsample_reads_and_place.py
+/wgfast/tools/extract_tree_names.py
+/wgfast/tools/wgfast_prep.py
+/wgfast/tests/__init__.py
+/wgfast/tests/run_tests.py
+/test_data/nasp_matrix.tsv
+/test_data/nasp.PARAMS
+/test_data/nasp_raxml.tree
+/test_data/reference.fasta
+/test_data/reads/IS03_R1_001.fastq.gz
+/test_data/reads/IS03_R2_001.fastq.gz
+/test_data/reads/ECOLI_S1_L001_R1_001.fastq.gz
+/test_data/reads/ECOLI_S1_L001_R2_001.fastq.gz

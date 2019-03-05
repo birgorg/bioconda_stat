@@ -1,15 +1,17 @@
-#package: zfpkm 
-readme.md
-namespace
-license
-description
-news
-r/zfpkm.r
-man/zfpkm.rd
-man/zfpkmplot.rd
-vignettes/zfpkm.rmd
-vignettes/gse94802.rds
-build/vignette.rds
-inst/doc/zfpkm.rmd
-inst/doc/zfpkm.html
-inst/doc/zfpkm.r
+#package: zFPKM 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/zFPKM_1.2.0.tar.gz
+ 
+/README.md
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/NEWS
+/R/zfpkm.R
+/man/zFPKM.Rd
+/man/zFPKMPlot.Rd
+/vignettes/zFPKM.Rmd
+/vignettes/gse94802.rds
+/build/vignette.rds
+/inst/doc/zFPKM.Rmd
+/inst/doc/zFPKM.html
+/inst/doc/zFPKM.R

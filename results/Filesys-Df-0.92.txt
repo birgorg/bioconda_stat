@@ -1,11 +1,13 @@
-#package: filesys-df-0.92 
-meta.yml
-xs_statvfs
-readme
-makefile.pl
-manifest
-changes
-test.pl
-typemap
-xs_statfs
-df.pm
+#package: Filesys-Df-0.92 
+#url: http://cpan.metacpan.org/authors/id/I/IG/IGUTHRIE/Filesys-Df-0.92.tar.gz
+ 
+/META.yml
+/XS_statvfs
+/README
+/Makefile.PL
+/MANIFEST
+/Changes
+/test.pl
+/typemap
+/XS_statfs
+/Df.pm

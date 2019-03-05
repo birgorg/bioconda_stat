@@ -1,0 +1,17 @@
+#package: geneimpacts-0.3.6 
+#url: https://github.com/brentp/geneimpacts/archive/v0.3.6.tar.gz
+ 
+/README.md
+/LICENSE
+/CHANGES.md
+/MANIFEST.in
+/setup.py
+/.gitignore
+/.travis.yml
+/geneimpacts/effect.py
+/geneimpacts/__init__.py
+/geneimpacts/tests/test_impacts.py
+/geneimpacts/tests/vep-csqs.txt.gz
+/geneimpacts/tests/__init__.py
+/geneimpacts/tests/snpeff-anns.txt.gz
+/geneimpacts/tests/bcfts.txt.gz

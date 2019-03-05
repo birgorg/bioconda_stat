@@ -1,0 +1,14 @@
+#package: prebs 
+namespace
+description
+r/prebs.r
+man/calc_prebs.rd
+man/prebs.rd
+vignettes/my_references.bib
+vignettes/prebs.rnw
+build/vignette.rds
+inst/citation
+inst/news
+inst/doc/prebs.rnw
+inst/doc/prebs.r
+inst/doc/prebs.pdf

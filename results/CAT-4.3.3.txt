@@ -1,0 +1,16 @@
+#package: CAT-4.3.3 
+#url: https://github.com/dutilh/CAT/archive/v4.3.3.tar.gz
+ 
+/README.md
+/CHANGELOG.md
+/LICENSE.md
+/CAT_pack/add_names.py
+/CAT_pack/shared.py
+/CAT_pack/bins.py
+/CAT_pack/CAT
+/CAT_pack/about.py
+/CAT_pack/contigs.py
+/CAT_pack/check.py
+/CAT_pack/prepare.py
+/CAT_pack/summarise.py
+/CAT_pack/tax.py

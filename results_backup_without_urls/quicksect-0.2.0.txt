@@ -1,0 +1,15 @@
+#package: quicksect-0.2.0 
+license
+readme.rst
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+quicksect.egg-info/top_level.txt
+quicksect.egg-info/sources.txt
+quicksect.egg-info/pkg-info
+quicksect.egg-info/dependency_links.txt
+tests/test_quicksect.py
+tests/test_quicksect.pyc
+src/quicksect.c
+src/quicksect.pyx

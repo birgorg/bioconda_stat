@@ -1,0 +1,11 @@
+#package: env-path-0.19 
+meta.yml
+readme
+makefile.pl
+manifest
+envpath
+changes
+test.pl
+path.pm
+examples/whence
+examples/whence.bat

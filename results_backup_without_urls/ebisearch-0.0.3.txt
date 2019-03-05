@@ -1,0 +1,17 @@
+#package: ebisearch-0.0.3 
+ebi_metagenomics
+readme.rst
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+ebisearch_data/__init__.py
+ebisearch_data/ebi_metagenomics_run_data.json
+ebisearch/__init__.py
+ebisearch/__main__.py
+ebisearch.egg-info/entry_points.txt
+ebisearch.egg-info/top_level.txt
+ebisearch.egg-info/sources.txt
+ebisearch.egg-info/pkg-info
+ebisearch.egg-info/dependency_links.txt
+ebisearch.egg-info/requires.txt

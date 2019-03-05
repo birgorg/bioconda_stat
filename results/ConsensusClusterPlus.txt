@@ -1,12 +1,14 @@
-#package: consensusclusterplus 
-namespace
-description
-r/consensusclusterplus.r
-man/consensusclusterplus.rd
-vignettes/consensusclusterplus.rnw
-build/vignette.rds
-inst/citation
-inst/news
-inst/doc/consensusclusterplus.rnw
-inst/doc/consensusclusterplus.pdf
-inst/doc/consensusclusterplus.r
+#package: ConsensusClusterPlus 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/ConsensusClusterPlus_1.44.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/ConsensusClusterPlus.R
+/man/ConsensusClusterPlus.Rd
+/vignettes/ConsensusClusterPlus.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/NEWS
+/inst/doc/ConsensusClusterPlus.Rnw
+/inst/doc/ConsensusClusterPlus.pdf
+/inst/doc/ConsensusClusterPlus.R

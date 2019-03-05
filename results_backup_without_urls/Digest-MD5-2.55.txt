@@ -1,0 +1,22 @@
+#package: digest-md5-2.55 
+md5.xs
+meta.yml
+rfc1321.txt
+readme
+makefile.pl
+manifest
+changes
+meta.json
+typemap
+md5.pm
+t/align.t
+t/clone.t
+t/utf8.t
+t/threads.t
+t/bits.t
+t/badfile.t
+t/files.t
+t/md5-aaa.t
+hints/macos.pl
+hints/irix_6.pl
+hints/dec_osf.pl

@@ -1,0 +1,19 @@
+#package: multimed 
+readme.md
+namespace
+license
+description
+r/multimed.r
+data/navyadenoma.rdata
+man/medtest.sbmh.rd
+man/medtest.rd
+man/navyadenoma.rd
+vignettes/multimed.bib
+vignettes/multimed.rnw
+build/vignette.rds
+tests/runtests.r
+inst/news.rd
+inst/doc/multimed.pdf
+inst/doc/multimed.r
+inst/doc/multimed.rnw
+inst/unittests/test_base.r

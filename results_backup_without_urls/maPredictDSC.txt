@@ -1,0 +1,17 @@
+#package: mapredictdsc 
+namespace
+description
+r/perfdsc.r
+r/aggregatedsc.r
+r/mapredictdsc.r
+r/predictdsc.r
+man/perfdsc.rd
+man/mapredictdsc-internal.rd
+man/aggregatedsc.rd
+man/predictdsc.rd
+vignettes/mapredictdsc.rnw
+vignettes/mapredictdsc.bib
+build/vignette.rds
+inst/doc/mapredictdsc.rnw
+inst/doc/mapredictdsc.pdf
+inst/doc/mapredictdsc.r

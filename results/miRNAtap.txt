@@ -1,21 +1,23 @@
-#package: mirnatap 
-namespace
-description
-news
-r/dbclassesandmethods.r
-r/dbdataaccess.r
-r/mirnatap.r
-man/getpredictedtargets.rd
-man/gettargetsfromsource.rd
-man/mirnadb-class.rd
-man/aggregateranks.rd
-man/translate.rd
-man/mirnatap.rd
-vignettes/mirnatap.rnw
-vignettes/refs.bib
-build/vignette.rds
-tests/testthat.r
-tests/testthat/test_sanity.r
-inst/doc/mirnatap.pdf
-inst/doc/mirnatap.rnw
-inst/doc/mirnatap.r
+#package: miRNAtap 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/miRNAtap_1.14.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/NEWS
+/R/dbClassesAndMethods.R
+/R/dbDataAccess.R
+/R/miRNAtap.R
+/man/getPredictedTargets.Rd
+/man/getTargetsFromSource.Rd
+/man/MirnaDb-class.Rd
+/man/aggregateRanks.Rd
+/man/translate.Rd
+/man/miRNAtap.Rd
+/vignettes/miRNAtap.Rnw
+/vignettes/refs.bib
+/build/vignette.rds
+/tests/testthat.R
+/tests/testthat/test_sanity.R
+/inst/doc/miRNAtap.pdf
+/inst/doc/miRNAtap.Rnw
+/inst/doc/miRNAtap.R

@@ -1,0 +1,26 @@
+#package: cogps 
+namespace
+description
+r/cogps.r
+data/cnv_classlab_matched.txt.gz
+data/methy_classlab_matched.txt.gz
+data/exon_exprs_matched.txt.gz
+data/exon_classlab_matched.txt.gz
+data/cnv_exprs_matched.txt.gz
+data/human_c1.rdata
+data/methy_exprs_matched.txt.gz
+data/datalist
+man/patientspecificgenelist.rd
+man/plottoppcopa.rd
+man/pcopa.rd
+man/sampledata.rd
+man/cogps-package.rd
+man/cogps-internal.rd
+man/permcopa.rd
+vignettes/cogps.rnw
+build/vignette.rds
+inst/citation
+inst/news
+inst/doc/cogps.r
+inst/doc/cogps.pdf
+inst/doc/cogps.rnw

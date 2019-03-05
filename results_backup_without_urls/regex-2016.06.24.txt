@@ -1,0 +1,22 @@
+#package: regex-2016.06.24 
+readme
+pkg-info
+setup.py
+docs/features.html
+docs/features.rst
+docs/unicodeproperties.txt
+tools/build_regex_unicode.py
+python3/_regex_unicode.h
+python3/test_regex.py
+python3/_regex_unicode.c
+python3/regex.py
+python3/_regex.c
+python3/_regex.h
+python3/_regex_core.py
+python2/_regex_unicode.h
+python2/test_regex.py
+python2/_regex_unicode.c
+python2/regex.py
+python2/_regex.c
+python2/_regex.h
+python2/_regex_core.py

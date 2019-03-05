@@ -1,7 +1,9 @@
 #package: munkres-1.0.7 
-munkres.py
-license
-pkg-info
-changelog
-setup.py
-setup.cfg
+#url: https://pypi.python.org/packages/source/m/munkres/munkres-1.0.7.tar.gz
+ 
+/munkres.py
+/LICENSE
+/PKG-INFO
+/CHANGELOG
+/setup.py
+/setup.cfg

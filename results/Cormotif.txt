@@ -1,22 +1,24 @@
-#package: cormotif 
-namespace
-description
-r/cormotif.r
-data/simu2_groupid.txt
-data/simudata2.txt
-data/simu2_compgroup.txt
-man/cormotif-internal.rd
-man/plotic.rd
-man/cormotiffitsep.rd
-man/plotmotif.rd
-man/generank.rd
-man/cormotiffitall.rd
-man/cormotiffit.rd
-man/simudata2.rd
-man/cormotiffitfull.rd
-vignettes/cormotifvignette.rnw
-build/vignette.rds
-inst/citation
-inst/doc/cormotifvignette.r
-inst/doc/cormotifvignette.rnw
-inst/doc/cormotifvignette.pdf
+#package: Cormotif 
+#url: http://bioconductor.org/packages/3.7/bioc/src/contrib/Cormotif_1.26.0.tar.gz
+ 
+/NAMESPACE
+/DESCRIPTION
+/R/Cormotif.R
+/data/simu2_groupid.txt
+/data/simudata2.txt
+/data/simu2_compgroup.txt
+/man/cormotif-internal.Rd
+/man/plotIC.Rd
+/man/cormotiffitsep.Rd
+/man/plotMotif.Rd
+/man/generank.Rd
+/man/cormotiffitall.Rd
+/man/cormotiffit.Rd
+/man/simudata2.Rd
+/man/cormotiffitfull.Rd
+/vignettes/CormotifVignette.Rnw
+/build/vignette.rds
+/inst/CITATION
+/inst/doc/CormotifVignette.R
+/inst/doc/CormotifVignette.Rnw
+/inst/doc/CormotifVignette.pdf

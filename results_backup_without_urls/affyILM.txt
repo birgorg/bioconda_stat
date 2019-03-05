@@ -1,0 +1,21 @@
+#package: affyilm 
+namespace
+description
+r/affyilm_internal.r
+r/affyilm.r
+r/methods-ilm.r
+r/allclasses.r
+r/affyilm_scale.r
+r/allgenerics.r
+r/affyilm_readin.r
+man/ilm-class.rd
+man/plotintens.rd
+man/ilm.rd
+man/plotilm.rd
+man/ilm-methods.rd
+vignettes/affyilm.rnw
+vignettes/affyilm.bib
+build/vignette.rds
+inst/doc/affyilm.rnw
+inst/doc/affyilm.r
+inst/doc/affyilm.pdf

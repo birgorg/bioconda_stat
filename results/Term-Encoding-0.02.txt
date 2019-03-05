@@ -1,18 +1,20 @@
-#package: term-encoding-0.02 
-meta.yml
-makefile.pl
-manifest
-changes
-t/02_env.t
-t/00_compile.t
-t/01_dev.t
-lib/term/encoding.pm
-inc/module/install.pm
-inc/module/install/makefile.pm
-inc/module/install/writeall.pm
-inc/module/install/include.pm
-inc/module/install/base.pm
-inc/module/install/fetch.pm
-inc/module/install/can.pm
-inc/module/install/win32.pm
-inc/module/install/metadata.pm
+#package: Term-Encoding-0.02 
+#url: http://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/Term-Encoding-0.02.tar.gz
+ 
+/META.yml
+/Makefile.PL
+/MANIFEST
+/Changes
+/t/02_env.t
+/t/00_compile.t
+/t/01_dev.t
+/lib/Term/Encoding.pm
+/inc/Module/Install.pm
+/inc/Module/Install/Makefile.pm
+/inc/Module/Install/WriteAll.pm
+/inc/Module/Install/Include.pm
+/inc/Module/Install/Base.pm
+/inc/Module/Install/Fetch.pm
+/inc/Module/Install/Can.pm
+/inc/Module/Install/Win32.pm
+/inc/Module/Install/Metadata.pm

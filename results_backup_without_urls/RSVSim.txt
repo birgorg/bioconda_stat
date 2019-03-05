@@ -1,0 +1,22 @@
+#package: rsvsim 
+namespace
+description
+r/main.r
+r/rearrangement.r
+r/misc.r
+r/allgenerics.r
+r/simulation.r
+data/segmentalduplications.rdata
+data/weightsrepeats.rdata
+data/weightsmechanisms.rdata
+man/simulatesv.rd
+man/weightsmechanisms.rd
+man/comparesvs.rd
+man/segmentalduplications.rd
+man/weightsrepeats.rd
+man/estimatesvsizes.rd
+vignettes/vignette.rnw
+build/vignette.rds
+inst/doc/vignette.r
+inst/doc/vignette.rnw
+inst/doc/vignette.pdf

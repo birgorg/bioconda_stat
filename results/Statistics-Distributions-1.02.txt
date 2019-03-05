@@ -1,6 +1,8 @@
-#package: statistics-distributions-1.02 
-makefile.pl
-manifest
-changes
-test.pl
-distributions.pm
+#package: Statistics-Distributions-1.02 
+#url: http://cpan.metacpan.org/authors/id/M/MI/MIKEK/Statistics-Distributions-1.02.tar.gz
+ 
+/Makefile.PL
+/MANIFEST
+/Changes
+/test.pl
+/Distributions.pm

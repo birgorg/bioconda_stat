@@ -1,0 +1,8 @@
+#package: jaspar2016 
+namespace
+description
+external_data_store.txt
+r/zzz.r
+r/allclasses.r
+man/jaspar2016-class.rd
+inst/extdata/jaspar2016.sqlite

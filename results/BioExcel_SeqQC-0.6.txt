@@ -1,0 +1,15 @@
+#package: BioExcel_SeqQC-0.6 
+#url: https://github.com/bioexcel/BioExcel_SeqQC/archive/v0.6.tar.gz
+ 
+/README.md
+/LICENSE
+/setup.py
+/.gitignore
+/BioExcel_SeqQC.png
+/data/checkQC.yml
+/bin/bxcl_seqqc
+/bioexcel_seqqc/runfastqc.py
+/bioexcel_seqqc/seqqcutils.py
+/bioexcel_seqqc/__init__.py
+/bioexcel_seqqc/runtrim.py
+/bioexcel_seqqc/checkfastqc.py

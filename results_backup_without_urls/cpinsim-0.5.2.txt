@@ -1,0 +1,20 @@
+#package: cpinsim-0.5.2 
+readme.rst
+pkg-info
+setup.py
+setup.cfg
+cpinsim/abstract_simulation.py
+cpinsim/constraint_io.py
+cpinsim/annotate_constraints.py
+cpinsim/protein.py
+cpinsim/__init__.py
+cpinsim/proteinparser.py
+cpinsim/infinite_simulation.py
+cpinsim/version.py
+cpinsim/protein_type.py
+cpinsim.egg-info/entry_points.txt
+cpinsim.egg-info/top_level.txt
+cpinsim.egg-info/sources.txt
+cpinsim.egg-info/pkg-info
+cpinsim.egg-info/dependency_links.txt
+cpinsim.egg-info/requires.txt

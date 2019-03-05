@@ -1,0 +1,13 @@
+#package: gdgraph-histogram-1.1 
+todo
+license
+readme
+makefile.pl
+manifest
+changes
+file.png
+test.pl
+makefile.old
+scripts/histogram.pl
+t/001_load.t
+lib/gd/graph/histogram.pm

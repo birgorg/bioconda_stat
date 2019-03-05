@@ -1,0 +1,14 @@
+#package: metametamerge-1.1 
+#url: https://github.com/pirovc/metametamerge/archive/v1.1.tar.gz
+ 
+/README.md
+/Ranks.py
+/parse_tax.py
+/Profile.py
+/MANIFEST
+/Tools.py
+/LICENSE.md
+/parse_files.py
+/MetaMetaMerge.py
+/setup.py
+/Databases.py

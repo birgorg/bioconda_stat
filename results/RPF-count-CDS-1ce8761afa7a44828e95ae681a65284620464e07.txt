@@ -1,0 +1,7 @@
+#package: RPF-count-CDS-1ce8761afa7a44828e95ae681a65284620464e07 
+#url: https://github.com/xzt41/RPF-count-CDS/archive/1ce8761afa7a44828e95ae681a65284620464e07.tar.gz
+ 
+/README.md
+/LICENSE
+/RPF_count_CDS.py
+/RPF_count_CDS_nonStranded.py

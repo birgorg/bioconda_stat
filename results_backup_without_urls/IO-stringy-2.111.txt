@@ -1,0 +1,25 @@
+#package: io-stringy-2.111 
+meta.yml
+readme
+makefile.pl
+manifest
+copying
+examples/io_scalar_synopsis
+t/io_wraptie.t
+t/io_lines.t
+t/simple.t
+t/two.t
+t/io_scalar.t
+t/io_scalararray.t
+t/io_innerfile.t
+t/common.pm
+t/extutils/tbone.pm
+lib/io/lines.pm
+lib/io/stringy.pm
+lib/io/atomicfile.pm
+lib/io/wraptie.pm
+lib/io/scalar.pm
+lib/io/scalararray.pm
+lib/io/wrap.pm
+lib/io/innerfile.pm
+contrib/clever.pm

@@ -1,0 +1,27 @@
+#package: epic-1.1 
+readme.md
+namespace
+license
+readme.rmd
+description
+.rbuildignore
+epic.rproj
+.gitignore
+news
+r/sysdata.rda
+r/epic_fun.r
+r/epic_descr.r
+data/tref.rda
+data/melanoma_data.rda
+data/mrna_cell_default.rda
+data/bref.rda
+man/mrna_cell_default.rd
+man/tref.rd
+man/scalecounts.rd
+man/melanoma_data.rd
+man/epic.rd
+man/bref.rd
+man/epic.package.rd
+vignettes/info.rmd
+tests/testthat.r
+tests/testthat/test_epic_fun.r

@@ -1,0 +1,26 @@
+#package: rtrmui 
+namespace
+description
+r/func.r
+man/runtrm.rd
+man/rtrmui-package.rd
+vignettes/rtrmui.rnw
+vignettes/figure1.pdf
+build/vignette.rds
+inst/citation
+inst/news
+inst/doc/rtrmui.rnw
+inst/doc/rtrmui.r
+inst/doc/rtrmui.pdf
+inst/shiny/ui.r
+inst/shiny/server.r
+inst/shiny/www/data/sox2_motifs.txt
+inst/shiny/www/data/esc_expressed.txt
+inst/shiny/www/doc/tutorial.html
+inst/shiny/www/doc/index.html
+inst/shiny/www/pic/fig1.png
+inst/shiny/www/pic/fig4.png
+inst/shiny/www/pic/fig5.png
+inst/shiny/www/pic/fig3.png
+inst/shiny/www/pic/logo.png
+inst/shiny/www/pic/fig2.png

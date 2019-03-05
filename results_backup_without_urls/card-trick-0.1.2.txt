@@ -1,0 +1,14 @@
+#package: card-trick-0.1.2 
+readme.md
+pkg-info
+setup.py
+setup.cfg
+scripts/card-trick
+card_trick/ontology_functions.py
+card_trick/commands.py
+card_trick/__init__.py
+card_trick.egg-info/top_level.txt
+card_trick.egg-info/sources.txt
+card_trick.egg-info/pkg-info
+card_trick.egg-info/dependency_links.txt
+card_trick.egg-info/requires.txt

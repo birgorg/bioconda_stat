@@ -1,0 +1,18 @@
+#package: deepvariant 
+#url: https://github.com/google/deepvariant/releases/download/v0.7.2/deepvariant.zip
+ 
+/models/DeepVariant/0.7.2/DeepVariant-inception_v3-0.7.2+data-wes_standard/model.ckpt.index
+/models/DeepVariant/0.7.2/DeepVariant-inception_v3-0.7.2+data-wes_standard/model.ckpt.data-00000-of-00001
+/models/DeepVariant/0.7.2/DeepVariant-inception_v3-0.7.2+data-wes_standard/model.ckpt.meta
+/models/DeepVariant/0.7.2/DeepVariant-inception_v3-0.7.2+data-wgs_standard/model.ckpt.index
+/models/DeepVariant/0.7.2/DeepVariant-inception_v3-0.7.2+data-wgs_standard/model.ckpt.data-00000-of-00001
+/models/DeepVariant/0.7.2/DeepVariant-inception_v3-0.7.2+data-wgs_standard/model.ckpt.meta
+/binaries/DeepVariant/0.7.2/DeepVariant-0.7.2+cl-225213413/settings.sh
+/binaries/DeepVariant/0.7.2/DeepVariant-0.7.2+cl-225213413/run-prereq.sh
+/binaries/DeepVariant/0.7.2/DeepVariant-0.7.2+cl-225213413/make_examples.zip
+/binaries/DeepVariant/0.7.2/DeepVariant-0.7.2+cl-225213413/model_train.zip
+/binaries/DeepVariant/0.7.2/DeepVariant-0.7.2+cl-225213413/model_eval.zip
+/binaries/DeepVariant/0.7.2/DeepVariant-0.7.2+cl-225213413/licenses.zip
+/binaries/DeepVariant/0.7.2/DeepVariant-0.7.2+cl-225213413/call_variants.zip
+/binaries/DeepVariant/0.7.2/DeepVariant-0.7.2+cl-225213413/postprocess_variants.zip
+/binaries/DeepVariant/0.7.2/DeepVariant-0.7.2+cl-225213413/resources.zip

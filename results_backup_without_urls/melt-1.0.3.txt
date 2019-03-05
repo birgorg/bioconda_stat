@@ -1,0 +1,12 @@
+#package: melt-1.0.3 
+melting.py
+readme.rst
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+melt.egg-info/entry_points.txt
+melt.egg-info/top_level.txt
+melt.egg-info/sources.txt
+melt.egg-info/pkg-info
+melt.egg-info/dependency_links.txt

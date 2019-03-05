@@ -1,11 +1,13 @@
 #package: fastq_screen_v0.13.0 
-readme.txt
-license.txt
-release_notes.txt
-fastq_screen_summary_template.html
-opensans-regular.ttf
-interactive_graphs.js
-fastq_screen
-fastq_screen_documentation.md
-fastq_screen_logo.png
-fastq_screen.conf.example
+#url: http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/fastq_screen_v0.13.0.tar.gz
+ 
+/README.txt
+/license.txt
+/RELEASE_NOTES.txt
+/fastq_screen_summary_template.html
+/OpenSans-Regular.ttf
+/interactive_graphs.js
+/fastq_screen
+/fastq_screen_documentation.md
+/FastQ_Screen_Logo.png
+/fastq_screen.conf.example

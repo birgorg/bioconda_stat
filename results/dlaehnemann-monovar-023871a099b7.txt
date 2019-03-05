@@ -1,13 +1,15 @@
 #package: dlaehnemann-monovar-023871a099b7 
-readme.md
-src/nu_prob_mat.py
-src/genotype_prob_mat.py
-src/base_q_ascii.py
-src/monovar.py
-src/mp_genotype.py
-src/nu_genotype_single_cell.py
-src/alleles_prior.py
-src/single_cell_ftrs_pos.py
-src/utils.py
-src/hzvcf.py
-src/calc_variant_prob.py
+#url: https://bitbucket.org/dlaehnemann/monovar/get/v0.0.1.tar.gz
+ 
+/README.md
+/src/nu_prob_mat.py
+/src/genotype_prob_mat.py
+/src/base_q_ascii.py
+/src/monovar.py
+/src/mp_genotype.py
+/src/nu_genotype_single_cell.py
+/src/alleles_prior.py
+/src/Single_Cell_Ftrs_Pos.py
+/src/utils.py
+/src/hzvcf.py
+/src/calc_variant_prob.py

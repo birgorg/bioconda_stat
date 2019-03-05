@@ -1,0 +1,20 @@
+#package: io-interactive-1.022 
+meta.yml
+license
+makefile.pl
+manifest
+changes
+install.skip
+meta.json
+readme.pod
+manifest.skip
+examples/interactive.pl
+examples/memory_test.pl
+t/pod.t
+t/interactive.t
+t/busy.t
+t/00.load.t
+t/is_interactive.t
+t/pod-coverage.t
+lib/io/interactive.pm
+xt/changes.t

@@ -1,0 +1,12 @@
+#package: convert 
+namespace
+description
+r/marrayraw_to_nchannelset.r
+r/rglist_to_nchannelset.r
+r/setas.r
+man/coerce.rd
+vignettes/convert.rnw
+vignettes/index.html
+build/vignette.rds
+inst/doc/convert.rnw
+inst/doc/convert.pdf

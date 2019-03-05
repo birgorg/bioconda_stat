@@ -1,0 +1,10 @@
+#package: file-grep-0.02 
+meta.yml
+grep.pm
+readme
+makefile.pl
+manifest
+changes
+t/grep.t
+t/test.txt
+t/test2.txt

@@ -1,11 +1,13 @@
 #package: optplus-0.2 
-readme
-pkg-info
-setup.py
-setup.cfg
-optplus/__init__.py
-optplus.egg-info/zip-safe
-optplus.egg-info/top_level.txt
-optplus.egg-info/sources.txt
-optplus.egg-info/pkg-info
-optplus.egg-info/dependency_links.txt
+#url: https://files.pythonhosted.org/packages/98/37/69d5b37795f26a1e47dc12cb3e50d31edd2d621cddab93c528cd4d280cd8/optplus-0.2.tar.gz
+ 
+/README
+/PKG-INFO
+/setup.py
+/setup.cfg
+/optplus/__init__.py
+/optplus.egg-info/zip-safe
+/optplus.egg-info/top_level.txt
+/optplus.egg-info/SOURCES.txt
+/optplus.egg-info/PKG-INFO
+/optplus.egg-info/dependency_links.txt

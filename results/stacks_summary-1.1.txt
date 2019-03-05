@@ -1,14 +1,16 @@
 #package: stacks_summary-1.1 
-pkg-info
-stacks_summary.py
-manifest.in
-setup.py
-setup.cfg
-stacks/stacks_summary_tpl.html
-stacks/__init__.py
-stacks/stacks_summary.py
-stacks_summary.egg-info/top_level.txt
-stacks_summary.egg-info/sources.txt
-stacks_summary.egg-info/pkg-info
-stacks_summary.egg-info/dependency_links.txt
-stacks_summary.egg-info/requires.txt
+#url: https://pypi.python.org/packages/2f/9f/15d1c496187695d038182801af4a9b33127023a14073437554695afcd362/stacks_summary-1.1.tar.gz
+ 
+/PKG-INFO
+/stacks_summary.py
+/MANIFEST.in
+/setup.py
+/setup.cfg
+/stacks/stacks_summary_tpl.html
+/stacks/__init__.py
+/stacks/stacks_summary.py
+/stacks_summary.egg-info/top_level.txt
+/stacks_summary.egg-info/SOURCES.txt
+/stacks_summary.egg-info/PKG-INFO
+/stacks_summary.egg-info/dependency_links.txt
+/stacks_summary.egg-info/requires.txt

@@ -1,0 +1,20 @@
+#package: dyndoc 
+namespace
+description
+r/vignettecode.r
+r/tangletor.r
+r/viglist.r
+r/zzz.r
+r/vignetteclass.r
+r/dyndoc.r
+man/sweaveoptions-class.rd
+man/codechunk-class.rd
+man/vignette-class.rd
+man/getvignetteheader.rd
+man/vignettecode-class.rd
+man/getvignettecode.rd
+man/getvignette.rd
+man/chunklist-class.rd
+man/tangletor.rd
+man/dyndoc-class.rd
+man/getpkgviglist.rd

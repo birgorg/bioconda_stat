@@ -1,0 +1,18 @@
+#package: aenum-2.0.8 
+readme
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+aenum.egg-info/top_level.txt
+aenum.egg-info/sources.txt
+aenum.egg-info/pkg-info
+aenum.egg-info/dependency_links.txt
+aenum/license
+aenum/readme
+aenum/__init__.py
+aenum/changes
+aenum/test.py
+aenum/test_v3.py
+aenum/doc/aenum.rst
+aenum/doc/aenum.pdf

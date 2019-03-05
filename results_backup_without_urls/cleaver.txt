@@ -1,0 +1,27 @@
+#package: cleaver 
+namespace
+description
+news
+r/cleavagesites-functions.r
+r/helper-functions.r
+r/rules.r
+r/cleavageranges-functions.r
+r/allgenerics.r
+r/cleave-methods.r
+r/cleavageranges-methods.r
+r/cleavagesites-methods.r
+r/cleave-functions.r
+man/cleaver-package.rd
+man/cleave-methods.rd
+vignettes/cleaver.bib
+vignettes/cleaver.rnw
+build/vignette.rds
+tests/testthat.r
+tests/testthat/test_cleavageranges-methods.r
+tests/testthat/test_cleavagesites-methods.r
+tests/testthat/test_helper-functions.r
+tests/testthat/test_rules.r
+tests/testthat/test_cleave-methods.r
+inst/doc/cleaver.pdf
+inst/doc/cleaver.r
+inst/doc/cleaver.rnw

@@ -1,0 +1,20 @@
+#package: NanoBLASTer-417c48c8ae8d824ba591922c20b0e4ec09b738cb 
+#url: https://github.com/ruhulsbu/NanoBLASTer/archive/417c48c8ae8d824ba591922c20b0e4ec09b738cb.tar.gz
+ 
+/README.md
+/Description
+/LICENSE
+/nano_src/align_allreads.cpp
+/nano_src/functions.h
+/nano_src/seed_selection.cpp
+/nano_src/edit_distance.cpp
+/nano_src/utility.cpp
+/nano_src/main.cpp
+/nano_src/structure.h
+/nano_src/optimize_kband.cpp
+/nano_src/constant.h
+/nano_src/alignment.cpp
+/nano_src/global.h
+/nano_src/library.h
+/nano_src/makefile
+/nano_src/sam_format.cpp

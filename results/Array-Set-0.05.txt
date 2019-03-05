@@ -1,15 +1,17 @@
-#package: array-set-0.05 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-meta.json
-weaver.ini
-t/01-basics.t
-t/author-pod-syntax.t
-t/00-compile.t
-t/author-pod-coverage.t
-lib/array/set.pm
+#package: Array-Set-0.05 
+#url: https://cpan.metacpan.org/authors/id/P/PE/PERLANCAR/Array-Set-0.05.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/weaver.ini
+/t/01-basics.t
+/t/author-pod-syntax.t
+/t/00-compile.t
+/t/author-pod-coverage.t
+/lib/Array/Set.pm

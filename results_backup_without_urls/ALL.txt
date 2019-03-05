@@ -1,0 +1,15 @@
+#package: all 
+namespace
+description
+external_data_store.txt
+r/tojulian.r
+data/all.rda
+data/datalist
+man/tojulian.rd
+man/all.rd
+vignettes/oldmakefile
+vignettes/allintro.rnw
+build/vignette.rds
+inst/doc/allintro.pdf
+inst/doc/allintro.rnw
+inst/doc/allintro.r

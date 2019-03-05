@@ -1,0 +1,26 @@
+#package: promise 
+namespace
+description
+r/spearman.rstat.r
+r/promise.r
+r/jung.rstat.r
+r/avg.abs.genestat.r
+r/promise.genestat.r
+data/sampgeneset.rda
+data/phpatt.rda
+data/sampexprset.rda
+man/spearman.rstat.rd
+man/phpatt.rd
+man/promise.genestat.rd
+man/jung.rstat.rd
+man/promise.rd
+man/sampexprset.rd
+man/sampgeneset.rd
+man/promise-package.rd
+man/promise.pattern.rd
+man/avg.abs.genestat.rd
+vignettes/promise.rnw
+build/vignette.rds
+inst/doc/promise.r
+inst/doc/promise.pdf
+inst/doc/promise.rnw

@@ -1,0 +1,20 @@
+#package: browserviz 
+namespace
+readme
+description
+build.makefile
+news
+r/browserviz-class.r
+man/browserviz-class.rd
+vignettes/browserviz.rnw
+build/vignette.rds
+tests/runtests.r
+inst/browsercode/package.json
+inst/browsercode/webpack.config.js
+inst/browsercode/makefile
+inst/browsercode/dist/bvdemo.html
+inst/browsercode/src/bvdemo.js
+inst/doc/browserviz.pdf
+inst/doc/browserviz.rnw
+inst/doc/browserviz.r
+inst/unittests/test_browserviz.r

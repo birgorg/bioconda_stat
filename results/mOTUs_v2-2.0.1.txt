@@ -1,0 +1,24 @@
+#package: mOTUs_v2-2.0.1 
+#url: https://github.com/motu-tool/mOTUs_v2/archive/2.0.1.tar.gz
+ 
+/README.md
+/.appveyor.yml
+/LICENSE
+/motus
+/setup.py
+/motu_logo.png
+/test.py
+/.gitignore
+/env/mOTUs_v2.yaml
+/bin/PEfiltering.py
+/bin/msamtools_python.py
+/bin/motu_utilities.py
+/bin/motus.remove.padded.sh
+/bin/runBWA.py
+/bin/metaSNV_Filtering_2.0.py
+/bin/map_mOTUs_to_LGs.py
+/bin/append.py
+/bin/runBWA_for_snv.py
+/bin/map_genes_to_mOTUs.py
+/bin/metaSNV_DistDiv.py
+/bin/print_CAMI.py

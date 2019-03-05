@@ -1,0 +1,23 @@
+#package: fmlrc-0.1.2 
+#url: https://github.com/holtjma/fmlrc/archive/v0.1.2.tar.gz
+ 
+/README.md
+/bit_array.h
+/file_iterators.h
+/string_util.cpp
+/base_bwt.h
+/LICENSE
+/alignment_util.h
+/alignment_util.cpp
+/base_bwt.cpp
+/main.cpp
+/string_util.h
+/Makefile
+/csa_bwt.cpp
+/rle_bwt.h
+/file_iterators.cpp
+/bit_array.cpp
+/csa_bwt.h
+/rle_bwt.cpp
+/CTPL/LICENSE
+/CTPL/ctpl_stl.h

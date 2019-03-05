@@ -1,0 +1,15 @@
+#package: nimnexus-52aed747cc12ab2ade7a96146db671414979ddd1 
+#url: https://github.com/avsecz/nimnexus/archive/52aed74.tar.gz
+ 
+/README.md
+/LICENSE
+/nimnexus
+/nimnexus.nimble
+/tests/test1.nim
+/tests/nim.cfg
+/tests/data/mesc_pbx_preprocessed_sample.fastq.gz
+/tests/data/mesc_pbx_raw_sample.fastq.gz
+/src/nimnexus.nim
+/src/nimnexuspkg/info.nim
+/src/nimnexuspkg/trim.nim
+/src/nimnexuspkg/dedup.nim

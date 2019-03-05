@@ -1,0 +1,18 @@
+#package: snpediar 
+readme.md
+namespace
+description
+r/getpages.r
+r/getcategoryelements.r
+r/extracttags.r
+man/getcategoryelements.rd
+man/extracttags.rd
+man/getpages.rd
+vignettes/snpediar.rmd
+build/vignette.rds
+tests/testthat.r
+tests/testthat/tests.r
+inst/news
+inst/doc/snpediar.html
+inst/doc/snpediar.rmd
+inst/doc/snpediar.r

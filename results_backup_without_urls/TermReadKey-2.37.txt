@@ -1,0 +1,17 @@
+#package: termreadkey-2.37 
+meta.yml
+configure.pm
+ppport.h
+readme
+makefile.pl
+manifest
+readkey_pm.pl
+changes
+meta.json
+genchars.pl
+manifest.skip
+readkey.xs
+signature
+t/01_basic.t
+t/02_terminal_functions.t
+example/test.pl

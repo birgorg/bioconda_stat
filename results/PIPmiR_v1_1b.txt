@@ -1,5 +1,7 @@
-#package: pipmir_v1_1b 
-readme
-pipmir
-src/jpipmir.jar
-src/trainingdata.dat
+#package: PIPmiR_v1_1b 
+#url: https://ohlerlab.mdc-berlin.de/files/duke/PIPmiR/PIPmiR_v1_1b_executable.tar.gz
+ 
+/README
+/PIPmiR
+/src/jPIPmiR.jar
+/src/TrainingData.dat

@@ -1,0 +1,5 @@
+#package: Tadarida-C-1.2 
+#url: https://github.com/ThimotheeV/Tadarida-C/archive/v1.2.tar.gz
+ 
+/tadaridaC.r
+/licence.txt

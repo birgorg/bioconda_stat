@@ -1,5 +1,7 @@
 #package: gatktool-0.0.1 
-pkg-info
-setup.py
-gatktool/__init__.py
-gatktool/tool.py
+#url: https://pypi.io/packages/source/g/gatktool/gatktool-0.0.1.tar.gz
+ 
+/PKG-INFO
+/setup.py
+/gatktool/__init__.py
+/gatktool/tool.py

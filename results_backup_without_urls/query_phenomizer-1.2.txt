@@ -1,0 +1,23 @@
+#package: query_phenomizer-1.2 
+readme.md
+license
+requirements.txt
+pkg-info
+manifest.in
+setup.py
+setup.cfg
+query_phenomizer.egg-info/entry_points.txt
+query_phenomizer.egg-info/top_level.txt
+query_phenomizer.egg-info/not-zip-safe
+query_phenomizer.egg-info/sources.txt
+query_phenomizer.egg-info/pkg-info
+query_phenomizer.egg-info/dependency_links.txt
+query_phenomizer.egg-info/requires.txt
+query_phenomizer/log.py
+query_phenomizer/cli.py
+query_phenomizer/__init__.py
+query_phenomizer/__main__.py
+query_phenomizer/utils.py
+tests/test_query.py
+tests/test_validate_term.py
+tests/conftest.py

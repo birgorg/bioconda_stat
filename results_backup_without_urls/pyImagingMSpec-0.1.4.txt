@@ -1,0 +1,24 @@
+#package: pyimagingmspec-0.1.4 
+pkg-info
+setup.py
+setup.cfg
+pyimagingmspec/smoothing.py
+pyimagingmspec/__init__.py
+pyimagingmspec/imutils.py
+pyimagingmspec/inmemoryims.py
+pyimagingmspec/ion_datacube.py
+pyimagingmspec/image_measures.py
+pyimagingmspec/test/isotope_image_measures_test.py
+pyimagingmspec/test/__init__.py
+pyimagingmspec/test/imutils_test.py
+pyimagingmspec/test/level_sets_measure_test.py
+pyimagingmspec/convert/sl.py
+pyimagingmspec/convert/bruker_sqlite.py
+pyimagingmspec/convert/imzml.py
+pyimagingmspec/convert/h5.py
+pyimagingmspec/convert/__init__.py
+pyimagingmspec/convert/hdf5.py
+pyimagingmspec.egg-info/top_level.txt
+pyimagingmspec.egg-info/sources.txt
+pyimagingmspec.egg-info/pkg-info
+pyimagingmspec.egg-info/dependency_links.txt

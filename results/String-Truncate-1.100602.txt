@@ -1,16 +1,18 @@
-#package: string-truncate-1.100602 
-meta.yml
-license
-readme
-makefile.pl
-manifest
-dist.ini
-changes
-meta.json
-t/basic.t
-t/exports.t
-t/ends.t
-t/000-report-versions-tiny.t
-lib/string/truncate.pm
-xt/release/pod-syntax.t
-xt/release/changes_has_content.t
+#package: String-Truncate-1.100602 
+#url: https://cpan.metacpan.org/authors/id/R/RJ/RJBS/String-Truncate-1.100602.tar.gz
+ 
+/META.yml
+/LICENSE
+/README
+/Makefile.PL
+/MANIFEST
+/dist.ini
+/Changes
+/META.json
+/t/basic.t
+/t/exports.t
+/t/ends.t
+/t/000-report-versions-tiny.t
+/lib/String/Truncate.pm
+/xt/release/pod-syntax.t
+/xt/release/changes_has_content.t

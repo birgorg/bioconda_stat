@@ -1,0 +1,8 @@
+#package: AssemblyUtility-8e476764eb67ebb486e673ecbd8a0fa5d8eae22c 
+#url: https://github.com/yechengxi/AssemblyUtility/archive/8e476764eb67ebb486e673ecbd8a0fa5d8eae22c.tar.gz
+ 
+/README.md
+/SelectLongestReads.cpp
+/AssemblyStatistics.cpp
+/compiled/SelectLongestReads
+/compiled/AssemblyStatistics

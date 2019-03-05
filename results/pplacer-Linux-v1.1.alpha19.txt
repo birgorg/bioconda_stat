@@ -1,0 +1,21 @@
+#package: pplacer-Linux-v1.1.alpha19 
+#url: https://github.com/matsen/pplacer/releases/download/v1.1.alpha19/pplacer-linux-v1.1.alpha19.zip
+ 
+/pplacer
+/rppr
+/guppy
+/scripts/refpkg_align.py
+/scripts/pca_for_qiime.py
+/scripts/add_classifications.py
+/scripts/deduplicate_sequences.py
+/scripts/multiclass_concat.py
+/scripts/classif_rect.py
+/scripts/update_refpkg.py
+/scripts/check_placements.py
+/scripts/hrefpkg_query.py
+/scripts/classif_table.py
+/scripts/split_qiime.py
+/scripts/test_refpkg_align.py
+/scripts/setup.py
+/scripts/sort_placefile.py
+/scripts/extract_taxonomy_from_biom.py

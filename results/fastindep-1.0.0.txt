@@ -1,0 +1,14 @@
+#package: fastindep-1.0.0 
+#url: https://github.com/endrebak/fastindep/archive/1.0.0.tar.gz
+ 
+/README.md
+/headers.h
+/outfile.txt
+/main.cpp
+/DataMethods.cpp
+/params.txt
+/MersenneTwister.h
+/dat.txt
+/ReadMe.txt
+/check_symm.cpp
+/conda_recipe/config.yaml

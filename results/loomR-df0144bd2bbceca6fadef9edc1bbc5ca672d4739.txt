@@ -1,0 +1,18 @@
+#package: loomR-df0144bd2bbceca6fadef9edc1bbc5ca672d4739 
+#url: https://github.com/mojaveazure/loomR/archive/df0144bd2bbceca6fadef9edc1bbc5ca672d4739.tar.gz
+ 
+/README.md
+/NAMESPACE
+/loomR.Rproj
+/DESCRIPTION
+/.Rbuildignore
+/.gitignore
+/R/loom.R
+/R/internal.R
+/R/package.R
+/man/subset.loom.Rd
+/man/loomR-package.Rd
+/man/loom.Rd
+/man/connect.Rd
+/man/create.Rd
+/man/combine.Rd

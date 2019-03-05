@@ -1,0 +1,23 @@
+#package: myvariant 
+readme.md
+namespace
+description
+r/readhgvs.r
+r/utils.r
+r/myvariant.r
+man/myvariant-package.rd
+man/queryvariant.rd
+man/queryvariants.rd
+man/formatsinglehgvs.rd
+man/metadata.rd
+man/myvariant.rd
+man/formathgvs.rd
+man/getvariants.rd
+man/getvariant.rd
+man/myvariant-class.rd
+vignettes/myvariant.rnw
+build/vignette.rds
+inst/doc/myvariant.pdf
+inst/doc/myvariant.r
+inst/doc/myvariant.rnw
+inst/extdata/dbsnp_mini.vcf

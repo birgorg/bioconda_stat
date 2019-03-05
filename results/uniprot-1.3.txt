@@ -1,11 +1,13 @@
 #package: uniprot-1.3 
-seqidtype
-pkg-info
-uniprot.py
-setup.py
-setup.cfg
-uniprot.egg-info/top_level.txt
-uniprot.egg-info/sources.txt
-uniprot.egg-info/pkg-info
-uniprot.egg-info/dependency_links.txt
-uniprot.egg-info/requires.txt
+#url: https://pypi.python.org/packages/41/82/7d57f68ba49394c86f58792f57c47a79d7890589a911cbcaee84fa6081f4/uniprot-1.3.tar.gz
+ 
+/seqidtype
+/PKG-INFO
+/uniprot.py
+/setup.py
+/setup.cfg
+/uniprot.egg-info/top_level.txt
+/uniprot.egg-info/SOURCES.txt
+/uniprot.egg-info/PKG-INFO
+/uniprot.egg-info/dependency_links.txt
+/uniprot.egg-info/requires.txt

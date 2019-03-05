@@ -1,0 +1,20 @@
+#package: extutils-cppguess-0.12 
+meta.yml
+readme
+makefile.pl
+manifest
+changes
+meta.json
+t/001_load.t
+t/011_makemaker.t
+t/010_module_build.t
+t/module/cppguesstest.xs
+t/module/makefile.pl
+t/module/manifest
+t/module/typemap
+t/module/build.pl
+t/module/t/001_load.t
+t/module/t/002_base.t
+t/module/lib/cppguesstest.pm
+t/lib/testutils.pm
+lib/extutils/cppguess.pm

@@ -1,0 +1,22 @@
+#package: umitools-0.3.4 
+readme.rst
+pkg-info
+setup.py
+setup.cfg
+umitools/umi_graph.py
+umitools/reformat_umi_sra_fastq.py
+umitools/umitools.py
+umitools/__init__.py
+umitools/umi_mark_duplicates.py
+umitools/find_hot_loci.py
+umitools/umi_loci_with_duplicates.py
+umitools/reformat_umi_fastq.py
+umitools/est_err.py
+umitools/umi.py
+umitools/umi_simulator.py
+umitools.egg-info/entry_points.txt
+umitools.egg-info/top_level.txt
+umitools.egg-info/sources.txt
+umitools.egg-info/pkg-info
+umitools.egg-info/dependency_links.txt
+umitools.egg-info/requires.txt

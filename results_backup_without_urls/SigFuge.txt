@@ -1,0 +1,21 @@
+#package: sigfuge 
+namespace
+description
+r/sfnormalize.r
+r/sflabels.r
+r/sfpval.r
+r/sffigure.r
+data/geneannot.rda
+data/genedepth.rda
+man/sfnormalize.rd
+man/sflabels.rd
+man/sffigure.rd
+man/sfpval.rd
+man/sigfuge-package.rd
+man/genedepth.rd
+man/geneannot.rd
+vignettes/sigfuge.rnw
+build/vignette.rds
+inst/doc/sigfuge.r
+inst/doc/sigfuge.rnw
+inst/doc/sigfuge.pdf

@@ -1,0 +1,29 @@
+#package: bcalm-2.2.0 
+#url: https://github.com/GATB/bcalm/archive/v2.2.0.zip
+ 
+/README.md
+/LICENSE
+/CMakeLists.txt
+/.gitmodules
+/VERSION
+/.gitignore
+/.travis.yml
+/scripts/memused
+/scripts/convertToGFA.py
+/scripts/pufferize.py
+/scripts/release.sh
+/thirdparty/concurrentqueue.h
+/thirdparty/ThreadPool.h
+/thirdparty/lockstdqueue.h
+/thirdparty/lockbasedqueue.h
+/thirdparty/lockstdvector.h
+/test/minitip.fa
+/example/tiny_read.fa
+/example/run-tiny.sh
+/example/uf/testUF.cpp
+/example/uf/Makefile
+/example/pufferize/refs.fa
+/example/pufferize/run.sh
+/src/main.cpp
+/src/bcalm_1.hpp
+/src/bcalm_1.cpp

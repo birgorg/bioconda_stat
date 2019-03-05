@@ -1,0 +1,13 @@
+#package: pispino-1.1 
+#url: https://github.com/hsgweon/pispino/archive/1.1.tar.gz
+ 
+/README.md
+/setup.py
+/bin/pispino_createreadpairslist
+/bin/pispino_seqprep
+/pispino/logger.py
+/pispino/__init__.py
+/pispino/seqprep.py
+/pispino/runcmd.py
+/pispino/colours.py
+/pispino/seqtools.py

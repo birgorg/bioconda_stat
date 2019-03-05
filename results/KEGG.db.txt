@@ -1,15 +1,17 @@
-#package: kegg.db 
-namespace
-license
-description
-r/zzz.r
-man/keggextid2pathid.rd
-man/keggbase.rd
-man/keggenzymeid2go.rd
-man/keggmapcounts.rd
-man/keggpathid2name.rd
-man/keggpathid2extid.rd
-man/keggpathname2id.rd
-man/kegggo2enzymeid.rd
-man/kegg_dbconn.rd
-inst/extdata/kegg.sqlite
+#package: KEGG.db 
+#url: http://bioconductor.org/packages/3.7/data/annotation/src/contrib/KEGG.db_3.2.3.tar.gz
+ 
+/NAMESPACE
+/LICENSE
+/DESCRIPTION
+/R/zzz.R
+/man/KEGGEXTID2PATHID.Rd
+/man/KEGGBASE.Rd
+/man/KEGGENZYMEID2GO.Rd
+/man/KEGGMAPCOUNTS.Rd
+/man/KEGGPATHID2NAME.Rd
+/man/KEGGPATHID2EXTID.Rd
+/man/KEGGPATHNAME2ID.Rd
+/man/KEGGGO2ENZYMEID.Rd
+/man/KEGG_dbconn.Rd
+/inst/extdata/KEGG.sqlite

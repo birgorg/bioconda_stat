@@ -1,0 +1,14 @@
+#package: rbm 
+namespace
+description
+r/rbm_package.r
+data/ovarian_cancer_methylation.rda
+man/ovarian_cancer_methylation.rd
+man/rbm_t.rd
+man/rbm_f.rd
+man/rbm-package.rd
+vignettes/rbm.rnw
+build/vignette.rds
+inst/doc/rbm.r
+inst/doc/rbm.rnw
+inst/doc/rbm.pdf
