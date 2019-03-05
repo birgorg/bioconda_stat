@@ -39,3 +39,6 @@ RUN apt install -y \
 
 RUN apt install -y \
     git
+
+RUN apt install -y \
+    doxygen
