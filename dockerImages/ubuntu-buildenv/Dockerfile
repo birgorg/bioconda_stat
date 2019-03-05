@@ -42,3 +42,6 @@ RUN apt install -y \
 
 RUN apt install -y \
     doxygen
+
+RUN apt install -y \
+    libfftw3-dev
